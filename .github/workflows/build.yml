@@ -25,4 +25,4 @@ jobs:
           nixbuild_ssh_key: ${{ secrets.nixbuild_ssh_key }}
 
       - name: Build package ${{ matrix.pkg }}
-        run: nix -L build .#{{ matrix.pkg }}
+        run: nix -L build .#${{ matrix.pkg }}
