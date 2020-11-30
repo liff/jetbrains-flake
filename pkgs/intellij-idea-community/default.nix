@@ -4,6 +4,7 @@
 , patchelf
 , makeWrapper
 , makeDesktopItem
+, copyDesktopItems
 , coreutils
 , findutils
 , unzip
@@ -17,19 +18,18 @@
 , autoPatchelfHook
 , jetbrainsruntime }:
 
-let
-  libraryPath = lib.makeLibraryPath [ libsecret libnotify ];
-
-in stdenv.mkDerivation rec {
+stdenv.mkDerivation rec {
   pname = "intellij-idea-community";
-  version = "2020.2.3";
+  version = "2020.2.4";
 
   src = fetchurl {
     url = "https://download.jetbrains.com/idea/ideaIC-${version}-no-jbr.tar.gz";
-    sha256 = "1y4a6msxcq45qnn99rf7abc9yv7q3qlf428qz3id180bazpkm4k9";
+    sha256 = "sha256-p9iR6wQUOJ/AEKOcBbpB8yYJRBES7gyXblFdOYcTE84=";
   };
 
-  nativeBuildInputs = [ makeWrapper patchelf unzip gnused autoPatchelfHook wrapGAppsHook ];
+  preferLocalBuild = true;
+  
+  nativeBuildInputs = [ makeWrapper patchelf unzip gnused autoPatchelfHook wrapGAppsHook copyDesktopItems ];
 
   buildInputs = [ stdenv.cc.cc.lib libdbusmenu lldb ];
 
@@ -58,22 +58,26 @@ in stdenv.mkDerivation rec {
   installPhase = ''
     mkdir -p $out/{lib/$pname,bin,share/pixmaps,libexec/$pname}
     cp -a . $out/lib/$pname/
-    ln -s $out/lib/$pname/bin/idea.svg $out/share/pixmaps/intellij-idea-community.svg
-    ln -s $out/lib/$pname/bin/idea.png $out/share/pixmaps/intellij-idea-community.png
-    ln -s $out/lib/$pname/bin/idea.sh $out/bin/intellij-idea-community
+    ln -s $out/lib/$pname/bin/idea.svg $out/share/pixmaps/$pname.svg
+    ln -s $out/lib/$pname/bin/idea.png $out/share/pixmaps/$pname.png
+    ln -s $out/lib/$pname/bin/idea.sh $out/bin/$pname
+
+    runHook postInstall
   '';
 
   desktopItem = makeDesktopItem {
-    name = "intellij-idea-community";
-    desktopName = "IntelliJ IDEA";
+    name = pname;
+    desktopName = "IntelliJ IDEA Community Edition";
     genericName = "Integrated Development Environment";
-    exec = "intellij-idea-community";
-    icon = "intellij-idea-community";
+    exec = pname;
+    icon = pname;
     comment = lib.replaceChars ["\n"] [" "] meta.longDescription;
     categories = "Development;IDE;Java;";
     mimeType = "text/x-kotlin;text/x-java-source;text/x-scala;application/xml;application/json;";
     startupNotify = true;
   };
+
+  desktopItems = [ desktopItem ];
 
   meta = with stdenv.lib; {
     homepage = "https://www.jetbrains.com/idea/";

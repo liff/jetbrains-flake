@@ -6,13 +6,14 @@
 }:
 
 let
-  jdkVersion = "11.0.8";
-  jdkBuildNumber = "1";
-  buildNumber = "1145";
+  jdkVersion = "11.0.9";
+  jdkBuildNumber = "11";
+  buildNumber = "944";
+  subBuildNumber = "49";
   vendorName = "JetBrains s.r.o.";
   bundleType = "jcef";
-  vendorVersionString = "JBR-${jdkVersion}.${jdkBuildNumber}-${buildNumber}-${bundleType}";
-  version = "${jdkVersion}-b${buildNumber}";
+  vendorVersionString = "JBR-${jdkVersion}.${jdkBuildNumber}-${buildNumber}.${subBuildNumber}-${bundleType}";
+  version = "${jdkVersion}-b${buildNumber}.${subBuildNumber}";
 
 in
 
@@ -23,8 +24,8 @@ openjdk11.overrideAttrs (oldAttrs: {
   src = fetchFromGitHub {
     owner = "JetBrains";
     repo = "JetBrainsRuntime";
-    rev = "jb${stdenv.lib.replaceStrings ["."] ["_"] version}";
-    hash = "sha256-49p2vQ2d/LjA5TmJZx4loStyJf7yJTBzSvVRUdZ0E18=";
+    rev = "jb${stdenv.lib.replaceStrings ["."] ["_"] jdkVersion}-b${subBuildNumber}";
+    hash = "sha256-xgxnfpcGiqjP/GR9q6NtsYf2V2YKutpky55U8yFQTDE=";
   };
 
   patches = (oldAttrs.patches or []) ++ (if xdg then [ ./xdg.patch ] else []);
@@ -41,7 +42,7 @@ openjdk11.overrideAttrs (oldAttrs: {
   '';
 
   postPatch = ''
-    patch -p0 < jb/project/tools/patches/add_jcef_module.patch
+    patch -p0 < jb/project/tools/patches/exclude_jfx_module.patch
   '';
 
   meta = with stdenv.lib; {

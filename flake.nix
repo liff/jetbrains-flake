@@ -14,12 +14,19 @@
         overlays = [ self.overlay ];
       }).intellij-idea-community;
 
+      intellij-idea-community-eap = (import nixpkgs {
+        system = "x86_64-linux";
+        overlays = [ self.overlay ];
+      }).intellij-idea-community-eap;
+
     };
 
     overlay = final: prev: {
       jetbrainsruntime = final.callPackage ./pkgs/jetbrainsruntime {};
 
       intellij-idea-community = final.callPackage ./pkgs/intellij-idea-community {};
+
+      intellij-idea-community-eap = final.callPackage ./pkgs/intellij-idea-community-eap {};
     };
 
     nixosModule = { pkgs, ... }: {
