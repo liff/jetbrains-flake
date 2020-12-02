@@ -29,7 +29,7 @@
       intellij-idea-community-eap = final.callPackage ./pkgs/intellij-idea-community-eap {};
     };
 
-    nixosModule = { pkgs, ... }: {
+    nixosModule = {
       nixpkgs.overlays = [ self.overlay ];
     };
   };
