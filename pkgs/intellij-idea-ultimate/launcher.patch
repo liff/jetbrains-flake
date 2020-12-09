@@ -1,0 +1,60 @@
+--- a/bin/idea.sh.orig	2020-11-16 23:45:11.480569613 +0200
++++ b/bin/idea.sh	2020-11-16 23:51:07.303787630 +0200
+@@ -4,33 +4,24 @@
+ # IntelliJ IDEA startup script.
+ # ---------------------------------------------------------------------
+ 
++UNAME='@UNAME@'
++GREP='@GREP@'
++CUT='@CUT@'
++READLINK='@READLINK@'
++XARGS='@XARGS@'
++DIRNAME='@DIRNAME@'
++MKTEMP='@MKTEMP@'
++RM='@RM@'
++CAT='@CAT@'
++SED='@SED@'
++NATIVE_LIBRARY_PATH='@NATIVE_LIBRARY_PATH@'
++
+ message()
+ {
+   TITLE="Cannot start IntelliJ IDEA"
+-  if [ -n "$(command -v zenity)" ]; then
+-    zenity --error --title="$TITLE" --text="$1" --no-wrap
+-  elif [ -n "$(command -v kdialog)" ]; then
+-    kdialog --error "$1" --title "$TITLE"
+-  elif [ -n "$(command -v notify-send)" ]; then
+-    notify-send "ERROR: $TITLE" "$1"
+-  elif [ -n "$(command -v xmessage)" ]; then
+-    xmessage -center "ERROR: $TITLE: $1"
+-  else
+-    printf "ERROR: %s\n%s\n" "$TITLE" "$1"
+-  fi
++  @NOTIFY_SEND@ "ERROR: $TITLE" "$1"
+ }
+ 
+-UNAME=$(command -v uname)
+-GREP=$(command -v egrep)
+-CUT=$(command -v cut)
+-READLINK=$(command -v readlink)
+-XARGS=$(command -v xargs)
+-DIRNAME=$(command -v dirname)
+-MKTEMP=$(command -v mktemp)
+-RM=$(command -v rm)
+-CAT=$(command -v cat)
+-SED=$(command -v sed)
+-
+ if [ -z "$UNAME" ] || [ -z "$GREP" ] || [ -z "$CUT" ] || [ -z "$DIRNAME" ] || [ -z "$MKTEMP" ] || [ -z "$RM" ] || [ -z "$CAT" ] || [ -z "$SED" ]; then
+   message "Required tools are missing - check beginning of \"$0\" file for details."
+   exit 1
+@@ -216,8 +207,9 @@
+ # ---------------------------------------------------------------------
+ IFS="$(printf '\n\t')"
+ # shellcheck disable=SC2086
+-"$JAVA_BIN" \
++exec "$JAVA_BIN" \
+   -classpath "$CLASSPATH" \
++  -Djna.library.path="${NATIVE_LIBRARY_PATH}" \
+   ${VM_OPTIONS} \
+   "-XX:ErrorFile=$HOME/java_error_in_IDEA_%p.log" \
+   "-XX:HeapDumpPath=$HOME/java_error_in_IDEA.hprof" \
