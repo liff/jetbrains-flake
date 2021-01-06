@@ -6,10 +6,10 @@
 }:
 
 let
-  jdkVersion = "11.0.9";
+  jdkVersion = "11.0.9.1";
   jdkBuildNumber = "11";
   buildNumber = "1145";
-  subBuildNumber = "21";
+  subBuildNumber = "63";
   vendorName = "JetBrains s.r.o.";
   bundleType = "jcef";
   vendorVersionString = "JBR-${jdkVersion}.${jdkBuildNumber}-${buildNumber}.${subBuildNumber}-${bundleType}";

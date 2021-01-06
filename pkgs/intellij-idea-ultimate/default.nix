@@ -20,13 +20,14 @@
 
 stdenv.mkDerivation rec {
   pname = "intellij-idea-ultimate";
-  version = "2020.3";
+  version = "2020.3.1";
 
   src = fetchurl {
     url = "https://download.jetbrains.com/idea/ideaIU-${version}-no-jbr.tar.gz";
-    sha256 = "sha256-Q6EOG+gHXr0Huvy+Ze9DHbME7pbDBy/zCOGI+5/by9A=";
+    sha256 = "sha256-UDUtHtlpDnUPe5bszq23KIh5r9dETnUvV8SYRbACn88=";
   };
 
+  dontStrip = true;
   preferLocalBuild = true;
   
   nativeBuildInputs = [ makeWrapper patchelf unzip gnused autoPatchelfHook wrapGAppsHook copyDesktopItems ];
@@ -57,6 +58,11 @@ stdenv.mkDerivation rec {
   
   installPhase = ''
     mkdir -p $out/{lib/$pname,bin,share/pixmaps,libexec/$pname}
+    rm -rf plugins/maven/lib/maven3/lib/jansi-native/{linux32,freebsd32,freebsd64}
+    rm -rf plugins/performanceTesting/bin/libyjpagent.so
+    rm -rf plugins/webp/lib/libwebp/linux/libwebp_jni.so
+    rm bin/fsnotifier
+    rm -rf lib/pty4j-native/linux/{aarch64,mips64el,ppc64le,x86}
     cp -a . $out/lib/$pname/
     ln -s $out/lib/$pname/bin/idea.svg $out/share/pixmaps/$pname.svg
     ln -s $out/lib/$pname/bin/idea.png $out/share/pixmaps/$pname.png

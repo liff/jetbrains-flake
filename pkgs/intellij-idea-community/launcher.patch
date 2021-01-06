@@ -1,21 +1,6 @@
---- a/bin/idea.sh.orig	2020-11-16 23:45:11.480569613 +0200
-+++ b/bin/idea.sh	2020-11-16 23:51:07.303787630 +0200
-@@ -4,33 +4,24 @@
- # IntelliJ IDEA startup script.
- # ---------------------------------------------------------------------
- 
-+UNAME='@UNAME@'
-+GREP='@GREP@'
-+CUT='@CUT@'
-+READLINK='@READLINK@'
-+XARGS='@XARGS@'
-+DIRNAME='@DIRNAME@'
-+MKTEMP='@MKTEMP@'
-+RM='@RM@'
-+CAT='@CAT@'
-+SED='@SED@'
-+NATIVE_LIBRARY_PATH='@NATIVE_LIBRARY_PATH@'
-+
+--- a/bin/idea.sh	2020-12-25 15:02:57.128859158 +0200
++++ b/bin/idea.sh	2020-12-25 15:02:14.264961349 +0200
+@@ -8,29 +8,20 @@
  message()
  {
    TITLE="Cannot start IntelliJ IDEA"
@@ -43,10 +28,20 @@
 -RM=$(command -v rm)
 -CAT=$(command -v cat)
 -SED=$(command -v sed)
--
++UNAME='@UNAME@'
++GREP='@GREP@'
++CUT='@CUT@'
++READLINK='@READLINK@'
++XARGS='@XARGS@'
++DIRNAME='@DIRNAME@'
++MKTEMP='@MKTEMP@'
++RM='@RM@'
++CAT='@CAT@'
++SED='@SED@'
++NATIVE_LIBRARY_PATH='@NATIVE_LIBRARY_PATH@'
+ 
  if [ -z "$UNAME" ] || [ -z "$GREP" ] || [ -z "$CUT" ] || [ -z "$DIRNAME" ] || [ -z "$MKTEMP" ] || [ -z "$RM" ] || [ -z "$CAT" ] || [ -z "$SED" ]; then
    message "Required tools are missing - check beginning of \"$0\" file for details."
-   exit 1
 @@ -216,8 +207,9 @@
  # ---------------------------------------------------------------------
  IFS="$(printf '\n\t')"
@@ -56,5 +51,5 @@
    -classpath "$CLASSPATH" \
 +  -Djna.library.path="${NATIVE_LIBRARY_PATH}" \
    ${VM_OPTIONS} \
-   "-XX:ErrorFile=$HOME/java_error_in_IDEA_%p.log" \
-   "-XX:HeapDumpPath=$HOME/java_error_in_IDEA.hprof" \
+   "-XX:ErrorFile=$HOME/java_error_in_idea_%p.log" \
+   "-XX:HeapDumpPath=$HOME/java_error_in_idea_.hprof" \

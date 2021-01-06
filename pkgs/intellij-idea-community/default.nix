@@ -20,14 +20,15 @@
 
 stdenv.mkDerivation rec {
   pname = "intellij-idea-community";
-  version = "2020.3";
+  version = "2020.3.1";
 
   src = fetchurl {
     url = "https://download.jetbrains.com/idea/ideaIC-${version}-no-jbr.tar.gz";
-    sha256 = "sha256-PPc325mWR93YVkSQl5zQAWyUb7xmuyGYN8DRqBOtuVE=";
+    sha256 = "sha256-Ljgl9vcPq8MoNKAi2poOmOg1Nx5nFO3IqCtWp+nGXnw=";
   };
 
   preferLocalBuild = true;
+  dontStrip = true;
   
   nativeBuildInputs = [ makeWrapper patchelf unzip gnused autoPatchelfHook wrapGAppsHook copyDesktopItems ];
 
