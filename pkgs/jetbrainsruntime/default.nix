@@ -25,7 +25,7 @@ openjdk11.overrideAttrs (oldAttrs: {
     owner = "JetBrains";
     repo = "JetBrainsRuntime";
     rev = "jb${stdenv.lib.replaceStrings ["."] ["_"] jdkVersion}-b${subBuildNumber}";
-    hash = "sha256-eQg/fXa7f5jPQ5QbUakYQLX5LKsYXDz31cPZ6DmZmcU=";
+    hash = "sha256-HFTr3+aUEgL9desuOuOa8vgXJN+eVuBFyxldgJMoMvA=";
   };
 
   patches = (oldAttrs.patches or []) ++ (if xdg then [ ./xdg.patch ] else []);
