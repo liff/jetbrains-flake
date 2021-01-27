@@ -20,11 +20,11 @@
 
 stdenv.mkDerivation rec {
   pname = "intellij-idea-community";
-  version = "2020.3.1";
+  version = "2020.3.2";
 
   src = fetchurl {
     url = "https://download.jetbrains.com/idea/ideaIC-${version}-no-jbr.tar.gz";
-    sha256 = "sha256-Ljgl9vcPq8MoNKAi2poOmOg1Nx5nFO3IqCtWp+nGXnw=";
+    sha256 = "sha256-bufMeqNo1uvsFLZTaCfLs9ylUGJF2z0voqGPKrnW48A=";
   };
 
   preferLocalBuild = true;

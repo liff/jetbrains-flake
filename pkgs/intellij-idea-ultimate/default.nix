@@ -20,11 +20,11 @@
 
 stdenv.mkDerivation rec {
   pname = "intellij-idea-ultimate";
-  version = "2020.3.1";
+  version = "2020.3.2";
 
   src = fetchurl {
     url = "https://download.jetbrains.com/idea/ideaIU-${version}-no-jbr.tar.gz";
-    sha256 = "sha256-UDUtHtlpDnUPe5bszq23KIh5r9dETnUvV8SYRbACn88=";
+    sha256 = "sha256-mCZm4VVK23Rd6Bm91cdBjq3VBMsDJNrCJF+Um1oQTO0=";
   };
 
   dontStrip = true;

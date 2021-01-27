@@ -9,7 +9,7 @@ let
   jdkVersion = "11.0.9.1";
   jdkBuildNumber = "11";
   buildNumber = "1145";
-  subBuildNumber = "63";
+  subBuildNumber = "77";
   vendorName = "JetBrains s.r.o.";
   bundleType = "jcef";
   vendorVersionString = "JBR-${jdkVersion}.${jdkBuildNumber}-${buildNumber}.${subBuildNumber}-${bundleType}";
@@ -25,7 +25,7 @@ openjdk11.overrideAttrs (oldAttrs: {
     owner = "JetBrains";
     repo = "JetBrainsRuntime";
     rev = "jb${stdenv.lib.replaceStrings ["."] ["_"] jdkVersion}-b${subBuildNumber}";
-    hash = "sha256-HFTr3+aUEgL9desuOuOa8vgXJN+eVuBFyxldgJMoMvA=";
+    hash = "sha256-1Q4GBcLXos3J4meIbuFS9pi7qNqJ3suSucSD60lKB+c=";
   };
 
   patches = (oldAttrs.patches or []) ++ (if xdg then [ ./xdg.patch ] else []);
