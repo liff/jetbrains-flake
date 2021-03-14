@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'updater/**'
+      - '.github/workflows/build-updater.yml'
   schedule: # To keep the artifacts around
     - cron: '23 5 13 */2 *'
 

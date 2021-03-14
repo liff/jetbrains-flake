@@ -1,6 +1,10 @@
 name: Build packages
 
-on: push
+on:
+  push:
+    paths-ignore:
+      - 'updater/**'
+      - '.github/workflows/build-updater.yml'
 
 jobs:
   build-packages:
