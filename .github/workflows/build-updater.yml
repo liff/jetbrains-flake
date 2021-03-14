@@ -1,0 +1,27 @@
+name: Build Updater
+
+on:
+  push:
+    paths:
+      - 'updater/**'
+  schedule: # To keep the artifacts around
+    - cron: '23 5 13 */2 *'
+
+jobs:
+  build-updater:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: cachix/install-nix-action@v12
+
+      - name: Build updater native image
+        run: cd updater && nix-shell --run "sbt nativeImage"
+
+      - name: Archive program
+        uses: actions/upload-artifact@v2
+        with:
+          name: jetbrains-updater
+          path: updater/target/native-image/jetbrains-updater
