@@ -6,6 +6,7 @@ import cats.data.OptionT
 import cats.effect.{ExitCode, IO, IOApp}
 import cats.effect.std.Console
 import cats.syntax.all._
+import io.circe.DecodingFailure
 import org.http4s.Method.GET
 import org.http4s.client.blaze.BlazeClientBuilder
 import org.http4s.client.dsl.io._
@@ -27,7 +28,7 @@ object Main extends IOApp:
     httpClient.use { http =>
       for
         current <- readJsonFile[IO, Packages](state).recover {
-          case _: NoSuchFileException => Packages.empty
+          case _: NoSuchFileException | DecodingFailure => Packages.empty
         }
 
         products <- http.expect[List[Product]](updates)
