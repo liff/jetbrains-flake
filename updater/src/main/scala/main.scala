@@ -28,7 +28,7 @@ object Main extends IOApp:
     httpClient.use { http =>
       for
         current <- readJsonFile[IO, Packages](state).recover {
-          case _: NoSuchFileException | DecodingFailure => Packages.empty
+          case _: (NoSuchFileException | DecodingFailure) => Packages.empty
         }
 
         products <- http.expect[List[Product]](updates)
