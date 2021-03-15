@@ -34,11 +34,11 @@ object Main extends IOApp:
         products <- http.expect[List[Product]](updates)
 
         packages <- {
-          def resolve(product: String, edition: Edition, status: Status, build: Build) =
-            val known = current.findArtifact(product, edition, status, build).toOptionT[IO]
+          def resolve(product: String, edition: Edition, status: Status, variant: Variant, build: Build) =
+            val known = current.findArtifact(product, edition, status, variant, build).toOptionT[IO]
 
             val resolved = (for
-               downloadUri <- downloadUriFor(product, edition, status, build).toOptionT[IO]
+               downloadUri <- downloadUriFor(product, edition, status, variant, build).toOptionT[IO]
                checksum <- OptionT(http.expectOption[Checksum](GET(downloadUri % "sha256")))
              yield Artifact(build, downloadUri, checksum))
 
@@ -47,7 +47,9 @@ object Main extends IOApp:
           products.collected { case Product(product, _, channels) =>
             product -*> Edition.all.collected { edition =>
               edition -*> channels.parCollected { case Channel(_, _, _, status, _, builds) =>
-                status -*> builds.parTraverse(resolve(product, edition, status, _)).map(_.toList.unite)
+                status -*> Variant.all.collected { variant =>
+                  variant -*> builds.parTraverse(resolve(product, edition, status, variant, _)).map(_.toList.unite)
+                }
               }
             }
           }

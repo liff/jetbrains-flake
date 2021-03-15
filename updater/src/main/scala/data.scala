@@ -47,6 +47,10 @@ enum Licensing derives CanEqual { case Release, Eap }
 object Licensing extends EnumCompanion[Licensing]
 
 
+enum Variant derives CanEqual { case Default, NoJbr }
+object Variant extends EnumCompanion[Variant]
+
+
 case class Build(number: String, version: String, releaseDate: Option[LocalDate], fullNumber: Option[String])
   derives CanEqual
 
@@ -91,11 +95,16 @@ object Artifact:
   }
 
 
-type Packages = Map[String, Map[Edition, Map[Status, List[Artifact]]]]
+type Packages = Map[String, Map[Edition, Map[Status, Map[Variant, List[Artifact]]]]]
 
 object Packages:
   val empty: Packages = Map.empty
 
 extension (packages: Packages)
-  def findArtifact(product: String, edition: Edition, status: Status, build: Build): Option[Artifact] =
-    packages.get(product).flatMap(_.get(edition)).flatMap(_.get(status)).flatMap(_.find(_.build == build))
+  def findArtifact(product: String, edition: Edition, status: Status, variant: Variant, build: Build): Option[Artifact] =
+    packages
+      .get(product)
+      .flatMap(_.get(edition))
+      .flatMap(_.get(status))
+      .flatMap(_.get(variant))
+      .flatMap(_.find(_.build == build))
