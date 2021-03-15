@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '47 4 * * *'
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Build Updater"]
+    types: [completed]
 
 jobs:
   update:
