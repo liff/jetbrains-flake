@@ -3,13 +3,20 @@
 , makeDesktopItem
 , intellij-idea-community }:
 
+let
+
+jbPackages = import ../../data/packages.nix;
+latest = builtins.head jbPackages."IntelliJ IDEA".community.release.nojbr;
+
+in
+
 intellij-idea-community.overrideAttrs (base: rec {
   pname = "intellij-idea-community-eap";
-  version = "203.5981.114";
+  version = latest.build.version;
 
   src = fetchurl {
-    url = "https://download.jetbrains.com/idea/ideaIC-${version}-no-jbr.tar.gz";
-    sha256 = "sha256-vSGBv26ZMJKWXQhuOPf6/+3SsRwvle28Y3bhUnal6zo=";
+    url = latest.downloadUri;
+    sha256 = latest.sha256;
   };
 
   desktopItem = makeDesktopItem {

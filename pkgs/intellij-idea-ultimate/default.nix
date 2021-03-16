@@ -18,13 +18,20 @@
 , autoPatchelfHook
 , jetbrainsruntime }:
 
+let
+
+jbPackages = import ../../data/packages.nix;
+latest = builtins.head jbPackages."IntelliJ IDEA".community.release.nojbr;
+
+in
+
 stdenv.mkDerivation rec {
   pname = "intellij-idea-ultimate";
-  version = "2020.3.2";
+  version = latest.build.version;
 
   src = fetchurl {
-    url = "https://download.jetbrains.com/idea/ideaIU-${version}-no-jbr.tar.gz";
-    sha256 = "sha256-mCZm4VVK23Rd6Bm91cdBjq3VBMsDJNrCJF+Um1oQTO0=";
+    url = latest.downloadUri;
+    sha256 = latest.sha256;
   };
 
   dontStrip = true;
