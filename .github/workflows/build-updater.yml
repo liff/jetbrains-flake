@@ -18,7 +18,7 @@ jobs:
           fetch-depth: 0
       - uses: cachix/install-nix-action@v12
         with:
-          nix_path: nixpkgs=channel:nixos-unstable
+          nix_path: nixpkgs=https://github.com/NixOS/nixpkgs/archive/266dc8c3d052f549826ba246d06787a219533b8f.tar.gz
 
       - name: Build updater native image
         run: cd updater && nix-shell --run "sbt nativeImage"
