@@ -2,8 +2,10 @@ package updater
 
 import java.nio.charset.StandardCharsets.UTF_8
 import java.nio.file.{InvalidPathException, Path}
+import java.time.LocalDate
 
 import cats.effect.{Async, Sync}
+import cats.Order
 import cats.syntax.all._
 import cats.ApplicativeError
 import fs2.Stream
@@ -33,3 +35,5 @@ def writeJsonFile[F[_]: Async, A: Encoder](path: Path, a: A): F[Unit] =
 
 def pathOf[F[_]](str: String)(using F: ApplicativeError[F, Throwable]): F[Path] =
   F.catchOnly[InvalidPathException](Path.of(str).nn)
+
+given Order[LocalDate] = Order.from((a, b) => a.compareTo(b))

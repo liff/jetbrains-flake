@@ -5,6 +5,7 @@ import java.nio.file.{NoSuchFileException, Path}
 import cats.data.OptionT
 import cats.effect.{ExitCode, IO, IOApp}
 import cats.effect.std.Console
+import cats.implicits.catsKernelOrderingForOrder
 import cats.syntax.all._
 import io.circe.DecodingFailure
 import org.http4s.Method.GET
@@ -39,8 +40,8 @@ object Main extends IOApp:
 
             val resolved = (for
                downloadUri <- downloadUriFor(product, edition, status, variant, build).toOptionT[IO]
-               checksum <- OptionT(http.expectOption[Checksum](GET(downloadUri % "sha256")))
-             yield Artifact(build, downloadUri, checksum))
+               sha256 <- OptionT(http.expectOption[Sha256](GET(downloadUri % "sha256")))
+             yield Artifact(build, downloadUri, sha256))
 
             known.orElse(resolved).value
 
@@ -48,7 +49,8 @@ object Main extends IOApp:
             product -*> Edition.all.collected { edition =>
               edition -*> channels.parCollected { case Channel(_, _, _, status, _, builds) =>
                 status -*> Variant.all.collected { variant =>
-                  variant -*> builds.parTraverse(resolve(product, edition, status, variant, _)).map(_.toList.unite)
+                  variant -*> builds.parTraverse(resolve(product, edition, status, variant, _))
+                    .map(_.toList.unite.sorted.reverse)
                 }
               }
             }

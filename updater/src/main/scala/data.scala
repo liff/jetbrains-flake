@@ -52,11 +52,23 @@ object Variant extends EnumCompanion[Variant]
 
 
 case class Build(number: String, version: String, releaseDate: Option[LocalDate], fullNumber: Option[String])
-  derives CanEqual
+  derives CanEqual {
+  
+  val fullNumbers: Option[List[Int]] = fullNumber.flatMap(_.split('.').toList.traverse(_.toIntOption))
+
+  val numbers: Option[List[Int]] = number.split('.').toList.traverse(_.toIntOption) 
+}
 
 object Build:
   given Codec.AsObject[Build] = deriveCodec
-
+  given Order[Build] =
+    Order.whenEqual(
+      Order.by(_.fullNumbers),
+      Order.whenEqual(
+        Order.by(_.numbers),
+        Order.whenEqual(
+          Order.by(_.version),
+          Order.by(_.releaseDate))))
 
 case class Channel(id: String, name: String, majorVersion: String, status: Status, licensing: Licensing, builds: NonEmptyList[Build])
   derives CanEqual
@@ -72,26 +84,31 @@ object Product:
   given Codec[Product] = deriveCodec
 
 
-opaque type Checksum = String
+opaque type Sha256 = String
 
-object Checksum:
-  given Order[Checksum] = Order.by(identity)
-  given Encoder[Checksum] = Encoder.encodeString
-  given Decoder[Checksum] = Decoder.decodeString
-  given [F[_]: Concurrent]: EntityDecoder[F, Checksum] =
+object Sha256:
+  given Order[Sha256] = Order.from((a, b) => a.compareTo(b))
+  given Encoder[Sha256] = Encoder.encodeString
+  given Decoder[Sha256] = Decoder.decodeString
+  given [F[_]: Concurrent]: EntityDecoder[F, Sha256] =
     EntityDecoder.text[F].map(_.takeWhile(_ != ' '))
 
 
-case class Artifact(build: Build, downloadUri: Uri, checksum: Checksum)
+case class Artifact(build: Build, downloadUri: Uri, sha256: Sha256)
   derives CanEqual
 
 object Artifact:
-  given Eq[Artifact] = Eq.fromUniversalEquals
-  given Encoder.AsObject[Artifact] = Encoder.AsObject.instance { case Artifact(build, downloadUri, checksum) =>
-    JsonObject("build" := build, "downloadUri" := downloadUri, "checksum" := checksum)
+  given Order[Artifact] =
+    Order.whenEqual(
+      Order.by(_.build),
+      Order.whenEqual(
+        Order.by(_.downloadUri),
+        Order.by(_.sha256)))
+  given Encoder.AsObject[Artifact] = Encoder.AsObject.instance { case Artifact(build, downloadUri, sha256) =>
+    JsonObject("build" := build, "downloadUri" := downloadUri, "sha256" := sha256)
   }
   given Decoder[Artifact] = Decoder.instance { c =>
-    (c.get[Build]("build"), c.get[Uri]("downloadUri"), c.get[Checksum]("checksum")).mapN(Artifact.apply)
+    (c.get[Build]("build"), c.get[Uri]("downloadUri"), c.get[Sha256]("sha256")).mapN(Artifact.apply)
   }
 
 
