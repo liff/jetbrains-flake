@@ -26,8 +26,11 @@ jobs:
           workflow: build-updater.yml
           name: jetbrains-updater
 
+      - name: Make updater executable
+        run: chmod +x jetbrains-updater
+
       - name: Run updater
-        run: mkdir -p data && ./jetbrains-updater data/packages.json
+        run: ./jetbrains-updater data/packages.json
 
       - name: Commit changes, if any
         uses: EndBug/add-and-commit@v7.1.0
