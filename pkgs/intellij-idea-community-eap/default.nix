@@ -6,7 +6,7 @@
 let
 
 jbPackages = import ../../data/packages.nix;
-latest = builtins.head jbPackages."IntelliJ IDEA".community.release.nojbr;
+latest = builtins.head jbPackages."IntelliJ IDEA".community.eap.nojbr;
 
 in
 
