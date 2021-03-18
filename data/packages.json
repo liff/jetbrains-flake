@@ -5,6 +5,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.4",
+                            "releaseDate" : "2020-12-02",
+                            "fullNumber" : "203.7717.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2020.3.4-no-jbr.tar.gz",
+                        "sha256" : "65f0cc8bf6ed2e71a8e50e720ba58dd84cca50cbfcfa99adf34098609c02d7a5"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7148",
                             "version" : "2020.3.3",
                             "releaseDate" : "2020-12-02",
@@ -345,6 +355,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.4",
+                            "releaseDate" : "2020-12-02",
+                            "fullNumber" : "203.7717.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2020.3.4.tar.gz",
+                        "sha256" : "2060539f9c4c42819a58a7bcae1143d6383507907acd1cc4d1f05d2c0a93f3a1"
+                    },
                     {
                         "build" : {
                             "number" : "203.7148",
@@ -1209,6 +1229,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.4",
+                            "releaseDate" : "2020-12-02",
+                            "fullNumber" : "203.7717.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2020.3.4-no-jbr.tar.gz",
+                        "sha256" : "1ef42a204313a22df562ebd5491dd626ff29d2d7cd086ebfaf626ec0c52c6b21"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7148",
                             "version" : "2020.3.3",
                             "releaseDate" : "2020-12-02",
@@ -1549,6 +1579,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.4",
+                            "releaseDate" : "2020-12-02",
+                            "fullNumber" : "203.7717.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2020.3.4.tar.gz",
+                        "sha256" : "65b792c7ca695ff19b8896de7befc20f533a61394c0828a9c48fc6b1c1820076"
+                    },
                     {
                         "build" : {
                             "number" : "203.7148",
@@ -2901,6 +2941,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6556.6-no-jbr.tar.gz",
+                        "sha256" : "8e9db4eac46221d249193557ec2d8ff4a7cc382e6dfcabd990b5df0901bcb484"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6432",
                             "version" : "2021.1 Beta",
                             "releaseDate" : null,
@@ -3001,6 +3051,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6556.6.tar.gz",
+                        "sha256" : "4f93802d3340560a9bf1bc2ae482583232cbf4f6f04954cfe04e7d0f0304ca30"
+                    },
                     {
                         "build" : {
                             "number" : "211.6432",
@@ -3585,6 +3645,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6556.6-no-jbr.tar.gz",
+                        "sha256" : "b485824b17dd2543893cee3d2c7b67e85ce1e61fb73bdd4392f8d58c180f44e1"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6432",
                             "version" : "2021.1 Beta",
                             "releaseDate" : null,
@@ -3685,6 +3755,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6556.6.tar.gz",
+                        "sha256" : "05792d286642729454bae501d6fb07689376836ec3ec1bfb9c3570f864a94ec8"
+                    },
                     {
                         "build" : {
                             "number" : "211.6432",
@@ -5259,6 +5339,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-211.6556.10.tar.gz",
+                        "sha256" : "66d97023efb4ef4023ad3949dcf060af2033ba08f2055e16400df54e914edfd7"
+                    },
                     {
                         "build" : {
                             "number" : "211.6432",
