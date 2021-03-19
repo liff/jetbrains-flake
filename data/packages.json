@@ -4419,6 +4419,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-211.6556.3.tar.gz",
+                        "sha256" : "d5140d7002fc1a380fe655dc6e16c96035e9bebe8447c9b3b596878281f579b1"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6432",
                             "version" : "2021.1 Beta",
                             "releaseDate" : null,
@@ -6559,6 +6569,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 Beta 3",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-211.6556.11.tar.gz",
+                        "sha256" : "9b591c0670d076e390d1b44dc0d9994a54469fb33bfd73dad5ccd64e02507307"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6432",
                             "version" : "2021.1 Beta 2",
                             "releaseDate" : null,
@@ -7281,6 +7301,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.6556.12.tar.gz",
+                        "sha256" : "05a4d7277f79b4d759229ededc9e093b588b2326dad7f53cbd0c8cb7cdc48164"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6432",
                             "version" : "2021.1 EAP",
                             "releaseDate" : null,
@@ -7527,6 +7557,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.3",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7717.69"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2020.3.3.tar.gz",
+                        "sha256" : "743de2f9061e0c3b0c81a3b1625f81efe91b44e06e4ec9fb50314d8d589c6002"
+                    },
                     {
                         "build" : {
                             "number" : "203.7148",
@@ -8021,6 +8061,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.6556.9.tar.gz",
+                        "sha256" : "d53821f63d1c9144e95a15adcf4b3c9b2d0900d65aa562b36434c1a13a77d3c2"
+                    },
                     {
                         "build" : {
                             "number" : "211.6432",
