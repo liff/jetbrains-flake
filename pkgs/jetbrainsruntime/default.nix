@@ -6,12 +6,10 @@
 }:
 
 let
-  jdkVersion = "11.0.10";
-  jdkBuildNumber = "8";
-  buildNumber = "1145";
-  subBuildNumber = "96";
+  inherit (import ../../data/jetbrainsruntime.nix)
+    jdkVersion jdkBuildNumber buildNumber subBuildNumber bundleType hash tag;
+
   vendorName = "JetBrains s.r.o.";
-  bundleType = "jcef";
   vendorVersionString = "JBR-${jdkVersion}.${jdkBuildNumber}-${buildNumber}.${subBuildNumber}-${bundleType}";
   version = "${jdkVersion}-b${buildNumber}.${subBuildNumber}";
 
@@ -24,8 +22,8 @@ openjdk11.overrideAttrs (oldAttrs: {
   src = fetchFromGitHub {
     owner = "JetBrains";
     repo = "JetBrainsRuntime";
-    rev = "jb${stdenv.lib.replaceStrings ["."] ["_"] jdkVersion}-b${subBuildNumber}";
-    hash = "sha256-4ltHtmKdLShF7+Ere2LKcNmFuJ8ueuvfFyRi2J9n24Q=";
+    rev = tag;
+    inherit hash;
   };
 
   patches = (oldAttrs.patches or []) ++ (if xdg then [ ./xdg.patch ] else []);
@@ -41,9 +39,9 @@ openjdk11.overrideAttrs (oldAttrs: {
     )
   '';
 
-  postPatch = ''
+  postPatch = (oldAttrs.postPatch or "") + (if bundleType == "jcef" then ''
     patch -p0 < jb/project/tools/patches/add_jcef_module.patch
-  '';
+  '' else "");
 
   meta = with stdenv.lib; {
     description = "An OpenJDK fork to better support Jetbrains's products.";

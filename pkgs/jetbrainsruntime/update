@@ -1,0 +1,49 @@
+#!/usr/bin/env nix-shell
+#!nix-shell update-env.nix -i python3
+import json
+import os.path
+import re
+import subprocess
+from json.decoder import JSONDecodeError
+from sys import argv, exit, stderr
+
+from nix_prefetch_github import nix_prefetch_github
+
+VERSION_LINE = re.compile(
+    r"""OpenJDK Runtime Environment JBR-(?P<jdkVersion>[0-9.]+)\.(?P<jdkBuildNumber>\d+)-(?P<buildNumber>\d+)\.(?P<subBuildNumber>\d+)-(?P<bundleType>\w+) .*"""
+)
+
+if len(argv) != 2:
+    stderr.write(f"Usage: {argv[0]} VERSION-FILE\n")
+    exit(1)
+
+version_file = argv[1]
+
+latest = next(
+    match
+    for line in subprocess.run(["bundled-jbr-java", "-version"], check=True, capture_output=True)
+    .stderr.decode("utf-8")
+    .splitlines()
+    if (match := VERSION_LINE.fullmatch(line))
+).groupdict()
+
+latest["tag"] = f"jb{latest['jdkVersion'].replace('.', '_')}-b{latest['subBuildNumber']}"
+
+try:
+    with open(version_file, "rb") as inp:
+        current = json.load(inp)
+except (FileNotFoundError, JSONDecodeError):
+    current = dict(tag="N/A")
+
+if latest["tag"] != current["tag"]:
+    print(f"Updating to {latest['tag']}…")
+    repo = nix_prefetch_github(owner="JetBrains", repo="JetBrainsRuntime", rev=latest["tag"])
+    latest["hash"] = f"sha256-{repo.sha256}"
+    with open(version_file, "w") as out:
+        json.dump(latest, out)
+else:
+    print(f"Up to date at {latest['tag']}")
+
+# Local Variables:
+# mode: python
+# End:
