@@ -1,4 +1,4 @@
-{ stdenv
+{ lib
 , openjdk11
 , fetchFromGitHub
 , jetbrainsruntime
@@ -43,7 +43,7 @@ openjdk11.overrideAttrs (oldAttrs: {
     patch -p0 < jb/project/tools/patches/add_jcef_module.patch
   '' else "");
 
-  meta = with stdenv.lib; {
+  meta = with lib; {
     description = "An OpenJDK fork to better support Jetbrains's products.";
     longDescription = ''
      JetBrains Runtime is a runtime environment for running IntelliJ Platform
@@ -58,7 +58,7 @@ openjdk11.overrideAttrs (oldAttrs: {
     '';
     homepage = "https://bintray.com/jetbrains/intellij-jdk/";
     license = licenses.gpl2;
-    maintainers = with maintainers; [ edwtjo petabyteboy ];
+    maintainers = with maintainers; [ liff ];
     platforms = [ "i686-linux" "x86_64-linux" "aarch64-linux" "armv7l-linux" "armv6l-linux" ];
   };
 
