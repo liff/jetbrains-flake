@@ -1,7 +1,10 @@
 { lib
+, rsync
 , openjdk11
+, openjdk11-bootstrap
 , fetchFromGitHub
 , jetbrainsruntime
+, jetbrains-jcef
 , xdg ? true
 }:
 
@@ -28,20 +31,48 @@ openjdk11.overrideAttrs (oldAttrs: {
 
   patches = (oldAttrs.patches or []) ++ (if xdg then [ ./xdg.patch ] else []);
 
+  nativeBuildInputs = (oldAttrs.nativeBuildInputs or []) ++ [ rsync ];
+
+  configureFlags = [
+    "--with-boot-jdk=${openjdk11-bootstrap.home}"
+    "--enable-unlimited-crypto"
+    "--with-native-debug-symbols=internal"
+    "--with-libjpeg=system"
+    "--with-giflib=system"
+    "--with-libpng=system"
+    "--with-zlib=system"
+    "--with-lcms=system"
+    "--with-stdc++lib=dynamic"
+    "--with-jvm-features=shenandoahgc"
+    "--enable-cds=yes"
+    "--with-import-modules=./modular-sdk"
+    "--with-version-pre="
+    "--with-version-build=${jdkBuildNumber}"
+    "--with-version-opt=${buildNumber}"
+    "--with-vendor-version-string=${vendorVersionString}"
+  ];
+
   preConfigure = (oldAttrs.preConfigure or "") + ''
     configureFlagsArray+=(
       --with-vendor-name="${vendorName}"
-      --with-vendor-version-string="${vendorVersionString}"
-      --with-version-pre=
-      --with-version-build="${jdkBuildNumber}"
-      --with-version-opt="${buildNumber}"
-      --enable-cds=yes
     )
   '';
 
   postPatch = (oldAttrs.postPatch or "") + (if bundleType == "jcef" then ''
     patch -p0 < jb/project/tools/patches/add_jcef_module.patch
+    cp -R "${jetbrains-jcef}/modular-sdk" .
+    find modular-sdk -print0 | xargs -0 chmod +w
   '' else "");
+
+  postInstall = (oldAttrs.preInstall or "") + (if bundleType == "jcef" then ''
+    rsync -av ${jetbrains-jcef}/ $out/lib/openjdk/lib --exclude="modular-sdk"
+  '' else "");
+
+  installPhase = ''
+    runHook preInstall
+  '' + (oldAttrs.installPhase or "") + ''
+    runHook postInstall
+  '';
 
   meta = with lib; {
     description = "An OpenJDK fork to better support Jetbrains's products.";
@@ -56,7 +87,7 @@ openjdk11.overrideAttrs (oldAttrs: {
      JetBrains Runtime is not a certified build of OpenJDK. Please, use at
      your own risk.
     '';
-    homepage = "https://bintray.com/jetbrains/intellij-jdk/";
+    homepage = "https://github.com/JetBrains/JetBrainsRuntime";
     license = licenses.gpl2;
     maintainers = with maintainers; [ liff ];
     platforms = [ "i686-linux" "x86_64-linux" "aarch64-linux" "armv7l-linux" "armv6l-linux" ];

@@ -5,6 +5,11 @@
   outputs = { self, nixpkgs }: {
 
     packages.x86_64-linux = {
+      jetbrains-jcef = (import nixpkgs {
+        system = "x86_64-linux";
+        overlays = [ self.overlay ];
+      }).jetbrains-jcef;
+
       jetbrainsruntime = (import nixpkgs {
         system = "x86_64-linux";
         overlays = [ self.overlay ];
@@ -29,6 +34,8 @@
     };
 
     overlay = final: prev: {
+      jetbrains-jcef = final.callPackage ./pkgs/jetbrains-jcef {};
+
       jetbrainsruntime = final.callPackage ./pkgs/jetbrainsruntime {};
 
       intellij-idea-community = final.callPackage ./pkgs/intellij-idea-community {};
