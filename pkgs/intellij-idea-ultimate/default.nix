@@ -93,7 +93,7 @@ stdenv.mkDerivation rec {
 
   desktopItems = [ desktopItem ];
 
-  meta = with stdenv.lib; {
+  meta = with lib; {
     homepage = "https://www.jetbrains.com/idea/";
     description = "Integrated Development Environment (IDE) by Jetbrains, ultimate edition";
     longDescription = ''
@@ -103,7 +103,7 @@ stdenv.mkDerivation rec {
       as IntelliJ.
     '';
     maintainers = with maintainers; [ liff ];
-    license = stdenv.lib.licenses.unfree;
+    license = lib.licenses.unfree;
     platforms = platforms.linux ++ platforms.darwin;
   };
 }
