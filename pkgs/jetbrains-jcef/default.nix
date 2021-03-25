@@ -12,6 +12,8 @@
 , autoPatchelfHook, wrapGAppsHook
 , pkg-config
 
+, udev, pulseaudio
+
 , expat, nspr, nss
 , alsaLib, cups
 , cairo, fontconfig, freetype, mesa
@@ -26,6 +28,8 @@
 let
 
   version = "87.1.13+g481a82a+chromium-87.0.4280.141";
+
+  extraRpath = lib.makeLibraryPath [ udev pulseaudio ];
 
   cef-binary = stdenv.mkDerivation {
     pname = "cef-binary";
@@ -116,6 +120,10 @@ stdenv.mkDerivation {
     cp -a "$MODULAR_SDK_DIR" $out/
     popd
     runHook postInstall
+  '';
+
+  postFixup = ''
+    patchelf --set-rpath "$(patchelf --print-rpath "$out/libcef.so"):${extraRpath}" "$out/libcef.so"
   '';
 
   meta = with lib; {

@@ -65,7 +65,12 @@ openjdk11.overrideAttrs (oldAttrs: {
   '' else "");
 
   postInstall = (oldAttrs.preInstall or "") + (if bundleType == "jcef" then ''
-    rsync -av ${jetbrains-jcef}/ $out/lib/openjdk/lib --exclude="modular-sdk"
+    for f in ${jetbrains-jcef}/*; do
+      if [[ ! -e $out/lib/openjdk/lib/$(basename $f) ]]; then
+        ln -vs $f $out/lib/openjdk/lib/
+      fi
+    done
+    rm $out/lib/openjdk/lib/modular-sdk
   '' else "");
 
   installPhase = ''
