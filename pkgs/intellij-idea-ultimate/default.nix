@@ -14,6 +14,7 @@
 , libnotify
 , libdbusmenu
 , lldb
+, e2fsprogs
 , wrapGAppsHook
 , autoPatchelfHook
 , jetbrainsruntime }:
@@ -56,7 +57,7 @@ stdenv.mkDerivation rec {
       --subst-var-by CAT                 '${coreutils}/bin/cat' \
       --subst-var-by SED                 '${gnused}/bin/sed' \
       --subst-var-by NOTIFY_SEND         '${libnotify}/bin/notify-send' \
-      --subst-var-by NATIVE_LIBRARY_PATH '${lib.makeLibraryPath [ libsecret libnotify ]}'
+      --subst-var-by NATIVE_LIBRARY_PATH '${lib.makeLibraryPath [ libsecret libnotify e2fsprogs ]}'
   '';
 
   preFixup = ''
