@@ -1,5 +1,5 @@
 { lib
-, rsync
+, harfbuzz
 , openjdk11
 , openjdk11-bootstrap
 , fetchFromGitHub
@@ -31,7 +31,7 @@ openjdk11.overrideAttrs (oldAttrs: {
 
   patches = (oldAttrs.patches or []) ++ (if xdg then [ ./xdg.patch ] else []);
 
-  nativeBuildInputs = (oldAttrs.nativeBuildInputs or []) ++ [ rsync ];
+  buildInputs = (oldAttrs.buildInputs or []) ++ [ harfbuzz ];
 
   configureFlags = [
     "--with-boot-jdk=${openjdk11-bootstrap.home}"
