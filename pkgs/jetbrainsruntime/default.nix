@@ -58,20 +58,24 @@ openjdk11.overrideAttrs (oldAttrs: {
     )
   '';
 
-  postPatch = (oldAttrs.postPatch or "") + (if bundleType == "jcef" then ''
-    patch -p0 < jb/project/tools/patches/add_jcef_module.patch
-    cp -R "${jetbrains-jcef}/modular-sdk" .
-    find modular-sdk -print0 | xargs -0 chmod +w
-  '' else "");
+  postPatch = (oldAttrs.postPatch or "")
+              + (if bundleType == "dcevm" then ''
+                  for patch in jb/project/tools/patches/dcevm/*.patch; do patch -p0 < $patch; done
+                 '' else "")
+              + ''
+                  patch -p0 < jb/project/tools/patches/add_jcef_module.patch
+                  cp -R "${jetbrains-jcef}/modular-sdk" .
+                  find modular-sdk -print0 | xargs -0 chmod +w
+                '';
 
-  postInstall = (oldAttrs.preInstall or "") + (if bundleType == "jcef" then ''
+  postInstall = (oldAttrs.preInstall or "") + ''
     for f in ${jetbrains-jcef}/*; do
       if [[ ! -e $out/lib/openjdk/lib/$(basename $f) ]]; then
         ln -vs $f $out/lib/openjdk/lib/
       fi
     done
     rm $out/lib/openjdk/lib/modular-sdk
-  '' else "");
+  '';
 
   installPhase = ''
     runHook preInstall
