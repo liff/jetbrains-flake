@@ -99,7 +99,7 @@ openjdk11.overrideAttrs (oldAttrs: {
     homepage = "https://github.com/JetBrains/JetBrainsRuntime";
     license = licenses.gpl2;
     maintainers = with maintainers; [ liff ];
-    platforms = [ "i686-linux" "x86_64-linux" "aarch64-linux" "armv7l-linux" "armv6l-linux" ];
+    platforms = jetbrains-jcef.meta.platforms;
   };
 
   passthru = oldAttrs.passthru // {

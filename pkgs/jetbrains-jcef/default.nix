@@ -31,13 +31,35 @@ let
 
   extraRpath = lib.makeLibraryPath [ udev pulseaudio ];
 
-  cef-binary = stdenv.mkDerivation {
+  cefArchs = {
+    "i686-linux" = "linux32";
+    "x86_64-linux" = "linux64";
+    "armv6l-linux" = "linuxarm";
+    "armv7l-linux" = "linuxarm";
+    "aarch64-linux" = "linuxarm64";
+  };
+
+  cefArch = cefArchs."${stdenv.hostPlatform.system}";
+
+  cefSrcUrl = "https://cef-builds.spotifycdn.com/cef_binary_${version}_${cefArch}.tar.bz2";
+
+  # Hashes from https://cef-builds.spotifycdn.com/index.html
+  cefSrcHashes = {
+    "linux32" = "sha1-mp7eLi+2QIQA3IfGQAkn1NHLR3k=";
+    "linux64" = "sha1-aoyjfBIbaHLnLuEL8v+KZtGcATI=";
+    "linuxarm" = "sha1-v30Lp43gTNENSrJ0gI5fHvL2nfw=";
+    "linuxarm64" = "sha1-Z0YERPXAm3WJOCH+SrfliUA2ROY=";
+  };
+
+  cefSrcHash = cefSrcHashes."${cefArch}";
+
+  cefBinary = stdenv.mkDerivation {
     pname = "cef-binary";
     inherit version;
 
     src = fetchurl {
-      url = "https://cef-builds.spotifycdn.com/cef_binary_${version}_linux64.tar.bz2";
-      hash = "sha256-DFwiViZeiQB5beEA8MKAbCSmHtPdnoHdzdj+Br9T6gI=";
+      url = cefSrcUrl;
+      hash = cefSrcHash;
     };
 
     nativeBuildInputs = [ autoPatchelfHook wrapGAppsHook ];
@@ -82,10 +104,10 @@ stdenv.mkDerivation {
 
   nativeBuildInputs = [ which git pkg-config cmake python3 ];
 
-  buildInputs = cef-binary.buildInputs ++ [ openjdk11 ant ];
+  buildInputs = cefBinary.buildInputs ++ [ openjdk11 ant ];
 
   cmakeFlags = [
-    "-DCEF_ROOT=${cef-binary}"
+    "-DCEF_ROOT=${cefBinary}"
     "-DCMAKE_BUILD_TYPE=Release"
   ];
 
@@ -106,7 +128,7 @@ stdenv.mkDerivation {
     popd
     make -j$NIX_BUILD_CORES
     pushd ../tools
-    bash compile.sh linux64 Release
+    bash compile.sh ${cefArch} Release
     popd
     runHook postBuild
   '';
@@ -138,6 +160,6 @@ stdenv.mkDerivation {
     homepage = "https://github.com/JetBrains/jcef";
     license = licenses.bsd3;
     maintainers = with maintainers; [ liff ];
-    platforms = [ "i686-linux" "x86_64-linux" "aarch64-linux" "armv7l-linux" "armv6l-linux" ];
+    platforms = builtins.attrNames cefArchs;
   };
 }
