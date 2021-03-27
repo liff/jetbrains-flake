@@ -6,6 +6,16 @@
                     {
                         "build" : {
                             "number" : "203.7717",
+                            "version" : "2020.3.5",
+                            "releaseDate" : "2020-12-02",
+                            "fullNumber" : "203.7717.81"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2020.3.5-no-jbr.tar.gz",
+                        "sha256" : "c86737265bf45689d703536d712d2e2b49395fbd1e4d8cb41b161cef7d6cb7a6"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7717",
                             "version" : "2020.3.4",
                             "releaseDate" : "2020-12-02",
                             "fullNumber" : "203.7717.65"
@@ -355,6 +365,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.5",
+                            "releaseDate" : "2020-12-02",
+                            "fullNumber" : "203.7717.81"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2020.3.5.tar.gz",
+                        "sha256" : "d30b78b7deb680a1a9f6a36ca09ab1ed602eb8cb760f6f8083780ba3cd46b8e3"
+                    },
                     {
                         "build" : {
                             "number" : "203.7717",
@@ -921,6 +941,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-211.6693.23-no-jbr.tar.gz",
+                        "sha256" : "d8b0e3de95758011ac34f3171d1efe9651b4ef7482e232b8a2b32041bd3a95c6"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6305",
                             "version" : "2021.1 EAP",
                             "releaseDate" : null,
@@ -1071,6 +1101,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-211.6693.23.tar.gz",
+                        "sha256" : "e07e6aa335bfe78acbdc3788f00cbd9700527d9f1cd23972dcb44aee04047ff6"
+                    },
                     {
                         "build" : {
                             "number" : "211.6305",
@@ -1227,6 +1267,16 @@
         "community" : {
             "release" : {
                 "nojbr" : [
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.5",
+                            "releaseDate" : "2020-12-02",
+                            "fullNumber" : "203.7717.81"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2020.3.5-no-jbr.tar.gz",
+                        "sha256" : "c70dacd47e9d14c9ddba22b82df46685713cdf3aec898e79b79b052dad900ec2"
+                    },
                     {
                         "build" : {
                             "number" : "203.7717",
@@ -1579,6 +1629,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.5",
+                            "releaseDate" : "2020-12-02",
+                            "fullNumber" : "203.7717.81"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2020.3.5.tar.gz",
+                        "sha256" : "9ba38b5f1d60d2587bf59f15cf93607aed724b4b00625c3d7396d89f8aec616d"
+                    },
                     {
                         "build" : {
                             "number" : "203.7717",
@@ -2155,6 +2215,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-211.6693.23-no-jbr.tar.gz",
+                        "sha256" : "561101e9afaa6dfbcee5c9ed0db6a0677845744cf903fb1700409b79e1f9d794"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6305",
                             "version" : "2021.1 EAP",
                             "releaseDate" : null,
@@ -2305,6 +2375,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-211.6693.23.tar.gz",
+                        "sha256" : "f02943df52491aee67bed7e41b59018812352b38e4da5739f639dc6ae9520803"
+                    },
                     {
                         "build" : {
                             "number" : "211.6305",
@@ -8131,6 +8211,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.6693.18.tar.gz",
+                        "sha256" : "064078295e10cdcc5a04d05b299b8323748dfa0f48ba851f047eb10da91a8711"
+                    },
                     {
                         "build" : {
                             "number" : "211.6556",
