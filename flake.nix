@@ -1,52 +1,46 @@
 {
-  description = "A very basic flake";
+  description = "JetBrains IntelliJ IDEA";
 
+  outputs = { self, nixpkgs }:
+    let systems = [ "i686-linux" "x86_64-linux" "armv7l-linux" "aarch64-linux" ];
+        names = [
+          "jetbrains-jcef"
+          "jetbrainsruntime"
+          "intellij-idea-community"
+          "intellij-idea-community-eap"
+          "intellij-idea-ultimate"
+          #          "intellij-idea-ultimate-eap"
+        ];
 
-  outputs = { self, nixpkgs }: {
+        toFlakePackage = system: name: {
+          inherit name;
+          value = (import nixpkgs {
+            inherit system;
+            overlays = [ self.overlay ];
+          })."${name}";
+        };
 
-    packages.x86_64-linux = {
-      jetbrains-jcef = (import nixpkgs {
-        system = "x86_64-linux";
-        overlays = [ self.overlay ];
-      }).jetbrains-jcef;
+        inherit (builtins) map listToAttrs;
 
-      jetbrainsruntime = (import nixpkgs {
-        system = "x86_64-linux";
-        overlays = [ self.overlay ];
-      }).jetbrainsruntime;
+        packages = listToAttrs (
+          map (system: {
+            name = system;
+            value = listToAttrs (map (toFlakePackage system) names);
+          })
+            systems);
 
-      intellij-idea-community = (import nixpkgs {
-        system = "x86_64-linux";
-        overlays = [ self.overlay ];
-      }).intellij-idea-community;
+        overlay = final: prev:
+          listToAttrs (
+            map (name: {
+              inherit name;
+              value = final.callPackage (./pkgs + "/${name}") {};
+            })
+              names);
+    in {
+      inherit packages overlay;
 
-      intellij-idea-ultimate = (import nixpkgs {
-        system = "x86_64-linux";
-        overlays = [ self.overlay ];
-        config.allowUnfree = true;
-      }).intellij-idea-ultimate;
-
-      intellij-idea-community-eap = (import nixpkgs {
-        system = "x86_64-linux";
-        overlays = [ self.overlay ];
-      }).intellij-idea-community-eap;
-
+      nixosModule = {
+        nixpkgs.overlays = [ self.overlay ];
+      };
     };
-
-    overlay = final: prev: {
-      jetbrains-jcef = final.callPackage ./pkgs/jetbrains-jcef {};
-
-      jetbrainsruntime = final.callPackage ./pkgs/jetbrainsruntime {};
-
-      intellij-idea-community = final.callPackage ./pkgs/intellij-idea-community {};
-
-      intellij-idea-ultimate = final.callPackage ./pkgs/intellij-idea-ultimate {};
-
-      intellij-idea-community-eap = final.callPackage ./pkgs/intellij-idea-community-eap {};
-    };
-
-    nixosModule = {
-      nixpkgs.overlays = [ self.overlay ];
-    };
-  };
 }
