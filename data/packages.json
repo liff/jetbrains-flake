@@ -6709,6 +6709,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 Beta 4",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-211.6693.34.tar.gz",
+                        "sha256" : "15212248c4f803044ca37ee004e787475eb4aeef55d681a973c77049bbeaeb4c"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6556",
                             "version" : "2021.1 Beta 3",
                             "releaseDate" : null,
