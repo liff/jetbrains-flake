@@ -3022,6 +3022,46 @@
                     {
                         "build" : {
                             "number" : "211.6693",
+                            "version" : "2021.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6693.65-no-jbr.tar.gz",
+                        "sha256" : "9a7332bdc9f2061a07912a22d3ba652b23b4edc38d391bfedf797f4a5ae80564"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.3 RC2",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7717.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.45-no-jbr.tar.gz",
+                        "sha256" : "d65d8808764800528131271cfeed641e936819ce002c048d1716a0f6eefc541c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.3 RC",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7717.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.25-no-jbr.tar.gz",
+                        "sha256" : "ebc28741e023f765332de651d0208df15fc14c878951adfa9aba3072fab2616a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.3 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7717.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.11-no-jbr.tar.gz",
+                        "sha256" : "314aeb581852096e31e70fc27cca45e2e493793031f06b41b13dfa4e3fd47638"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6693",
                             "version" : "2021.1 Beta",
                             "releaseDate" : null,
                             "fullNumber" : "211.6693.14"
@@ -3108,6 +3148,18 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.4961.33-no-jbr.tar.gz",
                         "sha256" : "3226f425c7ad9fd237cb314ca35f1d4e8c70c8cef863643c6148e03f950b29d0"
+                    }
+                ],
+                "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6693.65.tar.gz",
+                        "sha256" : "67505b95d47426cc7f9cff22f6d82c1b9d721ccac634a4a44ece32b9745de36e"
                     },
                     {
                         "build" : {
@@ -3116,8 +3168,8 @@
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.7717.45"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.45-no-jbr.tar.gz",
-                        "sha256" : "d65d8808764800528131271cfeed641e936819ce002c048d1716a0f6eefc541c"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.45.tar.gz",
+                        "sha256" : "eebc7c22e104e5eeafe38a8fa27b3a7bc77bdc4e929feccdfd8756a497fe0abf"
                     },
                     {
                         "build" : {
@@ -3126,8 +3178,8 @@
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.7717.25"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.25-no-jbr.tar.gz",
-                        "sha256" : "ebc28741e023f765332de651d0208df15fc14c878951adfa9aba3072fab2616a"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.25.tar.gz",
+                        "sha256" : "88b3b0e76a43703d92db301b90ad8d1f22159b06e9ba1d764473cb316027771d"
                     },
                     {
                         "build" : {
@@ -3136,11 +3188,9 @@
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.7717.11"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.11-no-jbr.tar.gz",
-                        "sha256" : "314aeb581852096e31e70fc27cca45e2e493793031f06b41b13dfa4e3fd47638"
-                    }
-                ],
-                "default" : [
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.11.tar.gz",
+                        "sha256" : "aeff92d8b7678bca83395659b18aae042f9989c4f8dfea04dcd97c7a8e4ab6b7"
+                    },
                     {
                         "build" : {
                             "number" : "211.6693",
@@ -3230,36 +3280,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.4961.33.tar.gz",
                         "sha256" : "fdca0791d42d044f29e6aaa32c06ada13c687ed9e95cc59b5b2fb2f83767ca97"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.3 RC2",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7717.45"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.45.tar.gz",
-                        "sha256" : "eebc7c22e104e5eeafe38a8fa27b3a7bc77bdc4e929feccdfd8756a497fe0abf"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.3 RC",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7717.25"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.25.tar.gz",
-                        "sha256" : "88b3b0e76a43703d92db301b90ad8d1f22159b06e9ba1d764473cb316027771d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.3 Preview",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7717.11"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.11.tar.gz",
-                        "sha256" : "aeff92d8b7678bca83395659b18aae042f9989c4f8dfea04dcd97c7a8e4ab6b7"
                     }
                 ]
             }
@@ -3746,6 +3766,46 @@
                     {
                         "build" : {
                             "number" : "211.6693",
+                            "version" : "2021.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6693.65-no-jbr.tar.gz",
+                        "sha256" : "70caf4d1d47e79da3290934d14dfd0dd8694a77fa9e3b2080a6b369f8724af02"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.3 RC2",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7717.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.45-no-jbr.tar.gz",
+                        "sha256" : "4f3b9f1319b74d90876738b424037a8546966e12391dabf39fd446b4ca28cb30"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.3 RC",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7717.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.25-no-jbr.tar.gz",
+                        "sha256" : "39659b1172fa343b2f7b833f5aa9c99d1cc3406aa1977db1fcf46e47487251d8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.3 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7717.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.11-no-jbr.tar.gz",
+                        "sha256" : "0ab0d824113940a19aae42ca676ae72990f42df9d97db9874bdfa08e8aa9bcc6"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6693",
                             "version" : "2021.1 Beta",
                             "releaseDate" : null,
                             "fullNumber" : "211.6693.14"
@@ -3832,6 +3892,18 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.4961.33-no-jbr.tar.gz",
                         "sha256" : "1864edb2f3dac456d3ae24b060ebc882dbac85a89dc4f034f5f9c2020f87749e"
+                    }
+                ],
+                "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6693.65.tar.gz",
+                        "sha256" : "f9d764755f9e975ad30d42baab083e0b9c5d1560b583e5518156ecd691af17bd"
                     },
                     {
                         "build" : {
@@ -3840,8 +3912,8 @@
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.7717.45"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.45-no-jbr.tar.gz",
-                        "sha256" : "4f3b9f1319b74d90876738b424037a8546966e12391dabf39fd446b4ca28cb30"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.45.tar.gz",
+                        "sha256" : "cfc1e8e04d6992324c61613b8885a51e3a945e1539c7025aa61cabdb31771650"
                     },
                     {
                         "build" : {
@@ -3850,8 +3922,8 @@
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.7717.25"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.25-no-jbr.tar.gz",
-                        "sha256" : "39659b1172fa343b2f7b833f5aa9c99d1cc3406aa1977db1fcf46e47487251d8"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.25.tar.gz",
+                        "sha256" : "f4657012ebfaa2366c10c41d539e916ecab83ab0f8f7a8daa59d74de621f1117"
                     },
                     {
                         "build" : {
@@ -3860,11 +3932,9 @@
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.7717.11"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.11-no-jbr.tar.gz",
-                        "sha256" : "0ab0d824113940a19aae42ca676ae72990f42df9d97db9874bdfa08e8aa9bcc6"
-                    }
-                ],
-                "default" : [
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.11.tar.gz",
+                        "sha256" : "ade790af6fd21b9e8d1cb2d1f26cd9a437dee9b2af0a558fa21947e1a8b47258"
+                    },
                     {
                         "build" : {
                             "number" : "211.6693",
@@ -3954,36 +4024,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.4961.33.tar.gz",
                         "sha256" : "6223fd0d4bfc39b8d8bfdbbca0817b07679558c5e733b20824e7621fa686ce0b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.3 RC2",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7717.45"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.45.tar.gz",
-                        "sha256" : "cfc1e8e04d6992324c61613b8885a51e3a945e1539c7025aa61cabdb31771650"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.3 RC",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7717.25"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.25.tar.gz",
-                        "sha256" : "f4657012ebfaa2366c10c41d539e916ecab83ab0f8f7a8daa59d74de621f1117"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.3 Preview",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7717.11"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.11.tar.gz",
-                        "sha256" : "ade790af6fd21b9e8d1cb2d1f26cd9a437dee9b2af0a558fa21947e1a8b47258"
                     }
                 ]
             }
@@ -4540,6 +4580,176 @@
                     {
                         "build" : {
                             "number" : "211.6693",
+                            "version" : "2021.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.64"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-211.6693.64.tar.gz",
+                        "sha256" : "d5c30d326c98672f143c8eaa4809ef495e74be8871a83ba5d6c1311128ab1157"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.3 RC",
+                            "releaseDate" : "2020-11-30",
+                            "fullNumber" : "203.7717.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-203.7717.18.tar.gz",
+                        "sha256" : "a1a59c538070a164ea1ef8950cbd54f1a8b674200940d6f807d746da68a2d83e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7148",
+                            "version" : "2020.3.2 RC",
+                            "releaseDate" : "2020-11-30",
+                            "fullNumber" : "203.7148.42"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-203.7148.42.tar.gz",
+                        "sha256" : "2195a95e00256c895c9349ffb97d2a74da75e32f2d31b8e3c7d4af61a2990be6"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.6682",
+                            "version" : "2020.3.1 RC",
+                            "releaseDate" : "2020-11-30",
+                            "fullNumber" : "203.6682.105"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-203.6682.105.tar.gz",
+                        "sha256" : "0f762a3efb84a97554e865a004c4809caf4830cd19afe1aada4dfe31074068d8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.5981",
+                            "version" : "2020.3 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "203.5981.97"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-203.5981.97.tar.gz",
+                        "sha256" : "b7aaa2b9a7f7a2c9163ba9a27abf80f7df8f34924940cd6ac3a78dd4fb5789a8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "202.7660",
+                            "version" : "2020.2.3 RC",
+                            "releaseDate" : "2020-07-27",
+                            "fullNumber" : "202.7660.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-202.7660.15.tar.gz",
+                        "sha256" : "2bd1fee53c8ec5e4d3008bfa101108ec9dd9ef882470da1a539df5a343574f7e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "202.7319",
+                            "version" : "2020.2.2 RC",
+                            "releaseDate" : "2020-07-27",
+                            "fullNumber" : "202.7319.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-202.7319.44.tar.gz",
+                        "sha256" : "70691f7dcf04cfaf8b52d5aff0e6958b4e9872c9b229a7b9db24d53f42f1a7f6"
+                    },
+                    {
+                        "build" : {
+                            "number" : "202.6948",
+                            "version" : "2020.2.1 RC",
+                            "releaseDate" : "2020-07-27",
+                            "fullNumber" : "202.6948.46"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-202.6948.46.tar.gz",
+                        "sha256" : "e53e1eaf0ecd747de1d6787b7ce6c78c930ddb80cd9f8398ec9e222988f61b67"
+                    },
+                    {
+                        "build" : {
+                            "number" : "202.6397",
+                            "version" : "2020.2 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "202.6397.51"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-202.6397.51.tar.gz",
+                        "sha256" : "f8411af6aca90d42a00420fa9ff75dd39f1e9624422a9fe58623baf63b412631"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.8743",
+                            "version" : "2020.1.4 RC",
+                            "releaseDate" : "2020-04-07",
+                            "fullNumber" : "201.8743.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-201.8743.5.tar.gz",
+                        "sha256" : "c7eb75efb2b3850c35821244054f02bc56d8e232e141ae8f0d68791a915ca77c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.8538",
+                            "version" : "2020.1.3 RC",
+                            "releaseDate" : "2020-04-07",
+                            "fullNumber" : "201.8538.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-201.8538.19.tar.gz",
+                        "sha256" : "c6186d11490cfd6ffedc443e008e29feb97e81f3deb3ab498bd7aca2cc48290b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.7223",
+                            "version" : "2020.1.1 RC",
+                            "releaseDate" : "2020-04-07",
+                            "fullNumber" : "201.7223.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-201.7223.34.tar.gz",
+                        "sha256" : "14e80748cdc8b741adc6f72c0fdc3ee7cf3ea9be856a810fe7b9b7701dbb88b4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.6668",
+                            "version" : "2020.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "201.6668.68"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-201.6668.68.tar.gz",
+                        "sha256" : "26f0c044da0a9bc56b55c3e5e9e7cd00625a8794be4bba1343fd46e6c4414920"
+                    },
+                    {
+                        "build" : {
+                            "number" : "193.7288",
+                            "version" : "2019.3.5 RC",
+                            "releaseDate" : "2019-11-25",
+                            "fullNumber" : "193.7288.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-193.7288.13.tar.gz",
+                        "sha256" : "fcd1307441173fb457d88721d0333b7fcd9d736c9f6c69332bfd7de63656e824"
+                    },
+                    {
+                        "build" : {
+                            "number" : "193.6911",
+                            "version" : "2019.3.4 RC",
+                            "releaseDate" : "2019-11-25",
+                            "fullNumber" : "193.6911.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-193.6911.11.tar.gz",
+                        "sha256" : "a23ccb53f8c85b6118d36a550d4e41b6b3142d3b25a4f81b31e90c5aea1b14f1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "193.6494",
+                            "version" : "2019.3.3 RC",
+                            "releaseDate" : "2019-11-25",
+                            "fullNumber" : "193.6494.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-193.6494.23.tar.gz",
+                        "sha256" : "b916947359c785387fa7c31ac086407f165f03859c73d26175af95b1698fc467"
+                    },
+                    {
+                        "build" : {
+                            "number" : "193.6015",
+                            "version" : "2019.3.2 RC",
+                            "releaseDate" : "2019-11-25",
+                            "fullNumber" : "193.6015.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-193.6015.20.tar.gz",
+                        "sha256" : "ad20cd553611c9a08c4d131f0d09eb74fef62224ba629f91ffbd21d9870dcf3f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6693",
                             "version" : "2021.1 Beta",
                             "releaseDate" : null,
                             "fullNumber" : "211.6693.17"
@@ -4856,166 +5066,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-201.4515.27.tar.gz",
                         "sha256" : "cae361e807df60988fbc3be5c35cc8b388b7340a9b7e1d1c1e5c16caf6bda472"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.3 RC",
-                            "releaseDate" : "2020-11-30",
-                            "fullNumber" : "203.7717.18"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-203.7717.18.tar.gz",
-                        "sha256" : "a1a59c538070a164ea1ef8950cbd54f1a8b674200940d6f807d746da68a2d83e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7148",
-                            "version" : "2020.3.2 RC",
-                            "releaseDate" : "2020-11-30",
-                            "fullNumber" : "203.7148.42"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-203.7148.42.tar.gz",
-                        "sha256" : "2195a95e00256c895c9349ffb97d2a74da75e32f2d31b8e3c7d4af61a2990be6"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.6682",
-                            "version" : "2020.3.1 RC",
-                            "releaseDate" : "2020-11-30",
-                            "fullNumber" : "203.6682.105"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-203.6682.105.tar.gz",
-                        "sha256" : "0f762a3efb84a97554e865a004c4809caf4830cd19afe1aada4dfe31074068d8"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.5981",
-                            "version" : "2020.3 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "203.5981.97"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-203.5981.97.tar.gz",
-                        "sha256" : "b7aaa2b9a7f7a2c9163ba9a27abf80f7df8f34924940cd6ac3a78dd4fb5789a8"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.7660",
-                            "version" : "2020.2.3 RC",
-                            "releaseDate" : "2020-07-27",
-                            "fullNumber" : "202.7660.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-202.7660.15.tar.gz",
-                        "sha256" : "2bd1fee53c8ec5e4d3008bfa101108ec9dd9ef882470da1a539df5a343574f7e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.7319",
-                            "version" : "2020.2.2 RC",
-                            "releaseDate" : "2020-07-27",
-                            "fullNumber" : "202.7319.44"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-202.7319.44.tar.gz",
-                        "sha256" : "70691f7dcf04cfaf8b52d5aff0e6958b4e9872c9b229a7b9db24d53f42f1a7f6"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6948",
-                            "version" : "2020.2.1 RC",
-                            "releaseDate" : "2020-07-27",
-                            "fullNumber" : "202.6948.46"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-202.6948.46.tar.gz",
-                        "sha256" : "e53e1eaf0ecd747de1d6787b7ce6c78c930ddb80cd9f8398ec9e222988f61b67"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6397",
-                            "version" : "2020.2 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "202.6397.51"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-202.6397.51.tar.gz",
-                        "sha256" : "f8411af6aca90d42a00420fa9ff75dd39f1e9624422a9fe58623baf63b412631"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.8743",
-                            "version" : "2020.1.4 RC",
-                            "releaseDate" : "2020-04-07",
-                            "fullNumber" : "201.8743.5"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-201.8743.5.tar.gz",
-                        "sha256" : "c7eb75efb2b3850c35821244054f02bc56d8e232e141ae8f0d68791a915ca77c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.8538",
-                            "version" : "2020.1.3 RC",
-                            "releaseDate" : "2020-04-07",
-                            "fullNumber" : "201.8538.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-201.8538.19.tar.gz",
-                        "sha256" : "c6186d11490cfd6ffedc443e008e29feb97e81f3deb3ab498bd7aca2cc48290b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7223",
-                            "version" : "2020.1.1 RC",
-                            "releaseDate" : "2020-04-07",
-                            "fullNumber" : "201.7223.34"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-201.7223.34.tar.gz",
-                        "sha256" : "14e80748cdc8b741adc6f72c0fdc3ee7cf3ea9be856a810fe7b9b7701dbb88b4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6668",
-                            "version" : "2020.1 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "201.6668.68"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-201.6668.68.tar.gz",
-                        "sha256" : "26f0c044da0a9bc56b55c3e5e9e7cd00625a8794be4bba1343fd46e6c4414920"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.7288",
-                            "version" : "2019.3.5 RC",
-                            "releaseDate" : "2019-11-25",
-                            "fullNumber" : "193.7288.13"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-193.7288.13.tar.gz",
-                        "sha256" : "fcd1307441173fb457d88721d0333b7fcd9d736c9f6c69332bfd7de63656e824"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6911",
-                            "version" : "2019.3.4 RC",
-                            "releaseDate" : "2019-11-25",
-                            "fullNumber" : "193.6911.11"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-193.6911.11.tar.gz",
-                        "sha256" : "a23ccb53f8c85b6118d36a550d4e41b6b3142d3b25a4f81b31e90c5aea1b14f1"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6494",
-                            "version" : "2019.3.3 RC",
-                            "releaseDate" : "2019-11-25",
-                            "fullNumber" : "193.6494.23"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-193.6494.23.tar.gz",
-                        "sha256" : "b916947359c785387fa7c31ac086407f165f03859c73d26175af95b1698fc467"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6015",
-                            "version" : "2019.3.2 RC",
-                            "releaseDate" : "2019-11-25",
-                            "fullNumber" : "193.6015.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-193.6015.20.tar.gz",
-                        "sha256" : "ad20cd553611c9a08c4d131f0d09eb74fef62224ba629f91ffbd21d9870dcf3f"
                     }
                 ]
             }
