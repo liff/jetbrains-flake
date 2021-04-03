@@ -2,6 +2,7 @@ package updater
 
 import java.nio.charset.StandardCharsets.UTF_8
 import java.nio.file.{InvalidPathException, Path}
+import java.nio.file.StandardOpenOption.{CREATE, TRUNCATE_EXISTING}
 import java.time.LocalDate
 
 import cats.effect.{Async, Sync}
@@ -29,7 +30,7 @@ def writeJsonFile[F[_]: Async, A: Encoder](path: Path, a: A): F[Unit] =
   Stream
     .emit(a.asJson.spaces4)
     .through(utf8Encode)
-    .through(Files[F].writeAll(path))
+    .through(Files[F].writeAll(path, Seq(CREATE, TRUNCATE_EXISTING)))
     .compile
     .drain
 
