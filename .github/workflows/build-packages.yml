@@ -29,6 +29,11 @@ jobs:
       - uses: nixbuild/nixbuild-action@v4
         with:
           nixbuild_ssh_key: ${{ secrets.nixbuild_ssh_key }}
+      - uses: cachix/cachix-action@v9
+        with:
+          name: liff
+          authToken: '${{ secrets.cachix_auth_token }}'
+          signingKey: '${{ secrets.cachix_signing_key }}'
 
       - name: Build package ${{ matrix.pkg }}
         run: nix -L build --override-input nixpkgs github:nixos/nixpkgs/${{ matrix.nixpkgs_branch }} .#${{ matrix.pkg }}
