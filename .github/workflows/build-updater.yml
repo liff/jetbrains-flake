@@ -2,6 +2,7 @@ name: Build Updater
 
 on:
   push:
+    branches: [main]
     paths:
       - 'updater/**'
       - '.github/workflows/build-updater.yml'

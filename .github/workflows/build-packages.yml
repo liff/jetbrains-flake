@@ -2,6 +2,7 @@ name: Build packages
 
 on:
   push:
+    branches: [main]
     paths-ignore:
       - 'updater/**'
       - '.github/workflows/build-updater.yml'
