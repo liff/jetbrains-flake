@@ -1,48 +1,69 @@
 #!/usr/bin/env nix-shell
-#!nix-shell update-env.nix -i python3
+#!nix-shell -i python3 -p python3 python3Packages.requests python3Packages.nix-prefetch-github python3Packages.python-dotenv
 import json
 import os.path
 import re
 import subprocess
+import tarfile
+from io import TextIOWrapper
 from json.decoder import JSONDecodeError
+from pathlib import PurePath
 from sys import argv, exit, stderr
 
+import requests
+from dotenv.parser import parse_stream
 from nix_prefetch_github import nix_prefetch_github
 
 VERSION_LINE = re.compile(
-    r"""OpenJDK Runtime Environment JBR-(?P<jdkVersion>[0-9.]+)\.(?P<jdkBuildNumber>\d+)-(?P<buildNumber>\d+)\.(?P<subBuildNumber>\d+)-(?P<bundleType>\w+) .*"""
+    r"""JBR-(?P<jdkVersion>[0-9.]+)\.(?P<jdkBuildNumber>\d+)-(?P<buildNumber>\d+)\.(?P<subBuildNumber>\d+)-(?P<bundleType>\w+)"""
 )
 
-if len(argv) != 2:
-    stderr.write(f"Usage: {argv[0]} VERSION-FILE\n")
+if len(argv) != 3:
+    stderr.write(f"Usage: {argv[0]} PACKAGES-FILE VERSION-FILE\n")
     exit(1)
 
-version_file = argv[1]
+packages_file = argv[1]
+version_file = argv[2]
 
-latest = next(
-    match
-    for line in subprocess.run(["bundled-jbr-java", "-version"], check=True, capture_output=True)
-    .stderr.decode("utf-8")
-    .splitlines()
-    if (match := VERSION_LINE.fullmatch(line))
-).groupdict()
+with open(packages_file, "rb") as inp:
+    packages = json.load(inp)
 
-latest["tag"] = f"jb{latest['jdkVersion'].replace('.', '_')}-b{latest['subBuildNumber']}"
+latest_intellij = packages["IntelliJ IDEA"]["community"]["release"]["default"][0]
+latest_intellij_full_number = latest_intellij["build"]["fullNumber"]
 
 try:
     with open(version_file, "rb") as inp:
-        current = json.load(inp)
+        version_info = json.load(inp)
 except (FileNotFoundError, JSONDecodeError):
-    current = dict(tag="N/A")
+    version_info = dict()
 
-if latest["tag"] != current["tag"]:
-    print(f"Updating to {latest['tag']}…")
-    repo = nix_prefetch_github(owner="JetBrains", repo="JetBrainsRuntime", rev=latest["tag"])
-    latest["hash"] = f"sha256-{repo.sha256}"
-    with open(version_file, "w") as out:
-        json.dump(latest, out)
+if version_info.get("intellijFullNumber") == latest_intellij_full_number:
+    print(f"Up to date at {version_info['tag']} for IntelliJ IDEA {latest_intellij_full_number}.")
 else:
-    print(f"Up to date at {latest['tag']}")
+    print(f"Getting JBR release info for {latest_intellij_full_number}…")
+    response = requests.get(latest_intellij["downloadUri"], stream=True)
+    response.raise_for_status()
+    with tarfile.open(fileobj=response.raw, mode="r", bufsize=4 * 1024 * 1024) as src:
+        for member in src:
+            path = PurePath(member.name)
+            if path.match("*/jbr/release"):
+                with src.extractfile(member) as release:
+                    vars = {b.key: b.value for b in parse_stream(TextIOWrapper(release))}
+                    new_version_info = VERSION_LINE.fullmatch(vars["IMPLEMENTOR_VERSION"]).groupdict()
+
+    new_version_info["intellijFullNumber"] = latest_intellij_full_number
+    new_version_info[
+        "tag"
+    ] = f"jb{new_version_info['jdkVersion'].replace('.', '_')}-b{new_version_info['subBuildNumber']}"
+
+    print(f"Getting hash for tag {new_version_info['tag']}…")
+    repo = nix_prefetch_github(owner="JetBrains", repo="JetBrainsRuntime", rev=new_version_info["tag"])
+    new_version_info["hash"] = f"sha256-{repo.sha256}"
+
+    with open(version_file, "w") as out:
+        json.dump(new_version_info, out, indent=4)
+
+    print(f"Updated to {new_version_info['tag']} for IntelliJ IDEA {latest_intellij_full_number}")
 
 # Local Variables:
 # mode: python
