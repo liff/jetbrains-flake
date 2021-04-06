@@ -6,6 +6,11 @@ on:
     paths-ignore:
       - 'updater/**'
       - '.github/workflows/build-updater.yml'
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Refresh product versions"]
+    types: [completed]
+    branches: [main]
 
 jobs:
   build-packages:
