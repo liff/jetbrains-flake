@@ -76,10 +76,7 @@ let
       libXScrnSaver libXtst
     ];
 
-    buildPhase = ''
-      runHook preBuild
-      runHook postBuild
-    '';
+    dontBuild = true;
 
     installPhase = ''
       runHook preInstall
