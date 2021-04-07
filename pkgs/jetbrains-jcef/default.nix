@@ -94,8 +94,8 @@ stdenv.mkDerivation {
   src = fetchFromGitHub {
     owner = "JetBrains";
     repo = "jcef";
-    rev = "6e47691a69c63bab726f6013cf58d44a19491c03";
-    sha256 = "y71ciRspy8F+Tm2AxkYYHj+51G12KexEPcc4GbFlI2s=";
+    rev = "dfddc5b8d6bb9f0962a9cc36a31b057926fad7bc";
+    sha256 = "pAeHw2LDmK5p2EFyD3txyHJhnVwGMWpTbXLCUezA/d8=";
     leaveDotGit = true;
   };
 
