@@ -1,6 +1,6 @@
---- a/bin/idea.sh	2020-12-25 15:02:57.128859158 +0200
-+++ b/bin/idea.sh	2020-12-25 15:02:14.264961349 +0200
-@@ -8,29 +8,20 @@
+--- a/bin/idea.sh	2021-04-06 13:18:41.000000000 +0300
++++ b/bin/idea.sh	2021-04-07 19:53:24.151450642 +0300
+@@ -8,28 +8,11 @@
  message()
  {
    TITLE="Cannot start IntelliJ IDEA"
@@ -18,31 +18,21 @@
 +  @NOTIFY_SEND@ "ERROR: $TITLE" "$1"
  }
  
--UNAME=$(command -v uname)
--GREP=$(command -v egrep)
--CUT=$(command -v cut)
--READLINK=$(command -v readlink)
--XARGS=$(command -v xargs)
--DIRNAME=$(command -v dirname)
--MKTEMP=$(command -v mktemp)
--RM=$(command -v rm)
--CAT=$(command -v cat)
--SED=$(command -v sed)
-+UNAME='@UNAME@'
-+GREP='@GREP@'
-+CUT='@CUT@'
-+READLINK='@READLINK@'
-+XARGS='@XARGS@'
-+DIRNAME='@DIRNAME@'
-+MKTEMP='@MKTEMP@'
-+RM='@RM@'
-+CAT='@CAT@'
-+SED='@SED@'
+-if [ -z "$(command -v uname)" ] || [ -z "$(command -v realpath)" ] || [ -z "$(command -v dirname)" ] || [ -z "$(command -v cat)" ] || \
+-   [ -z "$(command -v egrep)" ]; then
+-  TOOLS_MSG="Required tools are missing:"
+-  for tool in uname realpath egrep dirname cat ; do
+-     test -z "$(command -v $tool)" && TOOLS_MSG="$TOOLS_MSG $tool"
+-  done
+-  message "$TOOLS_MSG (SHELL=$SHELL PATH=$PATH)"
+-  exit 1
+-fi
++PATH='@PATH@'
 +NATIVE_LIBRARY_PATH='@NATIVE_LIBRARY_PATH@'
  
- if [ -z "$UNAME" ] || [ -z "$GREP" ] || [ -z "$CUT" ] || [ -z "$DIRNAME" ] || [ -z "$MKTEMP" ] || [ -z "$RM" ] || [ -z "$CAT" ] || [ -z "$SED" ]; then
-   message "Required tools are missing - check beginning of \"$0\" file for details."
-@@ -216,8 +207,9 @@
+ # shellcheck disable=SC2034
+ GREP_OPTIONS=''
+@@ -168,8 +151,9 @@
  # ---------------------------------------------------------------------
  IFS="$(printf '\n\t')"
  # shellcheck disable=SC2086

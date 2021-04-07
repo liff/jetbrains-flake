@@ -46,16 +46,7 @@ stdenv.mkDerivation rec {
 
   postPatch = ''
     substituteInPlace bin/idea.sh \
-      --subst-var-by UNAME               '${coreutils}/bin/uname' \
-      --subst-var-by GREP                '${gnugrep}/bin/egrep' \
-      --subst-var-by CUT                 '${coreutils}/bin/cut' \
-      --subst-var-by READLINK            '${coreutils}/bin/readlink' \
-      --subst-var-by XARGS               '${findutils}/bin/xargs' \
-      --subst-var-by DIRNAME             '${coreutils}/bin/dirname' \
-      --subst-var-by MKTEMP              '${coreutils}/bin/mktemp' \
-      --subst-var-by RM                  '${coreutils}/bin/rm' \
-      --subst-var-by CAT                 '${coreutils}/bin/cat' \
-      --subst-var-by SED                 '${gnused}/bin/sed' \
+      --subst-var-by PATH                '${lib.makeBinPath [ coreutils gnugrep ]}' \
       --subst-var-by NOTIFY_SEND         '${libnotify}/bin/notify-send' \
       --subst-var-by NATIVE_LIBRARY_PATH '${lib.makeLibraryPath [ libsecret libnotify e2fsprogs ]}'
   '';
