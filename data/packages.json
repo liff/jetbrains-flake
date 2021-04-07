@@ -2851,6 +2851,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.6693.111"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.1-no-jbr.tar.gz",
+                        "sha256" : "becd31e78d430db7a3edf381343f6722926e6e16b35d39371b74786decc40617"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.3",
                             "releaseDate" : "2020-12-01",
@@ -3011,6 +3021,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.6693.111"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.1.tar.gz",
+                        "sha256" : "7a6b58967f655473e815e54a4840bc6ed7a61d76f16650ba7702bef6731af5b4"
+                    },
                     {
                         "build" : {
                             "number" : "203.7717",
@@ -3595,6 +3615,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.6693.111"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.1-no-jbr.tar.gz",
+                        "sha256" : "fdfd7fda5b4215b9eea925e341f4947eda5319f1b92e1d0083457741e0555318"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.3",
                             "releaseDate" : "2020-12-01",
@@ -3755,6 +3785,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.6693.111"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.1.tar.gz",
+                        "sha256" : "6da2775e43332e42a35afe8d5c3ae9a064880e1ee7386190cf7388886c9dfb52"
+                    },
                     {
                         "build" : {
                             "number" : "203.7717",
