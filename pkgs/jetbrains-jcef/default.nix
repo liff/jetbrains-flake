@@ -95,7 +95,7 @@ stdenv.mkDerivation {
     owner = "JetBrains";
     repo = "jcef";
     rev = "dfddc5b8d6bb9f0962a9cc36a31b057926fad7bc";
-    sha256 = "pAeHw2LDmK5p2EFyD3txyHJhnVwGMWpTbXLCUezA/d8=";
+    sha256 = "sha256-fKH7EnAjO4pqgw59LtqIQrF03lHfZZuVBoB8E36te5k=";
     leaveDotGit = true;
   };
 
