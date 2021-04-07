@@ -60,7 +60,7 @@ openjdk11.overrideAttrs (oldAttrs: {
 
   postPatch = (oldAttrs.postPatch or "")
               + (if bundleType == "dcevm" then ''
-                  for patch in jb/project/tools/patches/dcevm/*.patch; do patch -p0 < $patch; done
+                  for patch in jb/project/tools/patches/dcevm/*.patch; do patch -p1 < $patch; done
                  '' else "")
               + ''
                   patch -p0 < jb/project/tools/patches/add_jcef_module.patch
