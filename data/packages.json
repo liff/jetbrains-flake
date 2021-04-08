@@ -351,6 +351,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.6693.115"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2021.1-no-jbr.tar.gz",
+                        "sha256" : "d6685a8892810f5e53f5a8060913a784ab39a7b1c256f35488ca3c34a3eea25d"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.5",
                             "releaseDate" : "2020-12-02",
@@ -711,6 +721,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.6693.115"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2021.1.tar.gz",
+                        "sha256" : "7060bfdc54397b6cc783ff0b1724b8027e2bc3ea9f7e68e43ca37ea10fa42fc6"
+                    },
                     {
                         "build" : {
                             "number" : "203.7717",
@@ -1645,6 +1665,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.6693.115"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2021.1-no-jbr.tar.gz",
+                        "sha256" : "8e834a6c41ae67cdba384d8e945f75b2e469e8baf3be9ad9c00ae54235dee268"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.5",
                             "releaseDate" : "2020-12-02",
@@ -2005,6 +2035,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.6693.115"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2021.1.tar.gz",
+                        "sha256" : "bf86f3b316191e9d7e2e96d4fa055c095c59202f6af287103f54fde75b256bd8"
+                    },
                     {
                         "build" : {
                             "number" : "203.7717",
@@ -5168,16 +5208,6 @@
                     {
                         "build" : {
                             "number" : "211.6693",
-                            "version" : "2021.1 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6693.66"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-211.6693.66.tar.gz",
-                        "sha256" : "87990fbfe9eb86dc3dd5374ccf9301bf0424bee039c41480a8f4d8b8001c0e62"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6693",
                             "version" : "2021.1 Beta",
                             "releaseDate" : null,
                             "fullNumber" : "211.6693.7"
@@ -5409,6 +5439,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.6693.114"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2021.1.tar.gz",
+                        "sha256" : "fd82ff4e335f5a69e0e8ac2d442bfb29f5bd11d814b21efc481e0b77499802e3"
+                    },
                     {
                         "build" : {
                             "number" : "203.7717",
@@ -8355,6 +8395,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.6693.118"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2021.1.tar.gz",
+                        "sha256" : "fbd45750ea3ebd2f28b9c00ee247691884a6d877d65d33485fbcf0d04359b38a"
+                    },
                     {
                         "build" : {
                             "number" : "203.7717",
