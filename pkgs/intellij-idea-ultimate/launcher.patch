@@ -27,7 +27,7 @@
 -  message "$TOOLS_MSG (SHELL=$SHELL PATH=$PATH)"
 -  exit 1
 -fi
-+PATH='@PATH@'
++PATH=$PATH:'@PATH@'
 +NATIVE_LIBRARY_PATH='@NATIVE_LIBRARY_PATH@'
  
  # shellcheck disable=SC2034
