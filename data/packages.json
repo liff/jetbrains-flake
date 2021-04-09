@@ -6813,6 +6813,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-08",
+                            "fullNumber" : "211.6693.119"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.1.tar.gz",
+                        "sha256" : "ff53e15131fc9707e406eb95a67ba83b53f85d8870afde388fd08855e669b1c3"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.4",
                             "releaseDate" : "2020-12-03",
@@ -7253,6 +7263,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1",
+                            "releaseDate" : "2021-04-08",
+                            "fullNumber" : "211.6693.120"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2021.1.tar.gz",
+                        "sha256" : "c3f85cea0d4e639ea75e63257604965144edabf049b5077c45a4e8a0703d5514"
+                    },
                     {
                         "build" : {
                             "number" : "203.7717",
