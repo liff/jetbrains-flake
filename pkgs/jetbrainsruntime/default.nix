@@ -6,6 +6,7 @@
 , jetbrainsruntime
 , jetbrains-jcef
 , xdg ? true
+, useSystemHarfbuzz ? false
 }:
 
 let
@@ -31,7 +32,7 @@ openjdk11.overrideAttrs (oldAttrs: {
 
   patches = (oldAttrs.patches or []) ++ (if xdg then [ ./xdg.patch ] else []);
 
-  buildInputs = (oldAttrs.buildInputs or []) ++ [ harfbuzz ];
+  buildInputs = (oldAttrs.buildInputs or []) ++ (if useSystemHarfbuzz then [ harfbuzz ] else []);
 
   configureFlags = [
     "--with-boot-jdk=${openjdk11-bootstrap.home}"
