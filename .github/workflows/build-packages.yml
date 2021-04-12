@@ -35,7 +35,7 @@ jobs:
       - uses: nixbuild/nixbuild-action@v4
         with:
           nixbuild_ssh_key: ${{ secrets.nixbuild_ssh_key }}
-      - uses: cachix/cachix-action@v9
+      - uses: cachix/cachix-action@v10
         with:
           name: liff
           authToken: '${{ secrets.cachix_auth_token }}'
