@@ -2635,6 +2635,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.8084.1-no-jbr.tar.gz",
+                        "sha256" : "18ed1e3f2858214b79922df5220bf17e617a0e8ace9ac7299dc1affe500b37dc"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.3 RC2",
                             "releaseDate" : "2020-12-01",
@@ -2764,6 +2774,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6693.65.tar.gz",
                         "sha256" : "f9d764755f9e975ad30d42baab083e0b9c5d1560b583e5518156ecd691af17bd"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.8084.1.tar.gz",
+                        "sha256" : "0ff2ac1bb6e4195e6e98cf09d3cf22cea53ac1c847fd0e1cdd8c5c3df4691023"
                     },
                     {
                         "build" : {
@@ -3399,6 +3419,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.8084.1-no-jbr.tar.gz",
+                        "sha256" : "cb5e6c2936c6b16ae3e23c188b926ba1c8e966a7c3c3926964e1a81532aafe48"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.3 RC2",
                             "releaseDate" : "2020-12-01",
@@ -3528,6 +3558,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6693.65.tar.gz",
                         "sha256" : "67505b95d47426cc7f9cff22f6d82c1b9d721ccac634a4a44ece32b9745de36e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.8084.1.tar.gz",
+                        "sha256" : "5ecb01029de600bb094a0159a4f39d39a983d59cfaee3530c3a98ab53849901f"
                     },
                     {
                         "build" : {
@@ -5448,6 +5488,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2021.1.tar.gz",
                         "sha256" : "fd82ff4e335f5a69e0e8ac2d442bfb29f5bd11d814b21efc481e0b77499802e3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4",
+                            "releaseDate" : "2020-12-02",
+                            "fullNumber" : "203.8084.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2020.3.4.tar.gz",
+                        "sha256" : "458ae7c8fcae9553ff9f53c0b49734c7c00eb2c10beeac479486984f21d17557"
                     },
                     {
                         "build" : {
