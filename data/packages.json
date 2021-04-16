@@ -8193,6 +8193,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.8084.10.tar.gz",
+                        "sha256" : "de3f92f1b53bc737f7f800c5c7ffcd7d0494f80bb9a41ed823ff98afbf0ed33e"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.3 RC",
                             "releaseDate" : "2020-12-01",
