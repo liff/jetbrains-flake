@@ -5,6 +5,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.7036",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7036.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-211.7036.9-no-jbr.tar.gz",
+                        "sha256" : "5af31c62e3b5c192ee64cae2da2f59f1f85ebf48c30f91fd5efd28dbbe3bca51"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6693",
                             "version" : "2021.1 RC",
                             "releaseDate" : null,
@@ -175,6 +185,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7036",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7036.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-211.7036.9.tar.gz",
+                        "sha256" : "a6a05477a7c13d7a98253bd4cd81edd723f845876e2ff92af65447482e261d7f"
+                    },
                     {
                         "build" : {
                             "number" : "211.6693",
@@ -1319,6 +1339,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.7036",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7036.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-211.7036.9-no-jbr.tar.gz",
+                        "sha256" : "fc2fdf9e8cecc2d7e3959c6c87894ad819adbde3c7d3e7e0dd647406db5713ab"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6693",
                             "version" : "2021.1 RC",
                             "releaseDate" : null,
@@ -1489,6 +1519,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7036",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7036.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-211.7036.9.tar.gz",
+                        "sha256" : "c65e8e05da99c36e44e17b4fd49419547b94aaec994571a2d1cae7a439a0767e"
+                    },
                     {
                         "build" : {
                             "number" : "211.6693",
@@ -7313,6 +7353,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7036",
+                            "version" : "2021.1.1",
+                            "releaseDate" : "2021-04-08",
+                            "fullNumber" : "211.7036.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2021.1.1.tar.gz",
+                        "sha256" : "2c022c790ce0c2d9d9c3a58b40bd87e794f905d1addb953dafe495a0420985b6"
+                    },
                     {
                         "build" : {
                             "number" : "211.6693",
