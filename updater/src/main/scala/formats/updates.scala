@@ -9,7 +9,7 @@ import java.time.format.DateTimeParseException
 import cats.data.{Nested, NonEmptyList, NonEmptySet, OptionT, ValidatedNel}
 import cats.effect.Concurrent
 import cats.syntax.all._
-import org.http4s.scalaxml.implicits._
+import org.http4s.scalaxml._
 import org.http4s.{DecodeResult, EntityDecoder, InvalidMessageBodyFailure}
 
 import scala.collection.immutable.SortedSet

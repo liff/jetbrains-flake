@@ -2,7 +2,7 @@
   description = "Package version updater for JetBrains flake";
 
   inputs = {
-    sbt-derivation.url = "github:liff/sbt-derivation/use-findutils";
+    sbt-derivation.url = "github:zaninime/sbt-derivation";
     flake-utils.url = "github:numtide/flake-utils";
   };
 
@@ -25,7 +25,7 @@
             pname = "jetbrains-updater";
             version = "1";
 
-            depsSha256 = "sha256-YKsTz2lYEv7vV8bzn9mHy37PXPQruvyVbUXsQYyAA1s=";
+            depsSha256 = "sha256-6WdVa4z2uvJ01IRYSZTzqX0T02aqrjYoywUJ6zk7zkQ=";
 
             src = ./.;
 

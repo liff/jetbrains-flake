@@ -4,7 +4,7 @@ import org.http4s.implicits._
 import org.http4s.Uri
 import cats.syntax.all._
 
-import Edition._, Status._, Variant._
+import Edition._, Status._, Distribution._
 
 val updates = uri"https://www.jetbrains.com/updates/updates.xml"
 
@@ -33,12 +33,12 @@ val packagePrefix: PartialFunction[(String, Edition), String] =
   case ("RubyMine", Licensed) => "RubyMine"
   case ("WebStorm", Licensed) => "WebStorm"
 
-def downloadUriFor(product: String, edition: Edition, status: Status, variant: Variant, build: Build): Option[Uri] =
+def downloadUriFor(product: String, edition: Edition, status: Status, distribution: Distribution, build: Build): Option[Uri] =
   (downloadPaths.get(product), packagePrefix.lift((product, edition))).mapN { (path, prefix) =>
     val version = status.match
       case Release => build.version
       case Eap => build.fullNumber.getOrElse(build.number)
-    val vary = variant.match
+    val vary = distribution.match
       case Default => ""
       case NoJbr => "-no-jbr"
     downloadSite / path / s"$prefix-$version$vary.tar.gz"
