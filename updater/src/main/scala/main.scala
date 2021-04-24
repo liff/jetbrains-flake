@@ -35,22 +35,21 @@ object Main extends IOApp:
         products <- http.expect[List[Product]](updates)
 
         packages <- {
-          def resolve(product: String, edition: Edition, status: Status, distribution: Distribution, build: Build) =
-            val known = current.findArtifact(product, edition, status, distribution, build).toOptionT[IO]
+          def resolve(product: String, edition: Edition, status: Status, variant: Variant, build: Build) =
+            val known = current.findArtifact(product, edition, status, variant, build).toOptionT[IO]
 
-            val resolved =
-              for
-                downloadUri <- downloadUriFor(product, edition, status, distribution, build).toOptionT[IO]
-                sha256 <- OptionT(http.expectOption[Sha256](GET(downloadUri % "sha256")))
-              yield Artifact(build, downloadUri, sha256)
+            val resolved = (for
+               downloadUri <- downloadUriFor(product, edition, status, variant, build).toOptionT[IO]
+               sha256 <- OptionT(http.expectOption[Sha256](GET(downloadUri % "sha256")))
+             yield Artifact(build, downloadUri, sha256))
 
             known.orElse(resolved).value
 
           products.collected { case Product(product, _, channels) =>
             product -*> Edition.all.collected { edition =>
               edition -*> channels.parCollected { case Channel(_, _, _, status, _, builds) =>
-                status -*> Distribution.all.collected { distribution =>
-                  distribution -*> builds.parTraverse(resolve(product, edition, status, distribution, _))
+                status -*> Variant.all.collected { variant =>
+                  variant -*> builds.parTraverse(resolve(product, edition, status, variant, _))
                     .map(_.toList.unite.sorted.reverse)
                 }
               }

@@ -2,11 +2,11 @@
   "nodes": {
     "flake-utils": {
       "locked": {
-        "lastModified": 1618217525,
-        "narHash": "sha256-WGrhVczjXTiswQaoxQ+0PTfbLNeOQM6M36zvLn78AYg=",
+        "lastModified": 1614513358,
+        "narHash": "sha256-LakhOx3S1dRjnh0b5Dg3mbZyH0ToC9I8Y2wKSkBaTzU=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "c6169a2772643c4a93a0b5ac1c61e296cba68544",
+        "rev": "5466c5bbece17adaab2d82fae80b46e807611bf3",
         "type": "github"
       },
       "original": {
@@ -17,11 +17,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1618257402,
-        "narHash": "sha256-O+pa8yg553y17SiO/IdhGAFv5lzugA1t+q0OKu/zygI=",
+        "lastModified": 1617446664,
+        "narHash": "sha256-uCoNrNOIIHAo2GH804YV1bbIDgeHMEg/rFEF/OeOxx8=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "0c896e754d968655826d4eeb319dde68cfb33b39",
+        "rev": "8442c216af8ce966796d3096e5ef21b1f20887fb",
         "type": "github"
       },
       "original": {
@@ -38,15 +38,16 @@
     },
     "sbt-derivation": {
       "locked": {
-        "lastModified": 1617466857,
+        "lastModified": 1617456841,
         "narHash": "sha256-Z7eWMLreLtiSiJ3nWDWBy1w9WNEFexkYCgT/dWZF7yo=",
-        "owner": "zaninime",
+        "owner": "liff",
         "repo": "sbt-derivation",
-        "rev": "920b6f187937493371e2b1687261017e6e014cf1",
+        "rev": "e166456210d9860f6c3818393dc4c9c102ca3e14",
         "type": "github"
       },
       "original": {
-        "owner": "zaninime",
+        "owner": "liff",
+        "ref": "use-findutils",
         "repo": "sbt-derivation",
         "type": "github"
       }

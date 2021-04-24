@@ -2,7 +2,7 @@ enablePlugins(NativeImagePlugin)
 
 name := "jetbrains-updater"
 
-scalaVersion := "3.0.0-RC2"
+scalaVersion := "3.0.0-RC1"
 
 scalacOptions ++= Seq(
   "-explain",
@@ -11,21 +11,21 @@ scalacOptions ++= Seq(
   "-release", "11",
   "-unchecked",
 
-  "-Ysafe-init",
+  "-Ycheck-init",
 
   "-Xverify-signatures",
 )
 
 libraryDependencies ++= Seq(
-  "org.scala-lang.modules" %% "scala-xml" % "2.0.0-RC1",
-  "org.typelevel" %% "cats-effect" % "3.0.2",
-  "io.circe" %% "circe-core" % "0.14.0-M5",
-  "io.circe" %% "circe-jawn" % "0.14.0-M5",
-  "io.circe" %% "circe-generic" % "0.14.0-M5",
+  "org.scala-lang.modules" %% "scala-xml" % "2.0.0-M5",
+  "org.typelevel" %% "cats-effect" % "3.0.0-RC2",
+  "io.circe" %% "circe-core" % "0.14.0-M4",
+  "io.circe" %% "circe-jawn" % "0.14.0-M4",
+  "io.circe" %% "circe-generic" % "0.14.0-M4",
   "org.slf4j" % "slf4j-simple" % "1.7.30" % Runtime,
-  "org.http4s" %% "http4s-scala-xml" % "1.0.0-M21",
-  "org.http4s" %% "http4s-circe" % "1.0.0-M21",
-  "org.http4s" %% "http4s-blaze-client" % "1.0.0-M21",
+  "org.http4s" %% "http4s-scala-xml" % "1.0.0-M19",
+  "org.http4s" %% "http4s-circe" % "1.0.0-M19",
+  "org.http4s" %% "http4s-blaze-client" % "1.0.0-M19",
 )
 
 ThisBuild / resolvers += Resolver.JCenterRepository
