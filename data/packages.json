@@ -3041,6 +3041,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2020.3.4-no-jbr.tar.gz",
+                        "sha256" : "77cee95fda64a2b1d4270d789ced5099a1dde35226840bb4e291e7cf7482e7ab"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.3",
                             "releaseDate" : "2020-12-01",
@@ -3270,6 +3280,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.1.tar.gz",
                         "sha256" : "7a6b58967f655473e815e54a4840bc6ed7a61d76f16650ba7702bef6731af5b4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2020.3.4.tar.gz",
+                        "sha256" : "4a963876ae05473f6f13a7b42df84ca3f942f10c529a4ca1e3d9c9d7dd9750f0"
                     },
                     {
                         "build" : {
@@ -3985,6 +4005,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2020.3.4-no-jbr.tar.gz",
+                        "sha256" : "764cf33c243cf777baff09ccf432fa9e9268d60c7dd0d664b6bbceaaebd5d65f"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.3",
                             "releaseDate" : "2020-12-01",
@@ -4214,6 +4244,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.1.tar.gz",
                         "sha256" : "6da2775e43332e42a35afe8d5c3ae9a064880e1ee7386190cf7388886c9dfb52"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2020.3.4.tar.gz",
+                        "sha256" : "da795e821b995025d5454d672b1b241e7631a85a4c1e1aa3287211b4dd34e4b3"
                     },
                     {
                         "build" : {
