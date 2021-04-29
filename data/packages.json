@@ -2706,6 +2706,16 @@
                     {
                         "build" : {
                             "number" : "211.7142",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.7142.36-no-jbr.tar.gz",
+                        "sha256" : "a1e6ba5a50d1ae25f24a04d8486201d26d112230a968f81a9ca19e8b626a1f57"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7142",
                             "version" : "2021.1.1 Preview",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7142.13"
@@ -2865,6 +2875,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.7142.36.tar.gz",
+                        "sha256" : "c7ba99dd905f90b056bc7e61d947cfe9cf2544bca3f737ecebe228e70111c189"
+                    },
                     {
                         "build" : {
                             "number" : "211.7142",
@@ -3670,6 +3690,16 @@
                     {
                         "build" : {
                             "number" : "211.7142",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.7142.36-no-jbr.tar.gz",
+                        "sha256" : "7629c60e67683285da50146f18547394c056e59e4a80cf3359684a6c524658de"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7142",
                             "version" : "2021.1.1 Preview",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7142.13"
@@ -3829,6 +3859,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.7142.36.tar.gz",
+                        "sha256" : "e048e5197e723a1023b4d50ae675a0ce8ed2a592ec3bd0cf1f68991a5d2fcbeb"
+                    },
                     {
                         "build" : {
                             "number" : "211.7142",
@@ -4633,6 +4673,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-06",
+                            "fullNumber" : "211.7142.37"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-211.7142.37.tar.gz",
+                        "sha256" : "55dcc40d12c1823df40f77793b4b1ffc38879784bb2410cdaf0cb30488afcea9"
+                    },
                     {
                         "build" : {
                             "number" : "211.7142",
@@ -8321,6 +8371,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.35"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7142.35.tar.gz",
+                        "sha256" : "d9d5f0e6ba9b32fb1a9be3c3c2586f70456c376327c0bcb1840c08e66ee5bb51"
+                    },
                     {
                         "build" : {
                             "number" : "211.7142",
