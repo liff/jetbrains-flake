@@ -6469,6 +6469,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1",
+                            "releaseDate" : "2021-04-01",
+                            "fullNumber" : "211.7142.37"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.1.1-no-jbr.tar.gz",
+                        "sha256" : "a50d6d337b3c98b44792fccd9ac9fe7052bd84aa535bafaff203b1e769e7198b"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6693",
                             "version" : "2021.1",
                             "releaseDate" : "2021-04-01",
@@ -6659,6 +6669,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1",
+                            "releaseDate" : "2021-04-01",
+                            "fullNumber" : "211.7142.37"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.1.1.tar.gz",
+                        "sha256" : "3d6706ca7eca555633bf5afc7181cbb7f2b5bdddd4023e4811d5d6311706af6a"
+                    },
                     {
                         "build" : {
                             "number" : "211.6693",
@@ -9054,6 +9074,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2021.1.tar.gz",
                         "sha256" : "fbd45750ea3ebd2f28b9c00ee247691884a6d877d65d33485fbcf0d04359b38a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2020.3.4.tar.gz",
+                        "sha256" : "56edc3fa70d82486cafdfece02f40401e7e5d3b279f3cab158c33c8fbc30ebfc"
                     },
                     {
                         "build" : {
