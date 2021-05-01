@@ -3051,6 +3051,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.1.1-no-jbr.tar.gz",
+                        "sha256" : "19ffcfedad31cec173d1c3a82e7d07e758d7637c8d4941a0d8599b7ef01896ce"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6693",
                             "version" : "2021.1",
                             "releaseDate" : "2021-04-07",
@@ -3291,6 +3301,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.1.1.tar.gz",
+                        "sha256" : "8505ba8ff24f595654b82eb45c1fa2f0530a6f307b25cd9858a4bf796e0a5ee9"
+                    },
                     {
                         "build" : {
                             "number" : "211.6693",
@@ -4035,6 +4055,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.1.1-no-jbr.tar.gz",
+                        "sha256" : "31ce6b0173bc8e046b263d7ab5601e3e1d1535a8e14f54487ce8a7f3a525f1a7"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6693",
                             "version" : "2021.1",
                             "releaseDate" : "2021-04-07",
@@ -4275,6 +4305,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.1.1.tar.gz",
+                        "sha256" : "bf8ec348880de90154e8862c8ec9a9d244ded362041945a24b064f6267c82461"
+                    },
                     {
                         "build" : {
                             "number" : "211.6693",
@@ -5187,6 +5227,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1",
+                            "releaseDate" : "2021-04-06",
+                            "fullNumber" : "211.7142.46"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2021.1.1.tar.gz",
+                        "sha256" : "e1fb7a221f052a723c5571429afb8120c31d3234119997047742768d01892cc2"
+                    },
                     {
                         "build" : {
                             "number" : "211.6693",
@@ -7413,6 +7463,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.5",
+                            "releaseDate" : "2020-12-03",
+                            "fullNumber" : "203.8084.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.3.5.tar.gz",
+                        "sha256" : "852fd6c52c2c122c5049f9b8546c26df0eb73f38203e06a28ca0ed401acad175"
+                    },
+                    {
+                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.4",
                             "releaseDate" : "2020-12-03",
@@ -7863,6 +7923,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.2",
+                            "releaseDate" : "2021-04-08",
+                            "fullNumber" : "211.7142.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2021.1.2.tar.gz",
+                        "sha256" : "be6cc4e16883b9312d3afa609aa74df55debb1e19228f80518d0c1d4b02b470b"
+                    },
                     {
                         "build" : {
                             "number" : "211.7036",
@@ -9065,6 +9135,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2021.1.1.tar.gz",
+                        "sha256" : "9572d1d798c1bd45412f70d6fb8a6961e34e3200e430bf0ed52d0e518a934e17"
+                    },
                     {
                         "build" : {
                             "number" : "211.6693",
