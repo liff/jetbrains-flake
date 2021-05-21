@@ -7841,6 +7841,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.3 Preview",
+                            "releaseDate" : "2021-04-08",
+                            "fullNumber" : "211.7442.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.7442.14.tar.gz",
+                        "sha256" : "221e1aa42c946941d6d44b1e8e4545f60aaf157f7456c4f6f82d97e672038f71"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7142",
                             "version" : "2021.1.2 Preview",
                             "releaseDate" : "2021-04-08",
@@ -8501,6 +8511,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2 Preview",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7442.4.tar.gz",
+                        "sha256" : "5015375b9277e455aa97e92b3376caf30234f0c90bed19df48ea617c0f40f204"
+                    },
                     {
                         "build" : {
                             "number" : "211.7142",
