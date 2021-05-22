@@ -5,6 +5,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-211.7442.13-no-jbr.tar.gz",
+                        "sha256" : "354c70251432dad8de0ac84cdec928a458f3b201723a7626da7a7d2bf1f5b39e"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7036",
                             "version" : "2021.1.1 RC",
                             "releaseDate" : "2021-04-07",
@@ -185,6 +195,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-211.7442.13.tar.gz",
+                        "sha256" : "148c5d41fb541042fe4da727ff7e89cb498dddcbdb7e4b11326e91d8b973651b"
+                    },
                     {
                         "build" : {
                             "number" : "211.7036",
@@ -1359,6 +1379,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-211.7442.13-no-jbr.tar.gz",
+                        "sha256" : "50d800dc5dfcdede6d414f0f7b0f74b873bc30e01fd76e89de22d7486919aad6"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7036",
                             "version" : "2021.1.1 RC",
                             "releaseDate" : "2021-04-07",
@@ -1539,6 +1569,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-211.7442.13.tar.gz",
+                        "sha256" : "5ede42e31b2cce99dfcb8c3ea7179bd27c27fc65be5c94978901de7a8fb14803"
+                    },
                     {
                         "build" : {
                             "number" : "211.7036",
