@@ -2746,6 +2746,16 @@
                     {
                         "build" : {
                             "number" : "211.7442",
+                            "version" : "2021.1.2 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.7442.27-no-jbr.tar.gz",
+                        "sha256" : "ffa238577068f7e21296c4ec4a5139b64d9990dfbb545765b9b63d5e003ebd51"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7442",
                             "version" : "2021.1.2 Preview",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7442.9"
@@ -2925,6 +2935,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.7442.27.tar.gz",
+                        "sha256" : "d5767ff380150ce788847355651be9e846e065541aef81095bd075efa69e3b3e"
+                    },
                     {
                         "build" : {
                             "number" : "211.7442",
@@ -3770,6 +3790,16 @@
                     {
                         "build" : {
                             "number" : "211.7442",
+                            "version" : "2021.1.2 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.7442.27-no-jbr.tar.gz",
+                        "sha256" : "5b862281451cedac060000007bc15eaefe389f2f3c3ecf6bd9c7323d57d2d335"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7442",
                             "version" : "2021.1.2 Preview",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7442.9"
@@ -3949,6 +3979,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.7442.27.tar.gz",
+                        "sha256" : "702199e50b0c1fb3f34bd4296909a0e7d74a50ddd0f4e85b51f8052774fe5f05"
+                    },
                     {
                         "build" : {
                             "number" : "211.7442",
@@ -7521,6 +7561,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2",
+                            "releaseDate" : "2021-04-08",
+                            "fullNumber" : "211.7442.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.1.2.tar.gz",
+                        "sha256" : "fd920dddbf60f63811adae2edda3a49274a4aab50bc5b13902506462fdc9403c"
+                    },
                     {
                         "build" : {
                             "number" : "211.7142",
