@@ -2745,6 +2745,106 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.3116",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.3116.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3116.43-no-jbr.tar.gz",
+                        "sha256" : "90a6e0849c992ec69f0600c87ab090e460d914307331cd19879aa1d59bed1684"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6693.14-no-jbr.tar.gz",
+                        "sha256" : "c01e81aca0a6f6f29c7bbf17718697b1aa348ed39d9db616f7924371d0cff265"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6556.6-no-jbr.tar.gz",
+                        "sha256" : "b485824b17dd2543893cee3d2c7b67e85ce1e61fb73bdd4392f8d58c180f44e1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6432",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6432.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6432.7-no-jbr.tar.gz",
+                        "sha256" : "2ab3fe42e9157aed694d9ff0d2c9f797393555bbce98e44e9b9d281791840033"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6305",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6305.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6305.21-no-jbr.tar.gz",
+                        "sha256" : "aee66074280b6471f076e09a8a3f992009a16c4adca6a496e66b3f0e9158bf5c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6222",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6222.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6222.4-no-jbr.tar.gz",
+                        "sha256" : "cdfb6d11ebdcbb5fc7f4e662f9432e6adb9cc4fa9fd859ec2c565343c2f097ac"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6085",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6085.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6085.26-no-jbr.tar.gz",
+                        "sha256" : "3ba9b7bf3d26155cb972bf85fc482b703bd626673797c6fdced7968b993d2a76"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.5787",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.5787.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.5787.15-no-jbr.tar.gz",
+                        "sha256" : "4acdeaa9e3ed825ddb67f742254eeb38fbab2bb037295d9ba024d174d07df9de"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.5538",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.5538.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.5538.20-no-jbr.tar.gz",
+                        "sha256" : "1b55e11c187f468294da2b5e9a57435114976f09aba2043df857bfaf1f468543"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.4961",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.4961.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.4961.33-no-jbr.tar.gz",
+                        "sha256" : "1864edb2f3dac456d3ae24b060ebc882dbac85a89dc4f034f5f9c2020f87749e"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7442",
                             "version" : "2021.1.2 RC",
                             "releaseDate" : "2021-04-07",
@@ -2842,6 +2942,18 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.11-no-jbr.tar.gz",
                         "sha256" : "0ab0d824113940a19aae42ca676ae72990f42df9d97db9874bdfa08e8aa9bcc6"
+                    }
+                ],
+                "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.3116",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.3116.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3116.43.tar.gz",
+                        "sha256" : "1a7eff3b6c8f0b8a351be04177b83f147197213543c122de5278bb0eb908f13f"
                     },
                     {
                         "build" : {
@@ -2850,8 +2962,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6693.14"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6693.14-no-jbr.tar.gz",
-                        "sha256" : "c01e81aca0a6f6f29c7bbf17718697b1aa348ed39d9db616f7924371d0cff265"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6693.14.tar.gz",
+                        "sha256" : "e6cb30098c55fc009c0164976e4330b705668d3afe6cbbb0cd987fe66d832a9d"
                     },
                     {
                         "build" : {
@@ -2860,8 +2972,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6556.6"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6556.6-no-jbr.tar.gz",
-                        "sha256" : "b485824b17dd2543893cee3d2c7b67e85ce1e61fb73bdd4392f8d58c180f44e1"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6556.6.tar.gz",
+                        "sha256" : "05792d286642729454bae501d6fb07689376836ec3ec1bfb9c3570f864a94ec8"
                     },
                     {
                         "build" : {
@@ -2870,8 +2982,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6432.7"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6432.7-no-jbr.tar.gz",
-                        "sha256" : "2ab3fe42e9157aed694d9ff0d2c9f797393555bbce98e44e9b9d281791840033"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6432.7.tar.gz",
+                        "sha256" : "2f74226fac503ade0cd082372a7336a4bab9b2a1d96837140dfbd74cd972f2bc"
                     },
                     {
                         "build" : {
@@ -2880,8 +2992,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6305.21"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6305.21-no-jbr.tar.gz",
-                        "sha256" : "aee66074280b6471f076e09a8a3f992009a16c4adca6a496e66b3f0e9158bf5c"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6305.21.tar.gz",
+                        "sha256" : "6c28b59a5d2e3abd46ae6a173c3eb0e6634d728215f671b32c4c50f504a59071"
                     },
                     {
                         "build" : {
@@ -2890,8 +3002,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6222.4"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6222.4-no-jbr.tar.gz",
-                        "sha256" : "cdfb6d11ebdcbb5fc7f4e662f9432e6adb9cc4fa9fd859ec2c565343c2f097ac"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6222.4.tar.gz",
+                        "sha256" : "e72ce6d408dee010e4e1dd688793323419d1357899c8ef6c0712e22c812c91f1"
                     },
                     {
                         "build" : {
@@ -2900,8 +3012,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6085.26"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6085.26-no-jbr.tar.gz",
-                        "sha256" : "3ba9b7bf3d26155cb972bf85fc482b703bd626673797c6fdced7968b993d2a76"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6085.26.tar.gz",
+                        "sha256" : "c97c0851f0277516d709bb3696587d5e41685b237c57f85354b90cbb196291af"
                     },
                     {
                         "build" : {
@@ -2910,8 +3022,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.5787.15"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.5787.15-no-jbr.tar.gz",
-                        "sha256" : "4acdeaa9e3ed825ddb67f742254eeb38fbab2bb037295d9ba024d174d07df9de"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.5787.15.tar.gz",
+                        "sha256" : "e9ddd4ec2a706e0c152b96a3fda52fa1f566625024c8cc5c28a8e03d71bba5a4"
                     },
                     {
                         "build" : {
@@ -2920,8 +3032,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.5538.20"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.5538.20-no-jbr.tar.gz",
-                        "sha256" : "1b55e11c187f468294da2b5e9a57435114976f09aba2043df857bfaf1f468543"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.5538.20.tar.gz",
+                        "sha256" : "d8ab3050a127b3b47f970fedb4e100521c80a9e18d28d311531b008073bc6daf"
                     },
                     {
                         "build" : {
@@ -2930,11 +3042,9 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.4961.33"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.4961.33-no-jbr.tar.gz",
-                        "sha256" : "1864edb2f3dac456d3ae24b060ebc882dbac85a89dc4f034f5f9c2020f87749e"
-                    }
-                ],
-                "default" : [
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.4961.33.tar.gz",
+                        "sha256" : "6223fd0d4bfc39b8d8bfdbbca0817b07679558c5e733b20824e7621fa686ce0b"
+                    },
                     {
                         "build" : {
                             "number" : "211.7442",
@@ -3034,96 +3144,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-203.7717.11.tar.gz",
                         "sha256" : "ade790af6fd21b9e8d1cb2d1f26cd9a437dee9b2af0a558fa21947e1a8b47258"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6693",
-                            "version" : "2021.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6693.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6693.14.tar.gz",
-                        "sha256" : "e6cb30098c55fc009c0164976e4330b705668d3afe6cbbb0cd987fe66d832a9d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6556",
-                            "version" : "2021.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6556.6"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6556.6.tar.gz",
-                        "sha256" : "05792d286642729454bae501d6fb07689376836ec3ec1bfb9c3570f864a94ec8"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6432",
-                            "version" : "2021.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6432.7"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6432.7.tar.gz",
-                        "sha256" : "2f74226fac503ade0cd082372a7336a4bab9b2a1d96837140dfbd74cd972f2bc"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6305",
-                            "version" : "2021.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6305.21"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6305.21.tar.gz",
-                        "sha256" : "6c28b59a5d2e3abd46ae6a173c3eb0e6634d728215f671b32c4c50f504a59071"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6222",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6222.4"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6222.4.tar.gz",
-                        "sha256" : "e72ce6d408dee010e4e1dd688793323419d1357899c8ef6c0712e22c812c91f1"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6085",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6085.26"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.6085.26.tar.gz",
-                        "sha256" : "c97c0851f0277516d709bb3696587d5e41685b237c57f85354b90cbb196291af"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.5787",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.5787.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.5787.15.tar.gz",
-                        "sha256" : "e9ddd4ec2a706e0c152b96a3fda52fa1f566625024c8cc5c28a8e03d71bba5a4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.5538",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.5538.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.5538.20.tar.gz",
-                        "sha256" : "d8ab3050a127b3b47f970fedb4e100521c80a9e18d28d311531b008073bc6daf"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.4961",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.4961.33"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-211.4961.33.tar.gz",
-                        "sha256" : "6223fd0d4bfc39b8d8bfdbbca0817b07679558c5e733b20824e7621fa686ce0b"
                     }
                 ]
             },
@@ -3789,6 +3809,106 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.3116",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.3116.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3116.43-no-jbr.tar.gz",
+                        "sha256" : "f619f251d4afcd3daa6fb6805f1295736615080b9be6bd11b790b3dca8620e1d"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6693.14-no-jbr.tar.gz",
+                        "sha256" : "cca28115233fc04d119ee505195d1ff1d7417e7d7449a5cc97e3b52a3c7bc1da"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6556",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6556.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6556.6-no-jbr.tar.gz",
+                        "sha256" : "8e9db4eac46221d249193557ec2d8ff4a7cc382e6dfcabd990b5df0901bcb484"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6432",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6432.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6432.7-no-jbr.tar.gz",
+                        "sha256" : "89b624ffea8dd7f6ed0a386cb2e7b9e7b7be40518382d29294c7b2cb002a420f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6305",
+                            "version" : "2021.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6305.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6305.21-no-jbr.tar.gz",
+                        "sha256" : "d886af7e9ad5b2940230243e55e1c0caf5750bf49d297c0477e062eaa12768be"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6222",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6222.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6222.4-no-jbr.tar.gz",
+                        "sha256" : "54cc9d7313a2b3908c2c8bf0a8bd0379d4778d48b80a547f3f81b9f5e0a7aff8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6085",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6085.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6085.26-no-jbr.tar.gz",
+                        "sha256" : "6ca417467aef91c4cc0455c0d102cbb41fbf594a419adb6a18196e742f2d2571"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.5787",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.5787.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.5787.15-no-jbr.tar.gz",
+                        "sha256" : "446a804bcee939cd6a2d242824d9c4b2e59eeb0d6f97a787b65bba8b5479f7b1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.5538",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.5538.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.5538.20-no-jbr.tar.gz",
+                        "sha256" : "78ff52fa48a716f654ad807fe73641d45fbbd69443b8ac06a0fca15e34519b49"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.4961",
+                            "version" : "2021.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.4961.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.4961.33-no-jbr.tar.gz",
+                        "sha256" : "3226f425c7ad9fd237cb314ca35f1d4e8c70c8cef863643c6148e03f950b29d0"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7442",
                             "version" : "2021.1.2 RC",
                             "releaseDate" : "2021-04-07",
@@ -3886,6 +4006,18 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.11-no-jbr.tar.gz",
                         "sha256" : "314aeb581852096e31e70fc27cca45e2e493793031f06b41b13dfa4e3fd47638"
+                    }
+                ],
+                "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.3116",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.3116.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3116.43.tar.gz",
+                        "sha256" : "9df99b91c28d80b8981a1d58938dd49c77278fcc227269aedb82d7689072a51f"
                     },
                     {
                         "build" : {
@@ -3894,8 +4026,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6693.14"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6693.14-no-jbr.tar.gz",
-                        "sha256" : "cca28115233fc04d119ee505195d1ff1d7417e7d7449a5cc97e3b52a3c7bc1da"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6693.14.tar.gz",
+                        "sha256" : "73b8608b4e70d572fa366e950b635cffbfcb0b815d88239db1efadf2b37ff9fc"
                     },
                     {
                         "build" : {
@@ -3904,8 +4036,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6556.6"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6556.6-no-jbr.tar.gz",
-                        "sha256" : "8e9db4eac46221d249193557ec2d8ff4a7cc382e6dfcabd990b5df0901bcb484"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6556.6.tar.gz",
+                        "sha256" : "4f93802d3340560a9bf1bc2ae482583232cbf4f6f04954cfe04e7d0f0304ca30"
                     },
                     {
                         "build" : {
@@ -3914,8 +4046,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6432.7"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6432.7-no-jbr.tar.gz",
-                        "sha256" : "89b624ffea8dd7f6ed0a386cb2e7b9e7b7be40518382d29294c7b2cb002a420f"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6432.7.tar.gz",
+                        "sha256" : "09ade9802d78364d72c8e485d273ccdd9b12363d214ead2f1ac4a72831a4b593"
                     },
                     {
                         "build" : {
@@ -3924,8 +4056,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6305.21"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6305.21-no-jbr.tar.gz",
-                        "sha256" : "d886af7e9ad5b2940230243e55e1c0caf5750bf49d297c0477e062eaa12768be"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6305.21.tar.gz",
+                        "sha256" : "c3cf441f68466ab2e1346c5315272f8cd70bd210f89365b43d146198aeb1441d"
                     },
                     {
                         "build" : {
@@ -3934,8 +4066,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6222.4"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6222.4-no-jbr.tar.gz",
-                        "sha256" : "54cc9d7313a2b3908c2c8bf0a8bd0379d4778d48b80a547f3f81b9f5e0a7aff8"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6222.4.tar.gz",
+                        "sha256" : "a7917c1b201fbb4413f4a3af93104d6d76305a23cb5e9770dae9f12edb75669f"
                     },
                     {
                         "build" : {
@@ -3944,8 +4076,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.6085.26"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6085.26-no-jbr.tar.gz",
-                        "sha256" : "6ca417467aef91c4cc0455c0d102cbb41fbf594a419adb6a18196e742f2d2571"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6085.26.tar.gz",
+                        "sha256" : "d812d05f8c304c70c658504e03f9866c5a03fa7e7cf6d9cc7e8ca7c093013fab"
                     },
                     {
                         "build" : {
@@ -3954,8 +4086,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.5787.15"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.5787.15-no-jbr.tar.gz",
-                        "sha256" : "446a804bcee939cd6a2d242824d9c4b2e59eeb0d6f97a787b65bba8b5479f7b1"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.5787.15.tar.gz",
+                        "sha256" : "319cba534242e6073bf7252130f4fa2d730e8f36d9f4561868a99bc91f307af7"
                     },
                     {
                         "build" : {
@@ -3964,8 +4096,8 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.5538.20"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.5538.20-no-jbr.tar.gz",
-                        "sha256" : "78ff52fa48a716f654ad807fe73641d45fbbd69443b8ac06a0fca15e34519b49"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.5538.20.tar.gz",
+                        "sha256" : "30a3bfa606065c9313e7daea7502d905c19b7892863e0ec04f6a1f2f5d2d8f8a"
                     },
                     {
                         "build" : {
@@ -3974,11 +4106,9 @@
                             "releaseDate" : null,
                             "fullNumber" : "211.4961.33"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.4961.33-no-jbr.tar.gz",
-                        "sha256" : "3226f425c7ad9fd237cb314ca35f1d4e8c70c8cef863643c6148e03f950b29d0"
-                    }
-                ],
-                "default" : [
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.4961.33.tar.gz",
+                        "sha256" : "fdca0791d42d044f29e6aaa32c06ada13c687ed9e95cc59b5b2fb2f83767ca97"
+                    },
                     {
                         "build" : {
                             "number" : "211.7442",
@@ -4078,96 +4208,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-203.7717.11.tar.gz",
                         "sha256" : "aeff92d8b7678bca83395659b18aae042f9989c4f8dfea04dcd97c7a8e4ab6b7"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6693",
-                            "version" : "2021.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6693.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6693.14.tar.gz",
-                        "sha256" : "73b8608b4e70d572fa366e950b635cffbfcb0b815d88239db1efadf2b37ff9fc"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6556",
-                            "version" : "2021.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6556.6"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6556.6.tar.gz",
-                        "sha256" : "4f93802d3340560a9bf1bc2ae482583232cbf4f6f04954cfe04e7d0f0304ca30"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6432",
-                            "version" : "2021.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6432.7"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6432.7.tar.gz",
-                        "sha256" : "09ade9802d78364d72c8e485d273ccdd9b12363d214ead2f1ac4a72831a4b593"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6305",
-                            "version" : "2021.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6305.21"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6305.21.tar.gz",
-                        "sha256" : "c3cf441f68466ab2e1346c5315272f8cd70bd210f89365b43d146198aeb1441d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6222",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6222.4"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6222.4.tar.gz",
-                        "sha256" : "a7917c1b201fbb4413f4a3af93104d6d76305a23cb5e9770dae9f12edb75669f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6085",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6085.26"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.6085.26.tar.gz",
-                        "sha256" : "d812d05f8c304c70c658504e03f9866c5a03fa7e7cf6d9cc7e8ca7c093013fab"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.5787",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.5787.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.5787.15.tar.gz",
-                        "sha256" : "319cba534242e6073bf7252130f4fa2d730e8f36d9f4561868a99bc91f307af7"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.5538",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.5538.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.5538.20.tar.gz",
-                        "sha256" : "30a3bfa606065c9313e7daea7502d905c19b7892863e0ec04f6a1f2f5d2d8f8a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.4961",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.4961.33"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-211.4961.33.tar.gz",
-                        "sha256" : "fdca0791d42d044f29e6aaa32c06ada13c687ed9e95cc59b5b2fb2f83767ca97"
                     }
                 ]
             },
@@ -7349,6 +7389,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "212.3116",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.3116.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-212.3116.33.tar.gz",
+                        "sha256" : "a735cb1bd930ca1f85ffd03396e4828bad1beff41de88c5aa9f1cdc34ea7bb8a"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.6693",
                             "version" : "2021.1 Release Candidate",
                             "releaseDate" : null,
@@ -8633,333 +8683,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "211.7442",
-                            "version" : "2021.1.2 RC",
-                            "releaseDate" : "2021-04-07",
-                            "fullNumber" : "211.7442.28"
+                            "number" : "212.3116",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.3116.4"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7442.28.tar.gz",
-                        "sha256" : "98a906c95a9e7f0d90c4b506734df9e3f61cb170539d43dd6bd0b046b8b806b4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.7442",
-                            "version" : "2021.1.2 Preview",
-                            "releaseDate" : "2021-04-07",
-                            "fullNumber" : "211.7442.4"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7442.4.tar.gz",
-                        "sha256" : "5015375b9277e455aa97e92b3376caf30234f0c90bed19df48ea617c0f40f204"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.7142",
-                            "version" : "2021.1.1 RC",
-                            "releaseDate" : "2021-04-07",
-                            "fullNumber" : "211.7142.35"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7142.35.tar.gz",
-                        "sha256" : "d9d5f0e6ba9b32fb1a9be3c3c2586f70456c376327c0bcb1840c08e66ee5bb51"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.7142",
-                            "version" : "2021.1.1 Preview",
-                            "releaseDate" : "2021-04-07",
-                            "fullNumber" : "211.7142.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7142.14.tar.gz",
-                        "sha256" : "acb1eee0168f15abdcdba9c26ef62d72daa3ccbc40c76b73d498a277327149a1"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.8084",
-                            "version" : "2020.3.4 RC",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.8084.23"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.8084.23.tar.gz",
-                        "sha256" : "a4d14c72ce5b728334ebe7e68229e0deee9770551fc1865f22be398992e3f300"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.8084",
-                            "version" : "2020.3.4 Preview",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.8084.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.8084.10.tar.gz",
-                        "sha256" : "de3f92f1b53bc737f7f800c5c7ffcd7d0494f80bb9a41ed823ff98afbf0ed33e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.3 RC",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7717.47"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.7717.47.tar.gz",
-                        "sha256" : "86859eba69236831772f27eb97a853c4eef35b9272e9f30751d2abbdd10108b0"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.3 Preview",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7717.13"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.7717.13.tar.gz",
-                        "sha256" : "319e2650cbece0310944fd7967020b91b2a8fd05d00aada86523613ba4c74147"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7148",
-                            "version" : "2020.3.3 Preview",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7148.85"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.7148.85.tar.gz",
-                        "sha256" : "1426cdd8f9acdcd1e4f567276eff024e734f6156c5f103771114e27b5865de90"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7148",
-                            "version" : "2020.3.2 RC",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7148.44"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.7148.44.tar.gz",
-                        "sha256" : "da46946555e849e7fe641827cd3a11d9e39bf5a5d813ef6d17eb08958a609f86"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7148",
-                            "version" : "2020.3.2 Preview",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.7148.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.7148.20.tar.gz",
-                        "sha256" : "bebbb26a3a90d8211d7a2f9bd6bd3c92c2fda378d1900432e75aa8870a737fb9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.6682",
-                            "version" : "2020.3.1 RC",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.6682.122"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.6682.122.tar.gz",
-                        "sha256" : "ba72be836d8bef33683eff8f34b694dd0b70974d7bd400e6c67155ba768beb1a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.6682",
-                            "version" : "2020.3.1 Preview",
-                            "releaseDate" : "2020-12-01",
-                            "fullNumber" : "203.6682.69"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.6682.69.tar.gz",
-                        "sha256" : "a66763bd5927eca667dda8a05ab1ee6da3fe080b86edb33f372e10f359000ffe"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.7660",
-                            "version" : "2020.2.3 RC",
-                            "releaseDate" : "2020-07-29",
-                            "fullNumber" : "202.7660.18"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.7660.18.tar.gz",
-                        "sha256" : "da25a1fc762b82c0b7885ef728e45650b59c82c941b8b99f13e822f9398770e0"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.7660",
-                            "version" : "2020.2.3 Preview",
-                            "releaseDate" : "2020-07-29",
-                            "fullNumber" : "202.7660.7"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.7660.7.tar.gz",
-                        "sha256" : "3049301651504ff4db106f3313ee3eb3840d2b4600d7098d71e55c53a2c58d67"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.7319",
-                            "version" : "2020.2.2 RC",
-                            "releaseDate" : "2020-07-29",
-                            "fullNumber" : "202.7319.40"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.7319.40.tar.gz",
-                        "sha256" : "bbf06107620cd21e7108928c8128907e1ed0b578f92e556a6f72e069e6ed111b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.7319",
-                            "version" : "2020.2.2 Preview",
-                            "releaseDate" : "2020-07-29",
-                            "fullNumber" : "202.7319.8"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.7319.8.tar.gz",
-                        "sha256" : "94463ae1da1c34bea4a76c792c1273cf1e879db1e684722d04d8ec464610cd29"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6948",
-                            "version" : "2020.2.1 RC",
-                            "releaseDate" : "2020-07-29",
-                            "fullNumber" : "202.6948.34"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.6948.34.tar.gz",
-                        "sha256" : "1e0685d4f84499d1ed8ce53a979e70d3c5eac606a4d0162216ec667d643f2ff4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6948",
-                            "version" : "2020.2.1 Preview",
-                            "releaseDate" : "2020-07-29",
-                            "fullNumber" : "202.6948.7"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.6948.7.tar.gz",
-                        "sha256" : "6080e4a509f40ae1acb07ef53be369c46569c81d61b8b5ef726168139bd887fe"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.8743",
-                            "version" : "2020.1.4 RC",
-                            "releaseDate" : "2020-04-14",
-                            "fullNumber" : "201.8743.4"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.8743.4.tar.gz",
-                        "sha256" : "6e183c796f68c4761c511be82f5ecdb5584dda2d5ff0b01406f5aae992ffff62"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.8538",
-                            "version" : "2020.1.3 RC",
-                            "releaseDate" : "2020-04-14",
-                            "fullNumber" : "201.8538.18"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.8538.18.tar.gz",
-                        "sha256" : "5fb750b63b336093cb1f8a6d71f58bb3aaada33b0ebc7662d87305b35d586013"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.8538",
-                            "version" : "2020.1.3 Preview",
-                            "releaseDate" : "2020-04-14",
-                            "fullNumber" : "201.8538.2"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.8538.2.tar.gz",
-                        "sha256" : "87c00b3616a48a9aad79ecf277d7d0eb20486d3476848ce4a5103f4ec8acf724"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7846",
-                            "version" : "2020.1.2 RC",
-                            "releaseDate" : "2020-04-14",
-                            "fullNumber" : "201.7846.59"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.7846.59.tar.gz",
-                        "sha256" : "2e7785566c7c24d8aa978dbbf5ea24f46713a714e47f9b917da846f4f283c0ce"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7846",
-                            "version" : "2020.1.2 RC",
-                            "releaseDate" : "2020-04-14",
-                            "fullNumber" : "201.7846.31"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.7846.31.tar.gz",
-                        "sha256" : "6f489e1ff305ef2b654f9d9e5165d0d443821c779c23cc15681bc674c696fcee"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7846",
-                            "version" : "2020.1.2 Preview",
-                            "releaseDate" : "2020-04-14",
-                            "fullNumber" : "201.7846.2"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.7846.2.tar.gz",
-                        "sha256" : "dc2513b26ec56e23a4e1edbb5ec3b2c94c163dec1aa9c419307550a260f621a9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7223",
-                            "version" : "2020.1.1 RC",
-                            "releaseDate" : "2020-04-14",
-                            "fullNumber" : "201.7223.64"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.7223.64.tar.gz",
-                        "sha256" : "ef18796029fcee6e6afd41d95df89cf28e5af434b1fa8e84c38d37c533772e13"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7223",
-                            "version" : "2020.1.1 Preview",
-                            "releaseDate" : "2020-04-14",
-                            "fullNumber" : "201.7223.30"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.7223.30.tar.gz",
-                        "sha256" : "6222301c3907661edd0e5a2d547e741f58097d6f1b5110d1e5a4afcba909c45d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.7288",
-                            "version" : "2019.3.5 RC",
-                            "releaseDate" : "2019-11-28",
-                            "fullNumber" : "193.7288.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.7288.15.tar.gz",
-                        "sha256" : "5eba005f18b79a7fec9fdd33644b38839506282092317b6aac8fd3c1ac3b21f4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.7288",
-                            "version" : "2019.3.5 Preview",
-                            "releaseDate" : "2019-11-28",
-                            "fullNumber" : "193.7288.3"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.7288.3.tar.gz",
-                        "sha256" : "1e50f8dff1b782550e0fbae54fd1e9770fe5f10e02cdda74592c1107ac3bf841"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6911",
-                            "version" : "2019.3.4 RC",
-                            "releaseDate" : "2019-11-28",
-                            "fullNumber" : "193.6911.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.6911.12.tar.gz",
-                        "sha256" : "c10dc9c333543a158e10677cb60b92d0657a69a573622eecc37d0260f100c32f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6911",
-                            "version" : "2019.3.4 Preview",
-                            "releaseDate" : "2019-11-28",
-                            "fullNumber" : "193.6911.6"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.6911.6.tar.gz",
-                        "sha256" : "ac20b4367a99d5f0399ac3d0969863350c5e880338b074f21291f0c5f7cc5768"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6494",
-                            "version" : "2019.3.3 RC",
-                            "releaseDate" : "2019-11-28",
-                            "fullNumber" : "193.6494.17"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.6494.17.tar.gz",
-                        "sha256" : "c93f47cb42476dada4f2847b654b9870bbae8be5003c7fecc3e0541ec6d0057b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6494",
-                            "version" : "2019.3.3 Preview",
-                            "releaseDate" : "2019-11-28",
-                            "fullNumber" : "193.6494.3"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.6494.3.tar.gz",
-                        "sha256" : "acaa170c79be28b359bb7268561cd5692cb375f128ccbe64d496068f0ada76a7"
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.3116.4.tar.gz",
+                        "sha256" : "9bf8fe3b15dffd6f73bbb77aa82cae437e38d080ecd7e985f123be04d6c45778"
                     },
                     {
                         "build" : {
@@ -9320,6 +9050,336 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.4515.22.tar.gz",
                         "sha256" : "a1f6136e82538ab82a67ed0a4840197ded38adf5c2387a512db05f64a502c499"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7442.28.tar.gz",
+                        "sha256" : "98a906c95a9e7f0d90c4b506734df9e3f61cb170539d43dd6bd0b046b8b806b4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2 Preview",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7442.4.tar.gz",
+                        "sha256" : "5015375b9277e455aa97e92b3376caf30234f0c90bed19df48ea617c0f40f204"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.35"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7142.35.tar.gz",
+                        "sha256" : "d9d5f0e6ba9b32fb1a9be3c3c2586f70456c376327c0bcb1840c08e66ee5bb51"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.1 Preview",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7142.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7142.14.tar.gz",
+                        "sha256" : "acb1eee0168f15abdcdba9c26ef62d72daa3ccbc40c76b73d498a277327149a1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4 RC",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.8084.23.tar.gz",
+                        "sha256" : "a4d14c72ce5b728334ebe7e68229e0deee9770551fc1865f22be398992e3f300"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.8084",
+                            "version" : "2020.3.4 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.8084.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.8084.10.tar.gz",
+                        "sha256" : "de3f92f1b53bc737f7f800c5c7ffcd7d0494f80bb9a41ed823ff98afbf0ed33e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.3 RC",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7717.47"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.7717.47.tar.gz",
+                        "sha256" : "86859eba69236831772f27eb97a853c4eef35b9272e9f30751d2abbdd10108b0"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7717",
+                            "version" : "2020.3.3 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7717.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.7717.13.tar.gz",
+                        "sha256" : "319e2650cbece0310944fd7967020b91b2a8fd05d00aada86523613ba4c74147"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7148",
+                            "version" : "2020.3.3 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7148.85"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.7148.85.tar.gz",
+                        "sha256" : "1426cdd8f9acdcd1e4f567276eff024e734f6156c5f103771114e27b5865de90"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7148",
+                            "version" : "2020.3.2 RC",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7148.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.7148.44.tar.gz",
+                        "sha256" : "da46946555e849e7fe641827cd3a11d9e39bf5a5d813ef6d17eb08958a609f86"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7148",
+                            "version" : "2020.3.2 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.7148.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.7148.20.tar.gz",
+                        "sha256" : "bebbb26a3a90d8211d7a2f9bd6bd3c92c2fda378d1900432e75aa8870a737fb9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.6682",
+                            "version" : "2020.3.1 RC",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.6682.122"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.6682.122.tar.gz",
+                        "sha256" : "ba72be836d8bef33683eff8f34b694dd0b70974d7bd400e6c67155ba768beb1a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.6682",
+                            "version" : "2020.3.1 Preview",
+                            "releaseDate" : "2020-12-01",
+                            "fullNumber" : "203.6682.69"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-203.6682.69.tar.gz",
+                        "sha256" : "a66763bd5927eca667dda8a05ab1ee6da3fe080b86edb33f372e10f359000ffe"
+                    },
+                    {
+                        "build" : {
+                            "number" : "202.7660",
+                            "version" : "2020.2.3 RC",
+                            "releaseDate" : "2020-07-29",
+                            "fullNumber" : "202.7660.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.7660.18.tar.gz",
+                        "sha256" : "da25a1fc762b82c0b7885ef728e45650b59c82c941b8b99f13e822f9398770e0"
+                    },
+                    {
+                        "build" : {
+                            "number" : "202.7660",
+                            "version" : "2020.2.3 Preview",
+                            "releaseDate" : "2020-07-29",
+                            "fullNumber" : "202.7660.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.7660.7.tar.gz",
+                        "sha256" : "3049301651504ff4db106f3313ee3eb3840d2b4600d7098d71e55c53a2c58d67"
+                    },
+                    {
+                        "build" : {
+                            "number" : "202.7319",
+                            "version" : "2020.2.2 RC",
+                            "releaseDate" : "2020-07-29",
+                            "fullNumber" : "202.7319.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.7319.40.tar.gz",
+                        "sha256" : "bbf06107620cd21e7108928c8128907e1ed0b578f92e556a6f72e069e6ed111b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "202.7319",
+                            "version" : "2020.2.2 Preview",
+                            "releaseDate" : "2020-07-29",
+                            "fullNumber" : "202.7319.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.7319.8.tar.gz",
+                        "sha256" : "94463ae1da1c34bea4a76c792c1273cf1e879db1e684722d04d8ec464610cd29"
+                    },
+                    {
+                        "build" : {
+                            "number" : "202.6948",
+                            "version" : "2020.2.1 RC",
+                            "releaseDate" : "2020-07-29",
+                            "fullNumber" : "202.6948.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.6948.34.tar.gz",
+                        "sha256" : "1e0685d4f84499d1ed8ce53a979e70d3c5eac606a4d0162216ec667d643f2ff4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "202.6948",
+                            "version" : "2020.2.1 Preview",
+                            "releaseDate" : "2020-07-29",
+                            "fullNumber" : "202.6948.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-202.6948.7.tar.gz",
+                        "sha256" : "6080e4a509f40ae1acb07ef53be369c46569c81d61b8b5ef726168139bd887fe"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.8743",
+                            "version" : "2020.1.4 RC",
+                            "releaseDate" : "2020-04-14",
+                            "fullNumber" : "201.8743.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.8743.4.tar.gz",
+                        "sha256" : "6e183c796f68c4761c511be82f5ecdb5584dda2d5ff0b01406f5aae992ffff62"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.8538",
+                            "version" : "2020.1.3 RC",
+                            "releaseDate" : "2020-04-14",
+                            "fullNumber" : "201.8538.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.8538.18.tar.gz",
+                        "sha256" : "5fb750b63b336093cb1f8a6d71f58bb3aaada33b0ebc7662d87305b35d586013"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.8538",
+                            "version" : "2020.1.3 Preview",
+                            "releaseDate" : "2020-04-14",
+                            "fullNumber" : "201.8538.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.8538.2.tar.gz",
+                        "sha256" : "87c00b3616a48a9aad79ecf277d7d0eb20486d3476848ce4a5103f4ec8acf724"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.7846",
+                            "version" : "2020.1.2 RC",
+                            "releaseDate" : "2020-04-14",
+                            "fullNumber" : "201.7846.59"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.7846.59.tar.gz",
+                        "sha256" : "2e7785566c7c24d8aa978dbbf5ea24f46713a714e47f9b917da846f4f283c0ce"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.7846",
+                            "version" : "2020.1.2 RC",
+                            "releaseDate" : "2020-04-14",
+                            "fullNumber" : "201.7846.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.7846.31.tar.gz",
+                        "sha256" : "6f489e1ff305ef2b654f9d9e5165d0d443821c779c23cc15681bc674c696fcee"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.7846",
+                            "version" : "2020.1.2 Preview",
+                            "releaseDate" : "2020-04-14",
+                            "fullNumber" : "201.7846.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.7846.2.tar.gz",
+                        "sha256" : "dc2513b26ec56e23a4e1edbb5ec3b2c94c163dec1aa9c419307550a260f621a9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.7223",
+                            "version" : "2020.1.1 RC",
+                            "releaseDate" : "2020-04-14",
+                            "fullNumber" : "201.7223.64"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.7223.64.tar.gz",
+                        "sha256" : "ef18796029fcee6e6afd41d95df89cf28e5af434b1fa8e84c38d37c533772e13"
+                    },
+                    {
+                        "build" : {
+                            "number" : "201.7223",
+                            "version" : "2020.1.1 Preview",
+                            "releaseDate" : "2020-04-14",
+                            "fullNumber" : "201.7223.30"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.7223.30.tar.gz",
+                        "sha256" : "6222301c3907661edd0e5a2d547e741f58097d6f1b5110d1e5a4afcba909c45d"
+                    },
+                    {
+                        "build" : {
+                            "number" : "193.7288",
+                            "version" : "2019.3.5 RC",
+                            "releaseDate" : "2019-11-28",
+                            "fullNumber" : "193.7288.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.7288.15.tar.gz",
+                        "sha256" : "5eba005f18b79a7fec9fdd33644b38839506282092317b6aac8fd3c1ac3b21f4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "193.7288",
+                            "version" : "2019.3.5 Preview",
+                            "releaseDate" : "2019-11-28",
+                            "fullNumber" : "193.7288.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.7288.3.tar.gz",
+                        "sha256" : "1e50f8dff1b782550e0fbae54fd1e9770fe5f10e02cdda74592c1107ac3bf841"
+                    },
+                    {
+                        "build" : {
+                            "number" : "193.6911",
+                            "version" : "2019.3.4 RC",
+                            "releaseDate" : "2019-11-28",
+                            "fullNumber" : "193.6911.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.6911.12.tar.gz",
+                        "sha256" : "c10dc9c333543a158e10677cb60b92d0657a69a573622eecc37d0260f100c32f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "193.6911",
+                            "version" : "2019.3.4 Preview",
+                            "releaseDate" : "2019-11-28",
+                            "fullNumber" : "193.6911.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.6911.6.tar.gz",
+                        "sha256" : "ac20b4367a99d5f0399ac3d0969863350c5e880338b074f21291f0c5f7cc5768"
+                    },
+                    {
+                        "build" : {
+                            "number" : "193.6494",
+                            "version" : "2019.3.3 RC",
+                            "releaseDate" : "2019-11-28",
+                            "fullNumber" : "193.6494.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.6494.17.tar.gz",
+                        "sha256" : "c93f47cb42476dada4f2847b654b9870bbae8be5003c7fecc3e0541ec6d0057b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "193.6494",
+                            "version" : "2019.3.3 Preview",
+                            "releaseDate" : "2019-11-28",
+                            "fullNumber" : "193.6494.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-193.6494.3.tar.gz",
+                        "sha256" : "acaa170c79be28b359bb7268561cd5692cb375f128ccbe64d496068f0ada76a7"
                     }
                 ]
             },
