@@ -3151,6 +3151,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.1.2-no-jbr.tar.gz",
+                        "sha256" : "e0d8e565f66d5295f9da3136702c57398e8504d335f375347940d520c48c6066"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7142",
                             "version" : "2021.1.1",
                             "releaseDate" : "2021-04-07",
@@ -3401,6 +3411,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.1.2.tar.gz",
+                        "sha256" : "e2517d79b39581f1548ca4119cb2fa478505cf73203d97b4f3292f05ae71250e"
+                    },
                     {
                         "build" : {
                             "number" : "211.7142",
@@ -4215,6 +4235,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.1.2-no-jbr.tar.gz",
+                        "sha256" : "a59f601182b3b457daeb3f545812ffa85fe4501cfaf185dfc973851915538457"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7142",
                             "version" : "2021.1.1",
                             "releaseDate" : "2021-04-07",
@@ -4465,6 +4495,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.1.2.tar.gz",
+                        "sha256" : "e90e814c9ef629c35bd6aa95b63c5fc48d8eaba78b41deed2557902f7021871f"
+                    },
                     {
                         "build" : {
                             "number" : "211.7142",
@@ -5205,16 +5245,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "211.7442",
-                            "version" : "2021.1.2 RC",
-                            "releaseDate" : "2021-04-06",
-                            "fullNumber" : "211.7442.26"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-211.7442.26.tar.gz",
-                        "sha256" : "64d09352c43488a0b8dc69851a818b5271d3e0b50d8c36c40683817aadb19060"
-                    },
-                    {
-                        "build" : {
                             "number" : "211.7142",
                             "version" : "2021.1.1 RC",
                             "releaseDate" : "2021-04-06",
@@ -5407,6 +5437,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2",
+                            "releaseDate" : "2021-04-06",
+                            "fullNumber" : "211.7442.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2021.1.2.tar.gz",
+                        "sha256" : "64d09352c43488a0b8dc69851a818b5271d3e0b50d8c36c40683817aadb19060"
+                    },
                     {
                         "build" : {
                             "number" : "211.7142",
@@ -6221,6 +6261,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7442.42"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2021.1.2.tar.gz",
+                        "sha256" : "9f4d096918c140d28c766a149ab0c52bddddf5919e1ce28bc092c3d325c7a9ff"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7142",
                             "version" : "2021.1.1",
                             "releaseDate" : "2021-04-07",
@@ -6709,6 +6759,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2",
+                            "releaseDate" : "2021-04-01",
+                            "fullNumber" : "211.7442.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.1.2-no-jbr.tar.gz",
+                        "sha256" : "2182e4004d8281e94837fa6665c2010be497343a441851a3bac862e493031f34"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7142",
                             "version" : "2021.1.1",
                             "releaseDate" : "2021-04-01",
@@ -6909,6 +6969,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.2",
+                            "releaseDate" : "2021-04-01",
+                            "fullNumber" : "211.7442.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.1.2.tar.gz",
+                        "sha256" : "3562149e6340a33d3b986cd70e61e58e1b5043a980fb816b88b89fad4f25cbfe"
+                    },
                     {
                         "build" : {
                             "number" : "211.7142",
