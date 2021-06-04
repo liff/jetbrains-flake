@@ -4955,13 +4955,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "212.3116",
+                            "number" : "212.3724",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "212.3116.45"
+                            "fullNumber" : "212.3724.2"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-212.3116.45.tar.gz",
-                        "sha256" : "7ff0cbda98a507369ec9a0151d678032368c278d03076aa04eb96a75fef13f44"
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-212.3724.2.tar.gz",
+                        "sha256" : "388dfec3a19151a01e0f6cf19bae8bed46579d9391609fcd505b72216076fcc4"
                     },
                     {
                         "build" : {
@@ -8803,13 +8803,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "212.3116",
+                            "number" : "212.3724",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "212.3116.4"
+                            "fullNumber" : "212.3724.3"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.3116.4.tar.gz",
-                        "sha256" : "9bf8fe3b15dffd6f73bbb77aa82cae437e38d080ecd7e985f123be04d6c45778"
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.3724.3.tar.gz",
+                        "sha256" : "3936868b9c2e05493d3154f1a746fcf801259379e0d7523ce9a0097efee18d55"
                     },
                     {
                         "build" : {
