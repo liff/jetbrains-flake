@@ -2785,13 +2785,13 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "212.3116",
+                            "number" : "212.3724",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "212.3116.43"
+                            "fullNumber" : "212.3724.25"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3116.43-no-jbr.tar.gz",
-                        "sha256" : "90a6e0849c992ec69f0600c87ab090e460d914307331cd19879aa1d59bed1684"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3724.25-no-jbr.tar.gz",
+                        "sha256" : "8091933a8a60cae18c2a5aee59f93dcfe82db70cdd4194ff7eb5504caf1cc2de"
                     },
                     {
                         "build" : {
@@ -2987,13 +2987,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "212.3116",
+                            "number" : "212.3724",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "212.3116.43"
+                            "fullNumber" : "212.3724.25"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3116.43.tar.gz",
-                        "sha256" : "1a7eff3b6c8f0b8a351be04177b83f147197213543c122de5278bb0eb908f13f"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3724.25.tar.gz",
+                        "sha256" : "daa0ef0db61c35067ca5137d8e5ef5eed3f18c343e609b5af5c4021dcea23f48"
                     },
                     {
                         "build" : {
@@ -3869,13 +3869,13 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "212.3116",
+                            "number" : "212.3724",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "212.3116.43"
+                            "fullNumber" : "212.3724.25"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3116.43-no-jbr.tar.gz",
-                        "sha256" : "f619f251d4afcd3daa6fb6805f1295736615080b9be6bd11b790b3dca8620e1d"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3724.25-no-jbr.tar.gz",
+                        "sha256" : "2ad1fc9cc90e0e5a3334ae591dd5992fa93c8f33bc31e28b0d2b1836e57325a3"
                     },
                     {
                         "build" : {
@@ -4071,13 +4071,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "212.3116",
+                            "number" : "212.3724",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "212.3116.43"
+                            "fullNumber" : "212.3724.25"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3116.43.tar.gz",
-                        "sha256" : "9df99b91c28d80b8981a1d58938dd49c77278fcc227269aedb82d7689072a51f"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3724.25.tar.gz",
+                        "sha256" : "5c189fa6ccbb8f985391495d1368cc3951d34d10d76f20e7cb30ffea4e08b65a"
                     },
                     {
                         "build" : {
@@ -6795,6 +6795,32 @@
     },
     "DataGrip" : {
         "licensed" : {
+            "eap" : {
+                "nojbr" : [
+                    {
+                        "build" : {
+                            "number" : "212.3724",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.3724.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-212.3724.3-no-jbr.tar.gz",
+                        "sha256" : "fa941cafb9268c10e8685929b377f6b113cfa058f2b66af5a9a832f5e77bbafe"
+                    }
+                ],
+                "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.3724",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.3724.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-212.3724.3.tar.gz",
+                        "sha256" : "f3169c648787cab61e04c0e05cac74cc2fca6bda2251f9e1bcc22c5f3693a204"
+                    }
+                ]
+            },
             "release" : {
                 "nojbr" : [
                     {
@@ -7499,6 +7525,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "212.3724",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.3724.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-212.3724.17.tar.gz",
+                        "sha256" : "b6ad63e98a188658ee633af0c1443ba2b3e3ecd62060e149651289e1f33554a4"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.3116",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
@@ -8121,53 +8157,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "211.7442",
-                            "version" : "2021.1.3 Preview",
-                            "releaseDate" : "2021-04-08",
-                            "fullNumber" : "211.7442.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.7442.14.tar.gz",
-                        "sha256" : "221e1aa42c946941d6d44b1e8e4545f60aaf157f7456c4f6f82d97e672038f71"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.7142",
-                            "version" : "2021.1.2 Preview",
-                            "releaseDate" : "2021-04-08",
-                            "fullNumber" : "211.7142.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.7142.20.tar.gz",
-                        "sha256" : "c5a18deb6517012b873d5307e238d1a5b9f6468f74d28fab7715c9fd4c65fa08"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6693",
-                            "version" : "2021.1 RC",
+                            "number" : "212.3724",
+                            "version" : "2021.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "211.6693.78"
+                            "fullNumber" : "212.3724.24"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.6693.78.tar.gz",
-                        "sha256" : "ee9eb001c24fdeab51ba4f246170e485d01dcec434aeb6324d8a01148e432b9f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7148",
-                            "version" : "2020.3.2 RC",
-                            "releaseDate" : "2020-12-03",
-                            "fullNumber" : "203.7148.50"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-203.7148.50.tar.gz",
-                        "sha256" : "00920a86542fd02cfc8325854256e13b8a8c6d12ff4b96d3109fd89b041499c8"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7148",
-                            "version" : "2020.3.2 Preview",
-                            "releaseDate" : "2020-12-03",
-                            "fullNumber" : "203.7148.26"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-203.7148.26.tar.gz",
-                        "sha256" : "7b138e2442dc539212e63c15b9fafa0ef7ad57e408d14f3c81c1ffb6d30347af"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.3724.24.tar.gz",
+                        "sha256" : "2324b0231a120ee1d7e4c9fe542ed39729f4e37274b203daea0d6aecc130547f"
                     },
                     {
                         "build" : {
@@ -8248,6 +8244,56 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.5538.21.tar.gz",
                         "sha256" : "a18b4eba4b1238831a1a43639e0bc492ff7d0c9ac3c42952abca4d53853a9315"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.3 Preview",
+                            "releaseDate" : "2021-04-08",
+                            "fullNumber" : "211.7442.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.7442.14.tar.gz",
+                        "sha256" : "221e1aa42c946941d6d44b1e8e4545f60aaf157f7456c4f6f82d97e672038f71"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7142",
+                            "version" : "2021.1.2 Preview",
+                            "releaseDate" : "2021-04-08",
+                            "fullNumber" : "211.7142.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.7142.20.tar.gz",
+                        "sha256" : "c5a18deb6517012b873d5307e238d1a5b9f6468f74d28fab7715c9fd4c65fa08"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.6693",
+                            "version" : "2021.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "211.6693.78"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.6693.78.tar.gz",
+                        "sha256" : "ee9eb001c24fdeab51ba4f246170e485d01dcec434aeb6324d8a01148e432b9f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7148",
+                            "version" : "2020.3.2 RC",
+                            "releaseDate" : "2020-12-03",
+                            "fullNumber" : "203.7148.50"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-203.7148.50.tar.gz",
+                        "sha256" : "00920a86542fd02cfc8325854256e13b8a8c6d12ff4b96d3109fd89b041499c8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "203.7148",
+                            "version" : "2020.3.2 Preview",
+                            "releaseDate" : "2020-12-03",
+                            "fullNumber" : "203.7148.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-203.7148.26.tar.gz",
+                        "sha256" : "7b138e2442dc539212e63c15b9fafa0ef7ad57e408d14f3c81c1ffb6d30347af"
                     }
                 ]
             },
