@@ -7645,6 +7645,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "212.4037",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4037.52"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-212.4037.52.tar.gz",
+                        "sha256" : "5b616896e63b862161421cd074430fc35289dde6bd80fb1251e3050ec0122b98"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.3724",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
@@ -7907,6 +7917,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7442",
+                            "version" : "2021.1.3",
+                            "releaseDate" : "2021-04-08",
+                            "fullNumber" : "211.7442.57"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.1.3.tar.gz",
+                        "sha256" : "ade387550e79a8e4cdd31cfbdef5f344f30d2c4e005144a44e95cdb1419ac977"
+                    },
                     {
                         "build" : {
                             "number" : "211.7442",
@@ -8277,13 +8297,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "212.3724",
+                            "number" : "212.4037",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "212.3724.24"
+                            "fullNumber" : "212.4037.57"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.3724.24.tar.gz",
-                        "sha256" : "2324b0231a120ee1d7e4c9fe542ed39729f4e37274b203daea0d6aecc130547f"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.4037.57.tar.gz",
+                        "sha256" : "5d9ee46f6dfd699f0cdf9d5536e7368d6ba3db72e067aaa2b5fea11d8cb6a6a5"
                     },
                     {
                         "build" : {
@@ -8967,6 +8987,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.4037",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4037.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.4037.6.tar.gz",
+                        "sha256" : "1f3cb4ef5e2f8edc7b2ef230aed406a9721669136fed17e806708a15ece8c367"
+                    },
                     {
                         "build" : {
                             "number" : "212.3724",
