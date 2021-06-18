@@ -105,6 +105,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "211.7628",
+                            "version" : "2021.1.3 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7628.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-211.7628.8-no-jbr.tar.gz",
+                        "sha256" : "b0834ae25defc9ae06624092bc9012d10b61af320f0db61a18b0b7021e252858"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7442",
                             "version" : "2021.1.2 RC",
                             "releaseDate" : "2021-04-07",
@@ -304,6 +314,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-202.5792.43.tar.gz",
                         "sha256" : "4252e2e058026875f57317f9119ee764e769c4d050f258805b9bb7521f573b52"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7628",
+                            "version" : "2021.1.3 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7628.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-211.7628.8.tar.gz",
+                        "sha256" : "f1082bd6489a1a2a9eb43193a0dba7881d0e8ff2d06e3da567aca02d58eab886"
                     },
                     {
                         "build" : {
@@ -1519,6 +1539,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "211.7628",
+                            "version" : "2021.1.3 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7628.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-211.7628.8-no-jbr.tar.gz",
+                        "sha256" : "97ef6a474a9d08c26b3af4f6a5cd76097a8943c9390d2aea13b1ded2ddd0c86d"
+                    },
+                    {
+                        "build" : {
                             "number" : "211.7442",
                             "version" : "2021.1.2 RC",
                             "releaseDate" : "2021-04-07",
@@ -1718,6 +1748,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-202.5792.43.tar.gz",
                         "sha256" : "f727a2f3cdabf06d8c84d2b5ed659df0e4bdea2394f295be492ec841e40a8647"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7628",
+                            "version" : "2021.1.3 RC",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7628.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-211.7628.8.tar.gz",
+                        "sha256" : "45e5b23945435918e3396d6f5c130bfce690b5284cb3acb9f3194b82ea0f8b66"
                     },
                     {
                         "build" : {
@@ -6187,6 +6227,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "212.4321",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4321.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-212.4321.2.tar.gz",
+                        "sha256" : "d7ae71aaa833920f76264b8ad0d8d68459c484c101a5b9f942b84b1a75b4cd61"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4037",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
@@ -7683,6 +7733,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.4321",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4321.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-212.4321.4.tar.gz",
+                        "sha256" : "66ec9e3efdcc5fa70daaf3019a40e6fa4fab5f274a36f4b9c38dfa04e6ede0b5"
+                    },
                     {
                         "build" : {
                             "number" : "212.4037",
@@ -9406,6 +9466,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-201.4515.22.tar.gz",
                         "sha256" : "a1f6136e82538ab82a67ed0a4840197ded38adf5c2387a512db05f64a502c499"
+                    },
+                    {
+                        "build" : {
+                            "number" : "211.7628",
+                            "version" : "2021.1.3 Preview",
+                            "releaseDate" : "2021-04-07",
+                            "fullNumber" : "211.7628.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-211.7628.5.tar.gz",
+                        "sha256" : "585d230a405edf94855d3c5b9a8436b85972da5218267c652169be9cb6820854"
                     },
                     {
                         "build" : {
