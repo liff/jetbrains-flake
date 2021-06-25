@@ -12,7 +12,7 @@ in
 
 intellij-idea-community.overrideAttrs (base: rec {
   pname = "intellij-idea-community-eap";
-  version = latest.build.version;
+  version = builtins.replaceStrings [" "] ["+"] latest.build.version;
 
   src = fetchurl {
     url = latest.downloadUri;

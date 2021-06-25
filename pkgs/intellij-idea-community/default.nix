@@ -28,7 +28,7 @@ in
 
 stdenv.mkDerivation rec {
   pname = "intellij-idea-community";
-  version = latest.build.version;
+  version = builtins.replaceStrings [" "] ["+"] latest.build.version;
 
   src = fetchurl {
     url = latest.downloadUri;
