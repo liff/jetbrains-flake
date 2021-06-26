@@ -7895,6 +7895,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "212.4416",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4416.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-212.4416.11.tar.gz",
+                        "sha256" : "db8ab92c014c9b4fbfce6fb67efc3367eec4eb7e15dfe2ae2bf4b4b2a7de07e6"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4321",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
@@ -9267,6 +9277,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.4416",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4416.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.4416.8.tar.gz",
+                        "sha256" : "e1079a4fcb2462bfa4581f2a9b0b725597ac9fc6ee97ef7e6b28973cd0bc426f"
+                    },
                     {
                         "build" : {
                             "number" : "212.4321",
