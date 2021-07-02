@@ -5,6 +5,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.4535",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4535.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-212.4535.11-no-jbr.tar.gz",
+                        "sha256" : "ecec57ce3c1bab2b63507c619a4e7fc4870f8f79cf73f0d74d3709e9bc148bfd"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4321",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
@@ -215,6 +225,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.4535",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4535.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-212.4535.11.tar.gz",
+                        "sha256" : "ca3cc78cb98f3ddeceef1c8e2bc6ced78d28107158c566d89619026b9a69fd9c"
+                    },
                     {
                         "build" : {
                             "number" : "212.4321",
@@ -1459,6 +1479,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.4535",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4535.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-212.4535.11-no-jbr.tar.gz",
+                        "sha256" : "d0e619db21be5ddc21816a2dae3f8c34514945c02fd70680a54592168056921f"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4321",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
@@ -1669,6 +1699,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.4535",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4535.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-212.4535.11.tar.gz",
+                        "sha256" : "067da57a74cdceaf5219e5fd37e36161d58d4ffb680daa6471b9147573d7166a"
+                    },
                     {
                         "build" : {
                             "number" : "212.4321",
@@ -5355,6 +5395,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "212.4535",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4535.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-212.4535.12.tar.gz",
+                        "sha256" : "e3a8aec23c57249993e14f9d84b7b3a29111e82927e50d0010ccecea8c1c5675"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4416",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
@@ -6495,6 +6545,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.4535",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4535.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-212.4535.17.tar.gz",
+                        "sha256" : "b75fda8a63f6d9d1a3228b31112566c01ae06b709f2d341dee05ff6af66b61f3"
+                    },
                     {
                         "build" : {
                             "number" : "212.4416",
@@ -8687,6 +8747,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "212.4535",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4535.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.4535.18.tar.gz",
+                        "sha256" : "6525638af5556e6f120b67412ef38ea6a8ab1dadbc0d3c90d95ac92a51dbd3c4"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4416",
                             "version" : "2021.2 EAP",
                             "releaseDate" : null,
@@ -8849,6 +8919,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "211.7628",
+                            "version" : "2021.1.4",
+                            "releaseDate" : "2021-04-08",
+                            "fullNumber" : "211.7628.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2021.1.4.tar.gz",
+                        "sha256" : "d4100d919715fb218e37cd7ea99cce51f7c22bc41406a7482fa2cabb04452a5d"
+                    },
                     {
                         "build" : {
                             "number" : "211.7442",
@@ -9397,6 +9477,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.4535",
+                            "version" : "2021.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4535.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.4535.14.tar.gz",
+                        "sha256" : "7cb0ded14a07bbf9f6368519d97604599ebe3db7adba0c4f9216320cc67e3381"
+                    },
                     {
                         "build" : {
                             "number" : "212.4416",
