@@ -19,7 +19,7 @@
 , cairo, fontconfig, freetype, mesa
 , atk, at-spi2-core, at-spi2-atk
 , dbus, gdk-pixbuf, glib, gtk2, pango, gnome2
-, libdrm, libxcb, libxkbcommon
+, libdrm, libxcb, libxkbcommon, libxshmfence
 , libX11, libXcomposite, libXdamage
 , libXext, libXfixes, libXi, libXrandr, libXrender
 , libXScrnSaver, libXtst
@@ -27,7 +27,7 @@
 
 let
 
-  version = "87.1.13+g481a82a+chromium-87.0.4280.141";
+  version = "89.0.12+g2b76680+chromium-89.0.4389.90";
 
   extraRpath = lib.makeLibraryPath [ udev pulseaudio ];
 
@@ -45,10 +45,10 @@ let
 
   # Hashes from https://cef-builds.spotifycdn.com/index.html
   cefSrcHashes = {
-    "linux32" = "sha1-mp7eLi+2QIQA3IfGQAkn1NHLR3k=";
-    "linux64" = "sha1-aoyjfBIbaHLnLuEL8v+KZtGcATI=";
-    "linuxarm" = "sha1-v30Lp43gTNENSrJ0gI5fHvL2nfw=";
-    "linuxarm64" = "sha1-Z0YERPXAm3WJOCH+SrfliUA2ROY=";
+    "linux32" = "sha1-P7aarOjYem0Pny21GeslJnFHdJ0=";
+    "linux64" = "sha1-AwFqFKRbSLC0+7b5OzszG20A5RI=";
+    "linuxarm" = "sha1-A+Wxu4UKljJbx+9dP6Bk0mopDaw=";
+    "linuxarm64" = "sha1-icafFk/4tZ4ID6al7okPzazm6aQ=";
   };
 
   cefSrcHash = cefSrcHashes."${cefArch}";
@@ -70,7 +70,7 @@ let
       cairo fontconfig freetype mesa
       atk at-spi2-core at-spi2-atk
       dbus gdk-pixbuf glib gtk2 pango gnome2.GConf gnome2.gtkglext
-      libdrm libxcb libxkbcommon
+      libdrm libxcb libxkbcommon libxshmfence
       libX11 libXcomposite libXdamage
       libXext libXfixes libXi libXrandr libXrender
       libXScrnSaver libXtst
@@ -111,7 +111,7 @@ stdenv.mkDerivation {
   patches = [ ./dont-download-clang-format.patch ];
 
   preBuild = ''
-    export JDK_11=$JAVA_HOME
+    export JDK_11="$JAVA_HOME"
     pushd ../jb/tools/linux
     . ./set_env.sh
     popd
@@ -125,18 +125,18 @@ stdenv.mkDerivation {
     popd
     make -j$NIX_BUILD_CORES
     pushd ../tools
-    bash compile.sh ${cefArch} Release
+    bash compile.sh "${cefArch}" Release
     popd
     runHook postBuild
   '';
 
   installPhase = ''
     runHook preInstall
-    mkdir $out
+    mkdir "$out"
     pushd ..
     bash jb/tools/common/bundle_jogl_gluegen.sh
-    cp -a jcef_build/native/Release/* $out/
-    cp -a "$MODULAR_SDK_DIR" $out/
+    cp -a jcef_build/native/Release/* "$out/"
+    cp -a "$MODULAR_SDK_DIR" "$out/"
     popd
     runHook postInstall
   '';

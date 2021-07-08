@@ -1,10 +1,10 @@
 {
-    "jdkVersion": "11.0.10",
-    "jdkBuildNumber": "0",
-    "buildNumber": "1",
-    "subBuildNumber": "1407",
-    "bundleType": "dcevm",
-    "intellijFullNumber": "211.6693.111",
-    "tag": "jb11_0_10-b1407",
-    "hash": "sha256-qQcDRsQN8RQnY65NoFxXtJfizydqghVhLz8eFadaa4U=="
+    "jdkVersion": "11.0.11",
+    "jdkBuildNumber": "9",
+    "buildNumber": "1341",
+    "subBuildNumber": "60",
+    "bundleType": "jcef",
+    "intellijFullNumber": "211.7628.21",
+    "tag": "jb11_0_11-b60",
+    "hash": "sha256-3GjQOfuoYngF/20qk3pod2DvNPAPES8AEmNieXBr1Zk="
 }
