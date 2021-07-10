@@ -88,14 +88,14 @@ let
 in
 
 stdenv.mkDerivation {
-  pname = "javajetbrains-jcef";
+  pname = "jetbrains-jcef";
   inherit version;
 
   src = fetchFromGitHub {
     owner = "JetBrains";
     repo = "jcef";
-    rev = "dfddc5b8d6bb9f0962a9cc36a31b057926fad7bc";
-    sha256 = "sha256-f9nufAv8VROszkcw9uGYmGVS/tZ7diFlFXdcf5wPPdo=";
+    rev = "4ccf29b795145e5b31df5e5de8cec04e4246fb65";
+    sha256 = "sha256-MgqFaF7CCbUYDNTf30EN2Cq38VqIs9BzwWa5jk3Cvvw=";
     leaveDotGit = true;
   };
 
