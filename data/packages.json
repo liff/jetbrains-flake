@@ -9430,6 +9430,16 @@
                     {
                         "build" : {
                             "number" : "212.4746",
+                            "version" : "2021.2 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "212.4746.79"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.4746.79.tar.gz",
+                        "sha256" : "8d894c0573c28a1641718af02b1e7a85adc3f22f7bd49371f23f1fd13a5c3160"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.4746",
                             "version" : "2021.2 BETA",
                             "releaseDate" : null,
                             "fullNumber" : "212.4746.3"
