@@ -7215,32 +7215,6 @@
     },
     "DataGrip" : {
         "licensed" : {
-            "eap" : {
-                "nojbr" : [
-                    {
-                        "build" : {
-                            "number" : "212.4746",
-                            "version" : "2021.2 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4746.58"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-212.4746.58-no-jbr.tar.gz",
-                        "sha256" : "433264e3efbf90c569fb7a412025522ca6fb1a9e1a3b39b0e3c58d4eb8fdea95"
-                    }
-                ],
-                "default" : [
-                    {
-                        "build" : {
-                            "number" : "212.4746",
-                            "version" : "2021.2 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4746.58"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-212.4746.58.tar.gz",
-                        "sha256" : "53c2b2ca9ecf5c561fb282d90e31ece88efc6218fedeaf2296d906dec4b2f09c"
-                    }
-                ]
-            },
             "release" : {
                 "nojbr" : [
                     {
