@@ -60,7 +60,6 @@ stdenv.mkDerivation rec {
     rm -rf plugins/maven/lib/maven3/lib/jansi-native/{linux32,freebsd32,freebsd64}
     rm -rf plugins/performanceTesting/bin/libyjpagent.so
     rm -rf plugins/webp/lib/libwebp/linux/libwebp_jni.so
-    rm bin/fsnotifier
     rm -rf lib/pty4j-native/linux/{aarch64,mips64el,ppc64le,x86}
     cp -a . $out/lib/$pname/
     ln -s $out/lib/$pname/bin/idea.svg $out/share/pixmaps/$pname.svg
