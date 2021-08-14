@@ -5,6 +5,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5080.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-212.5080.18-no-jbr.tar.gz",
+                        "sha256" : "9a7f139fb62a907e62ac3e97d05b30ac507d61581ea642df628aaa1435effae2"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4746",
                             "version" : "2021.2 RC",
                             "releaseDate" : null,
@@ -245,6 +255,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5080.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-212.5080.18.tar.gz",
+                        "sha256" : "8557c03aa82323db22f0f8fb61d1c5022654a343e3c2f18d710f698d79dc04a6"
+                    },
                     {
                         "build" : {
                             "number" : "212.4746",
@@ -1539,6 +1559,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5080.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-212.5080.18-no-jbr.tar.gz",
+                        "sha256" : "b03d3f23a070b0b8f07a7a0941b0100b8e19480b9d25a68f6d12f47e14d9275a"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4746",
                             "version" : "2021.2 RC",
                             "releaseDate" : null,
@@ -1779,6 +1809,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5080.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-212.5080.18.tar.gz",
+                        "sha256" : "608ae591850c66dba3485ce9b6284ed5f96ef3858eb14e615fd73f8dd30fe9e0"
+                    },
                     {
                         "build" : {
                             "number" : "212.4746",
@@ -7379,6 +7419,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5080.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.2.1-no-jbr.tar.gz",
+                        "sha256" : "92e74d9b86de7235a7f0d3a3fd426d37dc7918fbbe99ecf7cc89602c1a0aeb3f"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4746",
                             "version" : "2021.2",
                             "releaseDate" : "2021-07-27",
@@ -7609,6 +7659,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5080.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.2.1.tar.gz",
+                        "sha256" : "f5244340d39ab34dc11239f93870a5e0d15e3bc6c29941a14832fdb492a437f3"
+                    },
                     {
                         "build" : {
                             "number" : "212.4746",
@@ -8839,6 +8899,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1 Preview",
+                            "releaseDate" : "2021-07-29",
+                            "fullNumber" : "212.5080.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.5080.24.tar.gz",
+                        "sha256" : "ee11bb0b6f0167108bbe36bc1c84255d6e10002dd114f7431dba64578fbb8c59"
+                    },
                     {
                         "build" : {
                             "number" : "212.4746",
