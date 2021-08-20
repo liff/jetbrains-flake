@@ -3106,6 +3106,16 @@
                     {
                         "build" : {
                             "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5080.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.5080.39-no-jbr.tar.gz",
+                        "sha256" : "e004acbad12161cb674bfdafb9988b4fafd4905edb2137957c0f33ed7c5e4150"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5080",
                             "version" : "2021.2.1 Preview",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5080.17"
@@ -3415,6 +3425,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5080.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.5080.39.tar.gz",
+                        "sha256" : "f33310dabc5ad050199ae4fc7352eb607f5fd0149920d7bc35547d2e4474068b"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -4450,6 +4470,16 @@
                     {
                         "build" : {
                             "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5080.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.5080.39-no-jbr.tar.gz",
+                        "sha256" : "9a0aa29a9d237227c32bc061457e8d83770a5091d27058fa6f5a74c5efbdbbcb"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5080",
                             "version" : "2021.2.1 Preview",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5080.17"
@@ -4759,6 +4789,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5080.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.5080.39.tar.gz",
+                        "sha256" : "27f3442bd54a5ccdf588e27ecf59afb98e59694d9bd6bed4ac09146e62099a42"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -5793,6 +5833,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-26",
+                            "fullNumber" : "212.5080.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-212.5080.40.tar.gz",
+                        "sha256" : "f2bc20ec0e99a53d8123fcb8e775f79b96811953c4af5440a98ac171d933a423"
+                    },
                     {
                         "build" : {
                             "number" : "212.4746",
