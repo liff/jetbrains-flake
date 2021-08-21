@@ -8563,6 +8563,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1",
+                            "releaseDate" : "2021-07-29",
+                            "fullNumber" : "212.5080.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.2.1.tar.gz",
+                        "sha256" : "26cd27dfa3f81a21b573f53f511c3ba0345bbca4c4f3942a4ffd3adfb06c0015"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4746",
                             "version" : "2021.2",
                             "releaseDate" : "2021-07-29",
@@ -8949,6 +8959,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-29",
+                            "fullNumber" : "212.5080.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.5080.45.tar.gz",
+                        "sha256" : "26b6120d3a98b19f15d470fd191addec94a1925f73800b37b3ea670ab95101c0"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -9631,6 +9651,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5080.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.5080.43.tar.gz",
+                        "sha256" : "a559697450f627eba984b79d7f5cfd0cf5cbccc32df26545142457d8605198aa"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
