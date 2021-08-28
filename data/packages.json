@@ -511,6 +511,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5080.64"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2021.2.1-no-jbr.tar.gz",
+                        "sha256" : "e9f239b1b1ac3f139e63e2b91dbd74af98f76cc918b4a57e0d5cd5d6eba09118"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4746",
                             "version" : "2021.2",
                             "releaseDate" : "2021-07-28",
@@ -921,6 +931,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5080.64"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2021.2.1.tar.gz",
+                        "sha256" : "c41ff10b200cd18afd8d46100597f78eb8ce85d97b0754120316673ee6f6a9fc"
+                    },
                     {
                         "build" : {
                             "number" : "212.4746",
@@ -2065,6 +2085,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5080.64"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2021.2.1-no-jbr.tar.gz",
+                        "sha256" : "135722a34057696ed079599d7652d69adc64c24e727cd03a5b88df9acf8b2a1b"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.4746",
                             "version" : "2021.2",
                             "releaseDate" : "2021-07-28",
@@ -2475,6 +2505,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5080.64"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2021.2.1.tar.gz",
+                        "sha256" : "828798b73eda6df7ab081dfbbf896ef4e311d9d695a61b4ec010b651729b096a"
+                    },
                     {
                         "build" : {
                             "number" : "212.4746",
@@ -9143,6 +9183,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5080",
+                            "version" : "2021.2.1",
+                            "releaseDate" : "2021-07-29",
+                            "fullNumber" : "212.5080.71"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2021.2.1.tar.gz",
+                        "sha256" : "b32d93846c4fb62ac823780321461d450b80825625638863a08b87d3d0c016c7"
+                    },
                     {
                         "build" : {
                             "number" : "212.4746",
