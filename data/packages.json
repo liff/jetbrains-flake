@@ -8664,6 +8664,16 @@
                     {
                         "build" : {
                             "number" : "212.5080",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-29",
+                            "fullNumber" : "212.5080.74"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.2.2.tar.gz",
+                        "sha256" : "53eed270ab97429d6bd69c54f801dc1a33256e7344d39940758a4e229adfd82b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5080",
                             "version" : "2021.2.1",
                             "releaseDate" : "2021-07-29",
                             "fullNumber" : "212.5080.40"
