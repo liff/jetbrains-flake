@@ -5,6 +5,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5284.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-212.5284.18-no-jbr.tar.gz",
+                        "sha256" : "647d20e6689b9f62c87e5a638c7547d6586979e1905db35d0d7a41437469ce3c"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5080",
                             "version" : "2021.2.1 RC",
                             "releaseDate" : "2021-07-28",
@@ -255,6 +265,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5284.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-212.5284.18.tar.gz",
+                        "sha256" : "7bec25a8b30dc984c1fd72c66d8629f5490909d1bcb100cf4dd26607dfa46541"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -1579,6 +1599,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5284.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-212.5284.18-no-jbr.tar.gz",
+                        "sha256" : "e7d39877f2c54353c63782693d12fb10173d9469bb765e71a17dfe440df2a274"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5080",
                             "version" : "2021.2.1 RC",
                             "releaseDate" : "2021-07-28",
@@ -1829,6 +1859,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5284.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-212.5284.18.tar.gz",
+                        "sha256" : "9059e61950bb28a8790ffaca879ae0f3cbfc165b643bc086de63d7579cfb9224"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -3145,6 +3185,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 Preview",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.5284.19-no-jbr.tar.gz",
+                        "sha256" : "baebed25007aa4f6e4c98431c266d967cda9528e4f43fd1087e06d4af8dea459"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5080",
                             "version" : "2021.2.1 RC",
                             "releaseDate" : "2021-07-27",
@@ -3465,6 +3515,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 Preview",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.5284.19.tar.gz",
+                        "sha256" : "44f9f0280dc3582b67f81325173ad24cbdb58ad2c348ffc933599f50a70520a6"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -4529,6 +4589,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 Preview",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.5284.19-no-jbr.tar.gz",
+                        "sha256" : "ec63bdb7ccdd6c582c9f5acf6000cafb14724e229b482a4aca3da731968f9aed"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5080",
                             "version" : "2021.2.1 RC",
                             "releaseDate" : "2021-07-27",
@@ -4849,6 +4919,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 Preview",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.5284.19.tar.gz",
+                        "sha256" : "f06afb5222a6212bc667742b14eea37e090e94e045068c4d9eff9aa43af7d04e"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -7569,6 +7649,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.2.2-no-jbr.tar.gz",
+                        "sha256" : "3fb55166fdd16ff36307651703934bc4c2dc7297edb4190077840983684241ad"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5080",
                             "version" : "2021.2.1",
                             "releaseDate" : "2021-07-27",
@@ -7809,6 +7899,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.2.2.tar.gz",
+                        "sha256" : "638b2c584a1b90d29e6ada829f8e3cdbfd3aad7afcd30b3a437d90b675adaaa1"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
