@@ -3186,6 +3186,16 @@
                     {
                         "build" : {
                             "number" : "212.5284",
+                            "version" : "2021.2.2 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.5284.31-no-jbr.tar.gz",
+                        "sha256" : "c9b39764305d54b15524b7d23d10f07a3c080c394fb74d6b2f0db8e3e9cb5f34"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5284",
                             "version" : "2021.2.2 Preview",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5284.19"
@@ -3515,6 +3525,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.5284.31.tar.gz",
+                        "sha256" : "47f06a9e5b33132f5d648ebc733f5cd658ab6695808e895c2e4cac5d86c3b5f0"
+                    },
                     {
                         "build" : {
                             "number" : "212.5284",
@@ -4590,6 +4610,16 @@
                     {
                         "build" : {
                             "number" : "212.5284",
+                            "version" : "2021.2.2 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.5284.31-no-jbr.tar.gz",
+                        "sha256" : "9ea5b735c63d57f70422b6adec1c10ec190955d844ae95359cb46da968e923e1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5284",
                             "version" : "2021.2.2 Preview",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5284.19"
@@ -4919,6 +4949,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.5284.31.tar.gz",
+                        "sha256" : "a3f53e04285cf667cffed2939c3d90a552ba6c919301ebddb4820075caa79dde"
+                    },
                     {
                         "build" : {
                             "number" : "212.5284",
