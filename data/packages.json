@@ -6035,6 +6035,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2 RC",
+                            "releaseDate" : "2021-07-26",
+                            "fullNumber" : "212.5284.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-212.5284.34.tar.gz",
+                        "sha256" : "f1b20df5a1701cf6f79d1fb2066c5dd592b45c33e654d00621825fe6eaf850d2"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5080",
                             "version" : "2021.2.1 RC",
                             "releaseDate" : "2021-07-26",
