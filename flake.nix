@@ -9,7 +9,7 @@
           "intellij-idea-community"
           "intellij-idea-community-eap"
           "intellij-idea-ultimate"
-          #          "intellij-idea-ultimate-eap"
+          "intellij-idea-ultimate-jbr"
         ];
 
         toFlakePackage = system: name: {
