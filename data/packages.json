@@ -531,6 +531,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5284.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2021.2.2-no-jbr.tar.gz",
+                        "sha256" : "82b7bbedebc5cbf5f86711097abb7835b86a7f3ebacc4f4f388aa89297c43070"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5080",
                             "version" : "2021.2.1",
                             "releaseDate" : "2021-07-28",
@@ -951,6 +961,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5284.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2021.2.2.tar.gz",
+                        "sha256" : "5be617a97ab3bd26f0453a7b1e2193c5a042eade2f712f22ded43055ec983369"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -2125,6 +2145,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5284.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2021.2.2-no-jbr.tar.gz",
+                        "sha256" : "099a7df8ef197c75242058b25df5af967809a7c178a1237b9271a67e7a02740f"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5080",
                             "version" : "2021.2.1",
                             "releaseDate" : "2021-07-28",
@@ -2545,6 +2575,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5284.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2021.2.2.tar.gz",
+                        "sha256" : "a6dc59213bdd728b628f14179e3da271eea2344cced8ee50be71582392abf555"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -3871,6 +3911,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.2.2-no-jbr.tar.gz",
+                        "sha256" : "a7ba1bb6677fb4c9a7b00e2b3934b145ab18e19ef05da08d6d0d5fcfd678d048"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5080",
                             "version" : "2021.2.1",
                             "releaseDate" : "2021-07-27",
@@ -4161,6 +4211,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.2.2.tar.gz",
+                        "sha256" : "919002deb71b764aa2a072996d07338294f1a2ea8ea0028f036f01296bf5a96f"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -5295,6 +5355,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.2.2-no-jbr.tar.gz",
+                        "sha256" : "1529470e66928f59feb8812996a79c728a1abc1c2d7ee2f8560693c77a852f1b"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5080",
                             "version" : "2021.2.1",
                             "releaseDate" : "2021-07-27",
@@ -5585,6 +5655,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5284.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.2.2.tar.gz",
+                        "sha256" : "36807af6a60a31590fb51f40a87c764007dae6866b05586ebb15d2d13933bde6"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -6257,6 +6337,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.2",
+                            "releaseDate" : "2021-07-26",
+                            "fullNumber" : "212.5284.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2021.2.2.tar.gz",
+                        "sha256" : "226d039746ac2a6148e7c7b7b45ae87f0080eb64ede78e85226cd9a43ea67ba8"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
@@ -8811,6 +8901,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5284",
+                            "version" : "2021.2.3",
+                            "releaseDate" : "2021-07-29",
+                            "fullNumber" : "212.5284.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.2.3.tar.gz",
+                        "sha256" : "af413a8357c15ba1aebd4594a4cb9988473d1319df2c815a5697ec5ec0cc1ed8"
+                    },
                     {
                         "build" : {
                             "number" : "212.5080",
