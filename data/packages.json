@@ -10703,6 +10703,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "212.5457",
+                            "version" : "2021.2.3 Preview",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5457.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.5457.5.tar.gz",
+                        "sha256" : "b65947583351e1c38982bb05f6601189e2cdf83a8314afc94b0ca70eb1344d91"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5284",
                             "version" : "2021.2.2 RC",
                             "releaseDate" : "2021-07-27",
