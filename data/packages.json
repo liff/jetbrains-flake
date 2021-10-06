@@ -10333,13 +10333,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "213.3714",
+                            "number" : "213.4293",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "213.3714.431"
+                            "fullNumber" : "213.4293.18"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.3714.431.tar.gz",
-                        "sha256" : "6947bd6eb3d4093ce7d68c2a2309c4a582aa374a85c9a68b65ff9dbc97d14db8"
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.4293.18.tar.gz",
+                        "sha256" : "448a407425fc0705b261027d7be74d489bbd7012dfd55be2f1f789a51bcd0424"
                     },
                     {
                         "build" : {
