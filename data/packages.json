@@ -5,13 +5,13 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "213.3714",
+                            "number" : "213.4631",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "213.3714.452"
+                            "fullNumber" : "213.4631.9"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.3714.452-no-jbr.tar.gz",
-                        "sha256" : "73a980aa8bb08bf152d2fe6a0fba4007928d06be5e5ac169ee7e1c022e0a9440"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.4631.9-no-jbr.tar.gz",
+                        "sha256" : "71d77c8823540088752ca8757627ca71ff4d5563c83edabd8d76eeb83a1d471c"
                     },
                     {
                         "build" : {
@@ -287,13 +287,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "213.3714",
+                            "number" : "213.4631",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "213.3714.452"
+                            "fullNumber" : "213.4631.9"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.3714.452.tar.gz",
-                        "sha256" : "497046270707f16791bbe7aa71cdeb1a36611d3726d386dbe57565a4a6d2183f"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.4631.9.tar.gz",
+                        "sha256" : "a7d70884b23cf040fba41618b5df4dabd4772c77f9abab5b0cc4bff882d771f8"
                     },
                     {
                         "build" : {
@@ -1659,13 +1659,13 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "213.3714",
+                            "number" : "213.4631",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "213.3714.452"
+                            "fullNumber" : "213.4631.9"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.3714.452-no-jbr.tar.gz",
-                        "sha256" : "ebf8b95bd80efbf968e0b64ac7a37c563958e733c126e297bce30ad403757e9f"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.4631.9-no-jbr.tar.gz",
+                        "sha256" : "79f36f81ce4607f90f5046210e21df0c731ee7df9a16426ff12cd708ebc15562"
                     },
                     {
                         "build" : {
@@ -1941,13 +1941,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "213.3714",
+                            "number" : "213.4631",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "213.3714.452"
+                            "fullNumber" : "213.4631.9"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.3714.452.tar.gz",
-                        "sha256" : "62e0ce8e1da626e41e66990b7041c99053e1e913c2173cc4758c56de8144da32"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.4631.9.tar.gz",
+                        "sha256" : "9abc273e5afcba4aef0f949ef1c900c529e59003291c72cfc12ceabccc36cad5"
                     },
                     {
                         "build" : {
@@ -7175,6 +7175,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.4631",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4631.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.4631.3.tar.gz",
+                        "sha256" : "181538faa350c2d5eef5d3855211ab8333f60c62f60965c17fd5781e4c62f1f2"
+                    },
                     {
                         "build" : {
                             "number" : "213.4293",
