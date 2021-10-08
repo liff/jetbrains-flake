@@ -293,7 +293,7 @@
                             "fullNumber" : "213.4631.9"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.4631.9.tar.gz",
-                        "sha256" : "a7d70884b23cf040fba41618b5df4dabd4772c77f9abab5b0cc4bff882d771f8"
+                        "sha256" : "65842639109a3b0e7cacf7583a4115382704812011903d8405418b71b71ef329"
                     },
                     {
                         "build" : {
@@ -1947,7 +1947,7 @@
                             "fullNumber" : "213.4631.9"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.4631.9.tar.gz",
-                        "sha256" : "9abc273e5afcba4aef0f949ef1c900c529e59003291c72cfc12ceabccc36cad5"
+                        "sha256" : "83c08c5598401308d4d16cfec19958c7f646f6ab67e9b409b00099d5af621176"
                     },
                     {
                         "build" : {
@@ -6315,6 +6315,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "213.4631",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4631.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-213.4631.27.tar.gz",
+                        "sha256" : "6e30fc75ee1ccaa463eaa16b0fcb5908111c4e13020e51bc15af7ce8e1f3990d"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.4293",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -8035,6 +8045,32 @@
     },
     "DataGrip" : {
         "licensed" : {
+            "eap" : {
+                "nojbr" : [
+                    {
+                        "build" : {
+                            "number" : "213.4631",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4631.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-213.4631.26-no-jbr.tar.gz",
+                        "sha256" : "bfa0e1550c378f18c30c42e99e9b79f1113ed392152d9ad4b23c26944f1e14b3"
+                    }
+                ],
+                "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.4631",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4631.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-213.4631.26.tar.gz",
+                        "sha256" : "1e0f94c2e777aaccd096037478ef0254106c90f819277222edc9f0532962349f"
+                    }
+                ]
+            },
             "release" : {
                 "nojbr" : [
                     {
