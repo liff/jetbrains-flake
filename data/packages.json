@@ -3305,6 +3305,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.4631",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4631.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.4631.20-no-jbr.tar.gz",
+                        "sha256" : "de7ec00d378b2e4fe00b862d127fbcc0d820482349bd11899e302e3af3239d51"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.4293",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -3675,6 +3685,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.4631",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4631.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.4631.20.tar.gz",
+                        "sha256" : "59d1e278ff0f204a5b3c9b0ab1c549a97bfaeaa20b6ad8ab40b04a324415eec4"
+                    },
                     {
                         "build" : {
                             "number" : "213.4293",
@@ -4809,6 +4829,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.4631",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4631.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.4631.20-no-jbr.tar.gz",
+                        "sha256" : "4d7267349866cafe470533733aa72d698f10259f6a1a6327a66c25f1743feb00"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.4293",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -5179,6 +5209,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.4631",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4631.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.4631.20.tar.gz",
+                        "sha256" : "93bc036c87c8a993e98cb27afbd30d33d44f0b68ff839c8ea64897a57b85502b"
+                    },
                     {
                         "build" : {
                             "number" : "213.4293",
@@ -8076,6 +8116,16 @@
                     {
                         "build" : {
                             "number" : "212.5457",
+                            "version" : "2021.2.4",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5457.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.2.4-no-jbr.tar.gz",
+                        "sha256" : "01c0994f32c41d0ed257ec5c2402887d75e7807a3a8ea3ecae5c3de7bb20de16"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5457",
                             "version" : "2021.2.3",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5457.16"
@@ -8335,6 +8385,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5457",
+                            "version" : "2021.2.4",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5457.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.2.4.tar.gz",
+                        "sha256" : "c62168e72e875fb72472c14c0252fb3f61498f00b222ff2c18701dc03f8c49ee"
+                    },
                     {
                         "build" : {
                             "number" : "212.5457",
@@ -8873,6 +8933,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.4631",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4631.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-213.4631.21.tar.gz",
+                        "sha256" : "370fc3ae423e58fc092fbe5db0f1531c4dedda1d59f28b7ba948021a780f8071"
+                    },
                     {
                         "build" : {
                             "number" : "213.4293",
@@ -9635,6 +9705,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.4631",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4631.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-213.4631.27.tar.gz",
+                        "sha256" : "8be3e130b78534c62d3aebcef68a39ca248dc5388a9977677bb7a75ef580f911"
+                    },
                     {
                         "build" : {
                             "number" : "213.4293",
