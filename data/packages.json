@@ -7267,6 +7267,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "213.4928",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4928.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.4928.11.tar.gz",
+                        "sha256" : "fa74a1e1433fdcd662d7cfae50b914f0b2eb3275b21a9e1caa50efac0f913a81"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.4631",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -8975,6 +8985,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "213.4928",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4928.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-213.4928.8.tar.gz",
+                        "sha256" : "b05a057b0973811c19443d837c549613087c3d4e6253acc9e27830251698e3a4"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.4631",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -9747,6 +9767,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "213.4928",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4928.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-213.4928.13.tar.gz",
+                        "sha256" : "529912083412698799426db22ec08d4db48866a1d71da5544b75cbd07ce35657"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.4631",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -10497,6 +10527,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.4928",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.4928.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.4928.2.tar.gz",
+                        "sha256" : "eb67cd09f3d9f75881168a0c1ec894241be7071db08a96941dfa74db5246bb4f"
+                    },
                     {
                         "build" : {
                             "number" : "213.4631",
