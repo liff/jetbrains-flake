@@ -5,6 +5,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.5281",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5281.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.5281.17-no-jbr.tar.gz",
+                        "sha256" : "a7988bc4820c15ac7d1573e8f1211c3ce93f46c23fdd90c4d939a20fea5c27d9"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.4631",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -25,6 +35,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5281",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5281.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.5281.17.tar.gz",
+                        "sha256" : "3510fba44c838e995c4662484f0d2edde107d2c37755bc0a2537562dd948858a"
+                    },
                     {
                         "build" : {
                             "number" : "213.4631",
@@ -1159,6 +1179,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.5281",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5281.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.5281.17-no-jbr.tar.gz",
+                        "sha256" : "3566d58b51700556d026331d4d6132d9d1861c538d47fbff6a9833f3cb322374"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.4631",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -1179,6 +1209,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5281",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5281.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.5281.17.tar.gz",
+                        "sha256" : "8f1cb52ad319148b57f94516117dc48ed53f6d0684d2faec5e865dceb405a69c"
+                    },
                     {
                         "build" : {
                             "number" : "213.4631",
@@ -2305,6 +2345,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.5281",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5281.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.5281.15-no-jbr.tar.gz",
+                        "sha256" : "689ba61dbd399bce6361a3856e5ed78a193aac413a801819373a67fcd13e2e2c"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.4928",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -2575,6 +2625,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5281",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5281.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.5281.15.tar.gz",
+                        "sha256" : "499922676d74d90f7e26635544779c7faa1fee2b162264bc7b4413294d893f3d"
+                    },
                     {
                         "build" : {
                             "number" : "213.4928",
@@ -3629,6 +3689,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.5281",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5281.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.5281.15-no-jbr.tar.gz",
+                        "sha256" : "40de7d2fb133d162eb8b24569121e0f614b6585158b5b9c427c827e71477b22e"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.4928",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -3899,6 +3969,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5281",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5281.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.5281.15.tar.gz",
+                        "sha256" : "42c7b5acc566beb6d48de79eb20a4b93132b1dcfb5d7eafb6cd171a6acfd7ed4"
+                    },
                     {
                         "build" : {
                             "number" : "213.4928",
@@ -4953,6 +5033,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5281",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5281.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-213.5281.15.tar.gz",
+                        "sha256" : "7fd3f63b2fde8a8f7d82783986b3009e538a41be7bb22f69c3f8f7ed19f84b54"
+                    },
                     {
                         "build" : {
                             "number" : "213.4928",
@@ -7937,6 +8027,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "212.5457",
+                            "version" : "2021.2.4",
+                            "releaseDate" : "2021-07-29",
+                            "fullNumber" : "212.5457.54"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.2.4.tar.gz",
+                        "sha256" : "c5c08a210358f291f7abffce4d151d43ddfbd38077b353e9ba24972fd1f7a70f"
+                    },
                     {
                         "build" : {
                             "number" : "212.5284",
