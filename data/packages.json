@@ -6819,25 +6819,25 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "213.4631",
+                            "number" : "213.5449",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "213.4631.26"
+                            "fullNumber" : "213.5449.24"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-213.4631.26-no-jbr.tar.gz",
-                        "sha256" : "bfa0e1550c378f18c30c42e99e9b79f1113ed392152d9ad4b23c26944f1e14b3"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-213.5449.24-no-jbr.tar.gz",
+                        "sha256" : "7281ef455747c44b1989fed2756c5504d62b21806301c234c82b97b773dcf7ce"
                     }
                 ],
                 "default" : [
                     {
                         "build" : {
-                            "number" : "213.4631",
+                            "number" : "213.5449",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "213.4631.26"
+                            "fullNumber" : "213.5449.24"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-213.4631.26.tar.gz",
-                        "sha256" : "1e0f94c2e777aaccd096037478ef0254106c90f819277222edc9f0532962349f"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-213.5449.24.tar.gz",
+                        "sha256" : "4a188763302f7e5e2146399b1b84076c7f2908f4405ef3a6cf6afa2e48d322c3"
                     }
                 ]
             },
