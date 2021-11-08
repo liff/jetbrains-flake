@@ -35,7 +35,6 @@ stdenv.mkDerivation rec {
     sha256 = latest.sha256;
   };
 
-  preferLocalBuild = true;
   dontStrip = true;
   
   nativeBuildInputs = [ makeWrapper patchelf unzip gnused autoPatchelfHook wrapGAppsHook copyDesktopItems ];
@@ -90,6 +89,6 @@ stdenv.mkDerivation rec {
     '';
     maintainers = with maintainers; [ liff ];
     license = lib.licenses.asl20;
-    platforms = platforms.linux ++ platforms.darwin;
+    platforms = jetbrainsruntime.meta.platforms;
   };
 }

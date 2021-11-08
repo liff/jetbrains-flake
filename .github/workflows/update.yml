@@ -1,3 +1,4 @@
+---
 name: Refresh product versions
 
 on:
@@ -19,7 +20,6 @@ jobs:
           fetch-depth: 0
       - uses: cachix/install-nix-action@v14
         with:
-          install_url: https://github.com/numtide/nix-unstable-installer/releases/download/nix-2.4pre20210823_af94b54/install
           nix_path: nixpkgs=channel:nixos-unstable
           extra_nix_config: |
             experimental-features = nix-command flakes
@@ -30,11 +30,11 @@ jobs:
       - name: Run updater
         run: nix -L run ./updater -- data/packages.json
 
-#      - name: Run JBR updater
-#        run: ./pkgs/jetbrainsruntime/update data/packages.json data/jetbrainsruntime.json
+      - name: Run JBR updater
+        run: ./pkgs/jetbrainsruntime/update data/packages.json data/jetbrainsruntime.json
 
       - name: Commit changes, if any
-        uses: EndBug/add-and-commit@v7.4.0
+        uses: EndBug/add-and-commit@v7
         with:
           add: 'data'
           author_name: github-actions

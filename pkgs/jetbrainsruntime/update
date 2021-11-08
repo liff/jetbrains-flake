@@ -53,7 +53,7 @@ else:
     new_version_info["intellijFullNumber"] = latest_intellij_full_number
     new_version_info[
         "tag"
-    ] = f"jb{new_version_info['jdkVersion'].replace('.', '_')}-b{new_version_info['subBuildNumber']}"
+    ] = f"jb{new_version_info['jdkVersion'].replace('.', '_')}-b{new_version_info['buildNumber']}.{new_version_info['subBuildNumber']}"
 
     print(f"Getting hash for tag {new_version_info['tag']}…")
     repo = nix_prefetch_github(owner="JetBrains", repo="JetBrainsRuntime", rev=new_version_info["tag"])

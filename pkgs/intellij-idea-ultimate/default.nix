@@ -36,8 +36,7 @@ stdenv.mkDerivation rec {
   };
 
   dontStrip = true;
-  preferLocalBuild = true;
-  
+
   nativeBuildInputs = [ makeWrapper patchelf unzip gnused autoPatchelfHook wrapGAppsHook copyDesktopItems ];
 
   buildInputs = [ stdenv.cc.cc.lib libdbusmenu lldb ];
@@ -94,6 +93,6 @@ stdenv.mkDerivation rec {
     '';
     maintainers = with maintainers; [ liff ];
     license = lib.licenses.unfree;
-    platforms = platforms.linux ++ platforms.darwin;
+    platforms = jetbrainsruntime.meta.platforms;
   };
 }

@@ -8,6 +8,7 @@
 , ant
 , fetchFromGitHub
 , fetchurl
+, unzip
 
 , autoPatchelfHook, wrapGAppsHook
 , pkg-config
@@ -27,62 +28,51 @@
 
 let
 
-  version = "89.0.12+g2b76680+chromium-89.0.4389.90";
-
-  extraRpath = lib.makeLibraryPath [ udev pulseaudio ];
+  version = "89.1.10+g0fc388a+chromium-89.0.4389.114";
 
   cefArchs = {
-    "i686-linux" = "linux32";
     "x86_64-linux" = "linux64";
-    "armv6l-linux" = "linuxarm";
-    "armv7l-linux" = "linuxarm";
-    "aarch64-linux" = "linuxarm64";
   };
 
   cefArch = cefArchs."${stdenv.hostPlatform.system}";
 
-  cefSrcUrl = "https://cef-builds.spotifycdn.com/cef_binary_${version}_${cefArch}.tar.bz2";
+  cefFilename = "cef_binary_${version}_${cefArch}_minimal";
 
-  # Hashes from https://cef-builds.spotifycdn.com/index.html
+  cefSrcUrl = "https://cache-redirector.jetbrains.com/intellij-jbr/${builtins.replaceStrings ["+"] ["%2B"] cefFilename}.zip";
+
   cefSrcHashes = {
-    "linux32" = "sha1-P7aarOjYem0Pny21GeslJnFHdJ0=";
-    "linux64" = "sha1-AwFqFKRbSLC0+7b5OzszG20A5RI=";
-    "linuxarm" = "sha1-A+Wxu4UKljJbx+9dP6Bk0mopDaw=";
-    "linuxarm64" = "sha1-icafFk/4tZ4ID6al7okPzazm6aQ=";
+    "linux64" = "sha256-d9ISyhEQBWsL5qdHfo1FqOPw7hlZ/9Zb1HUpoW2cK30=";
   };
 
   cefSrcHash = cefSrcHashes."${cefArch}";
 
-  cefBinary = stdenv.mkDerivation {
-    pname = "cef-binary";
-    inherit version;
+  cefSrc = fetchurl {
+    url = cefSrcUrl;
+    hash = cefSrcHash;
+    name = "${cefFilename}.zip";
+  };
 
-    src = fetchurl {
-      url = cefSrcUrl;
-      hash = cefSrcHash;
-    };
+  cefBuildInputs = [
+    expat nspr nss
+    alsaLib cups
+    cairo fontconfig freetype mesa
+    atk at-spi2-core at-spi2-atk
+    dbus gdk-pixbuf glib gtk2 pango gnome2.GConf gnome2.gtkglext
+    libdrm libxcb libxkbcommon libxshmfence
+    libX11 libXcomposite libXdamage
+    libXext libXfixes libXi libXrandr libXrender
+    libXScrnSaver libXtst
+  ];
 
-    nativeBuildInputs = [ autoPatchelfHook wrapGAppsHook ];
+  extraRpath = lib.makeLibraryPath [ udev pulseaudio ];
 
-    buildInputs = [
-      expat nspr nss
-      alsaLib cups
-      cairo fontconfig freetype mesa
-      atk at-spi2-core at-spi2-atk
-      dbus gdk-pixbuf glib gtk2 pango gnome2.GConf gnome2.gtkglext
-      libdrm libxcb libxkbcommon libxshmfence
-      libX11 libXcomposite libXdamage
-      libXext libXfixes libXi libXrandr libXrender
-      libXScrnSaver libXtst
-    ];
-
-    dontBuild = true;
-
-    installPhase = ''
-      runHook preInstall
-      cp -va . "$out"
-      runHook postInstall
-    '';
+  jcefSrc = fetchFromGitHub {
+    owner = "JetBrains";
+    repo = "jcef";
+    rev = "e6e523582e66ecf226fcc6a1d163102892e88752";
+    sha256 = "sha256-2GttXEUYHKjK0FnKpWhZx4KXzpxtI8z3mFGjcvlpFto=";
+    leaveDotGit = true;
+    name = "jcef";
   };
 
 in
@@ -91,20 +81,23 @@ stdenv.mkDerivation {
   pname = "jetbrains-jcef";
   inherit version;
 
-  src = fetchFromGitHub {
-    owner = "JetBrains";
-    repo = "jcef";
-    rev = "4ccf29b795145e5b31df5e5de8cec04e4246fb65";
-    sha256 = "sha256-MgqFaF7CCbUYDNTf30EN2Cq38VqIs9BzwWa5jk3Cvvw=";
-    leaveDotGit = true;
-  };
+  srcs = [ jcefSrc cefSrc ];
+  sourceRoot = "jcef";
 
-  nativeBuildInputs = [ which git pkg-config cmake python3 ];
+  unpackCmd = "unzip $curSrc";
 
-  buildInputs = cefBinary.buildInputs ++ [ openjdk11 ant ];
+  postUnpack = ''
+    # Run patchelf on CEF because the linker needs to find the libraries
+    # while building the CEF distribution.
+    autoPatchelf ${cefFilename}
+    mv ${cefFilename} jcef/third_party/cef/
+  '';
+
+  nativeBuildInputs = [ autoPatchelfHook unzip which git pkg-config cmake python3 ];
+
+  buildInputs = cefBuildInputs ++ [ openjdk11 ant ];
 
   cmakeFlags = [
-    "-DCEF_ROOT=${cefBinary}"
     "-DCMAKE_BUILD_TYPE=Release"
   ];
 

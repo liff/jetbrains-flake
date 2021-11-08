@@ -1,12 +1,12 @@
+---
 name: Build Updater
 
 on:
   push:
-    branches: [main]
     paths:
       - 'updater/**'
       - '.github/workflows/build-updater.yml'
-  schedule: # To keep the artifacts around
+  schedule:  # To keep the artifacts around
     - cron: '23 5 13 */2 *'
 
 jobs:
@@ -15,11 +15,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
       - uses: cachix/install-nix-action@v14
         with:
-          install_url: https://github.com/numtide/nix-unstable-installer/releases/download/nix-2.4pre20210823_af94b54/install
           extra_nix_config: |
             experimental-features = nix-command flakes
       - uses: cachix/cachix-action@v10
