@@ -52,7 +52,7 @@ stdenv.mkDerivation rec {
   };
 
   dontStrip = true;
-  
+
   nativeBuildInputs = [ makeWrapper patchelf unzip gnused autoPatchelfHook wrapGAppsHook copyDesktopItems ];
 
   buildInputs = [
@@ -84,10 +84,12 @@ stdenv.mkDerivation rec {
 
   installPhase = ''
     mkdir -p $out/{lib/$pname,bin,share/pixmaps,libexec/$pname}
+
     rm -rf plugins/maven/lib/maven3/lib/jansi-native/{linux32,freebsd32,freebsd64}
     rm -f plugins/performanceTesting/bin/libyjpagent.so # 32-bit
     rm -f plugins/webp/lib/libwebp/linux/libwebp_jni.so # 32-bit
-    rm -rf lib/pty4j-native/linux/{arm,aarch64,mips64el,ppc64le,x86}
+    rm -rf lib/pty4j-native/linux/{aarch64,arm,mips64el,ppc64le,x86}
+
     cp -a . $out/lib/$pname/
     ln -s $out/lib/$pname/bin/idea.svg $out/share/pixmaps/$pname.svg
     ln -s $out/lib/$pname/bin/idea.png $out/share/pixmaps/$pname.png

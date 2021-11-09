@@ -13,13 +13,50 @@ on:
     branches: [main]
 
 jobs:
-  build-libraries:
+  build-jcef:
     runs-on: ubuntu-20.04
 
     strategy:
       matrix:
         pkg:
           - jetbrains-jcef
+        nixpkgs_branch:
+          - nixos-unstable
+          - nixos-21.05
+        system:
+          - x86_64-linux
+
+    name: "Build library ${{ matrix.pkg }} for ${{ matrix.nixpkgs_branch }} on ${{ matrix.system }}"
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: cachix/install-nix-action@v14
+        with:
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+      - uses: cachix/cachix-action@v10
+        with:
+          name: liff
+          authToken: '${{ secrets.cachix_auth_token }}'
+          signingKey: '${{ secrets.cachix_signing_key }}'
+      - uses: nixbuild/nixbuild-action@v8
+        with:
+          nixbuild_ssh_key: ${{ secrets.nixbuild_ssh_key }}
+
+      - name: Build package ${{ matrix.pkg }}
+        run: |-
+          nix -L build \
+              --override-input nixpkgs github:nixos/nixpkgs/${{ matrix.nixpkgs_branch }} \
+              --system ${{ matrix.system }} \
+              .#${{ matrix.pkg }}
+
+  build-jetbrainsruntime:
+    runs-on: ubuntu-20.04
+    needs: build-jcef
+
+    strategy:
+      matrix:
+        pkg:
           - jetbrainsruntime
         nixpkgs_branch:
           - nixos-unstable
@@ -53,7 +90,7 @@ jobs:
 
   build-applications:
     runs-on: ubuntu-20.04
-    needs: build-libraries
+    needs: build-jetbrainsruntime
 
     env:
       NIXPKGS_ALLOW_UNFREE: 1
@@ -69,7 +106,6 @@ jobs:
           - nixos-21.05
         system:
           - x86_64-linux
-          - aarch64-linux
 
     name: "Build application ${{ matrix.pkg }} for ${{ matrix.nixpkgs_branch }} on ${{ matrix.system }}"
 
