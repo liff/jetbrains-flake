@@ -122,6 +122,9 @@ stdenv.mkDerivation rec {
     categories = "Development;IDE;Java;";
     mimeType = "text/x-kotlin;text/x-java-source;text/x-scala;application/xml;application/json;";
     startupNotify = true;
+    extraDesktopEntries = {
+      StartupWMClass = "jetbrains-idea";
+    };
   };
 
   desktopItems = [ desktopItem ];
