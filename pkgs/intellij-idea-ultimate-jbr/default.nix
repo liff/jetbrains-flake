@@ -140,6 +140,6 @@ stdenv.mkDerivation rec {
     '';
     maintainers = with maintainers; [ liff ];
     license = lib.licenses.unfree;
-    platforms = jetbrainsruntime.meta.platforms;
+    platforms = [ "x86_64-linux" ];
   };
 }
