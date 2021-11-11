@@ -6979,6 +6979,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-213.5744.9-no-jbr.tar.gz",
+                        "sha256" : "7974244e869921dbadb494ab136ed3a2fd7ee1210c02b531dbce7f957ba2b629"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5449",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
@@ -6989,6 +6999,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-213.5744.9.tar.gz",
+                        "sha256" : "55a746c727c318abf5962868b2715b84c7028dec2aac850f2f275e141503652d"
+                    },
                     {
                         "build" : {
                             "number" : "213.5449",
@@ -9447,6 +9467,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.5744.3.tar.gz",
+                        "sha256" : "661a740c94a7f5a9575a065a8c18c96b027228b0d094065e49b9c38a7867e76c"
+                    },
                     {
                         "build" : {
                             "number" : "213.5449",
