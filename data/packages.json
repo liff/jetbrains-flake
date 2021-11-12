@@ -2385,6 +2385,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.5744.18-no-jbr.tar.gz",
+                        "sha256" : "4a0c35af22f69759cc5272f5c31e4e016697945300dc49515708f71c1b7b3015"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5605",
                             "version" : "2021.3 Beta",
                             "releaseDate" : null,
@@ -2685,6 +2695,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.5744.18.tar.gz",
+                        "sha256" : "31aba1b867a88be996a957b949c13b198845d324f2f4734ff15bc15bbbcae5cc"
+                    },
                     {
                         "build" : {
                             "number" : "213.5605",
@@ -3769,6 +3789,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.5744.18-no-jbr.tar.gz",
+                        "sha256" : "e6f87bc608b4759d2d67b351e6a1ea27de66acbff1b9dde9cf1d3326efa0171f"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5605",
                             "version" : "2021.3 Beta",
                             "releaseDate" : null,
@@ -4069,6 +4099,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.5744.18.tar.gz",
+                        "sha256" : "d7ed9554cfcdb6d999adfe5854f65575a0516f4f4b7811a588aeb87f66bea327"
+                    },
                     {
                         "build" : {
                             "number" : "213.5605",
@@ -6075,6 +6115,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.5744.5.tar.gz",
+                        "sha256" : "39ede1d3f6657d6e9e34e92d60091a7762c65464b8d37c7b5acbc16fe63bd497"
+                    },
                     {
                         "build" : {
                             "number" : "213.5605",
