@@ -5195,6 +5195,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.37"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-213.5744.37.tar.gz",
+                        "sha256" : "dc0c19b7de98008c0ced5c5b0bf6866d719e31ba2d57907901b28289a625e341"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5605",
                             "version" : "2021.3 Beta",
                             "releaseDate" : null,
@@ -7895,6 +7905,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 Beta 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-213.5744.26.tar.gz",
+                        "sha256" : "abe22f806fddb4597c6e9f82a60d73733e1e345a7d99cba8d75676f55d07ab91"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5605",
                             "version" : "2021.3 Beta",
                             "releaseDate" : null,
@@ -8715,6 +8735,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-213.5744.38.tar.gz",
+                        "sha256" : "8845888a3b23c6bc88975d4487b6da13338900d81fac36f94ce1cfbdf0f2ec1e"
+                    },
                     {
                         "build" : {
                             "number" : "213.5605",
