@@ -95,6 +95,8 @@ stdenv.mkDerivation {
 
   nativeBuildInputs = [ autoPatchelfHook unzip which git pkg-config cmake python3 ];
 
+  dontAutoPatchelf = true;
+
   buildInputs = cefBuildInputs ++ [ openjdk11 ant ];
 
   cmakeFlags = [
