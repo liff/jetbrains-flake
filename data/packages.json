@@ -7140,16 +7140,6 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "213.5744.121"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-213.5744.121-no-jbr.tar.gz",
-                        "sha256" : "6ed7a1ec29022ffae905ac0f775b4c8d53d2ef543318e0816a34225874f9e005"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.5744",
                             "version" : "2021.3 EAP",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.9"
@@ -7169,16 +7159,6 @@
                     }
                 ],
                 "default" : [
-                    {
-                        "build" : {
-                            "number" : "213.5744",
-                            "version" : "2021.3 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "213.5744.121"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-213.5744.121.tar.gz",
-                        "sha256" : "dac305ccd5fb08218ee5c62706fb7a6087e58b1e6956c1d7b369eef26618465a"
-                    },
                     {
                         "build" : {
                             "number" : "213.5744",
@@ -7203,6 +7183,16 @@
             },
             "release" : {
                 "nojbr" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3",
+                            "releaseDate" : "2021-11-23",
+                            "fullNumber" : "213.5744.174"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.3-no-jbr.tar.gz",
+                        "sha256" : "3ec6c1dc31272689fbdec55e791f63acc6cbd645643baf2aebdd487004fa43a7"
+                    },
                     {
                         "build" : {
                             "number" : "212.5457",
@@ -7475,6 +7465,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3",
+                            "releaseDate" : "2021-11-23",
+                            "fullNumber" : "213.5744.174"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.3.tar.gz",
+                        "sha256" : "124f41a3d6e881e209d62d67d357e4e473f364e6bf8bfd575cbc3b50d95fdb83"
+                    },
                     {
                         "build" : {
                             "number" : "212.5457",
