@@ -5278,6 +5278,16 @@
                             "number" : "213.5744",
                             "version" : "2021.3 RC",
                             "releaseDate" : null,
+                            "fullNumber" : "213.5744.172"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-213.5744.172.tar.gz",
+                        "sha256" : "8afb5121cacb27352eee47bdf25e6f5f288b40a1568e20881f8ee08a54e2e64f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC",
+                            "releaseDate" : null,
                             "fullNumber" : "213.5744.136"
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-213.5744.136.tar.gz",
@@ -6220,10 +6230,10 @@
                             "number" : "213.5744",
                             "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
-                            "fullNumber" : "213.5744.123"
+                            "fullNumber" : "213.5744.190"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.5744.123.tar.gz",
-                        "sha256" : "6cab516bfdfa15dd71c1e1e170f55f820a79e8b4854dfeaac83e93482fa1ab08"
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.5744.190.tar.gz",
+                        "sha256" : "b3e8ecf5d37f0b4680baf3f022c2760804027c3f2a5a7050dcef40b55bf311c3"
                     },
                     {
                         "build" : {
