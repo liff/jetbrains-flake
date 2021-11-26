@@ -2428,6 +2428,16 @@
                             "number" : "213.5744",
                             "version" : "2021.3 RC",
                             "releaseDate" : null,
+                            "fullNumber" : "213.5744.202"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.5744.202-no-jbr.tar.gz",
+                        "sha256" : "4a512a3aef75eefccd0438d775a633e7c6029910526b53505a537414c429e474"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC",
+                            "releaseDate" : null,
                             "fullNumber" : "213.5744.125"
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.5744.125-no-jbr.tar.gz",
@@ -2745,6 +2755,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.202"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.5744.202.tar.gz",
+                        "sha256" : "56136193f62b8a572b1357985fe0bdd2345d315da4d61248e277443f34cdbc89"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
@@ -3852,6 +3872,16 @@
                             "number" : "213.5744",
                             "version" : "2021.3 RC",
                             "releaseDate" : null,
+                            "fullNumber" : "213.5744.202"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.5744.202-no-jbr.tar.gz",
+                        "sha256" : "2daafbe60a5286711ef49e24daeaa8a5997d68c2f2af1d3ce3ba89544b0c4265"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC",
+                            "releaseDate" : null,
                             "fullNumber" : "213.5744.125"
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.5744.125-no-jbr.tar.gz",
@@ -4169,6 +4199,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.202"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.5744.202.tar.gz",
+                        "sha256" : "35fefbf03914ac586a8d1bd155924a09e065e8ebbd9ad3bdd488faefe6741bb4"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
@@ -8056,6 +8096,16 @@
                     {
                         "build" : {
                             "number" : "213.5744",
+                            "version" : "2021.3 RC 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.186"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-213.5744.186.tar.gz",
+                        "sha256" : "a7cfda7ac1a15ffaedbaf619fbb0d4ac0cd9a361c0b10b55104fff56dff195eb"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.5744",
                             "version" : "2021.3 RC",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.124"
@@ -9717,6 +9767,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.194"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.5744.194.tar.gz",
+                        "sha256" : "a0568ec5406f48cf0f81f6674b708f75728a53f550dafbea8f21264cd0622020"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
