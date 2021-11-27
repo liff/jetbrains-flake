@@ -8,6 +8,16 @@
                             "number" : "213.5744",
                             "version" : "2021.3 RC",
                             "releaseDate" : null,
+                            "fullNumber" : "213.5744.209"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.5744.209-no-jbr.tar.gz",
+                        "sha256" : "c1aaac45140209ab4c90a86c476e2fba42b36d0b8d17b4b578f8a9fc1a1180ff"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC",
+                            "releaseDate" : null,
                             "fullNumber" : "213.5744.131"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.5744.131-no-jbr.tar.gz",
@@ -55,6 +65,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.209"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.5744.209.tar.gz",
+                        "sha256" : "6853a7c625e7b315a601341ea9d0ed059dc83baaa64b89d670b11be71f5cc6fd"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
@@ -1222,6 +1242,16 @@
                             "number" : "213.5744",
                             "version" : "2021.3 RC",
                             "releaseDate" : null,
+                            "fullNumber" : "213.5744.209"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.5744.209-no-jbr.tar.gz",
+                        "sha256" : "3012d8acda039d1728ae66bae116f7d0f21246bc6f882c1a85263f22f4f39a43"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC",
+                            "releaseDate" : null,
                             "fullNumber" : "213.5744.131"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.5744.131-no-jbr.tar.gz",
@@ -1269,6 +1299,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.209"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.5744.209.tar.gz",
+                        "sha256" : "0c51f078627a33e41ffc3ad8d5cbcc8114eabc92be5c1933d7166e8d57e4fd5b"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
@@ -8945,6 +8985,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3 RC2",
+                            "releaseDate" : null,
+                            "fullNumber" : "213.5744.206"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-213.5744.206.tar.gz",
+                        "sha256" : "fff0890dea584d247d8e5edefe0aa15df5d1d978afdc14ddf68ef3956ef27cd8"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
