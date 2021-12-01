@@ -15,6 +15,7 @@
 , libdbusmenu
 , lldb
 , e2fsprogs
+, pam
 , graphviz
 , wrapGAppsHook
 , autoPatchelfHook
@@ -68,7 +69,7 @@ stdenv.mkDerivation rec {
 
     harfbuzz
 
-    stdenv.cc.cc.lib libdbusmenu lldb
+    stdenv.cc.cc.lib libdbusmenu lldb pam
   ];
 
   runtimeDependencies = [ udev pulseaudio fontconfig ];

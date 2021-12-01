@@ -15,6 +15,7 @@
 , libdbusmenu
 , lldb
 , e2fsprogs
+, pam
 , graphviz
 , wrapGAppsHook
 , autoPatchelfHook
@@ -40,7 +41,7 @@ stdenv.mkDerivation rec {
 
   nativeBuildInputs = [ makeWrapper patchelf unzip gnused autoPatchelfHook wrapGAppsHook copyDesktopItems ];
 
-  buildInputs = [ stdenv.cc.cc.lib libdbusmenu lldb ];
+  buildInputs = [ stdenv.cc.cc.lib libdbusmenu lldb pam ];
 
   patches = [ ./launcher.patch ];
 
