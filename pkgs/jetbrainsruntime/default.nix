@@ -30,7 +30,16 @@ openjdk11.overrideAttrs (oldAttrs: {
     inherit hash;
   };
 
-  patches = (oldAttrs.patches or []) ++ (if xdg then [ ./xdg.patch ] else []);
+  patches =
+    let
+      oldPatches =
+        builtins.filter
+          (path: !(lib.hasSuffix "fix-library-path-jdk11.patch" path))
+          oldAttrs.patches or [];
+    in
+      (oldPatches
+       ++ [ ./fix-library-path-jdk11.patch ]
+       ++ (if xdg then [ ./xdg.patch ] else []));
 
   buildInputs = (oldAttrs.buildInputs or []) ++ (if useSystemHarfbuzz then [ harfbuzz ] else []);
 
