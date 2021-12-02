@@ -22,7 +22,7 @@ jobs:
           - jetbrains-jcef
         nixpkgs_branch:
           - nixos-unstable
-          - nixos-21.05
+          - nixos-21.11
         system:
           - x86_64-linux
 
@@ -57,7 +57,7 @@ jobs:
           - jetbrainsruntime
         nixpkgs_branch:
           - nixos-unstable
-          - nixos-21.05
+          - nixos-21.11
         system:
           - x86_64-linux
 
@@ -97,7 +97,7 @@ jobs:
           - intellij-idea-ultimate-jbr
         nixpkgs_branch:
           - nixos-unstable
-          - nixos-21.05
+          - nixos-21.11
         system:
           - x86_64-linux
 
