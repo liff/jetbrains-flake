@@ -8659,6 +8659,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3",
+                            "releaseDate" : "2021-12-02",
+                            "fullNumber" : "213.5744.269"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.3.tar.gz",
+                        "sha256" : "80c245ef4f1ec9443db8a46e2538468aa2f4bde1f026bf31dd156ed0b5dbba2d"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5457",
                             "version" : "2021.2.4",
                             "releaseDate" : "2021-07-29",
@@ -9157,36 +9167,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "211.7442",
-                            "version" : "2021.1.3 Preview",
-                            "releaseDate" : "2021-04-08",
-                            "fullNumber" : "211.7442.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.7442.14.tar.gz",
-                        "sha256" : "221e1aa42c946941d6d44b1e8e4545f60aaf157f7456c4f6f82d97e672038f71"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.7142",
-                            "version" : "2021.1.2 Preview",
-                            "releaseDate" : "2021-04-08",
-                            "fullNumber" : "211.7142.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.7142.20.tar.gz",
-                        "sha256" : "c5a18deb6517012b873d5307e238d1a5b9f6468f74d28fab7715c9fd4c65fa08"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6693",
-                            "version" : "2021.1 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6693.78"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-211.6693.78.tar.gz",
-                        "sha256" : "ee9eb001c24fdeab51ba4f246170e485d01dcec434aeb6324d8a01148e432b9f"
-                    },
-                    {
-                        "build" : {
                             "number" : "213.5744",
                             "version" : "2021.3 Beta",
                             "releaseDate" : null,
@@ -9254,71 +9234,21 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-213.4293.18.tar.gz",
                         "sha256" : "ef127c569b48b11b1cf1a92b4ddd43f055b74ce84bc40191d96b665c3825eae2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4746",
-                            "version" : "2021.2 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4746.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.4746.20.tar.gz",
-                        "sha256" : "57fc9a090a3fd766fc051c1a1fa15f74c53261738363d9e31325d136b88dd6b6"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4638",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4638.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.4638.20.tar.gz",
-                        "sha256" : "d30930d80dd0b4847e01192e7c5f04d25eb63dc7e04e1637052b40fcb750c7ee"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4535",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4535.18"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.4535.18.tar.gz",
-                        "sha256" : "6525638af5556e6f120b67412ef38ea6a8ab1dadbc0d3c90d95ac92a51dbd3c4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4416",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4416.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.4416.15.tar.gz",
-                        "sha256" : "d3b06c7870a4f99119556ed4e6f26697921c3cdf77993c81e64bf878b656f043"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4321",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4321.34"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.4321.34.tar.gz",
-                        "sha256" : "ca5dde9408e7e5a04e64763a4ab435c4bfc38f16360d1c9c92dd1b83992b0ac5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4037",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4037.57"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.4037.57.tar.gz",
-                        "sha256" : "5d9ee46f6dfd699f0cdf9d5536e7368d6ba3db72e067aaa2b5fea11d8cb6a6a5"
                     }
                 ]
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.5744",
+                            "version" : "2021.3",
+                            "releaseDate" : "2021-12-02",
+                            "fullNumber" : "213.5744.279"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2021.3.tar.gz",
+                        "sha256" : "e0a1a52d7e72c170fe8b166f988ac751ab936b31eed2525984a8efcdf56874c0"
+                    },
                     {
                         "build" : {
                             "number" : "212.5457",
