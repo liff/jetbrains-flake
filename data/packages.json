@@ -25,6 +25,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5712.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-212.5712.18-no-jbr.tar.gz",
+                        "sha256" : "f60d894d169cfc041ee2315a8664c030dc10b56ec66d57080b80f4fdba825068"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5457",
                             "version" : "2021.2.3 RC",
                             "releaseDate" : "2021-07-28",
@@ -84,6 +94,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.5744.131.tar.gz",
                         "sha256" : "cec22e7d2b029a2b16da755fe011fcf1068e9676c5b76dfba1933d74b6b247e3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5712.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-212.5712.18.tar.gz",
+                        "sha256" : "f5de207868eec2068601d376e1b6748dc3ca44fbe888db264507ff7442251a28"
                     },
                     {
                         "build" : {
@@ -1279,6 +1299,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5712.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-212.5712.18-no-jbr.tar.gz",
+                        "sha256" : "6323017e4d3e698b209871d43f35a05af301d4fd7ce2ffbff18dddbc51697687"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5457",
                             "version" : "2021.2.3 RC",
                             "releaseDate" : "2021-07-28",
@@ -1338,6 +1368,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.5744.131.tar.gz",
                         "sha256" : "cb445f50279f643ff2065d11a192205cebd9360b5a5da4d8df4dfa7523e02dba"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-28",
+                            "fullNumber" : "212.5712.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-212.5712.18.tar.gz",
+                        "sha256" : "e939daee09390ebafcd9f4eb7cd2826c786fcde2e0eab457c7ad6079407816fd"
                     },
                     {
                         "build" : {
@@ -2525,6 +2565,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5712.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.5712.14-no-jbr.tar.gz",
+                        "sha256" : "d6a90542e0a564c6e9f1acfe19f3ab4a5f8662c41388d07645843946fbae498d"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5457",
                             "version" : "2021.2.3 RC",
                             "releaseDate" : "2021-07-27",
@@ -2854,6 +2904,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.5744.125.tar.gz",
                         "sha256" : "d6af6677f02de2e779a3e7a03bb5d0f3c21ee11ae5e61bfca172689fb2db1f66"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5712.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.5712.14.tar.gz",
+                        "sha256" : "8b35e03279da21646aa81366bd1688e32e563d24b1b8e9641dbd4f9f27d7d9b2"
                     },
                     {
                         "build" : {
@@ -3989,6 +4049,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5712.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.5712.14-no-jbr.tar.gz",
+                        "sha256" : "7d83e86b065229d79871819c60fbbc30afbacab741d8c9de94c8379fdcae63f7"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5457",
                             "version" : "2021.2.3 RC",
                             "releaseDate" : "2021-07-27",
@@ -4318,6 +4388,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.5744.125.tar.gz",
                         "sha256" : "cb5fdf2a5af73bd1d98ad33c165c96cba082d59d389b52f36e6354963e335850"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5712.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.5712.14.tar.gz",
+                        "sha256" : "e32603ae824b02f323d1f3309528970765eac57d3976cb7ba8b0fb87a5123d7b"
                     },
                     {
                         "build" : {
@@ -5452,6 +5532,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-213.5744.136.tar.gz",
                         "sha256" : "5d1448dac2080ab5ac3d9b75dc6913dcfa3fa60b5f2ccf0a2d571480717d69c5"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-26",
+                            "fullNumber" : "212.5712.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-212.5712.15.tar.gz",
+                        "sha256" : "a36e3e51f6a69139afce705f12f65206b00d062cb9ffb1398cbf84807da49d8d"
                     },
                     {
                         "build" : {
@@ -9926,6 +10016,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.4293.18.tar.gz",
                         "sha256" : "448a407425fc0705b261027d7be74d489bbd7012dfd55be2f1f789a51bcd0424"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5712.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.5712.15.tar.gz",
+                        "sha256" : "da03376cf54c137c628f1fbc5d369eb46fbbad2907f7946c77746c62f2e206a4"
                     }
                 ]
             },
