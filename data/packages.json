@@ -2626,6 +2626,16 @@
                     {
                         "build" : {
                             "number" : "213.6461",
+                            "version" : "2021.3.1 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6461.48"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.6461.48-no-jbr.tar.gz",
+                        "sha256" : "2a95eec5e3bddc2e5fd0ece7ceea8c0eec148570e8bfe397c1f12678a09d1c84"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.6461",
                             "version" : "2021.3.1 Preview",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.6461.21"
@@ -2975,6 +2985,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6461.48"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.6461.48.tar.gz",
+                        "sha256" : "c5a31919be0b225ba9fdd9b50436e88d56ac7638d75daa369415e2a2f87c499b"
+                    },
                     {
                         "build" : {
                             "number" : "213.6461",
@@ -4150,6 +4170,16 @@
                     {
                         "build" : {
                             "number" : "213.6461",
+                            "version" : "2021.3.1 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6461.48"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.6461.48-no-jbr.tar.gz",
+                        "sha256" : "078ceaca6438241c5e6b742e0177d60dd88f992ab4f12f09d0777ed69addd04b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.6461",
                             "version" : "2021.3.1 Preview",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.6461.21"
@@ -4499,6 +4529,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6461.48"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.6461.48.tar.gz",
+                        "sha256" : "d088076b5477448fb9e1cb01be0fe9f87830ec2e179608e7b7f99d8c3cfbc431"
+                    },
                     {
                         "build" : {
                             "number" : "213.6461",
@@ -9581,6 +9621,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4",
+                            "releaseDate" : "2021-07-29",
+                            "fullNumber" : "212.5712.51"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2021.2.4.tar.gz",
+                        "sha256" : "c7636c6611e512cd741cb5a5955f549b9d144cd2d75dee90ae2c920d2075097c"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5457",
                             "version" : "2021.2.3",
                             "releaseDate" : "2021-07-29",
@@ -10290,6 +10340,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2021.3.tar.gz",
                         "sha256" : "8dfc8606fed9ae06aa449d07a03e5b4073fab73f0555cac68efc6ccf6d5fbeee"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5712.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2021.2.4.tar.gz",
+                        "sha256" : "4b26dda2f1e9b62e9babbd44fcc3a9539b004ad9bca8e213141c483c710ed382"
                     },
                     {
                         "build" : {
