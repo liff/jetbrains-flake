@@ -5716,6 +5716,16 @@
                     {
                         "build" : {
                             "number" : "213.6461",
+                            "version" : "2021.3.1 RC",
+                            "releaseDate" : "2021-11-29",
+                            "fullNumber" : "213.6461.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-213.6461.38.tar.gz",
+                        "sha256" : "214d2d9d25e8e11b76beba266019047a2a680496248bc3bfb7e57d51cbfc3984"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.6461",
                             "version" : "2021.3.1 Preview",
                             "releaseDate" : "2021-11-29",
                             "fullNumber" : "213.6461.19"
@@ -6066,6 +6076,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2021.3.tar.gz",
                         "sha256" : "da9319e23d3b89b8774b1b721e7f9f33e251c2bbd1add7a33f2ef792f2499fd2"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4",
+                            "releaseDate" : "2021-07-26",
+                            "fullNumber" : "212.5712.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2021.2.4.tar.gz",
+                        "sha256" : "8e1e18a2ddf78aac7d5c1d693b8d8d8fe162463f2d4eaa067ab1d943598b7eea"
                     },
                     {
                         "build" : {
@@ -9019,6 +9039,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.5",
+                            "releaseDate" : "2021-07-29",
+                            "fullNumber" : "212.5712.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.2.5.tar.gz",
+                        "sha256" : "e3476db599376b316865dc0f18a5bfabe975b52164f76b89ffe4ee83af0c8f88"
+                    },
+                    {
+                        "build" : {
                             "number" : "212.5457",
                             "version" : "2021.2.4",
                             "releaseDate" : "2021-07-29",
@@ -10227,6 +10257,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6461.46"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.6461.46.tar.gz",
+                        "sha256" : "0ab9f0bdf7caa69c981600c04bc0306c4501d53dbed53cb7daa05d4b8f84f56a"
+                    },
                     {
                         "build" : {
                             "number" : "213.6461",
