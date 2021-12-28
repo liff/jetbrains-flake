@@ -9478,6 +9478,16 @@
                     {
                         "build" : {
                             "number" : "213.6461",
+                            "version" : "2021.3.1 RC",
+                            "releaseDate" : "2021-12-02",
+                            "fullNumber" : "213.6461.58"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-213.6461.58.tar.gz",
+                        "sha256" : "65190ceb2cf3f243dc1a0e64d62afb16261a5af4e926d192f9de29e2c000db6d"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.6461",
                             "version" : "2021.3.1 Preview",
                             "releaseDate" : "2021-12-02",
                             "fullNumber" : "213.6461.28"
