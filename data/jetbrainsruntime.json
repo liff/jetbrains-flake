@@ -2,9 +2,9 @@
     "jdkVersion": "11.0.13",
     "jdkBuildNumber": "7",
     "buildNumber": "1751",
-    "subBuildNumber": "19",
+    "subBuildNumber": "21",
     "bundleType": "jcef",
-    "intellijFullNumber": "213.5744.223",
-    "tag": "jb11_0_13-b1751.19",
-    "hash": "sha256-XyoVjOVasw2m/EAFjkcoT3Va1iAWSUsiewgq4PNSAOM="
+    "intellijFullNumber": "213.6461.79",
+    "tag": "jb11_0_13-b1751.21",
+    "hash": "sha256-w1GZDRo8/ia6fSJWatLp++x9+7qF7eH8I165exN+np4="
 }

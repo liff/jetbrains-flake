@@ -171,6 +171,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1",
+                            "releaseDate" : "2021-12-01",
+                            "fullNumber" : "213.6461.77"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2021.3.1-no-jbr.tar.gz",
+                        "sha256" : "c11c6bdc3ff8b8032addb68ca29866b57e0176de9ab3c9f71073c9d33ecb3d48"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5744",
                             "version" : "2021.3",
                             "releaseDate" : "2021-12-01",
@@ -631,6 +641,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1",
+                            "releaseDate" : "2021-12-01",
+                            "fullNumber" : "213.6461.77"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2021.3.1.tar.gz",
+                        "sha256" : "f5dd6e642ee65fa96d0ea8447d4a75589ce4258434222c4d9df00d1e5a46a8f5"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
@@ -1485,6 +1505,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1",
+                            "releaseDate" : "2021-12-01",
+                            "fullNumber" : "213.6461.77"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2021.3.1-no-jbr.tar.gz",
+                        "sha256" : "eb2c291d7d787c17e3ed1d4874b2b1050218ac39dd40fc410e2517ab56e93ca4"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5744",
                             "version" : "2021.3",
                             "releaseDate" : "2021-12-01",
@@ -1945,6 +1975,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1",
+                            "releaseDate" : "2021-12-01",
+                            "fullNumber" : "213.6461.77"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2021.3.1.tar.gz",
+                        "sha256" : "cdb4ad432963db1b68108af93e26303f9c3140a31813571f2a81c300e5af6918"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
@@ -3351,6 +3391,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6461.79"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.3.1-no-jbr.tar.gz",
+                        "sha256" : "b63fab363f78772850c87f476e700a38e7e6bea480ce8fb31c0acec4fe33df12"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5744",
                             "version" : "2021.3",
                             "releaseDate" : "2021-11-30",
@@ -3681,6 +3731,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6461.79"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2021.3.1.tar.gz",
+                        "sha256" : "eda74e58c11cfcd39bb1aa75c78bc165b36461b461acb6c374c39e60995cbda7"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
@@ -4895,6 +4955,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6461.79"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.3.1-no-jbr.tar.gz",
+                        "sha256" : "4eaa4f4f0df2b8026ebb3e64429551a214a8f6380f92a45ed2482a0ca070487b"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5744",
                             "version" : "2021.3",
                             "releaseDate" : "2021-11-30",
@@ -5225,6 +5295,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6461.79"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2021.3.1.tar.gz",
+                        "sha256" : "a15b94ea5311b740d08171f0a2fc4d2a60333268082ffb1ae097b47525ce6387"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
@@ -6067,6 +6147,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1",
+                            "releaseDate" : "2021-11-29",
+                            "fullNumber" : "213.6461.79"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2021.3.1.tar.gz",
+                        "sha256" : "864d426bfb58580e4a3c5d5ba46f0badc45977456743281ae8e92c73244321b9"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
@@ -7092,12 +7182,12 @@
                     {
                         "build" : {
                             "number" : "213.6461",
-                            "version" : "2021.3.1",
+                            "version" : "2021.3.2",
                             "releaseDate" : "2021-12-01",
-                            "fullNumber" : "213.6461.46"
+                            "fullNumber" : "213.6461.75"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2021.3.1.tar.gz",
-                        "sha256" : "4700bb5356e8aca72f76598ba4ae0e2956a3bb615b79fa55a6f7861205c8c159"
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2021.3.2.tar.gz",
+                        "sha256" : "6b4415cb2f2ca27ba30387612c7c06ab78d67c42c1aaceff6a5846a3468d3d09"
                     },
                     {
                         "build" : {
@@ -7716,6 +7806,16 @@
                     {
                         "build" : {
                             "number" : "213.6461",
+                            "version" : "2021.3.3",
+                            "releaseDate" : "2021-11-23",
+                            "fullNumber" : "213.6461.82"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.3.3-no-jbr.tar.gz",
+                        "sha256" : "2cd0d486d0dc96007dc948cc6dbfa0e2e14bc3290549cd3f74aa96851b136112"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.6461",
                             "version" : "2021.3.2",
                             "releaseDate" : "2021-11-23",
                             "fullNumber" : "213.6461.19"
@@ -8015,6 +8115,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.3",
+                            "releaseDate" : "2021-11-23",
+                            "fullNumber" : "213.6461.82"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.3.3.tar.gz",
+                        "sha256" : "fe968da3d331f5323c18e46b7d1e83e84cf99b3e37db2389edfb27b9243c7971"
+                    },
                     {
                         "build" : {
                             "number" : "213.6461",
@@ -10381,6 +10491,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6461",
+                            "version" : "2021.3.1",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6461.75"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2021.3.1.tar.gz",
+                        "sha256" : "d54aa1b56a470abf704b355b80a01903702b9452a87e7441fdb2fb8ac6195df5"
+                    },
                     {
                         "build" : {
                             "number" : "213.5744",
