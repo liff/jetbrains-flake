@@ -1,5 +1,5 @@
 #!/usr/bin/env nix-shell
-#!nix-shell -i python3 -p python3 python3Packages.requests python3Packages.nix-prefetch-github python3Packages.python-dotenv
+#!nix-shell --show-trace -i python3 -p "python3.withPackages(p: with p; [ requests python-dotenv nix-prefetch-github ])"
 import json
 import os.path
 import re
@@ -12,11 +12,19 @@ from sys import argv, exit, stderr
 
 import requests
 from dotenv.parser import parse_stream
-from nix_prefetch_github import nix_prefetch_github
+from nix_prefetch_github.dependency_injector import DependencyInjector
+from nix_prefetch_github.interfaces import PrefetchOptions
+from nix_prefetch_github.logging import LoggingConfiguration
+from nix_prefetch_github.presenter import RenderingFormat
+from nix_prefetch_github.repository import GithubRepository
 
 VERSION_LINE = re.compile(
     r"""JBR-(?P<jdkVersion>[0-9.]+)\.(?P<jdkBuildNumber>\d+)-(?P<buildNumber>\d+)\.(?P<subBuildNumber>\d+)-(?P<bundleType>\w+)"""
 )
+
+dependency_injector = DependencyInjector(LoggingConfiguration(stderr), RenderingFormat.json)
+prefetcher = dependency_injector.get_prefetcher()
+repository = GithubRepository("JetBrains", "JetBrainsRuntime")
 
 if len(argv) != 3:
     stderr.write(f"Usage: {argv[0]} PACKAGES-FILE VERSION-FILE\n")
@@ -56,8 +64,9 @@ else:
     ] = f"jb{new_version_info['jdkVersion'].replace('.', '_')}-b{new_version_info['buildNumber']}.{new_version_info['subBuildNumber']}"
 
     print(f"Getting hash for tag {new_version_info['tag']}…")
-    repo = nix_prefetch_github(owner="JetBrains", repo="JetBrainsRuntime", rev=new_version_info["tag"])
-    new_version_info["hash"] = f"sha256-{repo.sha256}"
+
+    prefetched = prefetcher.prefetch_github(repository, new_version_info["tag"], PrefetchOptions())
+    new_version_info["hash"] = f"sha256-{prefetched.sha256}"
 
     with open(version_file, "w") as out:
         json.dump(new_version_info, out, indent=4)
