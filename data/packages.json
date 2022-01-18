@@ -9537,6 +9537,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "213.6777",
+                            "version" : "2021.3.2 Preview",
+                            "releaseDate" : "2021-12-02",
+                            "fullNumber" : "213.6777.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-213.6777.13.tar.gz",
+                        "sha256" : "1ecb37563d1a40ca537c4f108679a960f51b685177beda74162d25d17b37da08"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5744",
                             "version" : "2021.3 RC2",
                             "releaseDate" : null,
@@ -10319,6 +10329,26 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "213.6777",
+                            "version" : "2021.3.2 Preview",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6777.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.6777.7.tar.gz",
+                        "sha256" : "a9921066af14493da3aeec02d4101893fc38651c5405924cf406dec7dfb641da"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5712.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.5712.15.tar.gz",
+                        "sha256" : "da03376cf54c137c628f1fbc5d369eb46fbbad2907f7946c77746c62f2e206a4"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.5744",
                             "version" : "2021.3 RC",
                             "releaseDate" : null,
@@ -10396,16 +10426,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.4293.18.tar.gz",
                         "sha256" : "448a407425fc0705b261027d7be74d489bbd7012dfd55be2f1f789a51bcd0424"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
-                            "releaseDate" : "2021-07-27",
-                            "fullNumber" : "212.5712.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.5712.15.tar.gz",
-                        "sha256" : "da03376cf54c137c628f1fbc5d369eb46fbbad2907f7946c77746c62f2e206a4"
                     }
                 ]
             },
