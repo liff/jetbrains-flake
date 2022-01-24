@@ -32,7 +32,7 @@ jobs:
         run: ./pkgs/jetbrainsruntime/update data/packages.json data/jetbrainsruntime.json
 
       - name: Commit changes, if any
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v8.0.1
         with:
           add: 'data'
           author_name: github-actions
