@@ -217,7 +217,7 @@
                             "fullNumber" : "213.5744.248"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2021.3-no-jbr.tar.gz",
-                        "sha256" : "dfed70f1bacdc4edbe2eeaeea3ebdf5ade0ca6306b6511010a84a8a03b4d0df0"
+                        "sha256" : "72245861df8ad9676ab24fd67716abb5bc86974ddac168a0452ece467e8ab129"
                     },
                     {
                         "build" : {
@@ -699,7 +699,7 @@
                             "fullNumber" : "213.5744.248"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2021.3.tar.gz",
-                        "sha256" : "f1ae01f471d01c6f09aab0a761c6dea9834ef584f2aaf6d6ebecdce6b55a66e8"
+                        "sha256" : "44bd6f79212f3350a64fc3a4965f00e6f2c319fbd22d135f98a91b1a69c4d747"
                     },
                     {
                         "build" : {
@@ -1591,7 +1591,7 @@
                             "fullNumber" : "213.5744.248"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2021.3-no-jbr.tar.gz",
-                        "sha256" : "38b5805f3fb280b2693501b77d86283321fbc0c3628bb3307fe157d08e01413b"
+                        "sha256" : "7687aa23a4a203fe3844614789b6737a69fbe551fbb2dbd7108ace69cdf26abb"
                     },
                     {
                         "build" : {
@@ -2073,7 +2073,7 @@
                             "fullNumber" : "213.5744.248"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2021.3.tar.gz",
-                        "sha256" : "6bd9573a84c1f2ae6b9b6612f0859aee21133f479ace43602dc0af879f9d9e67"
+                        "sha256" : "81426f86e1b3de0bd00488e037e9fdcaab4772f1f259ff551ac904d35fb4cd7c"
                     },
                     {
                         "build" : {
@@ -7359,6 +7359,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "213.6777",
+                            "version" : "2021.3.3",
+                            "releaseDate" : "2021-12-01",
+                            "fullNumber" : "213.6777.58"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2021.3.3.tar.gz",
+                        "sha256" : "35986be8adfe0a291a0d2d550c1bf4861ae6c33ecbc71198a472e0ac01a0f10d"
+                    },
                     {
                         "build" : {
                             "number" : "213.6461",
