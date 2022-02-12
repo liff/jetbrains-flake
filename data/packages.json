@@ -5995,13 +5995,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "221.3427",
+                            "number" : "221.4165",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "221.3427.92"
+                            "fullNumber" : "221.4165.163"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-221.3427.92.tar.gz",
-                        "sha256" : "5276accc66240b0055c4f528b8391da178a0d457af79222855471ef6a42282b0"
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-221.4165.163.tar.gz",
+                        "sha256" : "a9fd3329c7d2e0b8f85a12c63ea48cc4f442f1fb752d3aac14dd94184802a5fa"
                     },
                     {
                         "build" : {
@@ -10709,13 +10709,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "221.3427",
+                            "number" : "221.4165",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "221.3427.91"
+                            "fullNumber" : "221.4165.70"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-221.3427.91.tar.gz",
-                        "sha256" : "7f39d666003c3bffb11a01167c697a05dcef3f3c10e03a1a78024300c75cac6f"
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-221.4165.70.tar.gz",
+                        "sha256" : "b5e7a3886e98f16be8aac479e02391f1649fca5ce3f4698962fcbda9e394d1d5"
                     },
                     {
                         "build" : {
