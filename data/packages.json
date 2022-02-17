@@ -5,13 +5,13 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "221.3427",
+                            "number" : "221.4165",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "221.3427.103"
+                            "fullNumber" : "221.4165.171"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-221.3427.103-no-jbr.tar.gz",
-                        "sha256" : "ed6fec63e1526d337f596db3e999ff5d6f2710bff4a7bffa86fdfcf5c4aace59"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-221.4165.171-no-jbr.tar.gz",
+                        "sha256" : "9c96049252be46afb5a85490a66e6eede3e17f36e0dda2aec60263f1293fbb18"
                     },
                     {
                         "build" : {
@@ -97,13 +97,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "221.3427",
+                            "number" : "221.4165",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "221.3427.103"
+                            "fullNumber" : "221.4165.171"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-221.3427.103.tar.gz",
-                        "sha256" : "f4eea7ffc6dcd5c1bba9fb217f909a66e3d4c53958ef6167630251f22f3d037d"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-221.4165.171.tar.gz",
+                        "sha256" : "7a94e7603bd91e0bc067bb3d784d333b13ff59a573592f3abedf74b735ef013a"
                     },
                     {
                         "build" : {
@@ -1379,13 +1379,13 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "221.3427",
+                            "number" : "221.4165",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "221.3427.103"
+                            "fullNumber" : "221.4165.171"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-221.3427.103-no-jbr.tar.gz",
-                        "sha256" : "102ff6c06a980dcb8dc812d50b8757f0d1b42637814e16196a28b396027901e7"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-221.4165.171-no-jbr.tar.gz",
+                        "sha256" : "f9de9ea7f4195be633eda2fb4130e8d291057e7d5596fcdc55c1e0a6326f2d6d"
                     },
                     {
                         "build" : {
@@ -1471,13 +1471,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "221.3427",
+                            "number" : "221.4165",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "221.3427.103"
+                            "fullNumber" : "221.4165.171"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-221.3427.103.tar.gz",
-                        "sha256" : "7bda72be25b3978c32627ac4bf1ec4a7bdc1ea0fe1e11f9f778665f6d15d25df"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-221.4165.171.tar.gz",
+                        "sha256" : "c3ac99e1d5c96a9da8a418f54467f044ebc002ffe1cffb934b3e095d9baaba3a"
                     },
                     {
                         "build" : {
