@@ -26,9 +26,10 @@ intellij-idea-community.overrideAttrs (base: rec {
     exec = pname;
     icon = pname;
     comment = lib.replaceChars ["\n"] [" "] meta.longDescription;
-    categories = "Development;IDE;Java;";
-    mimeType = "text/x-kotlin;text/x-java-source;text/x-scala;application/xml;application/json;";
+    categories = [ "Development" "IDE" "Java" ];
+    mimeTypes = [ "text/x-kotlin" "text/x-java-source" "text/x-scala" "application/xml" "application/json" ];
     startupNotify = true;
+    startupWMClass = "jetbrains-idea";
   };
 
   desktopItems = [ desktopItem ];
