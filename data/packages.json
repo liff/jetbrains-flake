@@ -2915,6 +2915,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 Preview",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.7172.6-no-jbr.tar.gz",
+                        "sha256" : "7d17f2dc966be9257e3bc13383381e91752ac1754eb1a5116dca9fdff0620040"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.6777",
                             "version" : "2021.3.2 RC",
                             "releaseDate" : "2021-11-30",
@@ -3304,6 +3314,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3724.25.tar.gz",
                         "sha256" : "daa0ef0db61c35067ca5137d8e5ef5eed3f18c343e609b5af5c4021dcea23f48"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 Preview",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.7172.6.tar.gz",
+                        "sha256" : "dffb91e05a610d65f587140bb90e6fbc82d9766607c090657a4cb6ceae0ca1af"
                     },
                     {
                         "build" : {
@@ -4559,6 +4579,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 Preview",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.7172.6-no-jbr.tar.gz",
+                        "sha256" : "62675e0b798e79067639da7f7142e27ca1c690e8978509fff72a10a3f50ea6a0"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.6777",
                             "version" : "2021.3.2 RC",
                             "releaseDate" : "2021-11-30",
@@ -4948,6 +4978,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3724.25.tar.gz",
                         "sha256" : "5c189fa6ccbb8f985391495d1368cc3951d34d10d76f20e7cb30ffea4e08b65a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 Preview",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.7172.6.tar.gz",
+                        "sha256" : "95117652515f76a00770f72cc398f97b0a254ad1766a64211c02e1e5a28d4afe"
                     },
                     {
                         "build" : {
@@ -8059,13 +8099,13 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "221.4165",
+                            "number" : "221.4906",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "221.4165.70"
+                            "fullNumber" : "221.4906.1"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-221.4165.70-no-jbr.tar.gz",
-                        "sha256" : "dd6cb2c217f7088b2fa3e299807de2fbce6bd01dae1a03cab8f2362abb7aa2b0"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-221.4906.1-no-jbr.tar.gz",
+                        "sha256" : "9ad502afb663fb19414767c4c31a60ddd78f0632596e4b00056ffcbebbb404fc"
                     },
                     {
                         "build" : {
@@ -8091,13 +8131,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "221.4165",
+                            "number" : "221.4906",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "221.4165.70"
+                            "fullNumber" : "221.4906.1"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-221.4165.70.tar.gz",
-                        "sha256" : "3139dc46d54ba7aaeaab2535f56abdfec9529c520015439f65a4c3edd77cbc7a"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-221.4906.1.tar.gz",
+                        "sha256" : "c11bc666011612003e219632efadcaa5ef4a30bc2e18da30e574d5c68c6bc18c"
                     },
                     {
                         "build" : {
@@ -10886,6 +10926,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.4293.18.tar.gz",
                         "sha256" : "448a407425fc0705b261027d7be74d489bbd7012dfd55be2f1f789a51bcd0424"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 Preview",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.7172.5.tar.gz",
+                        "sha256" : "bf5e00522ba4c3dfa72fbcacafca9a5151675f169948aa08aa07a9dc40065b45"
                     },
                     {
                         "build" : {
