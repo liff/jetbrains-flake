@@ -9185,6 +9185,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "221.4906",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.4906.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-221.4906.8.tar.gz",
+                        "sha256" : "eb6b8fb5f43c4846a845633eca931fb873d4036e4b607c9f62b5aab34eb2103f"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.4501",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
