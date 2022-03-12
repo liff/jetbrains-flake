@@ -2966,6 +2966,16 @@
                     {
                         "build" : {
                             "number" : "213.7172",
+                            "version" : "2021.3.3 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.7172.12-no-jbr.tar.gz",
+                        "sha256" : "f3fe959fc7a96c7547a035092ad46412b436c8c511fa29a17deba411efaac072"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
                             "version" : "2021.3.3 Preview",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.7172.6"
@@ -3374,6 +3384,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3724.25.tar.gz",
                         "sha256" : "daa0ef0db61c35067ca5137d8e5ef5eed3f18c343e609b5af5c4021dcea23f48"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-213.7172.12.tar.gz",
+                        "sha256" : "fe4632b7cbf2dac641d26811792fe7e395932f06faed3bde21ad4f2d7e50a7df"
                     },
                     {
                         "build" : {
@@ -4650,6 +4670,16 @@
                     {
                         "build" : {
                             "number" : "213.7172",
+                            "version" : "2021.3.3 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.7172.12-no-jbr.tar.gz",
+                        "sha256" : "a185a0785f5316fc275a8740505dc20fd3fd67a57bf01a9ab7a0fcf893b7c3ae"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
                             "version" : "2021.3.3 Preview",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.7172.6"
@@ -5058,6 +5088,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3724.25.tar.gz",
                         "sha256" : "5c189fa6ccbb8f985391495d1368cc3951d34d10d76f20e7cb30ffea4e08b65a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-213.7172.12.tar.gz",
+                        "sha256" : "cc199e56d15890460bb5f448248a5f28e91a94b8ee309014a82234bf66b383c6"
                     },
                     {
                         "build" : {
@@ -6402,6 +6442,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-211.5538.3.tar.gz",
                         "sha256" : "fee273cdb00aa0708d7b44b5515191635badf3651289c6be2610baacb1f030af"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 RC",
+                            "releaseDate" : "2021-11-29",
+                            "fullNumber" : "213.7172.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-213.7172.13.tar.gz",
+                        "sha256" : "e836b1bb77ae5830067b6ef33b16c66a30944833b9cdcf1de5261807b7ba588c"
                     },
                     {
                         "build" : {
