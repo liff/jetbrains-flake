@@ -2785,6 +2785,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "221.4994",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.4994.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.4994.44-no-jbr.tar.gz",
+                        "sha256" : "2b357237787fa4d0e780ae39b8e12933e8871479ddf4f6d6869088de7732afa6"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.4906",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
@@ -3205,6 +3215,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.4994",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.4994.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.4994.44.tar.gz",
+                        "sha256" : "2e954e8eb01a2a80530dd37d2ddc8acdf1e4b5e98d5ae5f7e02f09cafe22e4ef"
+                    },
                     {
                         "build" : {
                             "number" : "221.4906",
@@ -4489,6 +4509,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "221.4994",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.4994.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.4994.44-no-jbr.tar.gz",
+                        "sha256" : "a3223db5c43beee5ef886412c1a800cc0ba959242f31981960b63d25ebc4fef3"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.4906",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
@@ -4909,6 +4939,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.4994",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.4994.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.4994.44.tar.gz",
+                        "sha256" : "83bcc17e723935e3b3a09f7948aec292405618357249b7c501a7f5a66e5f203a"
+                    },
                     {
                         "build" : {
                             "number" : "221.4906",
@@ -9235,6 +9275,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "221.4994",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.4994.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-221.4994.43.tar.gz",
+                        "sha256" : "e42c4d5f2c5235566eddc754c1c797de9ae7605520beb3f68ba7fe184bd7783b"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.4906",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
@@ -10157,6 +10207,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "221.4994",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.4994.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.4994.43.tar.gz",
+                        "sha256" : "b02f417d03e36236d942fa8ecb73139fce0064f8fbee588c4c6293a048bee89e"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.4906",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
@@ -10999,6 +11059,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "221.4994",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.4994.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-221.4994.43.tar.gz",
+                        "sha256" : "e2b4557c846dd20e0682f93f9549657a02892c8ddc51bf84e79aa2d224db56cd"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.4906",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
@@ -11106,6 +11176,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.4293.18.tar.gz",
                         "sha256" : "448a407425fc0705b261027d7be74d489bbd7012dfd55be2f1f789a51bcd0424"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.7172.14.tar.gz",
+                        "sha256" : "c42d709d95b4b8d2f00e417ce970d81b31bc947024c6c6eb2215fa4b00e8a58d"
                     },
                     {
                         "build" : {
