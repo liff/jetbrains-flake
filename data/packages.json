@@ -2866,6 +2866,16 @@
                     {
                         "build" : {
                             "number" : "221.5080",
+                            "version" : "2022.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.56"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.5080.56-no-jbr.tar.gz",
+                        "sha256" : "bfaff001e9896ce286432fb679f9b4461a0506076b87468033c14362762e0ee6"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5080",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.9"
@@ -3305,6 +3315,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.56"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.5080.56.tar.gz",
+                        "sha256" : "ffe40ae3f4bcac00bc011de9bbf72b4143d7fa725b32fa2ad04b251f5631a6df"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
@@ -4630,6 +4650,16 @@
                     {
                         "build" : {
                             "number" : "221.5080",
+                            "version" : "2022.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.56"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.5080.56-no-jbr.tar.gz",
+                        "sha256" : "0de7f3dcb7b1276e0ff967b6b07773dded1ac29b5b504af49e8d79c8d6f10077"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5080",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.9"
@@ -5069,6 +5099,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.56"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.5080.56.tar.gz",
+                        "sha256" : "617bc3d1555f4cbb7f743d385627fb0c150cfc60f7c329416269789f4429b81b"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
@@ -7490,6 +7530,16 @@
                             "number" : "221.5080",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
+                            "fullNumber" : "221.5080.52"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-221.5080.52.tar.gz",
+                        "sha256" : "bf16af2d49090d5cb36970b747fc6fe3e8128d1a006122d82fdca70e68524d7f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
                             "fullNumber" : "221.5080.1"
                         },
                         "downloadUri" : "https://download.jetbrains.com/cpp/CLion-221.5080.1.tar.gz",
@@ -9483,6 +9533,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.57"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-221.5080.57.tar.gz",
+                        "sha256" : "14057a96b363bea76b5354e6addc65f1de89344dce98aef41a0a73506ee861cc"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
