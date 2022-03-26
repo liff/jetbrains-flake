@@ -6436,6 +6436,16 @@
                     {
                         "build" : {
                             "number" : "221.5080",
+                            "version" : "2022.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.67"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-221.5080.67.tar.gz",
+                        "sha256" : "686a05f72688dd477526e5c53ef42679bdf57b65afdcf35074926bb7c1d2e3f2"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5080",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.13"
