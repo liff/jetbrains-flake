@@ -70,7 +70,7 @@ let
     owner = "JetBrains";
     repo = "jcef";
     rev = "e6e523582e66ecf226fcc6a1d163102892e88752";
-    sha256 = "sha256-2GttXEUYHKjK0FnKpWhZx4KXzpxtI8z3mFGjcvlpFto=";
+    hash = "sha256-/3Q7vVIPPT81lTVeR8a9GS7TT4jLZ+hXk/usptSYqMc=";
     leaveDotGit = true;
     name = "jcef";
   };
