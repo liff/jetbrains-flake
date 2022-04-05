@@ -8622,6 +8622,16 @@
                             "number" : "221.5080",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
+                            "fullNumber" : "221.5080.106"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-221.5080.106-no-jbr.tar.gz",
+                        "sha256" : "04d67c0a3a47c65d8bf1bf262876e8da01ac3e14594252dc6bd92d94b6014350"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
                             "fullNumber" : "221.5080.35"
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-221.5080.35-no-jbr.tar.gz",
@@ -8649,6 +8659,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.106"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-221.5080.106.tar.gz",
+                        "sha256" : "6e05d18ce2e51784e300b002570a5daef8570278c628db3ea085b6fdc9e24266"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
@@ -11457,6 +11477,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.93"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-221.5080.93.tar.gz",
+                        "sha256" : "dadac19d6a738ef68deb5fcc26afed0ee74b81e07440f7c32ab6fe4e6317f937"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
