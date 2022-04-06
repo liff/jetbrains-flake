@@ -8620,6 +8620,16 @@
                     {
                         "build" : {
                             "number" : "221.5080",
+                            "version" : "2022.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.126"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-221.5080.126-no-jbr.tar.gz",
+                        "sha256" : "35bc54a7cce5ec8620d8002da33b54d5759faaee41e3048f0b4ca9d46acc4677"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5080",
                             "version" : "2022.1 EAP",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.106"
@@ -8659,6 +8669,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.126"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-221.5080.126.tar.gz",
+                        "sha256" : "60fbafcbd0a429b88c61d37092d470731341f3c38b5b56033ce1ca8c2968f63a"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
