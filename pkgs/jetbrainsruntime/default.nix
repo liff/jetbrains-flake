@@ -34,7 +34,10 @@ openjdk11.overrideAttrs (oldAttrs: {
     let
       oldPatches =
         builtins.filter
-          (path: !(lib.hasSuffix "fix-library-path-jdk11.patch" path))
+          (path: 
+            !(lib.hasSuffix "fix-library-path-jdk11.patch" path)
+            && !(lib.hasSuffix "fix-glibc-2.34.patch" path)
+           )
           oldAttrs.patches or [];
     in
       (oldPatches
