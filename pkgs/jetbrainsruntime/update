@@ -22,6 +22,10 @@ VERSION_LINE = re.compile(
     r"""JBR-(?P<jdkVersion>[0-9.]+)\.(?P<jdkBuildNumber>\d+)-(?P<buildNumber>\d+)\.(?P<subBuildNumber>\d+)-(?P<bundleType>\w+)"""
 )
 
+GIT_REV_LINE = re.compile(
+    r"""\.:git:(?P<jbrGitRev>[0-9a-fA-f]+)[+*]?\s+jcef_git:git:(?P<jcefGitRev>[0-9a-fA-F]+)[+*]?"""
+)
+
 dependency_injector = DependencyInjector(LoggingConfiguration(stderr), RenderingFormat.json)
 prefetcher = dependency_injector.get_prefetcher()
 repository = GithubRepository("JetBrains", "JetBrainsRuntime")
@@ -57,6 +61,7 @@ else:
         with src.extractfile(member) as release:
             vars = {b.key: b.value for b in parse_stream(TextIOWrapper(release))}
             new_version_info = VERSION_LINE.fullmatch(vars["IMPLEMENTOR_VERSION"]).groupdict()
+            new_version_info |= GIT_REV_LINE.fullmatch(vars["SOURCE"]).groupdict()
 
     new_version_info["intellijFullNumber"] = latest_intellij_full_number
     new_version_info[
