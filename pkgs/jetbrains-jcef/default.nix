@@ -28,7 +28,7 @@
 
 let
 
-  version = "89.1.10+g0fc388a+chromium-89.0.4389.114";
+  version = "98.3.31+gcfc070d+chromium-98.0.4758.102";
 
   cefArchs = {
     "x86_64-linux" = "linux64";
@@ -41,7 +41,7 @@ let
   cefSrcUrl = "https://cache-redirector.jetbrains.com/intellij-jbr/${builtins.replaceStrings ["+"] ["%2B"] cefFilename}.zip";
 
   cefSrcHashes = {
-    "linux64" = "sha256-d9ISyhEQBWsL5qdHfo1FqOPw7hlZ/9Zb1HUpoW2cK30=";
+    "linux64" = "sha256-AW+tiE7s4UL+9bLDnnXBpHsYyj6cpEwl5AzWeYthP6k=";
   };
 
   cefSrcHash = cefSrcHashes."${cefArch}";
@@ -69,8 +69,8 @@ let
   jcefSrc = fetchFromGitHub {
     owner = "JetBrains";
     repo = "jcef";
-    rev = "e6e523582e66ecf226fcc6a1d163102892e88752";
-    hash = "sha256-/3Q7vVIPPT81lTVeR8a9GS7TT4jLZ+hXk/usptSYqMc=";
+    rev = "5072c0690a9f0acff016e2c83ce8b29be57eb11c";
+    hash = "sha256-yaZZnxOP466DnYDNzLzxUgkxbInOUoHKVyybVsl61Kc=";
     leaveDotGit = true;
     name = "jcef";
   };

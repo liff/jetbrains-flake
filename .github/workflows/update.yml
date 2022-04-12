@@ -28,8 +28,8 @@ jobs:
       - name: Run updater
         run: nix -L run ./updater -- data/packages.json
 
-#      - name: Run JBR updater
-#        run: ./pkgs/jetbrainsruntime/update data/packages.json data/jetbrainsruntime.json
+      - name: Run JBR updater
+        run: ./pkgs/jetbrainsruntime/update data/packages.json data/jetbrainsruntime.json
 
       - name: Commit changes, if any
         uses: EndBug/add-and-commit@v9

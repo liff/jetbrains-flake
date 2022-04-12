@@ -81,6 +81,8 @@ openjdk11.overrideAttrs (oldAttrs: {
                   find modular-sdk -print0 | xargs -0 chmod +w
                 '';
 
+  NIX_CFLAGS_COMPILE = (oldAttrs.NIX_CFLAGS_COMPILE or "") + " -Wformat=2";
+
   postInstall = (oldAttrs.preInstall or "") + ''
     for f in ${jetbrains-jcef}/*; do
       if [[ ! -e $out/lib/openjdk/lib/$(basename $f) ]]; then
