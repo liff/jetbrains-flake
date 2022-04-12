@@ -3851,6 +3851,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5080.210"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2022.1-no-jbr.tar.gz",
+                        "sha256" : "a280ccbdf9d40117ba874ba8468d5690dd0094ae931d8a527e3321222bd40509"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.7172",
                             "version" : "2021.3.3",
                             "releaseDate" : "2021-11-30",
@@ -4211,6 +4221,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5080.210"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2022.1.tar.gz",
+                        "sha256" : "0400e6152fa0173e4e9a514c6398eef8f19150893298658c0b3eb1427e5bcbe5"
+                    },
                     {
                         "build" : {
                             "number" : "213.7172",
@@ -5675,6 +5695,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5080.210"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2022.1-no-jbr.tar.gz",
+                        "sha256" : "f786bbd4a7c82273f6871996584fb7b37aa2b32fb07c7f554076f203284c77b6"
+                    },
+                    {
+                        "build" : {
                             "number" : "213.7172",
                             "version" : "2021.3.3",
                             "releaseDate" : "2021-11-30",
@@ -6035,6 +6065,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5080.210"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2022.1.tar.gz",
+                        "sha256" : "6ec9623d995e519968edfde73be7b3178bf0e345c86a08cfbfcaef341e7f346e"
+                    },
                     {
                         "build" : {
                             "number" : "213.7172",
@@ -11841,6 +11881,16 @@
             },
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5080.196"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2022.1.tar.gz",
+                        "sha256" : "495c0d86eb7f3bed0ed692a7ae37e8b3b333c58ae891ca3891a311db6b951401"
+                    },
                     {
                         "build" : {
                             "number" : "213.7172",
