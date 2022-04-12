@@ -38,7 +38,7 @@
  # shellcheck disable=SC2086
 -"$JAVA_BIN" \
 +exec "$JAVA_BIN" \
-   -classpath "$CLASSPATH" \
+   -classpath "$CLASS_PATH" \
 +  -Djna.library.path="${NATIVE_LIBRARY_PATH}" \
    ${VM_OPTIONS} \
    "-XX:ErrorFile=$HOME/java_error_in_idea_%p.log" \
