@@ -14,7 +14,7 @@ on:
 
 jobs:
   build-jcef:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     strategy:
       matrix:
@@ -50,7 +50,7 @@ jobs:
               .#${{ matrix.pkg }}
 
   build-jetbrainsruntime:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     needs: build-jcef
 
     strategy:
@@ -59,6 +59,7 @@ jobs:
           - jetbrainsruntime
         nixpkgs_branch:
           - nixos-unstable
+          - nixos-21.11
         system:
           - x86_64-linux
 
@@ -79,12 +80,14 @@ jobs:
       - name: Build package ${{ matrix.pkg }}
         run: |-
           nix -L build \
+              --eval-store auto \
+              --store ssh-ng://eu.nixbuild.net \
               --override-input nixpkgs github:nixos/nixpkgs/${{ matrix.nixpkgs_branch }} \
               --system ${{ matrix.system }} \
               .#${{ matrix.pkg }}
 
   build-applications:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     needs: build-jetbrainsruntime
 
     env:
