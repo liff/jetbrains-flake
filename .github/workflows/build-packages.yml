@@ -43,6 +43,8 @@ jobs:
       - name: Build package ${{ matrix.pkg }}
         run: |-
           nix -L build \
+              --eval-store auto \
+              --store ssh-ng://eu.nixbuild.net \
               --override-input nixpkgs github:nixos/nixpkgs/${{ matrix.nixpkgs_branch }} \
               --system ${{ matrix.system }} \
               .#${{ matrix.pkg }}
@@ -116,6 +118,8 @@ jobs:
         run: |-
           nix -L build \
               --impure \
+              --eval-store auto \
+              --store ssh-ng://eu.nixbuild.net \
               --override-input nixpkgs github:nixos/nixpkgs/${{ matrix.nixpkgs_branch }} \
               --system ${{ matrix.system }} \
               .#${{ matrix.pkg }}
