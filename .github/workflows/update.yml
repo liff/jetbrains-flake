@@ -26,7 +26,7 @@ jobs:
           name: liff
 
       - name: Run updater
-        run: nix -L run ./updater -- data/packages.json
+        run: nix -L run github:liff/jetbrains-flake-updater -- data/packages.json
 
       - name: Run JBR updater
         run: ./pkgs/jetbrainsruntime/update data/packages.json data/jetbrainsruntime.json
