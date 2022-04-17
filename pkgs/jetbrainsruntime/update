@@ -15,7 +15,7 @@ from dotenv.parser import parse_stream
 from nix_prefetch_github.dependency_injector import DependencyInjector
 from nix_prefetch_github.interfaces import PrefetchOptions
 from nix_prefetch_github.logging import LoggingConfiguration
-from nix_prefetch_github.presenter import RenderingFormat
+from nix_prefetch_github.presenter import JsonRepositoryRenderer
 from nix_prefetch_github.repository import GithubRepository
 
 VERSION_LINE = re.compile(
@@ -26,7 +26,7 @@ GIT_REV_LINE = re.compile(
     r"""\.:git:(?P<jbrGitRev>[0-9a-fA-f]+)[+*]?\s+jcef_git:git:(?P<jcefGitRev>[0-9a-fA-F]+)[+*]?"""
 )
 
-dependency_injector = DependencyInjector(LoggingConfiguration(stderr), RenderingFormat.json)
+dependency_injector = DependencyInjector(LoggingConfiguration(stderr), JsonRepositoryRenderer())
 prefetcher = dependency_injector.get_prefetcher()
 repository = GithubRepository("JetBrains", "JetBrainsRuntime")
 
