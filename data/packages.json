@@ -12263,6 +12263,66 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5591.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-221.5591.3.tar.gz",
+                        "sha256" : "1800092cb2712294c44d40f26b77a6b3624c19762d76addc0a550baeef86c726"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.7172.14.tar.gz",
+                        "sha256" : "c42d709d95b4b8d2f00e417ce970d81b31bc947024c6c6eb2215fa4b00e8a58d"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
+                            "version" : "2021.3.3 Preview",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.7172.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.7172.5.tar.gz",
+                        "sha256" : "bf5e00522ba4c3dfa72fbcacafca9a5151675f169948aa08aa07a9dc40065b45"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.6777",
+                            "version" : "2021.3.2 RC",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6777.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.6777.38.tar.gz",
+                        "sha256" : "93543c3c14f4c77859cc47a9091e0a08b57b26553d93dfb93cf762dff72d91d7"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.6777",
+                            "version" : "2021.3.2 Preview",
+                            "releaseDate" : "2021-11-30",
+                            "fullNumber" : "213.6777.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.6777.7.tar.gz",
+                        "sha256" : "a9921066af14493da3aeec02d4101893fc38651c5405924cf406dec7dfb641da"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-27",
+                            "fullNumber" : "212.5712.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.5712.15.tar.gz",
+                        "sha256" : "da03376cf54c137c628f1fbc5d369eb46fbbad2907f7946c77746c62f2e206a4"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5080",
                             "version" : "2022.1 RC",
                             "releaseDate" : null,
@@ -12420,56 +12480,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.4293.18.tar.gz",
                         "sha256" : "448a407425fc0705b261027d7be74d489bbd7012dfd55be2f1f789a51bcd0424"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.7172",
-                            "version" : "2021.3.3 RC",
-                            "releaseDate" : "2021-11-30",
-                            "fullNumber" : "213.7172.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.7172.14.tar.gz",
-                        "sha256" : "c42d709d95b4b8d2f00e417ce970d81b31bc947024c6c6eb2215fa4b00e8a58d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.7172",
-                            "version" : "2021.3.3 Preview",
-                            "releaseDate" : "2021-11-30",
-                            "fullNumber" : "213.7172.5"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.7172.5.tar.gz",
-                        "sha256" : "bf5e00522ba4c3dfa72fbcacafca9a5151675f169948aa08aa07a9dc40065b45"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.6777",
-                            "version" : "2021.3.2 RC",
-                            "releaseDate" : "2021-11-30",
-                            "fullNumber" : "213.6777.38"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.6777.38.tar.gz",
-                        "sha256" : "93543c3c14f4c77859cc47a9091e0a08b57b26553d93dfb93cf762dff72d91d7"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.6777",
-                            "version" : "2021.3.2 Preview",
-                            "releaseDate" : "2021-11-30",
-                            "fullNumber" : "213.6777.7"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.6777.7.tar.gz",
-                        "sha256" : "a9921066af14493da3aeec02d4101893fc38651c5405924cf406dec7dfb641da"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
-                            "releaseDate" : "2021-07-27",
-                            "fullNumber" : "212.5712.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-212.5712.15.tar.gz",
-                        "sha256" : "da03376cf54c137c628f1fbc5d369eb46fbbad2907f7946c77746c62f2e206a4"
                     }
                 ]
             }
