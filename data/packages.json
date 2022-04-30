@@ -3841,6 +3841,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5591.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.5591.19-no-jbr.tar.gz",
+                        "sha256" : "68350e00cbc65a1ec3fd6d5c25b4b1569cc482db1941da87643738b427acd78c"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5080",
                             "version" : "2022.1 RC",
                             "releaseDate" : null,
@@ -4311,6 +4321,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5591.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.5591.19.tar.gz",
+                        "sha256" : "1ec513266b869a35ad9072e19341004e52c57e629ed39ed0d7e08bfcbac21d09"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
@@ -5685,6 +5705,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5591.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.5591.19-no-jbr.tar.gz",
+                        "sha256" : "54d19e0c20d4e83bbc2daaf19e00fd2f3f217087da9f55c286fc55ef1259db9f"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5080",
                             "version" : "2022.1 RC",
                             "releaseDate" : null,
@@ -6155,6 +6185,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5591.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.5591.19.tar.gz",
+                        "sha256" : "ce6974cbeec7016d0c8ef35396fae26c2dbe1db1410bfa7cf410ee1eae85434f"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
@@ -7317,6 +7357,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1 Preview",
+                            "releaseDate" : "2022-04-11",
+                            "fullNumber" : "221.5591.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-221.5591.23.tar.gz",
+                        "sha256" : "20e88310ce3f29bcbeacab55135913ba641f2e6007bdf77fb9aba90e482be3d8"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
@@ -11519,6 +11569,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1 Preview",
+                            "releaseDate" : "2022-04-14",
+                            "fullNumber" : "221.5591.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5591.26.tar.gz",
+                        "sha256" : "f07d5ff74beeba8330508f70d62e7826a0b01dcbd4c5c4630ef9901d381eb910"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
