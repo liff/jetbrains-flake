@@ -9936,6 +9936,16 @@
                     {
                         "build" : {
                             "number" : "213.7172",
+                            "version" : "2021.3.5",
+                            "releaseDate" : "2021-12-02",
+                            "fullNumber" : "213.7172.48"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.3.5.tar.gz",
+                        "sha256" : "c369f984712da159d4105380fbd7735b575de9192c729ea8e985c992d2332b37"
+                    },
+                    {
+                        "build" : {
+                            "number" : "213.7172",
                             "version" : "2021.3.4",
                             "releaseDate" : "2021-12-02",
                             "fullNumber" : "213.7172.22"
