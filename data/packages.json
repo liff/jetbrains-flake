@@ -6835,6 +6835,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1",
+                            "releaseDate" : "2022-04-11",
+                            "fullNumber" : "221.5591.52"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2022.1.1.tar.gz",
+                        "sha256" : "9154ef0f383c5271c504791a1553c20dfc872d6625d0ea89fa241402d7365eef"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5080",
                             "version" : "2022.1",
                             "releaseDate" : "2022-04-11",
@@ -10145,6 +10155,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1",
+                            "releaseDate" : "2022-04-14",
+                            "fullNumber" : "221.5591.52"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2022.1.1.tar.gz",
+                        "sha256" : "fbe9e719cd923938ec6493f32e5542653ee740d8a2e38fd6a920e098dec5dfae"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5080",
                             "version" : "2022.1",
                             "releaseDate" : "2022-04-14",
@@ -11145,6 +11165,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1",
+                            "releaseDate" : "2022-04-14",
+                            "fullNumber" : "221.5591.58"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2022.1.1.tar.gz",
+                        "sha256" : "f7da3142e0af46d4433a7564f5764e60d301a1c2195ed52f8c346b053d1f26ea"
+                    },
                     {
                         "build" : {
                             "number" : "221.5080",
