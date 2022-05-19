@@ -3941,6 +3941,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.5787.3-no-jbr.tar.gz",
+                        "sha256" : "a5b0d28f6f98e9c520d5fd8bc9b3cdb8c1b14e76a37134482c1c64498a25389c"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5591",
                             "version" : "2022.1.1 RC",
                             "releaseDate" : "2022-04-12",
@@ -4431,6 +4441,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.5787.3.tar.gz",
+                        "sha256" : "46ffe596c714a3d4c1083107813bcfbd9900cc289885e855b9296253c88a0f99"
+                    },
                     {
                         "build" : {
                             "number" : "221.5591",
@@ -5845,6 +5865,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.5787.3-no-jbr.tar.gz",
+                        "sha256" : "d6f23908e3c6b80e9df0ee17ab99fe1d372b0e365b0513716c74856e6abbb849"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5591",
                             "version" : "2022.1.1 RC",
                             "releaseDate" : "2022-04-12",
@@ -6335,6 +6365,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.5787.3.tar.gz",
+                        "sha256" : "94814f7986cac02ec4b6776e8194f48cded94a89ec497238496e2567f99da793"
+                    },
                     {
                         "build" : {
                             "number" : "221.5591",
