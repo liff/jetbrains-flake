@@ -8651,6 +8651,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "222.2270",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2270.30"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.2270.30.tar.gz",
+                        "sha256" : "d6e310b32d182e5ca86d1a8bd5d81b00f950750b832900a550dfcc7b8581d22b"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5080",
                             "version" : "2022.1 Beta",
                             "releaseDate" : null,
@@ -12641,6 +12651,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-221.5787.2.tar.gz",
+                        "sha256" : "0840f85493a5bde363e6a2ee9de2a3fac5c65f899787a57e3e5fe1a96aa0cc79"
+                    },
                     {
                         "build" : {
                             "number" : "221.5591",
