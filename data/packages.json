@@ -3981,6 +3981,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.2680",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2680.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.2680.4-no-jbr.tar.gz",
+                        "sha256" : "7c8a099338c293236e150da3f9e32f9cf08876220926955a2b24524efc112a42"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.2270",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -4491,6 +4501,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.2680",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2680.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.2680.4.tar.gz",
+                        "sha256" : "d99b838faab3bde1312945af872e7031c75b86cfe975c2ac78a458d941a559ab"
+                    },
                     {
                         "build" : {
                             "number" : "222.2270",
@@ -5925,6 +5945,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.2680",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2680.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.2680.4-no-jbr.tar.gz",
+                        "sha256" : "7cc4dc111c961c04d17c8b4c5138fbfddd009a81856bb3a2957d37cbd1c746e0"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.2270",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -6435,6 +6465,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.2680",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2680.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.2680.4.tar.gz",
+                        "sha256" : "c09cdb047d436634abf09609b487e421c9e6f4821038132e6637c3095587abf3"
+                    },
                     {
                         "build" : {
                             "number" : "222.2270",
@@ -7649,13 +7689,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "222.2270",
+                            "number" : "222.2680",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2270.29"
+                            "fullNumber" : "222.2680.4"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.2270.29.tar.gz",
-                        "sha256" : "d408c396427bdd9102a3bfa77cb15836cec98996a629e472bf34aac77a240dbf"
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.2680.4.tar.gz",
+                        "sha256" : "c7d6029a4dc618590458439159f818545cbd5043deed3c4fcc1987e9c461109d"
                     },
                     {
                         "build" : {
@@ -8741,13 +8781,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "222.2270",
+                            "number" : "222.2680",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2270.30"
+                            "fullNumber" : "222.2680.4"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.2270.30.tar.gz",
-                        "sha256" : "d6e310b32d182e5ca86d1a8bd5d81b00f950750b832900a550dfcc7b8581d22b"
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.2680.4.tar.gz",
+                        "sha256" : "8a57bf00038433194743db262367de5a0db9aec5029096eb3dfc79046dbb82d0"
                     },
                     {
                         "build" : {
