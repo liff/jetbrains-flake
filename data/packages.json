@@ -1301,6 +1301,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-13",
+                            "fullNumber" : "221.5787.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-221.5787.15-no-jbr.tar.gz",
+                        "sha256" : "f2774b526e8e43bb77c8b4f5b6c8e2b4686e1dd2f1010a0beeedf147d4559402"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5591",
                             "version" : "2022.1.1 RC",
                             "releaseDate" : "2022-04-13",
@@ -1440,6 +1450,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.4631.9.tar.gz",
                         "sha256" : "83c08c5598401308d4d16cfec19958c7f646f6ab67e9b409b00099d5af621176"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-13",
+                            "fullNumber" : "221.5787.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-221.5787.15.tar.gz",
+                        "sha256" : "019569346beda326f579e2a90130295673e157f14e2c45f09fb6e56aa360e19f"
                     },
                     {
                         "build" : {
@@ -2835,6 +2855,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-13",
+                            "fullNumber" : "221.5787.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-221.5787.15-no-jbr.tar.gz",
+                        "sha256" : "203fd03ca7c8cda2c832435a533bb55259f123c9b5396c94d6c71c02ecbbc6c9"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5591",
                             "version" : "2022.1.1 RC",
                             "releaseDate" : "2022-04-13",
@@ -2974,6 +3004,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.4631.9.tar.gz",
                         "sha256" : "65842639109a3b0e7cacf7583a4115382704812011903d8405418b71b71ef329"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-13",
+                            "fullNumber" : "221.5787.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-221.5787.15.tar.gz",
+                        "sha256" : "ca0653c2acf3c74d273d86b6020897aae6d39d377bcbf83ea9fa79b49c4dc043"
                     },
                     {
                         "build" : {
@@ -4222,6 +4262,16 @@
                     {
                         "build" : {
                             "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.5787.20-no-jbr.tar.gz",
+                        "sha256" : "7b92aa8eeab10a398f300ba879fc45fe2eefed416dffa6dcabd54a7b95ccda21"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5787",
                             "version" : "2022.1.2 Preview",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5787.3"
@@ -4740,6 +4790,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3724.25.tar.gz",
                         "sha256" : "5c189fa6ccbb8f985391495d1368cc3951d34d10d76f20e7cb30ffea4e08b65a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.5787.20.tar.gz",
+                        "sha256" : "95bcb65d5009cc57d7657db42db073f1b36aa24789d8be46144f9aca037fa126"
                     },
                     {
                         "build" : {
@@ -6186,6 +6246,16 @@
                     {
                         "build" : {
                             "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.5787.20-no-jbr.tar.gz",
+                        "sha256" : "12c434a11e73fa36a32271f1b32a5f26802af1d80366944372fcf17dd99bc011"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5787",
                             "version" : "2022.1.2 Preview",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5787.3"
@@ -6704,6 +6774,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3724.25.tar.gz",
                         "sha256" : "daa0ef0db61c35067ca5137d8e5ef5eed3f18c343e609b5af5c4021dcea23f48"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.5787.20.tar.gz",
+                        "sha256" : "06cfcfa7e6e48a3904a068821dca3aeb474267cf9871013d8f5ccaffa2dda8dd"
                     },
                     {
                         "build" : {
@@ -7986,6 +8066,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-211.5538.3.tar.gz",
                         "sha256" : "fee273cdb00aa0708d7b44b5515191635badf3651289c6be2610baacb1f030af"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-11",
+                            "fullNumber" : "221.5787.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-221.5787.22.tar.gz",
+                        "sha256" : "c6763959000ac0723d1f4e9876e6fad6362e4b0ab34aefa0b4eefd3e818d3a5e"
                     },
                     {
                         "build" : {
@@ -10839,13 +10929,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "222.2270",
+                            "number" : "222.2680",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2270.35"
+                            "fullNumber" : "222.2680.5"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-222.2270.35.tar.gz",
-                        "sha256" : "f4074d45469a02a7c9ffa2e00aa92941bed8d5e3adaf0ce96a97dde590197eb3"
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-222.2680.5.tar.gz",
+                        "sha256" : "7f4b23610df7802b6594a38752814dee96d0052d5b1af5050900fa620ce7d8c0"
                     },
                     {
                         "build" : {
@@ -12021,53 +12111,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "221.5787",
-                            "version" : "2022.1.2 Preview",
-                            "releaseDate" : "2022-04-14",
-                            "fullNumber" : "221.5787.6"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5787.6.tar.gz",
-                        "sha256" : "01a7e4343e0e9b2d7ffd2034f45806e5f523512d2b6458bfbc0ef881dd97e863"
-                    },
-                    {
-                        "build" : {
-                            "number" : "221.5591",
-                            "version" : "2022.1.1 RC",
-                            "releaseDate" : "2022-04-14",
-                            "fullNumber" : "221.5591.44"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5591.44.tar.gz",
-                        "sha256" : "63c909022a39cac135f930506eb30563f1d668151386b1ddcf29f9b3884f2471"
-                    },
-                    {
-                        "build" : {
-                            "number" : "221.5591",
-                            "version" : "2022.1.1 Preview",
-                            "releaseDate" : "2022-04-14",
-                            "fullNumber" : "221.5591.26"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5591.26.tar.gz",
-                        "sha256" : "f07d5ff74beeba8330508f70d62e7826a0b01dcbd4c5c4630ef9901d381eb910"
-                    },
-                    {
-                        "build" : {
-                            "number" : "221.5080",
-                            "version" : "2022.1 RC",
+                            "number" : "222.2680",
+                            "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "221.5080.177"
+                            "fullNumber" : "222.2680.8"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5080.177.tar.gz",
-                        "sha256" : "b5a96f4d6988d78625752e3ee97ef64d80368b20ffc8224b54019db627858644"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
-                            "releaseDate" : "2021-07-29",
-                            "fullNumber" : "212.5712.22"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.5712.22.tar.gz",
-                        "sha256" : "9a203fb8808bc4887865774903784b832589c26cff7d2e6f52a6b19ba69c0446"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-222.2680.8.tar.gz",
+                        "sha256" : "791d1a2cbb9fc0a70c525cde41511d50ead3aae6c87e5b358ba19fb4273ec626"
                     },
                     {
                         "build" : {
@@ -12128,6 +12178,56 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.4165.156.tar.gz",
                         "sha256" : "7ababf97933799a139bd4d99c513f6d96be1c54896069ae01127175d2fa415f0"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 Preview",
+                            "releaseDate" : "2022-04-14",
+                            "fullNumber" : "221.5787.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5787.6.tar.gz",
+                        "sha256" : "01a7e4343e0e9b2d7ffd2034f45806e5f523512d2b6458bfbc0ef881dd97e863"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1 RC",
+                            "releaseDate" : "2022-04-14",
+                            "fullNumber" : "221.5591.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5591.44.tar.gz",
+                        "sha256" : "63c909022a39cac135f930506eb30563f1d668151386b1ddcf29f9b3884f2471"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5591",
+                            "version" : "2022.1.1 Preview",
+                            "releaseDate" : "2022-04-14",
+                            "fullNumber" : "221.5591.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5591.26.tar.gz",
+                        "sha256" : "f07d5ff74beeba8330508f70d62e7826a0b01dcbd4c5c4630ef9901d381eb910"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5080",
+                            "version" : "2022.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "221.5080.177"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5080.177.tar.gz",
+                        "sha256" : "b5a96f4d6988d78625752e3ee97ef64d80368b20ffc8224b54019db627858644"
+                    },
+                    {
+                        "build" : {
+                            "number" : "212.5712",
+                            "version" : "2021.2.4 RC",
+                            "releaseDate" : "2021-07-29",
+                            "fullNumber" : "212.5712.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-212.5712.22.tar.gz",
+                        "sha256" : "9a203fb8808bc4887865774903784b832589c26cff7d2e6f52a6b19ba69c0446"
                     }
                 ]
             }
@@ -12803,13 +12903,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "222.2270",
+                            "number" : "222.2680",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2270.25"
+                            "fullNumber" : "222.2680.4"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-222.2270.25.tar.gz",
-                        "sha256" : "d3c30a9c5fbbf823ce48243c4c29da50c17eae4586431bd2a35a8ac942939f9a"
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-222.2680.4.tar.gz",
+                        "sha256" : "ca463827a01515e76731c73cfcca358155bc4f2b5b33985bdc5c81a99a09d465"
                     },
                     {
                         "build" : {
@@ -12970,6 +13070,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.4293.18.tar.gz",
                         "sha256" : "448a407425fc0705b261027d7be74d489bbd7012dfd55be2f1f789a51bcd0424"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-221.5787.13.tar.gz",
+                        "sha256" : "6fbee73e859702700176e23dd847965a7eb0f38368fc28dd716d9211ce575001"
                     },
                     {
                         "build" : {
