@@ -12182,6 +12182,16 @@
                     {
                         "build" : {
                             "number" : "221.5787",
+                            "version" : "2022.1.2 RC",
+                            "releaseDate" : "2022-04-14",
+                            "fullNumber" : "221.5787.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5787.21.tar.gz",
+                        "sha256" : "93b3eccb54870d669edf4427df36a01eb596eb84b6d555055a31d31b1b349de9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5787",
                             "version" : "2022.1.2 Preview",
                             "releaseDate" : "2022-04-14",
                             "fullNumber" : "221.5787.6"
