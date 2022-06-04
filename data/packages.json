@@ -1261,13 +1261,13 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "222.2270",
+                            "number" : "222.2889",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2270.35"
+                            "fullNumber" : "222.2889.11"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-222.2270.35-no-jbr.tar.gz",
-                        "sha256" : "945e457567d6799d3c81ea877f1f8072322b9c4fa3adbcdb4be1ac1324cdca5f"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-222.2889.11-no-jbr.tar.gz",
+                        "sha256" : "82b80be1bbec47f3063a282aed43ec788152e7566858aac4523545e5e9c1e937"
                     },
                     {
                         "build" : {
@@ -1413,13 +1413,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "222.2270",
+                            "number" : "222.2889",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2270.35"
+                            "fullNumber" : "222.2889.11"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-222.2270.35.tar.gz",
-                        "sha256" : "3848ea9830ab67bb04d581460b704e83c2229f5faf0da6bda1fac58f893f8fa3"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-222.2889.11.tar.gz",
+                        "sha256" : "54680a9a01a2e3ae044a635d417f99194ff74374e5bce67c642a62298323a741"
                     },
                     {
                         "build" : {
@@ -2835,13 +2835,13 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "222.2270",
+                            "number" : "222.2889",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2270.35"
+                            "fullNumber" : "222.2889.11"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-222.2270.35-no-jbr.tar.gz",
-                        "sha256" : "7a6989e75a3594d59ba0733eaf04e8a1b5a7e37e6bf931bd7e3a6fa23a088c81"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-222.2889.11-no-jbr.tar.gz",
+                        "sha256" : "7d83f8c3c2321b6c2d17bd82c4d686a56d561a6430218cef9b1cd22e19f12661"
                     },
                     {
                         "build" : {
@@ -2987,13 +2987,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "222.2270",
+                            "number" : "222.2889",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2270.35"
+                            "fullNumber" : "222.2889.11"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-222.2270.35.tar.gz",
-                        "sha256" : "c1aa329e544e07cf0cb63037bacd8addb89db53d07a6a9e1116c38915dafd949"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-222.2889.11.tar.gz",
+                        "sha256" : "b11dc60e9dfde9fdb3b2183ec14ede5dfa17ca147cc6714308a9a1c6667295d3"
                     },
                     {
                         "build" : {
@@ -4081,6 +4081,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.2889",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2889.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.2889.14-no-jbr.tar.gz",
+                        "sha256" : "68edb4528a7ae9af62a60a54dd628eb430373490363dd30d30aefb8561388012"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.2680",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -4611,6 +4621,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.2889",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2889.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.2889.14.tar.gz",
+                        "sha256" : "2540bdae9dc74ac3cdd4d36b338e854817b794031ba6f43f17ead34b41347932"
+                    },
                     {
                         "build" : {
                             "number" : "222.2680",
@@ -6085,6 +6105,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.2889",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2889.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.2889.14-no-jbr.tar.gz",
+                        "sha256" : "e4c2672d7e664e29b617db69bb6c976ca011924662bcee46fbd9a06e5b1beb93"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.2680",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -6615,6 +6645,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.2889",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2889.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.2889.14.tar.gz",
+                        "sha256" : "cec4a30cb6c4da39a1a2bf65c8b6114d9034fe4f2072ec942b23f5e8de768c59"
+                    },
                     {
                         "build" : {
                             "number" : "222.2680",
@@ -7859,6 +7899,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "222.2889",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2889.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.2889.12.tar.gz",
+                        "sha256" : "f7f0a2e00716594a9fd047eaa814f96d36499e7740527e4f7238fc79335e6460"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.2680",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -8969,6 +9019,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.2889",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2889.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.2889.11.tar.gz",
+                        "sha256" : "90537e695b78de693829f2f1a2bf9d66912df3ca88a29a671a80271cd36205ec"
+                    },
                     {
                         "build" : {
                             "number" : "222.2680",
@@ -11059,6 +11119,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "222.2889",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2889.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-222.2889.12.tar.gz",
+                        "sha256" : "75998900107e607cc828ed0fc0759fb0bd66c36a5852a717e785ce14f2634852"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.2680",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -12387,6 +12457,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.2",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.5787.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2022.1.2.tar.gz",
+                        "sha256" : "a3eebdcdae1fc1ba604951aa0d11532896264fe637360f9cf814e9be1860894e"
+                    },
                     {
                         "build" : {
                             "number" : "221.5591",
