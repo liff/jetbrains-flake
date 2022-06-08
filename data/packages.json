@@ -9479,6 +9479,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.5",
+                            "releaseDate" : "2022-04-07",
+                            "fullNumber" : "221.5787.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2022.1.5-no-jbr.tar.gz",
+                        "sha256" : "d2b9299db1ee66ebfc9bdd48e531a127a0dfcc329f07ca16769a11f72260b33e"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5591",
                             "version" : "2022.1.4",
                             "releaseDate" : "2022-04-07",
@@ -9849,6 +9859,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "221.5787",
+                            "version" : "2022.1.5",
+                            "releaseDate" : "2022-04-07",
+                            "fullNumber" : "221.5787.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2022.1.5.tar.gz",
+                        "sha256" : "688fcb5996d9bdffd0735e14d10171cfefc72bc482dd773102dcc9e28e245ab8"
+                    },
                     {
                         "build" : {
                             "number" : "221.5591",
@@ -12321,13 +12341,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "222.2680",
+                            "number" : "222.2889",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2680.8"
+                            "fullNumber" : "222.2889.9"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-222.2680.8.tar.gz",
-                        "sha256" : "791d1a2cbb9fc0a70c525cde41511d50ead3aae6c87e5b358ba19fb4273ec626"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-222.2889.9.tar.gz",
+                        "sha256" : "f2435a04a818664d2426f84c481d3c079dbccd595f3a675ae196abd3059a7d6c"
                     },
                     {
                         "build" : {
