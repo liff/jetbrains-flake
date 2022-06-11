@@ -4081,6 +4081,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.2964",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2964.55"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.2964.55-no-jbr.tar.gz",
+                        "sha256" : "1457851404cb96e2186d83c4312658df530b1612f90a0410f5a51fe269103fb0"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.2889",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -4631,6 +4641,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.2964",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2964.55"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.2964.55.tar.gz",
+                        "sha256" : "0b1403a8af0b66baba43a655f8e055a9481a98e20d8e1bfb0125167a3686746b"
+                    },
                     {
                         "build" : {
                             "number" : "222.2889",
@@ -6125,6 +6145,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.2964",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2964.55"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.2964.55-no-jbr.tar.gz",
+                        "sha256" : "3f630ca2310ca23cbb16dc84761caaf1e4b77998c63805e1cbac8e7b7b3394b8"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.2889",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -6675,6 +6705,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.2964",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2964.55"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.2964.55.tar.gz",
+                        "sha256" : "98626ab5b9cd43aa6be5f2e5b2df10bac1582ce4142b11773d1f81776c31f181"
+                    },
                     {
                         "build" : {
                             "number" : "222.2889",
@@ -7937,6 +7977,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.2964",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2964.53"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.2964.53.tar.gz",
+                        "sha256" : "3b487680e8dea5c833e30c464ada6dac01ca7383da93632e21f009d254dc3895"
+                    },
                     {
                         "build" : {
                             "number" : "222.2889",
@@ -11189,6 +11239,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "222.2964",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.2964.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-222.2964.16.tar.gz",
+                        "sha256" : "a69b34ce9a9312c0c9e67879c68f47b1eeb804af4e5511d7fc7106e74cfb4503"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.2889",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -12458,6 +12518,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.4165.156.tar.gz",
                         "sha256" : "7ababf97933799a139bd4d99c513f6d96be1c54896069ae01127175d2fa415f0"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.5921",
+                            "version" : "2022.1.3 Preview",
+                            "releaseDate" : "2022-04-14",
+                            "fullNumber" : "221.5921.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.5921.4.tar.gz",
+                        "sha256" : "136778f412666991e071f7c3c0e0acb6657dd17025c8b98b80cde7e22a9091df"
                     },
                     {
                         "build" : {
