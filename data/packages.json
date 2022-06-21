@@ -10805,13 +10805,13 @@
                 "nojbr" : [
                     {
                         "build" : {
-                            "number" : "222.2889",
+                            "number" : "222.3048",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2889.12"
+                            "fullNumber" : "222.3048.12"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-222.2889.12-no-jbr.tar.gz",
-                        "sha256" : "83bbad7aafd42174a913c1cd6efe0987689d273adcd80f1d38d1d022f63688ea"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-222.3048.12-no-jbr.tar.gz",
+                        "sha256" : "d8c01a9028d60119dc49c5f3462fb06f4482ff60ce0ceb1f00de25d23a5437fc"
                     },
                     {
                         "build" : {
@@ -10857,13 +10857,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "222.2889",
+                            "number" : "222.3048",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "222.2889.12"
+                            "fullNumber" : "222.3048.12"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-222.2889.12.tar.gz",
-                        "sha256" : "3015759f64c222d444299e4af985b7540738535e86eee31474b4a87518f7e3dc"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-222.3048.12.tar.gz",
+                        "sha256" : "b0e3c0a5bd3dac0a87f0fed83cd688d14c5be92889fc589d26801e198891cd17"
                     },
                     {
                         "build" : {
@@ -12649,6 +12649,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3048",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3048.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-222.3048.13.tar.gz",
+                        "sha256" : "433dcf67bd5a5a8f4e165d54c56b0995ad952921801fb2ec6ffb0fea08f25b41"
+                    },
                     {
                         "build" : {
                             "number" : "222.2964",
