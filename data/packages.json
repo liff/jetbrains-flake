@@ -8269,6 +8269,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "222.3153",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3153.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.3153.10.tar.gz",
+                        "sha256" : "23d2bcc20c74964cae0802a6718ecb68f44e4df051e78b6a791e853169497c5b"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.3048",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -11577,6 +11587,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3153",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3153.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-222.3153.7.tar.gz",
+                        "sha256" : "815c05ab4f91bb0e9153583a35795aaea8a3c2b94362a0651dbb02a0c0a588d3"
+                    },
                     {
                         "build" : {
                             "number" : "222.3048",
