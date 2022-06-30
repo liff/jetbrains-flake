@@ -4221,6 +4221,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.3244.4-no-jbr.tar.gz",
+                        "sha256" : "beed5d54e0772b17fc35e8216f66e4ef47a1448915ac85913fc5df28f4c34058"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.3153",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -4811,6 +4821,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.3244.4.tar.gz",
+                        "sha256" : "9a9f9528fdf2739d9f0e365b74c067cd980ad920e6f637f00f64d8a482c4734a"
+                    },
                     {
                         "build" : {
                             "number" : "222.3153",
@@ -6365,6 +6385,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.3244.4-no-jbr.tar.gz",
+                        "sha256" : "526ec534272f6a9e0a5823a09be7b887edad6a03e122cffb762102539306bb69"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.3153",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -6955,6 +6985,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.3244.4.tar.gz",
+                        "sha256" : "9b4413a54bebe61d9f0e8ab023aaf1ac605d4f21ed0332d919e361c88cdec1c3"
+                    },
                     {
                         "build" : {
                             "number" : "222.3153",
