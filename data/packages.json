@@ -1281,6 +1281,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-222.3244.2-no-jbr.tar.gz",
+                        "sha256" : "b5909ef109b9e7da115271fd07a24de6b78bfdb4ada80e7cc0e404fdd9664cfe"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.3048",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -1451,6 +1461,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-222.3244.2.tar.gz",
+                        "sha256" : "a3c01614c6e2df76583fc1d38d072bb9dd55c2a7bb99fd6904ddc79605aa131c"
+                    },
                     {
                         "build" : {
                             "number" : "222.3048",
@@ -2915,6 +2935,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-222.3244.2-no-jbr.tar.gz",
+                        "sha256" : "99043838c9ccf4d1f6fa96357972bf2c9d50cb64c2e00d77684f2af2dda6a507"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.3048",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -3085,6 +3115,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-222.3244.2.tar.gz",
+                        "sha256" : "f9ef9a89d9ae0007658dbed3b508376d2b61770e0b98608153a5e3d30116ca51"
+                    },
                     {
                         "build" : {
                             "number" : "222.3048",
@@ -8309,6 +8349,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.3244.5.tar.gz",
+                        "sha256" : "a67b0faaeed07261a71acce3aa9ebac386f44f44e48a1e32d0aaa687054a20ef"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.3153",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -9479,6 +9529,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.3244.6.tar.gz",
+                        "sha256" : "4c6ec5bcbd49c2209788962291fae742b88f3ef417a7fc34d0085ff4f00b133f"
+                    },
                     {
                         "build" : {
                             "number" : "222.3048",
@@ -10995,6 +11055,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-222.3244.4-no-jbr.tar.gz",
+                        "sha256" : "3e97c495d3478ea5b08b3a32142cdde2e1abeb85f9dd62e799719443b7670039"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.3048",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
@@ -11045,6 +11115,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-222.3244.4.tar.gz",
+                        "sha256" : "00189cc65252a24056aa2799a3d8d03986bc2899fe8c5690263505e4176f0e0f"
+                    },
                     {
                         "build" : {
                             "number" : "222.3048",
@@ -13741,6 +13821,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3244",
+                            "version" : "2022.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3244.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-222.3244.5.tar.gz",
+                        "sha256" : "e6b59992163559fee059d24f300e13e013478262c61de5fe0c0b8917d0a4ea6c"
+                    },
                     {
                         "build" : {
                             "number" : "222.3153",
