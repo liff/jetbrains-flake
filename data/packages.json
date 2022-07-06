@@ -4551,6 +4551,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "221.6008",
+                            "version" : "2022.1.4 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.6008.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.6008.1-no-jbr.tar.gz",
+                        "sha256" : "178b096001ba7faeac0ae11f87aca4d043dae3ff338c75347bb9055dcb60e1ed"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5921",
                             "version" : "2022.1.3 RC",
                             "releaseDate" : "2022-04-12",
@@ -5150,6 +5160,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3724.25.tar.gz",
                         "sha256" : "5c189fa6ccbb8f985391495d1368cc3951d34d10d76f20e7cb30ffea4e08b65a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.6008",
+                            "version" : "2022.1.4 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.6008.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-221.6008.1.tar.gz",
+                        "sha256" : "af13de9b63ab25e4758633e8a7def1753877daf9ed699a5dfffe8d4825ccc5f6"
                     },
                     {
                         "build" : {
@@ -6715,6 +6735,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "221.6008",
+                            "version" : "2022.1.4 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.6008.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.6008.1-no-jbr.tar.gz",
+                        "sha256" : "20b833bbb5ed099a20430844eb47185c9d5f6d04ddd9d74ec33c0e560a043580"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5921",
                             "version" : "2022.1.3 RC",
                             "releaseDate" : "2022-04-12",
@@ -7314,6 +7344,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3724.25.tar.gz",
                         "sha256" : "daa0ef0db61c35067ca5137d8e5ef5eed3f18c343e609b5af5c4021dcea23f48"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.6008",
+                            "version" : "2022.1.4 Preview",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.6008.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-221.6008.1.tar.gz",
+                        "sha256" : "131b3b2309f20a12d44fa48a9b511773898c931058510a692c3415ea25ae59bb"
                     },
                     {
                         "build" : {
