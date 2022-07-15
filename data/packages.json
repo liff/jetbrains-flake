@@ -4384,6 +4384,16 @@
                             "number" : "222.3345",
                             "version" : "2022.2 Beta",
                             "releaseDate" : null,
+                            "fullNumber" : "222.3345.47"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.3345.47-no-jbr.tar.gz",
+                        "sha256" : "788ca48cc5fe0e75823a4723575cc9dc44d29c216f3a201cbadc5f3461d1e2f5"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.3345",
+                            "version" : "2022.2 Beta",
+                            "releaseDate" : null,
                             "fullNumber" : "222.3345.16"
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.3345.16-no-jbr.tar.gz",
@@ -5011,6 +5021,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3345",
+                            "version" : "2022.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3345.47"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-222.3345.47.tar.gz",
+                        "sha256" : "306d9c39ec55160d560ecfb25cbf98752bd0e295ccc0aa89cf8ed648aa3293b4"
+                    },
                     {
                         "build" : {
                             "number" : "222.3345",
@@ -6608,6 +6628,16 @@
                             "number" : "222.3345",
                             "version" : "2022.2 Beta",
                             "releaseDate" : null,
+                            "fullNumber" : "222.3345.47"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.3345.47-no-jbr.tar.gz",
+                        "sha256" : "78857926d0e2ce75e15277c6d28bb25bafb8eea79d03ae046c0c84557f91fca3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.3345",
+                            "version" : "2022.2 Beta",
+                            "releaseDate" : null,
                             "fullNumber" : "222.3345.16"
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.3345.16-no-jbr.tar.gz",
@@ -7235,6 +7265,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3345",
+                            "version" : "2022.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3345.47"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-222.3345.47.tar.gz",
+                        "sha256" : "c2ce693053ffe63d4a8225f5be62de83683330e288eb6bc47a20f06e428b9d5d"
+                    },
                     {
                         "build" : {
                             "number" : "222.3345",
@@ -8587,6 +8627,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3345",
+                            "version" : "2022.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3345.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.3345.38.tar.gz",
+                        "sha256" : "f8197dded3619a27c900be1571fa6910868512e672c9bb4b64ceefe166954fa1"
+                    },
                     {
                         "build" : {
                             "number" : "222.3345",
@@ -12000,6 +12050,16 @@
                     {
                         "build" : {
                             "number" : "222.3345",
+                            "version" : "2022.2 Beta 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3345.48"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-222.3345.48.tar.gz",
+                        "sha256" : "651c1f193cffdd4f95bfdef0ce558ca88a9758c3ac7ebac26eb0d191caabd6ac"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.3345",
                             "version" : "2022.2 Beta",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.16"
@@ -14380,6 +14440,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.4293.18.tar.gz",
                         "sha256" : "448a407425fc0705b261027d7be74d489bbd7012dfd55be2f1f789a51bcd0424"
+                    },
+                    {
+                        "build" : {
+                            "number" : "221.6008",
+                            "version" : "2022.1.4 RC",
+                            "releaseDate" : "2022-04-12",
+                            "fullNumber" : "221.6008.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-221.6008.8.tar.gz",
+                        "sha256" : "9eceaf416058ad9472f97e68530e497685829149a22748c0673c79f6778173f4"
                     },
                     {
                         "build" : {
