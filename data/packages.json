@@ -9842,6 +9842,16 @@
                     {
                         "build" : {
                             "number" : "222.3345",
+                            "version" : "2022.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3345.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.3345.40.tar.gz",
+                        "sha256" : "1f0288d71e08c952349f6df87bdfc813a3f8a137bfbb7a9a797ec7ad71d9e755"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.3345",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.16"
@@ -13441,6 +13451,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "221.6008",
+                            "version" : "2022.1.4 RC",
+                            "releaseDate" : "2022-04-14",
+                            "fullNumber" : "221.6008.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-221.6008.9.tar.gz",
+                        "sha256" : "7456a2921fb3feb74799ec5a311f106f7fc4056b25498652354c44b677c20805"
+                    },
+                    {
+                        "build" : {
                             "number" : "221.5921",
                             "version" : "2022.1.3 RC",
                             "releaseDate" : "2022-04-14",
@@ -14211,6 +14231,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3345",
+                            "version" : "2022.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3345.48"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-222.3345.48.tar.gz",
+                        "sha256" : "9c97332bee7cd473cd92ddabbbc8ab329c328db0719c4deb95bfedfff6daf66a"
+                    },
                     {
                         "build" : {
                             "number" : "222.3345",
