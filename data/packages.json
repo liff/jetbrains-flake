@@ -13332,7 +13332,17 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 EAP",
+                            "version" : "2022.2 Beta 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "222.3345.61"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-222.3345.61.tar.gz",
+                        "sha256" : "4ac30905a70061d85716125894a56b27c5a14a156baa7801904655470cc1960a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.3345",
+                            "version" : "2022.2 Beta",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.21"
                         },
