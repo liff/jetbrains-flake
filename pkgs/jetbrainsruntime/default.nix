@@ -1,7 +1,9 @@
 { lib
+, stdenv
 , harfbuzz
-, openjdk11
-, openjdk11-bootstrap
+, openjdk17
+, openjdk17-bootstrap
+, gnused
 , fetchFromGitHub
 , jetbrainsruntime
 , jetbrains-jcef
@@ -14,12 +16,12 @@ let
     jdkVersion jdkBuildNumber buildNumber subBuildNumber bundleType hash tag;
 
   vendorName = "JetBrains s.r.o.";
-  vendorVersionString = "JBR-${jdkVersion}.${jdkBuildNumber}-${buildNumber}.${subBuildNumber}-${bundleType}";
+  vendorVersionString = "JBR-${jdkVersion}+${jdkBuildNumber}-${buildNumber}.${subBuildNumber}-${bundleType}";
   version = "${jdkVersion}-b${buildNumber}.${subBuildNumber}";
 
 in
 
-openjdk11.overrideAttrs (oldAttrs: {
+openjdk17.overrideAttrs (oldAttrs: {
   pname = "jetbrainsruntime";
   inherit version;
 
@@ -30,24 +32,12 @@ openjdk11.overrideAttrs (oldAttrs: {
     inherit hash;
   };
 
-  patches =
-    let
-      oldPatches =
-        builtins.filter
-          (path: 
-            !(lib.hasSuffix "fix-library-path-jdk11.patch" path)
-            && !(lib.hasSuffix "fix-glibc-2.34.patch" path)
-           )
-          oldAttrs.patches or [];
-    in
-      (oldPatches
-       ++ [ ./fix-library-path-jdk11.patch ]
-       ++ (if xdg then [ ./xdg.patch ] else []));
+  patches = (oldAttrs.patches ++ (if xdg then [ ./xdg.patch ] else []));
 
   buildInputs = (oldAttrs.buildInputs or []) ++ (if useSystemHarfbuzz then [ harfbuzz ] else []);
 
   configureFlags = [
-    "--with-boot-jdk=${openjdk11-bootstrap.home}"
+    "--with-boot-jdk=${openjdk17-bootstrap.home}"
     "--enable-unlimited-crypto"
     "--with-native-debug-symbols=internal"
     "--with-libjpeg=system"
@@ -58,7 +48,6 @@ openjdk11.overrideAttrs (oldAttrs: {
     "--with-stdc++lib=dynamic"
     "--with-jvm-features=shenandoahgc"
     "--enable-cds=yes"
-    "--with-import-modules=./modular-sdk"
     "--with-version-pre="
     "--with-version-build=${jdkBuildNumber}"
     "--with-version-opt=${buildNumber}"
@@ -76,20 +65,26 @@ openjdk11.overrideAttrs (oldAttrs: {
                   for patch in jb/project/tools/patches/dcevm/*.patch; do patch -p1 < $patch; done
                  '' else "")
               + ''
-                  patch -p0 < jb/project/tools/patches/add_jcef_module.patch
-                  cp -R "${jetbrains-jcef}/modular-sdk" .
-                  find modular-sdk -print0 | xargs -0 chmod +w
-                '';
+    sed -ir \
+      -e 's/^OPENJDK_TAG=.*$/OPENJDK_TAG=jbr-${jdkVersion}+${jdkBuildNumber}/' \
+      -e 's/^SOURCE_DATE_EPOCH=.*$/SOURCE_DATE_EPOCH=1658217911/' \
+      jb/project/tools/common/scripts/common.sh
+  '';
 
-  NIX_CFLAGS_COMPILE = (oldAttrs.NIX_CFLAGS_COMPILE or "") + " -Wformat=2 -Wno-error";
+  JCEF_PATH = jetbrains-jcef;
 
-  postInstall = (oldAttrs.preInstall or "") + ''
-    for f in ${jetbrains-jcef}/*; do
-      if [[ ! -e $out/lib/openjdk/lib/$(basename $f) ]]; then
-        ln -vs $f $out/lib/openjdk/lib/
-      fi
-    done
-    rm $out/lib/openjdk/lib/modular-sdk
+  RELEASE_NAME = "linux-${stdenv.targetPlatform.linuxArch}-server-release";
+
+  postBuild = (oldAttrs.postBuild or "") + ''
+    patch -p0 < jb/project/tools/patches/add_jcef_module.patch
+    bash -c "
+      set -euo pipefail
+      . jb/project/tools/common/scripts/common.sh ignore ignore
+      IMAGES_DIR=build/\$RELEASE_NAME/images
+      JSDK=\$IMAGES_DIR/jdk
+      JSDK_MODS_DIR=\$IMAGES_DIR/jmods
+      update_jsdk_mods \$JSDK ${jetbrains-jcef}/jmods \$JSDK/jmods \$JSDK_MODS_DIR
+    "
   '';
 
   installPhase = ''

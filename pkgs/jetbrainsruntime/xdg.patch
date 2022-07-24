@@ -1,28 +1,24 @@
 diff --git a/src/java.desktop/unix/classes/sun/font/FcFontConfiguration.java b/src/java.desktop/unix/classes/sun/font/FcFontConfiguration.java
-index 567e8bea83f..e08281b9754 100644
+index 9808e46ee1f..48de9466281 100644
 --- a/src/java.desktop/unix/classes/sun/font/FcFontConfiguration.java
 +++ b/src/java.desktop/unix/classes/sun/font/FcFontConfiguration.java
-@@ -353,10 +353,13 @@ public class FcFontConfiguration extends FontConfiguration {
-             } catch (UnknownHostException e) {
-                 hostname = "localhost";
-             }
--            String userDir = System.getProperty("user.home");
+@@ -352,7 +352,10 @@ public class FcFontConfiguration extends FontConfiguration {
+             String userDir = System.getProperty("user.home");
              String version = System.getProperty("java.version");
-+            String userDir = System.getProperty("user.home");
              String fs = File.separator;
 -            String dir = userDir+fs+".java"+fs+"fonts"+fs+version;
 +            String xdgCacheDir = System.getenv("XDG_CACHE_HOME");
 +            if (xdgCacheDir == null)
 +                xdgCacheDir = userDir+fs+".cache";
 +            String dir = xdgCacheDir+fs+"java"+fs+"fonts"+fs+version;
-             String lang = SunToolkit.getStartupLocale().getLanguage();
-             String name = "fcinfo-"+fileVersion+"-"+hostname+"-"+
-                 osName+"-"+osVersion+"-"+lang+".properties";
+             Locale locale = SunToolkit.getStartupLocale();
+             String lang = locale.getLanguage();
+             String country = locale.getCountry();
 diff --git a/src/java.prefs/unix/classes/java/util/prefs/FileSystemPreferences.java b/src/java.prefs/unix/classes/java/util/prefs/FileSystemPreferences.java
-index 0099e1ff8df..bba4ed02bac 100644
+index b30a23465c5..1757ab9ecd6 100644
 --- a/src/java.prefs/unix/classes/java/util/prefs/FileSystemPreferences.java
 +++ b/src/java.prefs/unix/classes/java/util/prefs/FileSystemPreferences.java
-@@ -113,9 +113,15 @@ class FileSystemPreferences extends AbstractPreferences {
+@@ -114,9 +114,15 @@ class FileSystemPreferences extends AbstractPreferences {
      private static void setupUserRoot() {
          AccessController.doPrivileged(new PrivilegedAction<Void>() {
              public Void run() {

@@ -1,9 +1,11 @@
 { lib
 , stdenv
 , which
+, bash
+, gnused
 , cmake
 , git
-, openjdk11
+, openjdk17
 , python3
 , ant
 , fetchFromGitHub
@@ -28,10 +30,11 @@
 
 let
 
-  version = "98.3.31+gcfc070d+chromium-98.0.4758.102";
+  version = "98.3.34+g97a5ae6+chromium-98.0.4758.102";
 
   cefArchs = {
     "x86_64-linux" = "linux64";
+    "aarch64-linux" = "linuxarm64";
   };
 
   cefArch = cefArchs."${stdenv.hostPlatform.system}";
@@ -41,7 +44,8 @@ let
   cefSrcUrl = "https://cache-redirector.jetbrains.com/intellij-jbr/${builtins.replaceStrings ["+"] ["%2B"] cefFilename}.zip";
 
   cefSrcHashes = {
-    "linux64" = "sha256-AW+tiE7s4UL+9bLDnnXBpHsYyj6cpEwl5AzWeYthP6k=";
+    "linux64" = "sha256-vdISLERXMsrU6vaOw5+cceOHkvn7LqXspapZBP/5IFs=";
+    "linuxarm64" = "sha256-AW+tiE5s4UL+9bLDnnXBpHsYyj6cpEwl5AzWeYthP6k=";
   };
 
   cefSrcHash = cefSrcHashes."${cefArch}";
@@ -69,8 +73,8 @@ let
   jcefSrc = fetchFromGitHub {
     owner = "JetBrains";
     repo = "jcef";
-    rev = "5072c0690a9f0acff016e2c83ce8b29be57eb11c";
-    hash = "sha256-c3Uz05S3tVUQAmAHmBHSw2hTiN9EW9VoSGiqEyg47Y4=";
+    rev = "651cf8b0aba189e908f82990a4000934914e4dbf";
+    hash = "sha256-7SrlsIC6ItvXROt1nq6AyHGI6AL2xiUjDyc3n0AvibI=";
     leaveDotGit = true;
     name = "jcef";
   };
@@ -93,46 +97,54 @@ stdenv.mkDerivation {
     mv ${cefFilename} jcef/third_party/cef/
   '';
 
-  nativeBuildInputs = [ autoPatchelfHook unzip which git pkg-config cmake python3 ];
+  nativeBuildInputs = [ autoPatchelfHook bash unzip which git pkg-config cmake python3 ];
 
   dontAutoPatchelf = true;
 
-  buildInputs = cefBuildInputs ++ [ openjdk11 ant ];
+  buildInputs = cefBuildInputs ++ [ openjdk17 ant ];
+
+  TARGET_ARCH = stdenv.hostPlatform.linuxArch;
 
   cmakeFlags = [
     "-DCMAKE_BUILD_TYPE=Release"
+    "-DPROJECT_ARCH=${stdenv.hostPlatform.linuxArch}"
   ];
 
   patches = [ ./dont-download-clang-format.patch ];
 
   preBuild = ''
-    export JDK_11="$JAVA_HOME"
-    pushd ../jb/tools/linux
-    . ./set_env.sh
-    popd
+    sed -ir "s#JCEF_ROOT_DIR=.*#JCEF_ROOT_DIR=$(cd .. && pwd)#" ../jb/tools/linux/set_env.sh
+    . ../jb/tools/linux/set_env.sh
+    export PATCHED_LIBCEF_DIR=$JCEF_ROOT_DIR/jcef/third_party/cef
   '';
 
   buildPhase = ''
     runHook preBuild
+
     ln -s build ../jcef_build
-    pushd ../jb/tools
-    ./modular-jogl.sh
-    popd
+
+    # build_native.sh
     make -j$NIX_BUILD_CORES
-    pushd ../tools
-    bash compile.sh "${cefArch}" Release
-    popd
+
+    # build_java.sh
+    bash "$JCEF_ROOT_DIR"/tools/compile.sh "${cefArch}" Release
+
+    # create_bundle.sh
+    bash "$JB_TOOLS_DIR"/common/create_modules.sh
+
     runHook postBuild
   '';
 
   installPhase = ''
     runHook preInstall
+
     mkdir "$out"
     pushd ..
-    bash jb/tools/common/bundle_jogl_gluegen.sh
+    patchelf --set-rpath "$out" "jcef_build/native/Release/libjceftesthelpers.so"
     cp -a jcef_build/native/Release/* "$out/"
-    cp -a "$MODULAR_SDK_DIR" "$out/"
+    cp -a jmods "$out/"
     popd
+
     runHook postInstall
   '';
 
