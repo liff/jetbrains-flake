@@ -19,7 +19,7 @@ from nix_prefetch_github.presenter import JsonRepositoryRenderer
 from nix_prefetch_github.interfaces import GithubRepository
 
 VERSION_LINE = re.compile(
-    r"""JBR-(?P<jdkVersion>[0-9.]+)\.(?P<jdkBuildNumber>\d+)-(?P<buildNumber>\d+)\.(?P<subBuildNumber>\d+)-(?P<bundleType>\w+)"""
+    r"""JBR-(?P<jdkVersion>[0-9.]+)\+(?P<jdkBuildNumber>\d+)-(?P<buildNumber>\d+)\.(?P<subBuildNumber>\d+)-(?P<bundleType>\w+)"""
 )
 
 GIT_REV_LINE = re.compile(
@@ -66,7 +66,7 @@ else:
     new_version_info["intellijFullNumber"] = latest_intellij_full_number
     new_version_info[
         "tag"
-    ] = f"jb{new_version_info['jdkVersion'].replace('.', '_')}-b{new_version_info['buildNumber']}.{new_version_info['subBuildNumber']}"
+    ] = f"jb{new_version_info['jdkVersion']}-b{new_version_info['buildNumber']}.{new_version_info['subBuildNumber']}"
 
     print(f"Getting hash for tag {new_version_info['tag']}…")
 
