@@ -7,6 +7,7 @@
 , fetchFromGitHub
 , jetbrainsruntime
 , jetbrains-jcef
+, pciutils
 , xdg ? true
 , useSystemHarfbuzz ? false
 }:
@@ -18,6 +19,8 @@ let
   vendorName = "JetBrains s.r.o.";
   vendorVersionString = "JBR-${jdkVersion}+${jdkBuildNumber}-${buildNumber}.${subBuildNumber}-${bundleType}";
   version = "${jdkVersion}-b${buildNumber}.${subBuildNumber}";
+
+  extraRpath = jetbrains-jcef.extraRpath;
 
 in
 
@@ -82,15 +85,36 @@ openjdk17.overrideAttrs (oldAttrs: {
       . jb/project/tools/common/scripts/common.sh ignore ignore
       IMAGES_DIR=build/\$RELEASE_NAME/images
       JSDK=\$IMAGES_DIR/jdk
+      JBR=\$IMAGES_DIR/jbr
       JSDK_MODS_DIR=\$IMAGES_DIR/jmods
+      modules=\$(xargs < jb/project/tools/common/modules.list | sed s/' '//g)
       update_jsdk_mods \$JSDK ${jetbrains-jcef}/jmods \$JSDK/jmods \$JSDK_MODS_DIR
+      cp -va \$JCEF_PATH/jmods/* \$JSDK_MODS_DIR/
+
+      \$JSDK/bin/jlink --module-path "\$JSDK_MODS_DIR" --no-man-pages --compress=2 --add-modules "\$modules" --output "\$JBR"
+
+      grep -v "^JAVA_VERSION" "\$JSDK/release" | grep -v "^MODULES" >> "\$JBR/release"
+      cp \$JSDK/lib/src.zip "\$JBR/lib/"
+      copy_jmods "\$modules" "\$JSDK_MODS_DIR" "\$JBR/jmods"
     "
   '';
 
   installPhase = ''
     runHook preInstall
-  '' + (oldAttrs.installPhase or "") + ''
+
+    mkdir $out
+
+    cp -a build/*/images/jbr/* $out/
+    rm -rf $out/lib/demo
+
     runHook postInstall
+  '';
+
+  # Copy the JCEF libs only after fixup so that they retain the RPATHs
+  # from the jetbrains-jcef build. This is bit of a hack but I don’t
+  # really know a better way right now.
+  postFixup = ''
+    cp -va ${jetbrains-jcef}/lib/* $out/lib/
   '';
 
   meta = with lib; {
@@ -113,6 +137,6 @@ openjdk17.overrideAttrs (oldAttrs: {
   };
 
   passthru = oldAttrs.passthru // {
-    home = "${jetbrainsruntime}/lib/openjdk";
+    home = jetbrainsruntime;
   };
 })

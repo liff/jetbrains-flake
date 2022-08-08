@@ -15,7 +15,7 @@
 , autoPatchelfHook, wrapGAppsHook
 , pkg-config
 
-, udev, pulseaudio
+, udev, pulseaudio, pciutils
 
 , expat, nspr, nss
 , alsaLib, cups
@@ -68,7 +68,7 @@ let
     libXScrnSaver libXtst
   ];
 
-  extraRpath = lib.makeLibraryPath [ udev pulseaudio ];
+  extraRpath = lib.makeLibraryPath [ udev pulseaudio pciutils ];
 
   jcefSrc = fetchFromGitHub {
     owner = "JetBrains";
@@ -115,7 +115,7 @@ stdenv.mkDerivation {
   preBuild = ''
     sed -ir "s#JCEF_ROOT_DIR=.*#JCEF_ROOT_DIR=$(cd .. && pwd)#" ../jb/tools/linux/set_env.sh
     . ../jb/tools/linux/set_env.sh
-    export PATCHED_LIBCEF_DIR=$JCEF_ROOT_DIR/jcef/third_party/cef
+    export PATCHED_LIBCEF_DIR=$JCEF_ROOT_DIR/third_party/cef/cef_binary_${version}_${cefArch}_minimal/Release
   '';
 
   buildPhase = ''
@@ -138,18 +138,19 @@ stdenv.mkDerivation {
   installPhase = ''
     runHook preInstall
 
-    mkdir "$out"
+    mkdir "$out" "$out/lib"
     pushd ..
     patchelf --set-rpath "$out" "jcef_build/native/Release/libjceftesthelpers.so"
-    cp -a jcef_build/native/Release/* "$out/"
-    cp -a jmods "$out/"
+    mv -v jmods "$out/"
+    mv -v jcef_build/native/Release/* "$out/lib/"
     popd
 
     runHook postInstall
   '';
 
   postFixup = ''
-    patchelf --set-rpath "$(patchelf --print-rpath "$out/libcef.so"):${extraRpath}" "$out/libcef.so"
+    patchelf --set-rpath "$(patchelf --print-rpath "$out/lib/libcef.so"):${extraRpath}" "$out/lib/libcef.so"
+    patchelf --set-rpath "$(patchelf --print-rpath "$out/lib/jcef_helper"):${extraRpath}" "$out/lib/jcef_helper"
   '';
 
   meta = with lib; {

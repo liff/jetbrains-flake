@@ -55,7 +55,7 @@ stdenv.mkDerivation rec {
   preFixup = ''
     gappsWrapperArgs+=(--set IDEA_JDK ${jetbrainsruntime.passthru.home})
   '';
-  
+
   installPhase = ''
     mkdir -p $out/{lib/$pname,bin,share/pixmaps,libexec/$pname}
 

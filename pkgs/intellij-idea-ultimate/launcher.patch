@@ -1,6 +1,6 @@
---- a/bin/idea.sh	2021-04-06 13:18:41.000000000 +0300
-+++ b/bin/idea.sh	2021-04-07 19:53:24.151450642 +0300
-@@ -8,28 +8,11 @@
+--- a/bin/idea.sh	2022-07-27 12:09:37.729769040 +0300
++++ b/bin/idea.sh	2022-07-27 12:13:24.047172670 +0300
+@@ -8,19 +8,12 @@
  message()
  {
    TITLE="Cannot start IntelliJ IDEA"
@@ -18,28 +18,17 @@
 +  @NOTIFY_SEND@ "ERROR: $TITLE" "$1"
  }
  
--if [ -z "$(command -v uname)" ] || [ -z "$(command -v realpath)" ] || [ -z "$(command -v dirname)" ] || [ -z "$(command -v cat)" ] || \
--   [ -z "$(command -v egrep)" ]; then
--  TOOLS_MSG="Required tools are missing:"
--  for tool in uname realpath egrep dirname cat ; do
--     test -z "$(command -v $tool)" && TOOLS_MSG="$TOOLS_MSG $tool"
--  done
--  message "$TOOLS_MSG (SHELL=$SHELL PATH=$PATH)"
--  exit 1
--fi
 +PATH=$PATH:'@PATH@'
 +NATIVE_LIBRARY_PATH='@NATIVE_LIBRARY_PATH@'
- 
- # shellcheck disable=SC2034
- GREP_OPTIONS=''
-@@ -168,8 +151,9 @@
- # ---------------------------------------------------------------------
- IFS="$(printf '\n\t')"
++
+ if [ -z "$(command -v uname)" ] || [ -z "$(command -v realpath)" ] || [ -z "$(command -v dirname)" ] || [ -z "$(command -v cat)" ] || \
+    [ -z "$(command -v grep)" ]; then
+   TOOLS_MSG="Required tools are missing:"
+@@ -195,6 +188,7 @@
  # shellcheck disable=SC2086
--"$JAVA_BIN" \
-+exec "$JAVA_BIN" \
+ exec "$JAVA_BIN" \
    -classpath "$CLASS_PATH" \
-+  -Djna.library.path="${NATIVE_LIBRARY_PATH}" \
++  -Djna.library.path="$NATIVE_LIBRARY_PATH" \
    ${VM_OPTIONS} \
    "-XX:ErrorFile=$HOME/java_error_in_idea_%p.log" \
    "-XX:HeapDumpPath=$HOME/java_error_in_idea_.hprof" \
