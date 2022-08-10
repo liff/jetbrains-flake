@@ -11966,6 +11966,16 @@
                     {
                         "build" : {
                             "number" : "222.3345",
+                            "version" : "2022.2.1",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.3345.146"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2022.2.1.tar.gz",
+                        "sha256" : "6c9ba39a96d802121908b136435220f99206c7e2e874eccee9ab0a75ec305762"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.3345",
                             "version" : "2022.2",
                             "releaseDate" : "2022-07-28",
                             "fullNumber" : "222.3345.118"
