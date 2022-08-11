@@ -20,7 +20,7 @@
 , wrapGAppsHook
 , autoPatchelfHook
 
-, udev, pulseaudio
+, udev, pulseaudio, pciutils
 
 , harfbuzz
 
@@ -72,7 +72,7 @@ stdenv.mkDerivation rec {
     stdenv.cc.cc.lib libdbusmenu lldb pam
   ];
 
-  runtimeDependencies = [ udev pulseaudio fontconfig ];
+  runtimeDependencies = [ udev pulseaudio fontconfig pciutils ];
 
   patches = [ ./launcher.patch ];
 
@@ -109,7 +109,7 @@ stdenv.mkDerivation rec {
     for so in $(find "$out/lib/$pname" -name '*.so'); do
       so_rpath="$(patchelf --print-rpath "$so")"
       echo "Adding runtime dependencies to RPATH of library $so"
-      patchelf --set-rpath "$runtime_rpath:$so_rpath" "$so"
+      patchelf --set-rpath "\$ORIGIN:$runtime_rpath:$so_rpath" "$so"
     done
   '';
 
