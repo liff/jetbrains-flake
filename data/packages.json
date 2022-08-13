@@ -1322,7 +1322,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 RC 2",
                             "releaseDate" : "2022-07-28",
                             "fullNumber" : "222.3739.43"
                         },
@@ -1332,7 +1332,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 Release Candidate",
                             "releaseDate" : "2022-07-28",
                             "fullNumber" : "222.3739.30"
                         },
@@ -1342,7 +1342,7 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 RC",
+                            "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.99"
                         },
@@ -1352,7 +1352,7 @@
                     {
                         "build" : {
                             "number" : "221.6008",
-                            "version" : "2022.1.4 RC",
+                            "version" : "2022.1.4 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.6008.5"
                         },
@@ -1362,7 +1362,7 @@
                     {
                         "build" : {
                             "number" : "221.5921",
-                            "version" : "2022.1.3 RC",
+                            "version" : "2022.1.3 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5921.12"
                         },
@@ -1372,7 +1372,7 @@
                     {
                         "build" : {
                             "number" : "221.5787",
-                            "version" : "2022.1.2 RC",
+                            "version" : "2022.1.2 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5787.15"
                         },
@@ -1382,7 +1382,7 @@
                     {
                         "build" : {
                             "number" : "221.5591",
-                            "version" : "2022.1.1 RC",
+                            "version" : "2022.1.1 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5591.37"
                         },
@@ -1392,7 +1392,7 @@
                     {
                         "build" : {
                             "number" : "221.5080",
-                            "version" : "2022.1 RC",
+                            "version" : "2022.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.186"
                         },
@@ -1402,7 +1402,7 @@
                     {
                         "build" : {
                             "number" : "213.7172",
-                            "version" : "2021.3.3 RC",
+                            "version" : "2021.3.3 Release Candidate",
                             "releaseDate" : "2021-12-01",
                             "fullNumber" : "213.7172.7"
                         },
@@ -1412,7 +1412,7 @@
                     {
                         "build" : {
                             "number" : "213.6777",
-                            "version" : "2021.3.2 RC",
+                            "version" : "2021.3.2 Release Candidate",
                             "releaseDate" : "2021-12-01",
                             "fullNumber" : "213.6777.8"
                         },
@@ -1422,7 +1422,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.209"
                         },
@@ -1432,7 +1432,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.131"
                         },
@@ -1442,7 +1442,7 @@
                     {
                         "build" : {
                             "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
+                            "version" : "2021.2.4 Release Candidate",
                             "releaseDate" : "2021-07-28",
                             "fullNumber" : "212.5712.18"
                         },
@@ -1452,7 +1452,7 @@
                     {
                         "build" : {
                             "number" : "212.5457",
-                            "version" : "2021.2.3 RC",
+                            "version" : "2021.2.3 Release Candidate",
                             "releaseDate" : "2021-07-28",
                             "fullNumber" : "212.5457.4"
                         },
@@ -1564,7 +1564,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 RC 2",
                             "releaseDate" : "2022-07-28",
                             "fullNumber" : "222.3739.43"
                         },
@@ -1574,7 +1574,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 Release Candidate",
                             "releaseDate" : "2022-07-28",
                             "fullNumber" : "222.3739.30"
                         },
@@ -1584,7 +1584,7 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 RC",
+                            "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.99"
                         },
@@ -1594,7 +1594,7 @@
                     {
                         "build" : {
                             "number" : "221.6008",
-                            "version" : "2022.1.4 RC",
+                            "version" : "2022.1.4 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.6008.5"
                         },
@@ -1604,7 +1604,7 @@
                     {
                         "build" : {
                             "number" : "221.5921",
-                            "version" : "2022.1.3 RC",
+                            "version" : "2022.1.3 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5921.12"
                         },
@@ -1614,7 +1614,7 @@
                     {
                         "build" : {
                             "number" : "221.5787",
-                            "version" : "2022.1.2 RC",
+                            "version" : "2022.1.2 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5787.15"
                         },
@@ -1624,7 +1624,7 @@
                     {
                         "build" : {
                             "number" : "221.5591",
-                            "version" : "2022.1.1 RC",
+                            "version" : "2022.1.1 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5591.37"
                         },
@@ -1634,7 +1634,7 @@
                     {
                         "build" : {
                             "number" : "221.5080",
-                            "version" : "2022.1 RC",
+                            "version" : "2022.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.186"
                         },
@@ -1644,7 +1644,7 @@
                     {
                         "build" : {
                             "number" : "213.7172",
-                            "version" : "2021.3.3 RC",
+                            "version" : "2021.3.3 Release Candidate",
                             "releaseDate" : "2021-12-01",
                             "fullNumber" : "213.7172.7"
                         },
@@ -1654,7 +1654,7 @@
                     {
                         "build" : {
                             "number" : "213.6777",
-                            "version" : "2021.3.2 RC",
+                            "version" : "2021.3.2 Release Candidate",
                             "releaseDate" : "2021-12-01",
                             "fullNumber" : "213.6777.8"
                         },
@@ -1664,7 +1664,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.209"
                         },
@@ -1674,7 +1674,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.131"
                         },
@@ -1684,7 +1684,7 @@
                     {
                         "build" : {
                             "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
+                            "version" : "2021.2.4 Release Candidate",
                             "releaseDate" : "2021-07-28",
                             "fullNumber" : "212.5712.18"
                         },
@@ -1694,7 +1694,7 @@
                     {
                         "build" : {
                             "number" : "212.5457",
-                            "version" : "2021.2.3 RC",
+                            "version" : "2021.2.3 Release Candidate",
                             "releaseDate" : "2021-07-28",
                             "fullNumber" : "212.5457.4"
                         },
@@ -3136,7 +3136,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 RC 2",
                             "releaseDate" : "2022-07-28",
                             "fullNumber" : "222.3739.43"
                         },
@@ -3146,7 +3146,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 Release Candidate",
                             "releaseDate" : "2022-07-28",
                             "fullNumber" : "222.3739.30"
                         },
@@ -3156,7 +3156,7 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 RC",
+                            "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.99"
                         },
@@ -3166,7 +3166,7 @@
                     {
                         "build" : {
                             "number" : "221.6008",
-                            "version" : "2022.1.4 RC",
+                            "version" : "2022.1.4 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.6008.5"
                         },
@@ -3176,7 +3176,7 @@
                     {
                         "build" : {
                             "number" : "221.5921",
-                            "version" : "2022.1.3 RC",
+                            "version" : "2022.1.3 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5921.12"
                         },
@@ -3186,7 +3186,7 @@
                     {
                         "build" : {
                             "number" : "221.5787",
-                            "version" : "2022.1.2 RC",
+                            "version" : "2022.1.2 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5787.15"
                         },
@@ -3196,7 +3196,7 @@
                     {
                         "build" : {
                             "number" : "221.5591",
-                            "version" : "2022.1.1 RC",
+                            "version" : "2022.1.1 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5591.37"
                         },
@@ -3206,7 +3206,7 @@
                     {
                         "build" : {
                             "number" : "221.5080",
-                            "version" : "2022.1 RC",
+                            "version" : "2022.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.186"
                         },
@@ -3216,7 +3216,7 @@
                     {
                         "build" : {
                             "number" : "213.7172",
-                            "version" : "2021.3.3 RC",
+                            "version" : "2021.3.3 Release Candidate",
                             "releaseDate" : "2021-12-01",
                             "fullNumber" : "213.7172.7"
                         },
@@ -3226,7 +3226,7 @@
                     {
                         "build" : {
                             "number" : "213.6777",
-                            "version" : "2021.3.2 RC",
+                            "version" : "2021.3.2 Release Candidate",
                             "releaseDate" : "2021-12-01",
                             "fullNumber" : "213.6777.8"
                         },
@@ -3236,7 +3236,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.209"
                         },
@@ -3246,7 +3246,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.131"
                         },
@@ -3256,7 +3256,7 @@
                     {
                         "build" : {
                             "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
+                            "version" : "2021.2.4 Release Candidate",
                             "releaseDate" : "2021-07-28",
                             "fullNumber" : "212.5712.18"
                         },
@@ -3266,7 +3266,7 @@
                     {
                         "build" : {
                             "number" : "212.5457",
-                            "version" : "2021.2.3 RC",
+                            "version" : "2021.2.3 Release Candidate",
                             "releaseDate" : "2021-07-28",
                             "fullNumber" : "212.5457.4"
                         },
@@ -3378,7 +3378,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 RC 2",
                             "releaseDate" : "2022-07-28",
                             "fullNumber" : "222.3739.43"
                         },
@@ -3388,7 +3388,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 Release Candidate",
                             "releaseDate" : "2022-07-28",
                             "fullNumber" : "222.3739.30"
                         },
@@ -3398,7 +3398,7 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 RC",
+                            "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.99"
                         },
@@ -3408,7 +3408,7 @@
                     {
                         "build" : {
                             "number" : "221.6008",
-                            "version" : "2022.1.4 RC",
+                            "version" : "2022.1.4 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.6008.5"
                         },
@@ -3418,7 +3418,7 @@
                     {
                         "build" : {
                             "number" : "221.5921",
-                            "version" : "2022.1.3 RC",
+                            "version" : "2022.1.3 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5921.12"
                         },
@@ -3428,7 +3428,7 @@
                     {
                         "build" : {
                             "number" : "221.5787",
-                            "version" : "2022.1.2 RC",
+                            "version" : "2022.1.2 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5787.15"
                         },
@@ -3438,7 +3438,7 @@
                     {
                         "build" : {
                             "number" : "221.5591",
-                            "version" : "2022.1.1 RC",
+                            "version" : "2022.1.1 Release Candidate",
                             "releaseDate" : "2022-04-13",
                             "fullNumber" : "221.5591.37"
                         },
@@ -3448,7 +3448,7 @@
                     {
                         "build" : {
                             "number" : "221.5080",
-                            "version" : "2022.1 RC",
+                            "version" : "2022.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.186"
                         },
@@ -3458,7 +3458,7 @@
                     {
                         "build" : {
                             "number" : "213.7172",
-                            "version" : "2021.3.3 RC",
+                            "version" : "2021.3.3 Release Candidate",
                             "releaseDate" : "2021-12-01",
                             "fullNumber" : "213.7172.7"
                         },
@@ -3468,7 +3468,7 @@
                     {
                         "build" : {
                             "number" : "213.6777",
-                            "version" : "2021.3.2 RC",
+                            "version" : "2021.3.2 Release Candidate",
                             "releaseDate" : "2021-12-01",
                             "fullNumber" : "213.6777.8"
                         },
@@ -3478,7 +3478,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.209"
                         },
@@ -3488,7 +3488,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.131"
                         },
@@ -3498,7 +3498,7 @@
                     {
                         "build" : {
                             "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
+                            "version" : "2021.2.4 Release Candidate",
                             "releaseDate" : "2021-07-28",
                             "fullNumber" : "212.5712.18"
                         },
@@ -3508,7 +3508,7 @@
                     {
                         "build" : {
                             "number" : "212.5457",
-                            "version" : "2021.2.3 RC",
+                            "version" : "2021.2.3 Release Candidate",
                             "releaseDate" : "2021-07-28",
                             "fullNumber" : "212.5457.4"
                         },
@@ -4622,7 +4622,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 Release Candidate",
                             "releaseDate" : "2022-07-26",
                             "fullNumber" : "222.3739.40"
                         },
@@ -4642,7 +4642,7 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 RC",
+                            "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.90"
                         },
@@ -4652,7 +4652,7 @@
                     {
                         "build" : {
                             "number" : "221.6008",
-                            "version" : "2022.1.4 RC",
+                            "version" : "2022.1.4 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.6008.8"
                         },
@@ -4672,7 +4672,7 @@
                     {
                         "build" : {
                             "number" : "221.5921",
-                            "version" : "2022.1.3 RC",
+                            "version" : "2022.1.3 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5921.17"
                         },
@@ -4692,7 +4692,7 @@
                     {
                         "build" : {
                             "number" : "221.5787",
-                            "version" : "2022.1.2 RC",
+                            "version" : "2022.1.2 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5787.20"
                         },
@@ -4712,7 +4712,7 @@
                     {
                         "build" : {
                             "number" : "221.5591",
-                            "version" : "2022.1.1 RC",
+                            "version" : "2022.1.1 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5591.41"
                         },
@@ -4732,7 +4732,7 @@
                     {
                         "build" : {
                             "number" : "221.5080",
-                            "version" : "2022.1 RC",
+                            "version" : "2022.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.169"
                         },
@@ -4742,7 +4742,7 @@
                     {
                         "build" : {
                             "number" : "213.7172",
-                            "version" : "2021.3.3 RC",
+                            "version" : "2021.3.3 Release Candidate",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.7172.12"
                         },
@@ -4762,7 +4762,7 @@
                     {
                         "build" : {
                             "number" : "213.6777",
-                            "version" : "2021.3.2 RC",
+                            "version" : "2021.3.2 Release Candidate",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.6777.38"
                         },
@@ -4782,7 +4782,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.202"
                         },
@@ -4792,7 +4792,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.125"
                         },
@@ -4802,7 +4802,7 @@
                     {
                         "build" : {
                             "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
+                            "version" : "2021.2.4 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5712.14"
                         },
@@ -4812,7 +4812,7 @@
                     {
                         "build" : {
                             "number" : "212.5457",
-                            "version" : "2021.2.3 RC",
+                            "version" : "2021.2.3 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5457.20"
                         },
@@ -4832,7 +4832,7 @@
                     {
                         "build" : {
                             "number" : "212.5284",
-                            "version" : "2021.2.2 RC",
+                            "version" : "2021.2.2 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5284.31"
                         },
@@ -4852,7 +4852,7 @@
                     {
                         "build" : {
                             "number" : "212.5080",
-                            "version" : "2021.2.1 RC",
+                            "version" : "2021.2.1 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5080.39"
                         },
@@ -4882,7 +4882,7 @@
                     {
                         "build" : {
                             "number" : "212.4746",
-                            "version" : "2021.2 RC",
+                            "version" : "2021.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "212.4746.52"
                         },
@@ -4892,7 +4892,7 @@
                     {
                         "build" : {
                             "number" : "211.7628",
-                            "version" : "2021.1.3 RC",
+                            "version" : "2021.1.3 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7628.15"
                         },
@@ -4912,7 +4912,7 @@
                     {
                         "build" : {
                             "number" : "211.7442",
-                            "version" : "2021.1.2 RC",
+                            "version" : "2021.1.2 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7442.27"
                         },
@@ -4932,7 +4932,7 @@
                     {
                         "build" : {
                             "number" : "211.7142",
-                            "version" : "2021.1.1 RC",
+                            "version" : "2021.1.1 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7142.36"
                         },
@@ -4942,7 +4942,7 @@
                     {
                         "build" : {
                             "number" : "211.6693",
-                            "version" : "2021.1 RC",
+                            "version" : "2021.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "211.6693.65"
                         },
@@ -4952,7 +4952,7 @@
                     {
                         "build" : {
                             "number" : "203.8084",
-                            "version" : "2020.3.4 RC",
+                            "version" : "2020.3.4 Release Candidate",
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.8084.17"
                         },
@@ -4972,7 +4972,7 @@
                     {
                         "build" : {
                             "number" : "203.7717",
-                            "version" : "2020.3.3 RC",
+                            "version" : "2020.3.3 Release Candidate",
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.7717.25"
                         },
@@ -5294,7 +5294,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 Release Candidate",
                             "releaseDate" : "2022-07-26",
                             "fullNumber" : "222.3739.40"
                         },
@@ -5314,7 +5314,7 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 RC",
+                            "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.90"
                         },
@@ -5324,7 +5324,7 @@
                     {
                         "build" : {
                             "number" : "221.6008",
-                            "version" : "2022.1.4 RC",
+                            "version" : "2022.1.4 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.6008.8"
                         },
@@ -5344,7 +5344,7 @@
                     {
                         "build" : {
                             "number" : "221.5921",
-                            "version" : "2022.1.3 RC",
+                            "version" : "2022.1.3 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5921.17"
                         },
@@ -5364,7 +5364,7 @@
                     {
                         "build" : {
                             "number" : "221.5787",
-                            "version" : "2022.1.2 RC",
+                            "version" : "2022.1.2 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5787.20"
                         },
@@ -5384,7 +5384,7 @@
                     {
                         "build" : {
                             "number" : "221.5591",
-                            "version" : "2022.1.1 RC",
+                            "version" : "2022.1.1 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5591.41"
                         },
@@ -5404,7 +5404,7 @@
                     {
                         "build" : {
                             "number" : "221.5080",
-                            "version" : "2022.1 RC",
+                            "version" : "2022.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.169"
                         },
@@ -5414,7 +5414,7 @@
                     {
                         "build" : {
                             "number" : "213.7172",
-                            "version" : "2021.3.3 RC",
+                            "version" : "2021.3.3 Release Candidate",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.7172.12"
                         },
@@ -5434,7 +5434,7 @@
                     {
                         "build" : {
                             "number" : "213.6777",
-                            "version" : "2021.3.2 RC",
+                            "version" : "2021.3.2 Release Candidate",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.6777.38"
                         },
@@ -5454,7 +5454,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.202"
                         },
@@ -5464,7 +5464,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.125"
                         },
@@ -5474,7 +5474,7 @@
                     {
                         "build" : {
                             "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
+                            "version" : "2021.2.4 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5712.14"
                         },
@@ -5484,7 +5484,7 @@
                     {
                         "build" : {
                             "number" : "212.5457",
-                            "version" : "2021.2.3 RC",
+                            "version" : "2021.2.3 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5457.20"
                         },
@@ -5504,7 +5504,7 @@
                     {
                         "build" : {
                             "number" : "212.5284",
-                            "version" : "2021.2.2 RC",
+                            "version" : "2021.2.2 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5284.31"
                         },
@@ -5524,7 +5524,7 @@
                     {
                         "build" : {
                             "number" : "212.5080",
-                            "version" : "2021.2.1 RC",
+                            "version" : "2021.2.1 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5080.39"
                         },
@@ -5554,7 +5554,7 @@
                     {
                         "build" : {
                             "number" : "212.4746",
-                            "version" : "2021.2 RC",
+                            "version" : "2021.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "212.4746.52"
                         },
@@ -5564,7 +5564,7 @@
                     {
                         "build" : {
                             "number" : "211.7628",
-                            "version" : "2021.1.3 RC",
+                            "version" : "2021.1.3 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7628.15"
                         },
@@ -5584,7 +5584,7 @@
                     {
                         "build" : {
                             "number" : "211.7442",
-                            "version" : "2021.1.2 RC",
+                            "version" : "2021.1.2 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7442.27"
                         },
@@ -5604,7 +5604,7 @@
                     {
                         "build" : {
                             "number" : "211.7142",
-                            "version" : "2021.1.1 RC",
+                            "version" : "2021.1.1 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7142.36"
                         },
@@ -5614,7 +5614,7 @@
                     {
                         "build" : {
                             "number" : "211.6693",
-                            "version" : "2021.1 RC",
+                            "version" : "2021.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "211.6693.65"
                         },
@@ -5624,7 +5624,7 @@
                     {
                         "build" : {
                             "number" : "203.8084",
-                            "version" : "2020.3.4 RC",
+                            "version" : "2020.3.4 Release Candidate",
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.8084.17"
                         },
@@ -5644,7 +5644,7 @@
                     {
                         "build" : {
                             "number" : "203.7717",
-                            "version" : "2020.3.3 RC",
+                            "version" : "2020.3.3 Release Candidate",
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.7717.25"
                         },
@@ -6966,7 +6966,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 Release Candidate",
                             "releaseDate" : "2022-07-26",
                             "fullNumber" : "222.3739.40"
                         },
@@ -6986,7 +6986,7 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 RC",
+                            "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.90"
                         },
@@ -6996,7 +6996,7 @@
                     {
                         "build" : {
                             "number" : "221.6008",
-                            "version" : "2022.1.4 RC",
+                            "version" : "2022.1.4 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.6008.8"
                         },
@@ -7016,7 +7016,7 @@
                     {
                         "build" : {
                             "number" : "221.5921",
-                            "version" : "2022.1.3 RC",
+                            "version" : "2022.1.3 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5921.17"
                         },
@@ -7036,7 +7036,7 @@
                     {
                         "build" : {
                             "number" : "221.5787",
-                            "version" : "2022.1.2 RC",
+                            "version" : "2022.1.2 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5787.20"
                         },
@@ -7056,7 +7056,7 @@
                     {
                         "build" : {
                             "number" : "221.5591",
-                            "version" : "2022.1.1 RC",
+                            "version" : "2022.1.1 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5591.41"
                         },
@@ -7076,7 +7076,7 @@
                     {
                         "build" : {
                             "number" : "221.5080",
-                            "version" : "2022.1 RC",
+                            "version" : "2022.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.169"
                         },
@@ -7086,7 +7086,7 @@
                     {
                         "build" : {
                             "number" : "213.7172",
-                            "version" : "2021.3.3 RC",
+                            "version" : "2021.3.3 Release Candidate",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.7172.12"
                         },
@@ -7106,7 +7106,7 @@
                     {
                         "build" : {
                             "number" : "213.6777",
-                            "version" : "2021.3.2 RC",
+                            "version" : "2021.3.2 Release Candidate",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.6777.38"
                         },
@@ -7126,7 +7126,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.202"
                         },
@@ -7136,7 +7136,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.125"
                         },
@@ -7146,7 +7146,7 @@
                     {
                         "build" : {
                             "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
+                            "version" : "2021.2.4 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5712.14"
                         },
@@ -7156,7 +7156,7 @@
                     {
                         "build" : {
                             "number" : "212.5457",
-                            "version" : "2021.2.3 RC",
+                            "version" : "2021.2.3 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5457.20"
                         },
@@ -7176,7 +7176,7 @@
                     {
                         "build" : {
                             "number" : "212.5284",
-                            "version" : "2021.2.2 RC",
+                            "version" : "2021.2.2 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5284.31"
                         },
@@ -7196,7 +7196,7 @@
                     {
                         "build" : {
                             "number" : "212.5080",
-                            "version" : "2021.2.1 RC",
+                            "version" : "2021.2.1 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5080.39"
                         },
@@ -7226,7 +7226,7 @@
                     {
                         "build" : {
                             "number" : "212.4746",
-                            "version" : "2021.2 RC",
+                            "version" : "2021.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "212.4746.52"
                         },
@@ -7236,7 +7236,7 @@
                     {
                         "build" : {
                             "number" : "211.7628",
-                            "version" : "2021.1.3 RC",
+                            "version" : "2021.1.3 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7628.15"
                         },
@@ -7256,7 +7256,7 @@
                     {
                         "build" : {
                             "number" : "211.7442",
-                            "version" : "2021.1.2 RC",
+                            "version" : "2021.1.2 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7442.27"
                         },
@@ -7276,7 +7276,7 @@
                     {
                         "build" : {
                             "number" : "211.7142",
-                            "version" : "2021.1.1 RC",
+                            "version" : "2021.1.1 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7142.36"
                         },
@@ -7286,7 +7286,7 @@
                     {
                         "build" : {
                             "number" : "211.6693",
-                            "version" : "2021.1 RC",
+                            "version" : "2021.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "211.6693.65"
                         },
@@ -7296,7 +7296,7 @@
                     {
                         "build" : {
                             "number" : "203.8084",
-                            "version" : "2020.3.4 RC",
+                            "version" : "2020.3.4 Release Candidate",
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.8084.17"
                         },
@@ -7316,7 +7316,7 @@
                     {
                         "build" : {
                             "number" : "203.7717",
-                            "version" : "2020.3.3 RC",
+                            "version" : "2020.3.3 Release Candidate",
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.7717.25"
                         },
@@ -7638,7 +7638,7 @@
                     {
                         "build" : {
                             "number" : "222.3739",
-                            "version" : "2022.2.1 RC",
+                            "version" : "2022.2.1 Release Candidate",
                             "releaseDate" : "2022-07-26",
                             "fullNumber" : "222.3739.40"
                         },
@@ -7658,7 +7658,7 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 RC",
+                            "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.90"
                         },
@@ -7668,7 +7668,7 @@
                     {
                         "build" : {
                             "number" : "221.6008",
-                            "version" : "2022.1.4 RC",
+                            "version" : "2022.1.4 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.6008.8"
                         },
@@ -7688,7 +7688,7 @@
                     {
                         "build" : {
                             "number" : "221.5921",
-                            "version" : "2022.1.3 RC",
+                            "version" : "2022.1.3 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5921.17"
                         },
@@ -7708,7 +7708,7 @@
                     {
                         "build" : {
                             "number" : "221.5787",
-                            "version" : "2022.1.2 RC",
+                            "version" : "2022.1.2 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5787.20"
                         },
@@ -7728,7 +7728,7 @@
                     {
                         "build" : {
                             "number" : "221.5591",
-                            "version" : "2022.1.1 RC",
+                            "version" : "2022.1.1 Release Candidate",
                             "releaseDate" : "2022-04-12",
                             "fullNumber" : "221.5591.41"
                         },
@@ -7748,7 +7748,7 @@
                     {
                         "build" : {
                             "number" : "221.5080",
-                            "version" : "2022.1 RC",
+                            "version" : "2022.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.169"
                         },
@@ -7758,7 +7758,7 @@
                     {
                         "build" : {
                             "number" : "213.7172",
-                            "version" : "2021.3.3 RC",
+                            "version" : "2021.3.3 Release Candidate",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.7172.12"
                         },
@@ -7778,7 +7778,7 @@
                     {
                         "build" : {
                             "number" : "213.6777",
-                            "version" : "2021.3.2 RC",
+                            "version" : "2021.3.2 Release Candidate",
                             "releaseDate" : "2021-11-30",
                             "fullNumber" : "213.6777.38"
                         },
@@ -7798,7 +7798,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.202"
                         },
@@ -7808,7 +7808,7 @@
                     {
                         "build" : {
                             "number" : "213.5744",
-                            "version" : "2021.3 RC",
+                            "version" : "2021.3 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "213.5744.125"
                         },
@@ -7818,7 +7818,7 @@
                     {
                         "build" : {
                             "number" : "212.5712",
-                            "version" : "2021.2.4 RC",
+                            "version" : "2021.2.4 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5712.14"
                         },
@@ -7828,7 +7828,7 @@
                     {
                         "build" : {
                             "number" : "212.5457",
-                            "version" : "2021.2.3 RC",
+                            "version" : "2021.2.3 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5457.20"
                         },
@@ -7848,7 +7848,7 @@
                     {
                         "build" : {
                             "number" : "212.5284",
-                            "version" : "2021.2.2 RC",
+                            "version" : "2021.2.2 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5284.31"
                         },
@@ -7868,7 +7868,7 @@
                     {
                         "build" : {
                             "number" : "212.5080",
-                            "version" : "2021.2.1 RC",
+                            "version" : "2021.2.1 Release Candidate",
                             "releaseDate" : "2021-07-27",
                             "fullNumber" : "212.5080.39"
                         },
@@ -7898,7 +7898,7 @@
                     {
                         "build" : {
                             "number" : "212.4746",
-                            "version" : "2021.2 RC",
+                            "version" : "2021.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "212.4746.52"
                         },
@@ -7908,7 +7908,7 @@
                     {
                         "build" : {
                             "number" : "211.7628",
-                            "version" : "2021.1.3 RC",
+                            "version" : "2021.1.3 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7628.15"
                         },
@@ -7928,7 +7928,7 @@
                     {
                         "build" : {
                             "number" : "211.7442",
-                            "version" : "2021.1.2 RC",
+                            "version" : "2021.1.2 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7442.27"
                         },
@@ -7948,7 +7948,7 @@
                     {
                         "build" : {
                             "number" : "211.7142",
-                            "version" : "2021.1.1 RC",
+                            "version" : "2021.1.1 Release Candidate",
                             "releaseDate" : "2021-04-07",
                             "fullNumber" : "211.7142.36"
                         },
@@ -7958,7 +7958,7 @@
                     {
                         "build" : {
                             "number" : "211.6693",
-                            "version" : "2021.1 RC",
+                            "version" : "2021.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "211.6693.65"
                         },
@@ -7968,7 +7968,7 @@
                     {
                         "build" : {
                             "number" : "203.8084",
-                            "version" : "2020.3.4 RC",
+                            "version" : "2020.3.4 Release Candidate",
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.8084.17"
                         },
@@ -7988,7 +7988,7 @@
                     {
                         "build" : {
                             "number" : "203.7717",
-                            "version" : "2020.3.3 RC",
+                            "version" : "2020.3.3 Release Candidate",
                             "releaseDate" : "2020-12-01",
                             "fullNumber" : "203.7717.25"
                         },
@@ -9047,6 +9047,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3739",
+                            "version" : "2022.2.1 RC",
+                            "releaseDate" : "2022-07-25",
+                            "fullNumber" : "222.3739.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.3739.40.tar.gz",
+                        "sha256" : "e51ec9fcafd1759845a425b70a5f99a8537601da5860127e20df2bfbee637617"
+                    },
                     {
                         "build" : {
                             "number" : "222.3345",
@@ -11876,7 +11886,7 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 RC",
+                            "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.70"
                         },
@@ -11958,7 +11968,7 @@
                     {
                         "build" : {
                             "number" : "222.3345",
-                            "version" : "2022.2 RC",
+                            "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "222.3345.70"
                         },
@@ -13902,6 +13912,16 @@
                     {
                         "build" : {
                             "number" : "222.3739",
+                            "version" : "2022.2.1 RC",
+                            "releaseDate" : "2022-08-01",
+                            "fullNumber" : "222.3739.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-222.3739.45.tar.gz",
+                        "sha256" : "c970ba59b1777349f892db877bffec315fc456f2aae7523b3cde7da31b1459c3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.3739",
                             "version" : "2022.2.1 Preview",
                             "releaseDate" : "2022-08-01",
                             "fullNumber" : "222.3739.28"
@@ -13992,7 +14012,7 @@
                     {
                         "build" : {
                             "number" : "221.5080",
-                            "version" : "2022.1 RC",
+                            "version" : "2022.1 Release Candidate",
                             "releaseDate" : null,
                             "fullNumber" : "221.5080.177"
                         },
