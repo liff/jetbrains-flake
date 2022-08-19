@@ -26,7 +26,7 @@ GIT_REV_LINE = re.compile(
     r"""\.:git:(?P<jbrGitRev>[0-9a-fA-f]+)[+*]?\s+jcef_git:git:(?P<jcefGitRev>[0-9a-fA-F]+)[+*]?"""
 )
 
-dependency_injector = DependencyInjector(LoggingConfiguration(stderr), JsonRepositoryRenderer())
+dependency_injector = DependencyInjector()
 prefetcher = dependency_injector.get_prefetcher()
 repository = GithubRepository("JetBrains", "JetBrainsRuntime")
 
