@@ -1,9 +1,7 @@
 #!/usr/bin/env nix-shell
 #!nix-shell --show-trace -i python3 -p "python3.withPackages(p: with p; [ requests python-dotenv nix-prefetch-github ])"
 import json
-import os.path
 import re
-import subprocess
 import tarfile
 from io import TextIOWrapper
 from json.decoder import JSONDecodeError
@@ -14,8 +12,6 @@ import requests
 from dotenv.parser import parse_stream
 from nix_prefetch_github.dependency_injector import DependencyInjector
 from nix_prefetch_github.interfaces import PrefetchOptions
-from nix_prefetch_github.logging import LoggingConfiguration
-from nix_prefetch_github.presenter import JsonRepositoryRenderer
 from nix_prefetch_github.interfaces import GithubRepository
 
 VERSION_LINE = re.compile(
@@ -50,17 +46,23 @@ except (FileNotFoundError, JSONDecodeError):
     version_info = dict()
 
 if version_info.get("intellijFullNumber") == latest_intellij_full_number:
-    print(f"Up to date at {version_info['tag']} for IntelliJ IDEA {latest_intellij_full_number}.")
+    print(
+        f"Up to date at {version_info['tag']} for IntelliJ IDEA {latest_intellij_full_number}."
+    )
 else:
     print(f"Getting JBR release info for {latest_intellij_full_number}…")
     response = requests.get(latest_intellij["downloadUri"], stream=True)
     response.raise_for_status()
 
     with tarfile.open(fileobj=response.raw, mode="r", bufsize=4 * 1024 * 1024) as src:
-        member = next(member for member in src if PurePath(member.name).match("*/jbr/release"))
+        member = next(
+            member for member in src if PurePath(member.name).match("*/jbr/release")
+        )
         with src.extractfile(member) as release:
             vars = {b.key: b.value for b in parse_stream(TextIOWrapper(release))}
-            new_version_info = VERSION_LINE.fullmatch(vars["IMPLEMENTOR_VERSION"]).groupdict()
+            new_version_info = VERSION_LINE.fullmatch(
+                vars["IMPLEMENTOR_VERSION"]
+            ).groupdict()
             new_version_info |= GIT_REV_LINE.fullmatch(vars["SOURCE"]).groupdict()
 
     new_version_info["intellijFullNumber"] = latest_intellij_full_number
@@ -70,13 +72,17 @@ else:
 
     print(f"Getting hash for tag {new_version_info['tag']}…")
 
-    prefetched = prefetcher.prefetch_github(repository, new_version_info["tag"], PrefetchOptions())
+    prefetched = prefetcher.prefetch_github(
+        repository, new_version_info["tag"], PrefetchOptions()
+    )
     new_version_info["hash"] = f"sha256-{prefetched.sha256}"
 
     with open(version_file, "w") as out:
         json.dump(new_version_info, out, indent=4)
 
-    print(f"Updated to {new_version_info['tag']} for IntelliJ IDEA {latest_intellij_full_number}")
+    print(
+        f"Updated to {new_version_info['tag']} for IntelliJ IDEA {latest_intellij_full_number}"
+    )
 
 # Local Variables:
 # mode: python
