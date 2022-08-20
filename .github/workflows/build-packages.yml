@@ -17,11 +17,12 @@ jobs:
       matrix:
         pkg:
           - jetbrains-jcef
+          - fsnotifier
         nixpkgs_branch:
           - nixos-unstable
-          - nixos-21.11
         system:
           - x86_64-linux
+          - aarch64-linux
 
     name: "Build library ${{ matrix.pkg }} for ${{ matrix.nixpkgs_branch }} on ${{ matrix.system }}"
 
@@ -56,9 +57,9 @@ jobs:
           - jetbrainsruntime
         nixpkgs_branch:
           - nixos-unstable
-          - nixos-21.11
         system:
           - x86_64-linux
+          - aarch64-linux
 
     name: "Build library ${{ matrix.pkg }} for ${{ matrix.nixpkgs_branch }} on ${{ matrix.system }}"
 
@@ -100,6 +101,7 @@ jobs:
           - nixos-unstable
         system:
           - x86_64-linux
+          - aarch64-linux
 
     name: "Build application ${{ matrix.pkg }} for ${{ matrix.nixpkgs_branch }} on ${{ matrix.system }}"
 

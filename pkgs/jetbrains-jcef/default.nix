@@ -45,7 +45,7 @@ let
 
   cefSrcHashes = {
     "linux64" = "sha256-vdISLERXMsrU6vaOw5+cceOHkvn7LqXspapZBP/5IFs=";
-    "linuxarm64" = "sha256-AW+tiE5s4UL+9bLDnnXBpHsYyj6cpEwl5AzWeYthP6k=";
+    "linuxarm64" = "sha256-wEHRD9ptiXXkH1Gehk99QqgCvfG+zF2tGgmmTED5nCI=";
   };
 
   cefSrcHash = cefSrcHashes."${cefArch}";
@@ -115,6 +115,7 @@ stdenv.mkDerivation {
   preBuild = ''
     sed -ir "s#JCEF_ROOT_DIR=.*#JCEF_ROOT_DIR=$(cd .. && pwd)#" ../jb/tools/linux/set_env.sh
     . ../jb/tools/linux/set_env.sh
+    export OUT_CLS_DIR="$JCEF_ROOT_DIR"/out/${cefArch}
     export PATCHED_LIBCEF_DIR=$JCEF_ROOT_DIR/third_party/cef/cef_binary_${version}_${cefArch}_minimal/Release
   '';
 

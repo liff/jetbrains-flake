@@ -70,13 +70,13 @@ openjdk17.overrideAttrs (oldAttrs: {
               + ''
     sed -ir \
       -e 's/^OPENJDK_TAG=.*$/OPENJDK_TAG=jbr-${jdkVersion}+${jdkBuildNumber}/' \
-      -e 's/^SOURCE_DATE_EPOCH=.*$/SOURCE_DATE_EPOCH=1658217911/' \
+      -e "s/^SOURCE_DATE_EPOCH=.*\$/SOURCE_DATE_EPOCH=$SOURCE_DATE_EPOCH/" \
       jb/project/tools/common/scripts/common.sh
   '';
 
   JCEF_PATH = jetbrains-jcef;
 
-  RELEASE_NAME = "linux-${stdenv.targetPlatform.linuxArch}-server-release";
+  RELEASE_NAME = "linux-${stdenv.targetPlatform.uname.processor}-server-release";
 
   postBuild = (oldAttrs.postBuild or "") + ''
     patch -p0 < jb/project/tools/patches/add_jcef_module.patch

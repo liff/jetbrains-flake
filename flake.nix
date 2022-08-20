@@ -2,10 +2,11 @@
   description = "JetBrains IntelliJ IDEA";
 
   outputs = { self, nixpkgs }:
-    let systems = [ "x86_64-linux" ];
+    let systems = [ "x86_64-linux" "aarch64-linux" ];
         libNames = [
           "jetbrains-jcef"
           "jetbrainsruntime"
+          "fsnotifier"
         ];
         appNames = [
           "intellij-idea-community"
