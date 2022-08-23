@@ -10909,6 +10909,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.3739",
+                            "version" : "2022.2.2",
+                            "releaseDate" : "2022-07-21",
+                            "fullNumber" : "222.3739.67"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2022.2.2-no-jbr.tar.gz",
+                        "sha256" : "01877bd9a9980a037b55e2a8c0cc509af9d13e7e8c5eec76275bca30e2f5f956"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.3345",
                             "version" : "2022.2.1",
                             "releaseDate" : "2022-07-21",
@@ -11309,6 +11319,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.3739",
+                            "version" : "2022.2.2",
+                            "releaseDate" : "2022-07-21",
+                            "fullNumber" : "222.3739.67"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2022.2.2.tar.gz",
+                        "sha256" : "57aea1e7f4946191b731ce8ce3be66c3dd8328ea098ac710002cad452957d178"
+                    },
                     {
                         "build" : {
                             "number" : "222.3345",
