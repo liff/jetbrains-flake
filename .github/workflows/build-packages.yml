@@ -102,6 +102,9 @@ jobs:
         system:
           - x86_64-linux
           - aarch64-linux
+        exclude:
+          - pkg: intellij-idea-ultimate-jbr
+            system: aarch64-linux
 
     name: "Build application ${{ matrix.pkg }} for ${{ matrix.nixpkgs_branch }} on ${{ matrix.system }}"
 
