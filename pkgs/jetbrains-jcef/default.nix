@@ -70,12 +70,13 @@ let
 
   extraRpath = lib.makeLibraryPath [ udev pulseaudio pciutils ];
 
+  commitNumber = 541;
+
   jcefSrc = fetchFromGitHub {
     owner = "JetBrains";
     repo = "jcef";
     rev = "651cf8b0aba189e908f82990a4000934914e4dbf";
-    hash = "sha256-7SrlsIC6ItvXROt1nq6AyHGI6AL2xiUjDyc3n0AvibI=";
-    leaveDotGit = true;
+    hash = "sha256-pCB25nZTbtU00vseAIYutnMM296y955xAUJi2+dQaJY=";
     name = "jcef";
   };
 
@@ -95,6 +96,13 @@ stdenv.mkDerivation {
     # while building the CEF distribution.
     autoPatchelf ${cefFilename}
     mv ${cefFilename} jcef/third_party/cef/
+  '';
+
+  postPatch = ''
+    substituteInPlace tools/make_version_header.py \
+      --replace "raise Exception('Not a valid checkout')" "pass" \
+      --replace "commit_number = git.get_commit_number(jcef_dir)" "commit_number = '${toString commitNumber}'" \
+      --replace "commit_hash = git.get_hash(jcef_dir)" "commit_hash = '${jcefSrc.rev}'"
   '';
 
   nativeBuildInputs = [ autoPatchelfHook bash unzip which git pkg-config cmake python3 ];
