@@ -8595,6 +8595,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "222.4167",
+                            "version" : "2022.2.2",
+                            "releaseDate" : "2022-07-25",
+                            "fullNumber" : "222.4167.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2022.2.2.tar.gz",
+                        "sha256" : "506b25ff264ce882c738577044bada4e320b1f5a4dd97c2888730c91f80f071e"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.3739",
                             "version" : "2022.2.1",
                             "releaseDate" : "2022-07-25",
@@ -12453,6 +12463,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.4167",
+                            "version" : "2022.2.3",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.4167.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2022.2.3.tar.gz",
+                        "sha256" : "fda47d9939b95d8995d1a375443025599cd74b1b5a2966273477ecfafa9ce4f1"
+                    },
                     {
                         "build" : {
                             "number" : "222.3739",
