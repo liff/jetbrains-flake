@@ -25,7 +25,7 @@
 , harfbuzz
 
 , expat, nspr, nss
-, alsaLib, cups
+, alsa-lib, cups
 , cairo, fontconfig, freetype, mesa
 , atk, at-spi2-core, at-spi2-atk
 , dbus, gdk-pixbuf, glib, gtk2, pango, gnome2
@@ -58,7 +58,7 @@ stdenv.mkDerivation rec {
 
   buildInputs = [
     expat nspr nss
-    alsaLib cups
+    alsa-lib cups
     cairo fontconfig freetype mesa
     atk at-spi2-core at-spi2-atk
     dbus gdk-pixbuf glib gtk2 pango gnome2.GConf gnome2.gtkglext
