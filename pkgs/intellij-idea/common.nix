@@ -106,7 +106,7 @@ stdenv.mkDerivation rec {
       as IntelliJ.
     '';
     maintainers = with maintainers; [ liff ];
-    chooseLicense = chooseLicense lib.licenses;
+    license = chooseLicense lib.licenses;
     platforms = jetbrainsruntime.meta.platforms;
   };
 }
