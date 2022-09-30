@@ -11259,6 +11259,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.5",
+                            "releaseDate" : "2022-07-21",
+                            "fullNumber" : "222.4345.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2022.2.5-no-jbr.tar.gz",
+                        "sha256" : "485f672f2f02682be19b2876079ec5a73b76de0625b20053a0cd4ea98c32ec3a"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4167",
                             "version" : "2022.2.4",
                             "releaseDate" : "2022-07-21",
@@ -11689,6 +11699,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.5",
+                            "releaseDate" : "2022-07-21",
+                            "fullNumber" : "222.4345.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2022.2.5.tar.gz",
+                        "sha256" : "55b28f3b79eda126fe778e2945804d50b1145503737f1b5e25ab6ae2d2a0e3ae"
+                    },
                     {
                         "build" : {
                             "number" : "222.4167",
@@ -14611,6 +14631,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3 Preview",
+                            "releaseDate" : "2022-08-01",
+                            "fullNumber" : "222.4345.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-222.4345.7.tar.gz",
+                        "sha256" : "7dd1d5d698a116d045498e246d4aa259deda628f75e1e78fb6609a5a4bd71ca3"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4167",
                             "version" : "2022.2.2 Release Candidate",
                             "releaseDate" : "2022-08-01",
@@ -15740,6 +15770,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-213.4293.18.tar.gz",
                         "sha256" : "448a407425fc0705b261027d7be74d489bbd7012dfd55be2f1f789a51bcd0424"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3 Preview",
+                            "releaseDate" : "2022-07-26",
+                            "fullNumber" : "222.4345.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-222.4345.6.tar.gz",
+                        "sha256" : "af9d498d5e1178c910bcd04b37a431711af8297f437ab11448d9fe0708b4f091"
                     },
                     {
                         "build" : {
