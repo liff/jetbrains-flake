@@ -1461,6 +1461,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3 Release Candidate",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.4345.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-222.4345.8-no-jbr.tar.gz",
+                        "sha256" : "04619af5a4e40710576535dc15bdcc9ee05fbec9b93969ffb05e4523afa7faba"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4167",
                             "version" : "2022.2.2 Release Candidate",
                             "releaseDate" : "2022-07-28",
@@ -1720,6 +1730,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-213.4631.9.tar.gz",
                         "sha256" : "83c08c5598401308d4d16cfec19958c7f646f6ab67e9b409b00099d5af621176"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3 Release Candidate",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.4345.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-222.4345.8.tar.gz",
+                        "sha256" : "56447c738ae6fc0866693a220be6df3fc5173c2943839dfca63381518568e366"
                     },
                     {
                         "build" : {
@@ -3345,6 +3365,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3 Release Candidate",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.4345.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-222.4345.8-no-jbr.tar.gz",
+                        "sha256" : "203d841a0697757ec456f14d74a20b851932eccc3183bb0b931ffd357442aadd"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4167",
                             "version" : "2022.2.2 Release Candidate",
                             "releaseDate" : "2022-07-28",
@@ -3604,6 +3634,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-213.4631.9.tar.gz",
                         "sha256" : "65842639109a3b0e7cacf7583a4115382704812011903d8405418b71b71ef329"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3 Release Candidate",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.4345.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-222.4345.8.tar.gz",
+                        "sha256" : "b5371fed4e288312c6428de2e59b1603d374d57d99ba14978b92c08323b05870"
                     },
                     {
                         "build" : {
