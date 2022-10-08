@@ -10841,13 +10841,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "223.4884",
+                            "number" : "223.6160",
                             "version" : "2022.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "223.4884.72"
+                            "fullNumber" : "223.6160.115"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.4884.72.tar.gz",
-                        "sha256" : "a7a879c3352ab11e01347d9111e2b108478b9df006ff1b9e5e9e7fc8c95b4a50"
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.6160.115.tar.gz",
+                        "sha256" : "3de8690185ea95c144e75bb9f924b6ed394cf1d43226cc38a5e2254efefba94b"
                     },
                     {
                         "build" : {
@@ -13269,13 +13269,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "223.4884",
+                            "number" : "223.6160",
                             "version" : "2022.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "223.4884.78"
+                            "fullNumber" : "223.6160.11"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-223.4884.78.tar.gz",
-                        "sha256" : "1e014d550691616335af5d9d2a0962e01cc71326fa5c3651b481cc9e5db42ec1"
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-223.6160.11.tar.gz",
+                        "sha256" : "4d4b4bf78ef9176bd26e5875f216a41a34226f471958a0ac2d1b8c689845dfff"
                     },
                     {
                         "build" : {
@@ -14907,6 +14907,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3",
+                            "releaseDate" : "2022-07-26",
+                            "fullNumber" : "222.4345.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2022.2.3.tar.gz",
+                        "sha256" : "a8c3412db30ab7bd8b8601b0a50c95dc48a412391f1c33df27c47cf5d2204257"
+                    },
                     {
                         "build" : {
                             "number" : "222.4167",
