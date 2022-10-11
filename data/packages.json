@@ -8775,6 +8775,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3",
+                            "releaseDate" : "2022-07-25",
+                            "fullNumber" : "222.4345.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2022.2.3.tar.gz",
+                        "sha256" : "1d7d464bbcb83d5af48359aeda6aa7d165038bfaa1f26fef1019761eb278fa22"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4167",
                             "version" : "2022.2.2",
                             "releaseDate" : "2022-07-25",
@@ -9906,16 +9916,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-211.5538.3.tar.gz",
                         "sha256" : "fee273cdb00aa0708d7b44b5515191635badf3651289c6be2610baacb1f030af"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.4345",
-                            "version" : "2022.2.3 RC",
-                            "releaseDate" : "2022-07-25",
-                            "fullNumber" : "222.4345.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.4345.14.tar.gz",
-                        "sha256" : "1d7d464bbcb83d5af48359aeda6aa7d165038bfaa1f26fef1019761eb278fa22"
                     },
                     {
                         "build" : {
@@ -14611,13 +14611,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "223.4884",
+                            "number" : "223.6160",
                             "version" : "2022.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "223.4884.75"
+                            "fullNumber" : "223.6160.85"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.4884.75.tar.gz",
-                        "sha256" : "9f44302e5916ff4fc66614bf695c21e732273383d9d89b4daae6db5eb66f4c79"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.6160.85.tar.gz",
+                        "sha256" : "36c78800aceef8f5a9aef93fafa566265de8e6355c454aad7801fcea13f1005b"
                     },
                     {
                         "build" : {
@@ -15643,13 +15643,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "223.4884",
+                            "number" : "223.6160",
                             "version" : "2022.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "223.4884.72"
+                            "fullNumber" : "223.6160.11"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.4884.72.tar.gz",
-                        "sha256" : "c26785e44f1e595757dc5e33288cf47979239b12d7780844fead327bce4eaeda"
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.6160.11.tar.gz",
+                        "sha256" : "9ea964e78e55bd5c91aa1d9754204f13d05cf91162109c9a83c85590a2644698"
                     },
                     {
                         "build" : {
