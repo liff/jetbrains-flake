@@ -5,6 +5,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.4345.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2022.2.3-no-jbr.tar.gz",
+                        "sha256" : "080659c00e16c60fe729acfe4cc46eb988601dc6fd778ad2c133c610e90a3aaf"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4167",
                             "version" : "2022.2.2",
                             "releaseDate" : "2022-07-28",
@@ -575,6 +585,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.4345.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2022.2.3.tar.gz",
+                        "sha256" : "c73750a2e27ed2410741a739071a920cca9844608a81f07735ed2e35a024cca1"
+                    },
                     {
                         "build" : {
                             "number" : "222.4167",
@@ -1899,6 +1919,16 @@
                 "nojbr" : [
                     {
                         "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.4345.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2022.2.3-no-jbr.tar.gz",
+                        "sha256" : "b5f8e0ba27c88e31bf4c3bfb21b26248cb6fde1a5f24abfa7a7026ce92439d06"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4167",
                             "version" : "2022.2.2",
                             "releaseDate" : "2022-07-28",
@@ -2469,6 +2499,16 @@
                     }
                 ],
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.3",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.4345.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2022.2.3.tar.gz",
+                        "sha256" : "cb03d44599a03419c0c63fc917846fca28c9ea664ed2b2a1c36240dcffb2a387"
+                    },
                     {
                         "build" : {
                             "number" : "222.4167",
@@ -10165,6 +10205,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "222.4345",
+                            "version" : "2022.2.4",
+                            "releaseDate" : "2022-07-27",
+                            "fullNumber" : "222.4345.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2022.2.4.tar.gz",
+                        "sha256" : "d88794c698d7bf4d970ba102b85166d5f8c3cb08c4ed5b4cbc150bb505320fab"
+                    },
                     {
                         "build" : {
                             "number" : "222.4167",
