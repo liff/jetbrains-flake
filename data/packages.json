@@ -9599,6 +9599,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.6646",
+                            "version" : "2022.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "223.6646.115"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.6646.115.tar.gz",
+                        "sha256" : "3a82b9843f76747590b18a78b1bbf8851df9dba232e9d4bc1eb8563761538bf4"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.6160",
                             "version" : "2022.3 EAP",
                             "releaseDate" : null,
@@ -15751,6 +15761,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.6646",
+                            "version" : "2022.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "223.6646.99"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.6646.99.tar.gz",
+                        "sha256" : "79fde820ea2d99dded6bbc5fb8378d29058bae1eafd8dae66560d54e7b95f2d8"
+                    },
                     {
                         "build" : {
                             "number" : "223.6160",
