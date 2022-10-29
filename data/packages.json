@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.7255",
+                            "version" : "2022.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "223.7255.83"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-223.7255.83.tar.gz",
+                        "sha256" : "9d3bc4747753437d67bd9503d1d9e74401300ee472f266414350cfd20fcc18f2"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.6160",
                             "version" : "2022.3 EAP",
                             "releaseDate" : null,
@@ -1927,6 +1937,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.7255",
+                            "version" : "2022.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "223.7255.83"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-223.7255.83.tar.gz",
+                        "sha256" : "0fe8433b2ff8d9a72ed1fb6b6f5579b414259810ac4896661bed98f25019b99d"
+                    },
                     {
                         "build" : {
                             "number" : "223.6160",
@@ -12873,6 +12893,16 @@
         "licensed" : {
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.7255",
+                            "version" : "2022.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "223.7255.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-223.7255.15.tar.gz",
+                        "sha256" : "9a68652c8fbec43ba6f50f93d63943e1af3dcffa4dc19d382dd6558be4a89d16"
+                    },
                     {
                         "build" : {
                             "number" : "223.7126",
