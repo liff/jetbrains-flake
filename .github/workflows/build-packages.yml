@@ -29,7 +29,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: cachix/install-nix-action@v18
-      - uses: cachix/cachix-action@v11
+      - uses: cachix/cachix-action@v12
         with:
           name: liff
           authToken: '${{ secrets.cachix_auth_token }}'
@@ -66,7 +66,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: cachix/install-nix-action@v18
-      - uses: cachix/cachix-action@v11
+      - uses: cachix/cachix-action@v12
         with:
           name: liff
           authToken: '${{ secrets.cachix_auth_token }}'
@@ -111,14 +111,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: cachix/install-nix-action@v18
-      - uses: cachix/cachix-action@v11
+      - uses: cachix/cachix-action@v12
         with:
           name: liff
-          signingKey: '${{ secrets.CACHIX_SIGNING_KEY }}'
-          authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
+          authToken: '${{ secrets.cachix_auth_token }}'
+          signingKey: '${{ secrets.cachix_signing_key }}'
       - uses: nixbuild/nixbuild-action@v14
         with:
-          nixbuild_ssh_key: '${{ secrets.NIXBUILD_SSH_KEY }}'
+          nixbuild_ssh_key: '${{ secrets.nixbuild_ssh_key }}'
       - name: Build package ${{ matrix.pkg }}
         run: |-
           nix -L build \
