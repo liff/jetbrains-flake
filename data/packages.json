@@ -2403,16 +2403,6 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "223.6646",
-                            "version" : "2022.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "223.6646.21"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-223.6646.21.tar.gz",
-                        "sha256" : "c238a4f8ff7e16d2b3d9c144d01447bdc22a179e38f13fe4089174e95c0504b1"
-                    },
-                    {
-                        "build" : {
                             "number" : "222.3345",
                             "version" : "2022.2 EAP",
                             "releaseDate" : null,
