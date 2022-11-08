@@ -14631,6 +14631,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.7401",
+                            "version" : "2022.3 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "223.7401.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.7401.16.tar.gz",
+                        "sha256" : "471e66eca3d7dfd703bee61ed9201f8614ac36c2d94c322fed6bb9827722a0db"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.7255",
                             "version" : "2022.3 EAP",
                             "releaseDate" : null,
