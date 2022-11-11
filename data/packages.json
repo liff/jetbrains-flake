@@ -689,6 +689,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "223.7571.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.7571.12.tar.gz",
+                        "sha256" : "5090020b8bb30f59a34479192def5a7eebb41da49e281c28f7feb6842f177c59"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.7401",
                             "version" : "2022.3 EAP",
                             "releaseDate" : null,
@@ -3175,6 +3185,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3 Beta 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "223.7571.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-223.7571.10.tar.gz",
+                        "sha256" : "91b9912501d2d91ecae0f2f2f63b388b64df472d7f6dcd578b88d42b4c76eff5"
+                    },
                     {
                         "build" : {
                             "number" : "223.7401",
@@ -15921,6 +15941,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "223.7571.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.7571.1.tar.gz",
+                        "sha256" : "e249f08ed066b1bfa780b0b55535150fac415e10ba3b922568032eb0293c09f1"
+                    },
                     {
                         "build" : {
                             "number" : "223.7401",
