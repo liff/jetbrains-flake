@@ -35,7 +35,12 @@ openjdk17.overrideAttrs (oldAttrs: {
     inherit hash;
   };
 
-  patches = (oldAttrs.patches ++ (if xdg then [ ./xdg.patch ] else []));
+  patches =
+    let openjdkPatches =
+      builtins.filter (patch:
+        !(lib.isDerivation patch && lib.strings.hasPrefix "FixNullPtrCast.patch" patch.name))
+        oldAttrs.patches;
+    in (openjdkPatches ++ (if xdg then [ ./xdg.patch ] else []));
 
   buildInputs = (oldAttrs.buildInputs or []) ++ (if useSystemHarfbuzz then [ harfbuzz ] else []);
 
