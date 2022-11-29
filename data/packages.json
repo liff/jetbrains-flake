@@ -9862,6 +9862,16 @@
                             "number" : "223.7571",
                             "version" : "2022.3 Release Candidate",
                             "releaseDate" : null,
+                            "fullNumber" : "223.7571.147"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.7571.147.tar.gz",
+                        "sha256" : "beb54d933e5ef0d77fb656054d2ab41012f495fba046e155464631bfa872285a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3 Release Candidate",
+                            "releaseDate" : null,
                             "fullNumber" : "223.7571.117"
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.7571.117.tar.gz",
@@ -14954,6 +14964,16 @@
                             "number" : "223.7571",
                             "version" : "2022.3 RC",
                             "releaseDate" : null,
+                            "fullNumber" : "223.7571.140"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.7571.140.tar.gz",
+                        "sha256" : "c341e611fd13f45f05425311912f4ed6e047216e689c1119ee750caed113ba18"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3 RC",
+                            "releaseDate" : null,
                             "fullNumber" : "223.7571.47"
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.7571.47.tar.gz",
@@ -15477,6 +15497,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3",
+                            "releaseDate" : "2022-11-28",
+                            "fullNumber" : "223.7571.168"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2022.3.tar.gz",
+                        "sha256" : "a70a2074f838c4a5f50b99d8797376bf3f57cdb40e9c728246555f9b4ac5d35b"
+                    },
                     {
                         "build" : {
                             "number" : "222.4345",
