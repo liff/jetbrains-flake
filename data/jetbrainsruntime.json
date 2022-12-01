@@ -1,12 +1,12 @@
 {
     "jdkVersion": "17.0.5",
-    "jdkBuildNumber": "7",
-    "buildNumber": "469",
-    "subBuildNumber": "71",
+    "jdkBuildNumber": "1",
+    "buildNumber": "653",
+    "subBuildNumber": "14",
     "bundleType": "jcef",
-    "jbrGitRev": "9bb05e8981c3",
-    "jcefGitRev": "651cf8b0aba1",
-    "intellijFullNumber": "222.4459.24",
-    "tag": "jb17.0.5-b469.71",
-    "hash": "sha256-AyGWrLqZ1RLsLM4TpDA1x2t2WJ8+ivMymRwpm4LIHow="
+    "jbrGitRev": "e705451b40e1",
+    "jcefGitRev": "4a605f44671a",
+    "intellijFullNumber": "223.7571.182",
+    "tag": "jb17.0.5-b653.14",
+    "hash": "sha256-7Nx7Y12oMfs4zeQMSfnUaDCW1xJYMEkcoTapSpmVCfU="
 }

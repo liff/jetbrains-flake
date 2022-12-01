@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.7571.171"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2022.3.tar.gz",
+                        "sha256" : "9b8870f37c16288e6bc6f654b561756271250f9e107299cd8da879c57ce5c5d9"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4345",
                             "version" : "2022.2.4",
                             "releaseDate" : "2022-07-27",
@@ -3895,6 +3905,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.7571.182"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2022.3.tar.gz",
+                        "sha256" : "9675c15bea4b3d0e2b00265f1b4c7c775f4187cfda9b894b4109c90ceb8e3061"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4459",
                             "version" : "2022.2.4",
                             "releaseDate" : "2022-07-26",
@@ -6507,6 +6527,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.7571.182"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2022.3.tar.gz",
+                        "sha256" : "a3f53de8293b55739d916868d732bde521e33e59a5181e758d6f1691d479da9e"
+                    },
                     {
                         "build" : {
                             "number" : "222.4459",
@@ -14235,6 +14265,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.7571.183"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2022.3.tar.gz",
+                        "sha256" : "8280b2472186baa8826e63ed4abf7edbb6899b12a7d9d4019a8d42d1a018a4d3"
+                    },
                     {
                         "build" : {
                             "number" : "222.4459",
