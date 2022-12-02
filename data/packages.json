@@ -1297,6 +1297,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.7571.180"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2022.3.tar.gz",
+                        "sha256" : "493a3614ba4f497f49c344c18004f7600bfbbc6c888242fecdcfcb0a2c1ebc74"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4345",
                             "version" : "2022.2.5",
                             "releaseDate" : "2022-07-21",
@@ -2453,16 +2463,6 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "223.7571",
-                            "version" : "2022.3 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "223.7571.125"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-223.7571.125.tar.gz",
-                        "sha256" : "a21fee8213844002f1b246236fcce0788ab452dfc3721a8020ea6b9f5c3d8179"
-                    },
-                    {
-                        "build" : {
                             "number" : "222.3345",
                             "version" : "2022.2 Release Candidate",
                             "releaseDate" : null,
@@ -2631,6 +2631,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.7571.176"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2022.3.tar.gz",
+                        "sha256" : "4bda4567e199704d8fa65f1a4544404ac53bcd74ea189d8a0dddc5674c85d93a"
+                    },
                     {
                         "build" : {
                             "number" : "222.4459",
@@ -9155,6 +9165,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "222.4459",
+                            "version" : "2022.2.4",
+                            "releaseDate" : "2022-08-01",
+                            "fullNumber" : "222.4459.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2022.2.4.tar.gz",
+                        "sha256" : "62a8e684c84a970cf87ad64f991f2be67754639e293b406cc3da25592d3a483f"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4345",
                             "version" : "2022.2.3",
                             "releaseDate" : "2022-08-01",
@@ -10265,6 +10285,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.7571.203"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2022.3.tar.gz",
+                        "sha256" : "5a12c7c699b7cab2e81bc2f83425c141ef396381100395da94faa064cfd9c5cd"
+                    },
                     {
                         "build" : {
                             "number" : "222.4459",
@@ -12259,6 +12289,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.7571",
+                            "version" : "2022.3",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.7571.203"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2022.3.tar.gz",
+                        "sha256" : "2a23e3e6c38dd970545634dd6de79eb7f075df7bd782d3b3c8047d670f1261b7"
+                    },
                     {
                         "build" : {
                             "number" : "222.4459",
