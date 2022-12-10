@@ -1297,6 +1297,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.8214.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2022.3.1.tar.gz",
+                        "sha256" : "9cd6ee3cbe23799a6491b6f6faa7aa09642738546e91b6407b473d8c8fc4b04d"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.7571",
                             "version" : "2022.3",
                             "releaseDate" : "2022-12-01",
@@ -5001,6 +5011,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1 Preview",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8214.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-223.8214.16.tar.gz",
+                        "sha256" : "51b140848ec6453100afbc4c2313763dfa0382d8ba92976fcf345ea90fca6edb"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.7571",
                             "version" : "2022.3 RC 2",
                             "releaseDate" : null,
@@ -7623,6 +7643,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1 Preview",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8214.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-223.8214.16.tar.gz",
+                        "sha256" : "1624a04897ff18ab2666e28200b27c653140c519cfbca993f5c4952494baa0b8"
+                    },
                     {
                         "build" : {
                             "number" : "223.7571",
