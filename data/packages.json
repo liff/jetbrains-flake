@@ -5012,6 +5012,16 @@
                     {
                         "build" : {
                             "number" : "223.8214",
+                            "version" : "2022.3.1 Release Candidate",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8214.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-223.8214.27.tar.gz",
+                        "sha256" : "af9fc344ab7f3606a6376928ef54043e29c3a03454dfb42062ad3a211b112ad5"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8214",
                             "version" : "2022.3.1 Preview",
                             "releaseDate" : "2022-11-30",
                             "fullNumber" : "223.8214.16"
@@ -7643,6 +7653,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1 Release Candidate",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8214.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-223.8214.27.tar.gz",
+                        "sha256" : "e5a548527da52a1e059ac968f51e8ab8975ca5ed1591c7eb4a685e4b0c1de637"
+                    },
                     {
                         "build" : {
                             "number" : "223.8214",
@@ -15689,6 +15709,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "222.4459",
+                            "version" : "2022.2.4",
+                            "releaseDate" : "2022-07-25",
+                            "fullNumber" : "222.4459.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2022.2.4.tar.gz",
+                        "sha256" : "13f03fbf531585082ca2cef7c29822c3c1ce873310ae2ce09adfc207acb54b0e"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4345",
                             "version" : "2022.2.3",
                             "releaseDate" : "2022-07-25",
@@ -16451,6 +16481,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1 RC",
+                            "releaseDate" : "2022-11-28",
+                            "fullNumber" : "223.8214.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8214.33.tar.gz",
+                        "sha256" : "fe5be348e36bb9edde6748054bec862c800dabab257629242db03cf2b7dbbdb4"
+                    },
                     {
                         "build" : {
                             "number" : "223.7571",
