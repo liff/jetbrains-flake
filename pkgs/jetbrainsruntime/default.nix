@@ -8,7 +8,6 @@
 , jetbrainsruntime
 , jetbrains-jcef
 , pciutils
-, xdg ? true
 , useSystemHarfbuzz ? false
 }:
 
@@ -36,11 +35,9 @@ openjdk17.overrideAttrs (oldAttrs: {
   };
 
   patches =
-    let openjdkPatches =
-      builtins.filter (patch:
-        !(lib.isDerivation patch && lib.strings.hasPrefix "FixNullPtrCast.patch" patch.name))
-        oldAttrs.patches;
-    in (openjdkPatches ++ (if xdg then [ ./xdg.patch ] else []));
+    let
+      noFixNullPtrCast = patch: !(lib.isDerivation patch && lib.strings.hasPrefix "FixNullPtrCast.patch" patch.name);
+    in builtins.filter (patch: noFixNullPtrCast patch) oldAttrs.patches;
 
   buildInputs = (oldAttrs.buildInputs or []) ++ (if useSystemHarfbuzz then [ harfbuzz ] else []);
 
