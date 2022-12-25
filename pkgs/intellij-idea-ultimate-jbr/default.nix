@@ -90,6 +90,7 @@ stdenv.mkDerivation rec {
     rm -f plugins/performanceTesting/bin/libyjpagent.so # 32-bit
     rm -f plugins/webp/lib/libwebp/linux/libwebp_jni.so # 32-bit
     rm -rf lib/pty4j-native/linux/{aarch64,arm,mips64el,ppc64le,x86}
+    rm -f plugins/tailwindcss/server/node.napi.musl-*.node # TODO: avoid this
 
     cp -a . $out/lib/$pname/
     ln -s $out/lib/$pname/bin/idea.svg $out/share/pixmaps/$pname.svg
