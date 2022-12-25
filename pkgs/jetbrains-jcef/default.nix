@@ -30,7 +30,7 @@
 
 let
 
-  version = "98.3.34+g97a5ae6+chromium-98.0.4758.102";
+  version = "104.4.26+g4180781+chromium-104.0.5112.102";
 
   cefArchs = {
     "x86_64-linux" = "linux64";
@@ -41,11 +41,11 @@ let
 
   cefFilename = "cef_binary_${version}_${cefArch}_minimal";
 
-  cefSrcUrl = "https://cache-redirector.jetbrains.com/intellij-jbr/${builtins.replaceStrings ["+"] ["%2B"] cefFilename}.zip";
+  cefSrcUrl = "https://cef-builds.spotifycdn.com/${builtins.replaceStrings ["+"] ["%2B"] cefFilename}.tar.bz2";
 
   cefSrcHashes = {
-    "linux64" = "sha256-vdISLERXMsrU6vaOw5+cceOHkvn7LqXspapZBP/5IFs=";
-    "linuxarm64" = "sha256-wEHRD9ptiXXkH1Gehk99QqgCvfG+zF2tGgmmTED5nCI=";
+    "linux64" = "sha256-G7FGPtwr48zAYQaB8/rEIOKxEIZmGFF1PMy1Toq6oQk=";
+    "linuxarm64" = "sha256-/f/fqHxQouxr/sNpKF2Bojm3Pv4hdt2aQsKN4zS/CYw=";
   };
 
   cefSrcHash = cefSrcHashes."${cefArch}";
@@ -53,7 +53,7 @@ let
   cefSrc = fetchurl {
     url = cefSrcUrl;
     hash = cefSrcHash;
-    name = "${cefFilename}.zip";
+    name = "${cefFilename}.tar.bz2";
   };
 
   cefBuildInputs = [
@@ -75,8 +75,8 @@ let
   jcefSrc = fetchFromGitHub {
     owner = "JetBrains";
     repo = "jcef";
-    rev = "651cf8b0aba189e908f82990a4000934914e4dbf";
-    hash = "sha256-pCB25nZTbtU00vseAIYutnMM296y955xAUJi2+dQaJY=";
+    rev = "3aa075e8a0d0b81e841b51dcf3d5b83e43c54127";
+    hash = "sha256-I8zrQds5M7OzOxe2GN4wNJX9C0x97ZiSWQpn/HAAEV4=";
     name = "jcef";
   };
 
@@ -89,7 +89,7 @@ stdenv.mkDerivation {
   srcs = [ jcefSrc cefSrc ];
   sourceRoot = "jcef";
 
-  unpackCmd = "unzip $curSrc";
+  unpackCmd = "test -f $curSrc && tar xf $curSrc";
 
   postUnpack = ''
     # Run patchelf on CEF because the linker needs to find the libraries
@@ -149,7 +149,6 @@ stdenv.mkDerivation {
 
     mkdir "$out" "$out/lib"
     pushd ..
-    patchelf --set-rpath "$out" "jcef_build/native/Release/libjceftesthelpers.so"
     mv -v jmods "$out/"
     mv -v jcef_build/native/Release/* "$out/lib/"
     popd
