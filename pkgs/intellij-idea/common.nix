@@ -96,7 +96,7 @@ stdenv.mkDerivation rec {
     genericName = "Integrated Development Environment";
     exec = pname;
     icon = pname;
-    comment = lib.replaceChars ["\n"] [" "] meta.longDescription;
+    comment = lib.replaceStrings ["\n"] [" "] meta.longDescription;
     categories = [ "Development" "IDE" "Java" ];
     mimeTypes = [ "text/x-kotlin" "text/x-java-source" "text/x-scala" "application/xml" "application/json" ];
     startupNotify = true;
