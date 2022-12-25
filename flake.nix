@@ -61,7 +61,7 @@
 
       overlays.default = overlay;
 
-      nixosModule = {
+      nixosModules.default = {
         nixpkgs.overlays = [ overlay ];
       };
     };
