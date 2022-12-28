@@ -14457,6 +14457,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8214.60"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2022.3.1.tar.gz",
+                        "sha256" : "4d2adb310b14fb38afcaa2da5c254c2fc0bede109e597eed6d3c36837497591f"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.7571",
                             "version" : "2022.3",
                             "releaseDate" : "2022-11-30",
