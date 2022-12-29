@@ -9265,6 +9265,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8214.64"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2022.3.1.tar.gz",
+                        "sha256" : "222e8cf974f70a77c92f03b34c38645bfe72a2dd4da20d7154f40375db54709b"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.7571",
                             "version" : "2022.3",
                             "releaseDate" : "2022-12-05",
@@ -10415,6 +10425,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.8214.51"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2022.3.1.tar.gz",
+                        "sha256" : "8f845077cc0fa3582348ee3d76a69ff001391b3f3d63a9b279b8039fd6e07622"
+                    },
                     {
                         "build" : {
                             "number" : "223.7571",
@@ -12429,6 +12449,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.8214.51"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2022.3.1.tar.gz",
+                        "sha256" : "b243103f27cfb763106a2f5667d8f201562154755ce9746e81e88c80acd7b316"
+                    },
                     {
                         "build" : {
                             "number" : "223.7571",
