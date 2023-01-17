@@ -14,7 +14,7 @@ in stdenv.mkDerivation {
   src = fetchFromGitHub {
     owner = "JetBrains";
     repo = "intellij-community";
-    sparseCheckout = "native/fsNotifier/linux";
+    sparseCheckout = [ "native/fsNotifier/linux" ];
     rev = version;
     hash = "sha256-W4BI0qRc79Qgz/6rKMFpfHhYZ209eJos9ncXHBJ8Xsc=";
   };
