@@ -10059,6 +10059,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2 Preview",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8617.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8617.12.tar.gz",
+                        "sha256" : "e06a5aa068f3c5d62bc2f6c415bbc882aa51af00514b3d238efd433864611cdc"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8214",
                             "version" : "2022.3.1 Release Candidate",
                             "releaseDate" : "2022-12-05",
