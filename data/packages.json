@@ -5062,6 +5062,16 @@
                     {
                         "build" : {
                             "number" : "223.8617",
+                            "version" : "2022.3.2 Release Candidate",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8617.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-223.8617.20.tar.gz",
+                        "sha256" : "debd18a0b81c94b81493121aecb6c7e8f9ee2d94b7f62027925e837ef098f6c1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8617",
                             "version" : "2022.3.2 Preview",
                             "releaseDate" : "2022-11-30",
                             "fullNumber" : "223.8617.9"
@@ -7723,6 +7733,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2 Release Candidate",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8617.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-223.8617.20.tar.gz",
+                        "sha256" : "30bca0e657bdd27035adeca7ceaf894ba664bee1982b34723414f520acd89f4f"
+                    },
                     {
                         "build" : {
                             "number" : "223.8617",
