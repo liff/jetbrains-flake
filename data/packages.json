@@ -16693,6 +16693,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2 RC",
+                            "releaseDate" : "2022-11-28",
+                            "fullNumber" : "223.8617.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8617.21.tar.gz",
+                        "sha256" : "2689910d1b1decb07a9212bcda4761db33b4e6bdcdb0f2c5fbaf600486ece424"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8214",
                             "version" : "2022.3.1 RC",
                             "releaseDate" : "2022-11-28",
