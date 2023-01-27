@@ -709,13 +709,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "231.4840",
+                            "number" : "231.5920",
                             "version" : "2023.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "231.4840.362"
+                            "fullNumber" : "231.5920.6"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-231.4840.362.tar.gz",
-                        "sha256" : "02726bc7e68db40797748916a2cab6a828c8c68c3ea53f3f7887b52748a6e403"
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-231.5920.6.tar.gz",
+                        "sha256" : "a95bf54dc0db6921889b88c290ffd5aabd15d76ccd996d21b90a0f64ba896591"
                     },
                     {
                         "build" : {
@@ -3985,6 +3985,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8617.56"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2022.3.2.tar.gz",
+                        "sha256" : "6fa3aff1c730bb79bf3e2e29edcce6d4cdbccfa631524c6253de518be6b6f3d2"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8214",
                             "version" : "2022.3.1",
                             "releaseDate" : "2022-11-30",
@@ -6667,6 +6677,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8617.56"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2022.3.2.tar.gz",
+                        "sha256" : "02bc35281eb4e1285eeb9d797ec2b31ec7370e320ad0e89f6f1fa704d78ec4bf"
+                    },
                     {
                         "build" : {
                             "number" : "223.8214",
@@ -10547,6 +10567,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.8617.48"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2022.3.2.tar.gz",
+                        "sha256" : "56430090dd471e106fdc48463027d89de624759f8757248ced9776978854e4f6"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8214",
                             "version" : "2022.3.1",
                             "releaseDate" : "2022-12-01",
@@ -12589,6 +12619,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.8617.48"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2022.3.2.tar.gz",
+                        "sha256" : "0ae72d1931a6effbeb2329f6e5c35859d933798a494479f066ef0a7b2be6b553"
+                    },
                     {
                         "build" : {
                             "number" : "223.8214",
