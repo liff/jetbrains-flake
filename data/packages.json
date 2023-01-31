@@ -2693,6 +2693,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.8617.58"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2022.3.2.tar.gz",
+                        "sha256" : "f130d0e4c2c89dcd291e05cca33484eb08e247e9ec29c13deaf67176afbf6a36"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8214",
                             "version" : "2022.3.1",
                             "releaseDate" : "2022-12-01",
@@ -14717,6 +14727,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8617.48"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2022.3.2.tar.gz",
+                        "sha256" : "8c803914c55a3c1801ff9b619870d81597fabedbfb08a7c1aecf24f5d0884aea"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8214",
                             "version" : "2022.3.1",
                             "releaseDate" : "2022-11-30",
@@ -16863,13 +16883,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "231.4840",
+                            "number" : "231.5920",
                             "version" : "2023.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "231.4840.391"
+                            "fullNumber" : "231.5920.7"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.4840.391.tar.gz",
-                        "sha256" : "ccd355d0d45bf7c5a225746345bd23d555919fa531ef6b7872bf9706adb8f0a9"
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.5920.7.tar.gz",
+                        "sha256" : "5fc5a10d8ad66e35d52b57a025f63d24fb4f7f86581403b9df05ffd92eb7ac2e"
                     },
                     {
                         "build" : {
