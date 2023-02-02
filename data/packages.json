@@ -719,6 +719,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.6471",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.6471.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-231.6471.1.tar.gz",
+                        "sha256" : "8ee64511d33563693939eb891ec158fc1483de1a47dcdfae9575260b2a6ee2c8"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.5920",
                             "version" : "2023.1 EAP",
                             "releaseDate" : null,
@@ -10189,13 +10199,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "231.4840",
+                            "number" : "231.5920",
                             "version" : "2023.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "231.4840.331"
+                            "fullNumber" : "231.5920.17"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.4840.331.tar.gz",
-                        "sha256" : "0df28b122d1a9b907babb24074ee95217ef34b5514dc3c2a198c6a1320b783b8"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
+                        "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
                     },
                     {
                         "build" : {
@@ -15511,13 +15521,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "231.4840",
+                            "number" : "231.5920",
                             "version" : "2023.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "231.4840.392"
+                            "fullNumber" : "231.5920.15"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.4840.392.tar.gz",
-                        "sha256" : "1907b6f118d275e70ae25910fb54992d04053131f41605da0d2efc9ce968bdb5"
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.5920.15.tar.gz",
+                        "sha256" : "bd195836501a6af3732634f2c9ee556ce33c4bc557f8de2408187a4f0bb286c8"
                     },
                     {
                         "build" : {
