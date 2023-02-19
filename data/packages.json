@@ -15327,36 +15327,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "211.7442",
-                            "version" : "2021.1.2",
-                            "releaseDate" : "2021-04-06",
-                            "fullNumber" : "211.7442.26"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2021.1.2.tar.gz",
-                        "sha256" : "64d09352c43488a0b8dc69851a818b5271d3e0b50d8c36c40683817aadb19060"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.7142",
-                            "version" : "2021.1.1",
-                            "releaseDate" : "2021-04-06",
-                            "fullNumber" : "211.7142.46"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2021.1.1.tar.gz",
-                        "sha256" : "e1fb7a221f052a723c5571429afb8120c31d3234119997047742768d01892cc2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6693",
-                            "version" : "2021.1",
-                            "releaseDate" : "2021-04-06",
-                            "fullNumber" : "211.6693.108"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2021.1.tar.gz",
-                        "sha256" : "cc27711e3b7e77847b273a2b6b642a03dfc94a40bd838ce30e1e2c2171102596"
-                    },
-                    {
-                        "build" : {
                             "number" : "203.7717",
                             "version" : "2020.3.3",
                             "releaseDate" : "2020-11-30",
@@ -15364,36 +15334,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.3.3.tar.gz",
                         "sha256" : "cb31a5a5f8feb64f5a2c137d5871f22d35405d2eaae6e01bae7a865b3e3ef86b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7148",
-                            "version" : "2020.3.2",
-                            "releaseDate" : "2020-11-30",
-                            "fullNumber" : "203.7148.54"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.3.2.tar.gz",
-                        "sha256" : "80f83417f7ac49cd78a9c12d2bc0a30312b8f9de97288625d3b576e0dd23eaca"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.6682",
-                            "version" : "2020.3.1",
-                            "releaseDate" : "2020-11-30",
-                            "fullNumber" : "203.6682.155"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.3.1.tar.gz",
-                        "sha256" : "403a4207816eb580b8302bac323c52e59c770f26a8600a1a01ce7c67791fd8ad"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.5981",
-                            "version" : "2020.3",
-                            "releaseDate" : "2020-11-30",
-                            "fullNumber" : "203.5981.135"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.3.tar.gz",
-                        "sha256" : "8d9abdbef6e3c5e5ef5f77b8b8cbb05997197540bcc3045ad44aa6ec38d5676a"
                     },
                     {
                         "build" : {
@@ -15407,46 +15347,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "202.7660",
-                            "version" : "2020.2.3",
-                            "releaseDate" : "2020-07-27",
-                            "fullNumber" : "202.7660.23"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.2.3.tar.gz",
-                        "sha256" : "e5dda8dfbf36cf5a3334e99a384f5c8639aea3daa56897ce217a98a8d098c0b0"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.7319",
-                            "version" : "2020.2.2",
-                            "releaseDate" : "2020-07-27",
-                            "fullNumber" : "202.7319.49"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.2.2.tar.gz",
-                        "sha256" : "48a40532a2c273345c434fd730dceab860516265d905f9e78f7e0389816327f0"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6948",
-                            "version" : "2020.2.1",
-                            "releaseDate" : "2020-07-27",
-                            "fullNumber" : "202.6948.73"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.2.1.tar.gz",
-                        "sha256" : "d73df827dacb7cca2c3b0dadde81d45ea51e5a0e1f5fe35660da81a4eb3aa6eb"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6397",
-                            "version" : "2020.2",
-                            "releaseDate" : "2020-07-27",
-                            "fullNumber" : "202.6397.88"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.2.tar.gz",
-                        "sha256" : "a5ae58a0575ff87decc1c683aecd3389ac73153c13ced1870545810f13161280"
-                    },
-                    {
-                        "build" : {
                             "number" : "201.8743",
                             "version" : "2020.1.4",
                             "releaseDate" : "2020-04-07",
@@ -15454,46 +15354,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.1.4.tar.gz",
                         "sha256" : "961cc62579b3d06a40c3738e57b6e678d9e0d4a70012d7a29d3466875e81b041"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.8538",
-                            "version" : "2020.1.3",
-                            "releaseDate" : "2020-04-07",
-                            "fullNumber" : "201.8538.32"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.1.3.tar.gz",
-                        "sha256" : "580ce431f9b339029910443e80b2a42913d1ec7b696883dc67814f770e53f8a7"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7846",
-                            "version" : "2020.1.2",
-                            "releaseDate" : "2020-04-07",
-                            "fullNumber" : "201.7846.79"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.1.2.tar.gz",
-                        "sha256" : "9b4b662144b4b58c901a3338a89a0ba847c3e2a329cdd0d34f69ba1a198befeb"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7223",
-                            "version" : "2020.1.1",
-                            "releaseDate" : "2020-04-07",
-                            "fullNumber" : "201.7223.93"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.1.1.tar.gz",
-                        "sha256" : "6f42ea183fd17668b8c57ae825afde1ac3757bde75a7700526fcf665c01ba434"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6668",
-                            "version" : "2020.1",
-                            "releaseDate" : "2020-04-07",
-                            "fullNumber" : "201.6668.106"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2020.1.tar.gz",
-                        "sha256" : "2e5ede47fdc532d7bec01bfd122d0c98734a09d06035a62aa055ea2e4ba4c8b0"
                     },
                     {
                         "build" : {
@@ -15507,56 +15367,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "193.6911",
-                            "version" : "2019.3.4",
-                            "releaseDate" : "2019-11-25",
-                            "fullNumber" : "193.6911.28"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.3.4.tar.gz",
-                        "sha256" : "31981728c735145f8ef356fef5f32d57f9b37fc8ccfa5f72715c884a72496560"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6494",
-                            "version" : "2019.3.3",
-                            "releaseDate" : "2019-11-25",
-                            "fullNumber" : "193.6494.34"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.3.3.tar.gz",
-                        "sha256" : "0545013ec607f6c4d8dc73a335cb4cecfda8f16568f5950b8de499342fe6f0ac"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6015",
-                            "version" : "2019.3.2",
-                            "releaseDate" : "2019-11-25",
-                            "fullNumber" : "193.6015.40"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.3.2.tar.gz",
-                        "sha256" : "23c47ffd918a7a7d623413b2c3833fc0916d03e9526da0e6aca18987259f6e55"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.5662",
-                            "version" : "2019.3.1",
-                            "releaseDate" : "2019-11-25",
-                            "fullNumber" : "193.5662.54"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.3.1.tar.gz",
-                        "sha256" : "7732bb3fea2b36b06813dac04f55ec3c47ca8a155d133af6beb4554254685862"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.5233",
-                            "version" : "2019.3",
-                            "releaseDate" : "2019-11-25",
-                            "fullNumber" : "193.5233.80"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.3.tar.gz",
-                        "sha256" : "63ffa9d500182909078356157dd4c7ee97abfc55c51bced45d71423c7230e593"
-                    },
-                    {
-                        "build" : {
                             "number" : "192.7142",
                             "version" : "2019.2.4",
                             "releaseDate" : "2019-07-22",
@@ -15564,46 +15374,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.2.4.tar.gz",
                         "sha256" : "b244fc49728d582ae8c210f15b8a0bf208ede83c3ee06251ee3958b8f2c3e947"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.6817",
-                            "version" : "2019.2.3",
-                            "releaseDate" : "2019-07-22",
-                            "fullNumber" : "192.6817.13"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.2.3.tar.gz",
-                        "sha256" : "af94c66c80508fe221d9ba2b294d3852d68db8bc293dd240e2638dd2c21a6c50"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.6603",
-                            "version" : "2019.2.2",
-                            "releaseDate" : "2019-07-22",
-                            "fullNumber" : "192.6603.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.2.2.tar.gz",
-                        "sha256" : "5a5c1fbcf851249eeba34d54d62928cbb6d009ca85c763afff34a4c315bec7f2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.6262",
-                            "version" : "2019.2.1",
-                            "releaseDate" : "2019-07-22",
-                            "fullNumber" : "192.6262.59"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.2.1.tar.gz",
-                        "sha256" : "d6ab5efc9ff81a5aeebb8dc5322bc23ce0bc6b510a9e0d4ee75b8c81bb189ef3"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.5728",
-                            "version" : "2019.2",
-                            "releaseDate" : "2019-07-22",
-                            "fullNumber" : "192.5728.87"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.2.tar.gz",
-                        "sha256" : "6a51dd26a5f219ae576d3893e60ad3e15abb6b08b2fad8c94cd651aafbdaf86f"
                     },
                     {
                         "build" : {
@@ -15617,36 +15387,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "191.7479",
-                            "version" : "2019.1.3",
-                            "releaseDate" : "2019-03-25",
-                            "fullNumber" : "191.7479.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.1.3.tar.gz",
-                        "sha256" : "c3ef27051f6de608ee679035957a8a4329897c910b046cb2dbbf840cc8151dae"
-                    },
-                    {
-                        "build" : {
-                            "number" : "191.6707",
-                            "version" : "2019.1.1",
-                            "releaseDate" : "2019-03-25",
-                            "fullNumber" : "191.6707.60"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.1.1.tar.gz",
-                        "sha256" : "3bf7b45d6e4bba05e29b5a8bf7b20ddb6233b2b3146b1bbdc49dd042a6d49916"
-                    },
-                    {
-                        "build" : {
-                            "number" : "191.6183",
-                            "version" : "2019.1",
-                            "releaseDate" : "2019-03-25",
-                            "fullNumber" : "191.6183.63"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2019.1.tar.gz",
-                        "sha256" : "b2330de78df0116930473aeba56707d67936b9958a0bfb0a40aedbe6d14bca64"
-                    },
-                    {
-                        "build" : {
                             "number" : "183.6156",
                             "version" : "2018.3.6",
                             "releaseDate" : "2018-11-19",
@@ -15654,66 +15394,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2018.3.6.tar.gz",
                         "sha256" : "398ee5a208cce0eadd7f5d041049f9a5ea41b157987537500a36e45bf5282cbf"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.5912",
-                            "version" : "2018.3.5",
-                            "releaseDate" : "2018-11-19",
-                            "fullNumber" : "183.5912.23"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2018.3.5.tar.gz",
-                        "sha256" : "ecc61fffaf4c36a41be5d2841fc3e550408ee7d318bbc6090a5e8daa6671e75d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.5429",
-                            "version" : "2018.3.4",
-                            "releaseDate" : "2018-11-19",
-                            "fullNumber" : "183.5429.34"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2018.3.4.tar.gz",
-                        "sha256" : "ba8b2c47b8a5b9c46678fc6cf30d5a9d54052e53298e9e7c4239378cbc4f8386"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.5153",
-                            "version" : "2018.3.3",
-                            "releaseDate" : "2018-11-19",
-                            "fullNumber" : "183.5153.33"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2018.3.3.tar.gz",
-                        "sha256" : "5ad7beab31b58ab38b6cfd1cd32ebd6249a1d8ad8245dcad8c0f1f4af3921661"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.4886",
-                            "version" : "2018.3.2",
-                            "releaseDate" : "2018-11-19",
-                            "fullNumber" : "183.4886.41"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2018.3.2.tar.gz",
-                        "sha256" : "7307488d288c65dd9bc796f09f5fe3729a1c76ad3c353ef844501eaf7be971df"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.4588",
-                            "version" : "2018.3.1",
-                            "releaseDate" : "2018-11-19",
-                            "fullNumber" : "183.4588.66"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2018.3.1.tar.gz",
-                        "sha256" : "57df4e9b9d2fe5d9a2ab2482811ae7ac7abe3af3e7fc77b76d4fa0ee62f072d0"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.4284",
-                            "version" : "2018.3",
-                            "releaseDate" : "2018-11-19",
-                            "fullNumber" : "183.4284.130"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2018.3.tar.gz",
-                        "sha256" : "ba9cec737e07da3f20b3432cc839e95556a1bc0cad8023d123ecc6b6647b5b57"
                     },
                     {
                         "build" : {
