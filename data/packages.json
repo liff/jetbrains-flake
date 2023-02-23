@@ -746,596 +746,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/cpp/CLion-231.5920.6.tar.gz",
                         "sha256" : "a95bf54dc0db6921889b88c290ffd5aabd15d76ccd996d21b90a0f64ba896591"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.7571",
-                            "version" : "2022.3 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "223.7571.59"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.7571.59.tar.gz",
-                        "sha256" : "24421131e55cf73dfdbbe861459e61852d7f29b614b1041c85cf1e1836eb7c20"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.7571",
-                            "version" : "2022.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "223.7571.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.7571.12.tar.gz",
-                        "sha256" : "5090020b8bb30f59a34479192def5a7eebb41da49e281c28f7feb6842f177c59"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.7401",
-                            "version" : "2022.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "223.7401.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.7401.10.tar.gz",
-                        "sha256" : "eff546ca73c45d7a023d88582028644ceb53ae8959232841fed7072441a8f593"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.7255",
-                            "version" : "2022.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "223.7255.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.7255.15.tar.gz",
-                        "sha256" : "5d7ce2249a01a96801b015fee76f126c0a0a4c188dc650d2bdedbc8e4aff3d76"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.7126",
-                            "version" : "2022.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "223.7126.6"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.7126.6.tar.gz",
-                        "sha256" : "3eb58ccfe2b8a9d7bb86d732ef2953323ff01cbbceb6ad0e692f61c1ae6e7966"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.6646",
-                            "version" : "2022.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "223.6646.99"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.6646.99.tar.gz",
-                        "sha256" : "944d9865a39c494fafded8dea2ae5cb923d2073bfb8edd0f5367c87473372f7b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.6160",
-                            "version" : "2022.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "223.6160.115"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.6160.115.tar.gz",
-                        "sha256" : "3de8690185ea95c144e75bb9f924b6ed394cf1d43226cc38a5e2254efefba94b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.3345",
-                            "version" : "2022.2 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "222.3345.40"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.3345.40.tar.gz",
-                        "sha256" : "1f0288d71e08c952349f6df87bdfc813a3f8a137bfbb7a9a797ec7ad71d9e755"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.3345",
-                            "version" : "2022.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "222.3345.16"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.3345.16.tar.gz",
-                        "sha256" : "9b8ad8f569618ed2d180799fa1d275d2162241937d9620ba35359a699c87748b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.3244",
-                            "version" : "2022.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "222.3244.6"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.3244.6.tar.gz",
-                        "sha256" : "4c6ec5bcbd49c2209788962291fae742b88f3ef417a7fc34d0085ff4f00b133f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.3048",
-                            "version" : "2022.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "222.3048.7"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.3048.7.tar.gz",
-                        "sha256" : "dab6f6cd6fe7088c186c2af33b0930cbc67c11b8cc4e3a079cbba58cce829d50"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.2964",
-                            "version" : "2022.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "222.2964.48"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.2964.48.tar.gz",
-                        "sha256" : "12edae92d2fdb2a6234963f329fb65241a0aba12ec96a8302571affa0e3edd26"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.2889",
-                            "version" : "2022.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "222.2889.11"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.2889.11.tar.gz",
-                        "sha256" : "90537e695b78de693829f2f1a2bf9d66912df3ca88a29a671a80271cd36205ec"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.2680",
-                            "version" : "2022.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "222.2680.4"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.2680.4.tar.gz",
-                        "sha256" : "8a57bf00038433194743db262367de5a0db9aec5029096eb3dfc79046dbb82d0"
-                    },
-                    {
-                        "build" : {
-                            "number" : "221.5080",
-                            "version" : "2022.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "221.5080.93"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-221.5080.93.tar.gz",
-                        "sha256" : "73ec43ea7793e1109ee3471e3a7cf4c576fd4d2249555a7c1064193b8757bbd5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "221.5080",
-                            "version" : "2022.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "221.5080.52"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-221.5080.52.tar.gz",
-                        "sha256" : "bf16af2d49090d5cb36970b747fc6fe3e8128d1a006122d82fdca70e68524d7f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "221.5080",
-                            "version" : "2022.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "221.5080.1"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-221.5080.1.tar.gz",
-                        "sha256" : "26c35f60b04ed2b54579010f4a997886b07cadf777890876863cddf04475aceb"
-                    },
-                    {
-                        "build" : {
-                            "number" : "221.4906",
-                            "version" : "2022.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "221.4906.7"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-221.4906.7.tar.gz",
-                        "sha256" : "a6cc4810a9d0c5d6b663feae8e97f093c3cb2d486eea0f3edbb36574cdb8e054"
-                    },
-                    {
-                        "build" : {
-                            "number" : "221.4501",
-                            "version" : "2022.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "221.4501.161"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-221.4501.161.tar.gz",
-                        "sha256" : "18ab9d537970f7c952c13fc98e95dd3c855785615ec8f9b488011579625dec0c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "221.4165",
-                            "version" : "2022.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "221.4165.77"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-221.4165.77.tar.gz",
-                        "sha256" : "5ccda08949f11d38e6bf3adf365498b891243a4df9ae905e080de4c70410af20"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.5744",
-                            "version" : "2021.3 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "213.5744.5"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.5744.5.tar.gz",
-                        "sha256" : "39ede1d3f6657d6e9e34e92d60091a7762c65464b8d37c7b5acbc16fe63bd497"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.5605",
-                            "version" : "2021.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "213.5605.4"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.5605.4.tar.gz",
-                        "sha256" : "f4d6589d801fb00b449fff9bdbf11746fd8ccb22f2f20e408ced04e082735462"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.5449",
-                            "version" : "2021.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "213.5449.26"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.5449.26.tar.gz",
-                        "sha256" : "65db612f75c8ce2c24e3c18be6548c20d4ed4142cce913d8b1c69fbd97fd570b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.4928",
-                            "version" : "2021.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "213.4928.11"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.4928.11.tar.gz",
-                        "sha256" : "fa74a1e1433fdcd662d7cfae50b914f0b2eb3275b21a9e1caa50efac0f913a81"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.4631",
-                            "version" : "2021.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "213.4631.3"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.4631.3.tar.gz",
-                        "sha256" : "181538faa350c2d5eef5d3855211ab8333f60c62f60965c17fd5781e4c62f1f2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.4293",
-                            "version" : "2021.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "213.4293.2"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.4293.2.tar.gz",
-                        "sha256" : "e33cd03ffadd85981d9bd848124e744f16753b9e651521641800caf91ffb2a41"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4746",
-                            "version" : "2021.2 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4746.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-212.4746.15.tar.gz",
-                        "sha256" : "293d46b46662e7c8a9a1c87be8ab1a09b04ba5fe19a84f54b3caa5957946a119"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4638",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4638.8"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-212.4638.8.tar.gz",
-                        "sha256" : "1d9acde6a124b0bda5319ff4c5416d0807dba218c01b3690247aa2aaa838bd7b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4535",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4535.17"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-212.4535.17.tar.gz",
-                        "sha256" : "b75fda8a63f6d9d1a3228b31112566c01ae06b709f2d341dee05ff6af66b61f3"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4416",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4416.11"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-212.4416.11.tar.gz",
-                        "sha256" : "c5c1d85d830c73be7b4574c8ca1b3ed3ecc9f294dd4824cd850dc16ebe3c8fe9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4321",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4321.2"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-212.4321.2.tar.gz",
-                        "sha256" : "d7ae71aaa833920f76264b8ad0d8d68459c484c101a5b9f942b84b1a75b4cd61"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.4037",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.4037.2"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-212.4037.2.tar.gz",
-                        "sha256" : "4d54b65052c7d0a10a4efc47d3b09c8de61dcc28e225b206de3301c5e2d3602a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "212.3724",
-                            "version" : "2021.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "212.3724.2"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-212.3724.2.tar.gz",
-                        "sha256" : "6a921fc1327e836796237dc38cbdc934d803103ed2e8b9422a00935476ca0220"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6693",
-                            "version" : "2021.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6693.7"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-211.6693.7.tar.gz",
-                        "sha256" : "028a0f1dc7cbd09ccdc45f80f5d3831d35ade07ca4c066307f8950a56d07c2c8"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6556",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6556.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-211.6556.10.tar.gz",
-                        "sha256" : "66d97023efb4ef4023ad3949dcf060af2033ba08f2055e16400df54e914edfd7"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6432",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6432.9"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-211.6432.9.tar.gz",
-                        "sha256" : "13d315aa4d538318c52dc8a0f4af38f34d01953b502110682742d6ba0b3b6d29"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6305",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6305.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-211.6305.15.tar.gz",
-                        "sha256" : "c7487bdbcb267ef0a115a2dc35adfdca407c2cc788f492dd8d0735df451ac3a8"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6085",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.6085.16"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-211.6085.16.tar.gz",
-                        "sha256" : "08fa28c7943620d550290e2213c01c5a75220897bb6c341123f0442ef4b6a2d5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.5787",
-                            "version" : "2021.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "211.5787.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-211.5787.12.tar.gz",
-                        "sha256" : "ae694f00fbfad23daa8a767cb527491b44216cec2fbc364a568d8fe52611e99a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.5981",
-                            "version" : "2020.3 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "203.5981.40"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-203.5981.40.tar.gz",
-                        "sha256" : "7ebe29a17389ac9d9601edb4e5d75972af618c39b7b3d3e50d3c4935917e1de7"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.5784",
-                            "version" : "2020.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "203.5784.34"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-203.5784.34.tar.gz",
-                        "sha256" : "88459fe6abee7544026ecf08b25c115b9a6218ef706b7db87aa21da536e32d5f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.5600",
-                            "version" : "2020.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "203.5600.25"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-203.5600.25.tar.gz",
-                        "sha256" : "4e484b1c2c78edb22ad2bbddc2539e87736a90b4cf92e3675a7dfe547df83170"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.5419",
-                            "version" : "2020.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "203.5419.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-203.5419.20.tar.gz",
-                        "sha256" : "11825c65206352a49191209838aae4a2410d08ef55f9c977df7728271140105f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.4818",
-                            "version" : "2020.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "203.4818.55"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-203.4818.55.tar.gz",
-                        "sha256" : "30c657da4f4dd1f7f72655f7bf3e01f28bb82a060dc3a76516f364714b5190b5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.4203",
-                            "version" : "2020.3 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "203.4203.24"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-203.4203.24.tar.gz",
-                        "sha256" : "e0dd5f590a0dbd13dc973c6f8312e16880b7258e9ce680f01adcec039b07e1c7"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6397",
-                            "version" : "2020.2 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "202.6397.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-202.6397.12.tar.gz",
-                        "sha256" : "24b87a8eb65e8a3795d9b3e10057ec60832ff8bc8b283a79aaa3ca71b6efe0f5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6250",
-                            "version" : "2020.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "202.6250.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-202.6250.12.tar.gz",
-                        "sha256" : "9dc9ad6440a85fefb7a65e737ed43f798c2318408a6c51295fdcd975fc16edb5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6109",
-                            "version" : "2020.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "202.6109.21"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-202.6109.21.tar.gz",
-                        "sha256" : "ad1e80cea42100186958e40f7ed1dd1e738b856719bbe37f1210682b056b9a14"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.5792",
-                            "version" : "2020.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "202.5792.50"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-202.5792.50.tar.gz",
-                        "sha256" : "d8844325e3ff7aa9e347dd710a571548f656999643f101309cfe165a39ba8fcc"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.5428",
-                            "version" : "2020.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "202.5428.21"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-202.5428.21.tar.gz",
-                        "sha256" : "bb12996bc2edc481a7367047a9e949e163b6a8fab65ca8179b50040e3abf7c12"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6668",
-                            "version" : "2020.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "201.6668.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-201.6668.10.tar.gz",
-                        "sha256" : "967878e6b81b698a4975746b83b443b46480157bf2ebd2cb0b4fd881d535b004"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6487",
-                            "version" : "2020.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "201.6487.17"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-201.6487.17.tar.gz",
-                        "sha256" : "82d1b78d5f5571ceb4c0508e370bfe4510801e2e82c4d29c4a3b6b1ba7fa49b9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6251",
-                            "version" : "2020.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "201.6251.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-201.6251.14.tar.gz",
-                        "sha256" : "4b1e73f33a700fd4f19a3131d4c15e6eab5dc64c342d04c40bf9c51c70ee8028"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6073",
-                            "version" : "2020.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "201.6073.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-201.6073.20.tar.gz",
-                        "sha256" : "b12861361ba787d668a0f71dcfd922b8783b2b6ca18bfddb4faa72e3861796e9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.5616",
-                            "version" : "2020.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "201.5616.31"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-201.5616.31.tar.gz",
-                        "sha256" : "9aedd6fa61e54d034384b29adff710df689800f11f3292285862b569fa6521dc"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.4865",
-                            "version" : "2020.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "201.4865.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-201.4865.10.tar.gz",
-                        "sha256" : "9a5899700b8b6ed06bb612580834a728bed660a376d1ad55d1f2b3eb8b9d4700"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.7571",
-                            "version" : "2022.3 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "223.7571.113"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-223.7571.113.tar.gz",
-                        "sha256" : "fb6b6acfdb8f11e99a2c25ac86ba57f90dd68c85bc6cd1f2d5af4fa73a6f3dcb"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.3345",
-                            "version" : "2022.2 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "222.3345.93"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-222.3345.93.tar.gz",
-                        "sha256" : "00da448b2d0f5fef83a62f096c229252415c95a6210142414c4602cf52ecbc7d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "213.5744",
-                            "version" : "2021.3 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "213.5744.190"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-213.5744.190.tar.gz",
-                        "sha256" : "b3e8ecf5d37f0b4680baf3f022c2760804027c3f2a5a7050dcef40b55bf311c3"
                     }
                 ]
             }
@@ -1617,36 +1027,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "211.7442",
-                            "version" : "2021.1.2",
-                            "releaseDate" : "2021-04-01",
-                            "fullNumber" : "211.7442.38"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.1.2.tar.gz",
-                        "sha256" : "3562149e6340a33d3b986cd70e61e58e1b5043a980fb816b88b89fad4f25cbfe"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.7142",
-                            "version" : "2021.1.1",
-                            "releaseDate" : "2021-04-01",
-                            "fullNumber" : "211.7142.37"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.1.1.tar.gz",
-                        "sha256" : "3d6706ca7eca555633bf5afc7181cbb7f2b5bdddd4023e4811d5d6311706af6a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6693",
-                            "version" : "2021.1",
-                            "releaseDate" : "2021-04-01",
-                            "fullNumber" : "211.6693.68"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.1.tar.gz",
-                        "sha256" : "f211a60aa82e934f8f3fe4ef708dd3ec215b099df3aa90ad8aeec13c69085585"
-                    },
-                    {
-                        "build" : {
                             "number" : "203.7148",
                             "version" : "2020.3.2",
                             "releaseDate" : "2020-11-25",
@@ -1654,26 +1034,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.3.2.tar.gz",
                         "sha256" : "2e7c3e79358c51f9206f5c0d1ea21066cc0c826f5c7f1dad24ff72aadf564af2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.6682",
-                            "version" : "2020.3.1",
-                            "releaseDate" : "2020-11-25",
-                            "fullNumber" : "203.6682.134"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.3.1.tar.gz",
-                        "sha256" : "db75ca10ad452ba8585ceebcbdf488d4d20d036ca9a8707a6974a0343bf7674a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.5981",
-                            "version" : "2020.3",
-                            "releaseDate" : "2020-11-25",
-                            "fullNumber" : "203.5981.102"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.3.tar.gz",
-                        "sha256" : "4df45a52ed0de13178a21e96340c7fe5c10e0b04b1a62ee2d5152088a3a615c8"
                     },
                     {
                         "build" : {
@@ -1687,36 +1047,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "202.6948",
-                            "version" : "2020.2.2",
-                            "releaseDate" : "2020-07-28",
-                            "fullNumber" : "202.6948.53"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.2.2.tar.gz",
-                        "sha256" : "ec1f9c707651b7f18d7c789c746cf0a9824dc8218a0b49d6f5d3e71cabf966ae"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6948",
-                            "version" : "2020.2.1",
-                            "releaseDate" : "2020-07-28",
-                            "fullNumber" : "202.6948.45"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.2.1.tar.gz",
-                        "sha256" : "8bf1748c93a65732cde1073044e6586b2fc8425d8f588d3239c9392a4ac44162"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6397",
-                            "version" : "2020.2",
-                            "releaseDate" : "2020-07-28",
-                            "fullNumber" : "202.6397.93"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.2.tar.gz",
-                        "sha256" : "aa04da4224a8f5366195f6d26495a6d042d17cf4ec36cdd289109b4cc9361534"
-                    },
-                    {
-                        "build" : {
                             "number" : "201.8538",
                             "version" : "2020.1.5",
                             "releaseDate" : "2020-04-06",
@@ -1724,56 +1054,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1.5.tar.gz",
                         "sha256" : "a97231cbfe656ef3fcad5b66f3bd484cc676b5e89780543efdd49420ce690518"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7846",
-                            "version" : "2020.1.4",
-                            "releaseDate" : "2020-04-06",
-                            "fullNumber" : "201.7846.70"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1.4.tar.gz",
-                        "sha256" : "965c17beab74e58223b0e89719bb6518d19b0bc70536e07c6c116661e14b1142"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7223",
-                            "version" : "2020.1.3",
-                            "releaseDate" : "2020-04-06",
-                            "fullNumber" : "201.7223.85"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1.3.tar.gz",
-                        "sha256" : "010857e92c4cd4970face9dccbc223aa0b5af005a82f1e2bf4ae1e632f8b7647"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6668",
-                            "version" : "2020.1.2",
-                            "releaseDate" : "2020-04-06",
-                            "fullNumber" : "201.6668.164"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1.2.tar.gz",
-                        "sha256" : "470ae0ce22d7c94dabe14769df2703212951d3877b45f3907cb8cd8a5d10efb1"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6668",
-                            "version" : "2020.1.1",
-                            "releaseDate" : "2020-04-06",
-                            "fullNumber" : "201.6668.158"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1.1.tar.gz",
-                        "sha256" : "788c099a0153ba51e180960f471dcbf1a013ea0330dc4b9f9c0fff0690a93f61"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6668",
-                            "version" : "2020.1",
-                            "releaseDate" : "2020-04-06",
-                            "fullNumber" : "201.6668.99"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1.tar.gz",
-                        "sha256" : "3d7e8a65644773548b3c26ab83529f03a995d10326ab67e1aab68febd2d76afc"
                     },
                     {
                         "build" : {
@@ -1787,56 +1067,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "193.6911",
-                            "version" : "2019.3.4",
-                            "releaseDate" : "2019-12-03",
-                            "fullNumber" : "193.6911.16"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.3.4.tar.gz",
-                        "sha256" : "6409a7ed5b91d4b54adc03bb784e86ecde035b0c256aad66ab463d2d8288ebf9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6494",
-                            "version" : "2019.3.3",
-                            "releaseDate" : "2019-12-03",
-                            "fullNumber" : "193.6494.42"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.3.3.tar.gz",
-                        "sha256" : "307a298017cee716a6191a920170e8bdd68f895eba7eb5568998e1070c8f7e7d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6015",
-                            "version" : "2019.3.2",
-                            "releaseDate" : "2019-12-03",
-                            "fullNumber" : "193.6015.44"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.3.2.tar.gz",
-                        "sha256" : "e51fb986eab8d96b85b19a01b068189301dd4a46cd7575577feffd848bfed7ab"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.5662",
-                            "version" : "2019.3.1",
-                            "releaseDate" : "2019-12-03",
-                            "fullNumber" : "193.5662.58"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.3.1.tar.gz",
-                        "sha256" : "aae7090b2ee27c8ee9d8b9cbd70bdd64cdb08851de5621a2607d1661ba51fbc0"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.5233",
-                            "version" : "2019.3",
-                            "releaseDate" : "2019-12-03",
-                            "fullNumber" : "193.5233.139"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.3.tar.gz",
-                        "sha256" : "494a293e3fbd7a13d352d06a0e019475b5789c6060cf47fde89c05f711e9fb45"
-                    },
-                    {
-                        "build" : {
                             "number" : "192.7142",
                             "version" : "2019.2.6",
                             "releaseDate" : "2019-07-30",
@@ -1844,66 +1074,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.2.6.tar.gz",
                         "sha256" : "0f94b79e43f2993438400d23c859c5094f363ec860f15d7b53537b3a99b4a73c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.6817",
-                            "version" : "2019.2.5",
-                            "releaseDate" : "2019-07-30",
-                            "fullNumber" : "192.6817.21"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.2.5.tar.gz",
-                        "sha256" : "f7780ba87e732c9904db0dd5ba2a7f6340e1a8162f16214b61fb520519add9a1"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.6603",
-                            "version" : "2019.2.4",
-                            "releaseDate" : "2019-07-30",
-                            "fullNumber" : "192.6603.38"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.2.4.tar.gz",
-                        "sha256" : "c128cc20a90f88598cdf075f432e2c40ce175ded188c22bc35f7cf90b7c3862a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.6262",
-                            "version" : "2019.2.3",
-                            "releaseDate" : "2019-07-30",
-                            "fullNumber" : "192.6262.77"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.2.3.tar.gz",
-                        "sha256" : "ec1a777c9d1a2ea56543954a0d48cecbb2b509523cff724db36371219c56f013"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.6262",
-                            "version" : "2019.2.2",
-                            "releaseDate" : "2019-07-30",
-                            "fullNumber" : "192.6262.49"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.2.2.tar.gz",
-                        "sha256" : "ab12e1187b8b727c444af404cf9b66ba5070d7833e842d7b0e5aa9577ff34bad"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.5728",
-                            "version" : "2019.2.1",
-                            "releaseDate" : "2019-07-30",
-                            "fullNumber" : "192.5728.128"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.2.1.tar.gz",
-                        "sha256" : "3a8c0a5e8e748b7ae77680783e346566bfa272a0bfc406fea4f5e02e376b456d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.5728",
-                            "version" : "2019.2",
-                            "releaseDate" : "2019-07-30",
-                            "fullNumber" : "192.5728.116"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.2.tar.gz",
-                        "sha256" : "54bd6d8095e25eab0e51989faf12146dd510874eb16481d489e379741a751957"
                     },
                     {
                         "build" : {
@@ -1917,46 +1087,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "191.7479",
-                            "version" : "2019.1.3",
-                            "releaseDate" : "2019-04-03",
-                            "fullNumber" : "191.7479.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.1.3.tar.gz",
-                        "sha256" : "789796893ebaa757982a05564b7ed6cd4e6305c8e61d43f1134702228907d76b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "191.7141",
-                            "version" : "2019.1.2",
-                            "releaseDate" : "2019-04-03",
-                            "fullNumber" : "191.7141.30"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.1.2.tar.gz",
-                        "sha256" : "9c67659781ba43e96aac0c2ca32dc6919207da977bdf909122935f921863a704"
-                    },
-                    {
-                        "build" : {
-                            "number" : "191.7141",
-                            "version" : "2019.1.1",
-                            "releaseDate" : "2019-04-03",
-                            "fullNumber" : "191.7141.8"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.1.1.tar.gz",
-                        "sha256" : "cdabe87d0f4e16a5325d679385f32581832745e6cf5eb02a6e7db18d9656d070"
-                    },
-                    {
-                        "build" : {
-                            "number" : "191.6707",
-                            "version" : "2019.1",
-                            "releaseDate" : "2019-04-03",
-                            "fullNumber" : "191.6707.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.1.tar.gz",
-                        "sha256" : "9fd00efef6c099b8f2b0c6977877d95104960029b69a308a2c4ba230fb9b419c"
-                    },
-                    {
-                        "build" : {
                             "number" : "183.6156",
                             "version" : "2018.3.4",
                             "releaseDate" : "2018-11-28",
@@ -1964,46 +1094,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2018.3.4.tar.gz",
                         "sha256" : "befe27d36ace3d42b3e54a7c5cdbe8f77881421c873d7e6507660a3767205c83"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.5912",
-                            "version" : "2018.3.3",
-                            "releaseDate" : "2018-11-28",
-                            "fullNumber" : "183.5912.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2018.3.3.tar.gz",
-                        "sha256" : "5e0f630f4aba9e1cfa72d448638c3e4e16e9a6873953cf3f77bd3c190d6ca20c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.5429",
-                            "version" : "2018.3.2",
-                            "releaseDate" : "2018-11-28",
-                            "fullNumber" : "183.5429.24"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2018.3.2.tar.gz",
-                        "sha256" : "062034e26204939bc1c0ff0d5147078e868c618195a78e4634c28cf1ea63416e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.4886",
-                            "version" : "2018.3.1",
-                            "releaseDate" : "2018-11-28",
-                            "fullNumber" : "183.4886.38"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2018.3.1.tar.gz",
-                        "sha256" : "491ff4f68f0bcc7ca616c062bcb65796941a5e53731329a068922a73ab57ca6e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.4284",
-                            "version" : "2018.3",
-                            "releaseDate" : "2018-11-28",
-                            "fullNumber" : "183.4284.162"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2018.3.tar.gz",
-                        "sha256" : "38d4b9ffec36bb6d96c2302f6da0ec31f30df859ea2fc20c22c150b3b417087a"
                     },
                     {
                         "build" : {
@@ -2329,36 +1419,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "211.7442",
-                            "version" : "2021.1.2",
-                            "releaseDate" : "2021-04-01",
-                            "fullNumber" : "211.7442.38"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.1.2-no-jbr.tar.gz",
-                        "sha256" : "2182e4004d8281e94837fa6665c2010be497343a441851a3bac862e493031f34"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.7142",
-                            "version" : "2021.1.1",
-                            "releaseDate" : "2021-04-01",
-                            "fullNumber" : "211.7142.37"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.1.1-no-jbr.tar.gz",
-                        "sha256" : "a50d6d337b3c98b44792fccd9ac9fe7052bd84aa535bafaff203b1e769e7198b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6693",
-                            "version" : "2021.1",
-                            "releaseDate" : "2021-04-01",
-                            "fullNumber" : "211.6693.68"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2021.1-no-jbr.tar.gz",
-                        "sha256" : "a13eda1516eadb289918124df272504bf6d3e9ce28365e7b09567edac7b24d2c"
-                    },
-                    {
-                        "build" : {
                             "number" : "203.7148",
                             "version" : "2020.3.2",
                             "releaseDate" : "2020-11-25",
@@ -2366,26 +1426,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.3.2-no-jbr.tar.gz",
                         "sha256" : "551ac92631e9a57cf66a24f345bcbaeee91d85b9b0721bdc50c8dc15321daced"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.6682",
-                            "version" : "2020.3.1",
-                            "releaseDate" : "2020-11-25",
-                            "fullNumber" : "203.6682.134"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.3.1-no-jbr.tar.gz",
-                        "sha256" : "ef39f02628f6d68fecf3246d224f10e7fe2f313cca416f21078571701bc13596"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.5981",
-                            "version" : "2020.3",
-                            "releaseDate" : "2020-11-25",
-                            "fullNumber" : "203.5981.102"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.3-no-jbr.tar.gz",
-                        "sha256" : "94622529155dd67a66503c6cc45c76f5b2592955faff4ec5169cf5d8a3e3d506"
                     },
                     {
                         "build" : {
@@ -2399,36 +1439,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "202.6948",
-                            "version" : "2020.2.2",
-                            "releaseDate" : "2020-07-28",
-                            "fullNumber" : "202.6948.53"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.2.2-no-jbr.tar.gz",
-                        "sha256" : "abb7c4179b0461539f617398013c0a43911f9bee6e3f51d008960548b578d9c4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6948",
-                            "version" : "2020.2.1",
-                            "releaseDate" : "2020-07-28",
-                            "fullNumber" : "202.6948.45"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.2.1-no-jbr.tar.gz",
-                        "sha256" : "e15c0aaf0a0cfe64451cd2104b3c98dbf28880264dc2b94633d1e0892d160c5c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6397",
-                            "version" : "2020.2",
-                            "releaseDate" : "2020-07-28",
-                            "fullNumber" : "202.6397.93"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.2-no-jbr.tar.gz",
-                        "sha256" : "3f738c5d77d82994bffc3e6e3934d3511f9c4242e1ffc848d596847fe8e2eec5"
-                    },
-                    {
-                        "build" : {
                             "number" : "201.8538",
                             "version" : "2020.1.5",
                             "releaseDate" : "2020-04-06",
@@ -2439,56 +1449,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "201.7846",
-                            "version" : "2020.1.4",
-                            "releaseDate" : "2020-04-06",
-                            "fullNumber" : "201.7846.70"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1.4-no-jbr.tar.gz",
-                        "sha256" : "bac9b5098c64b7cf64182426d7af28cc101b9d105f271217800530844dafa50f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7223",
-                            "version" : "2020.1.3",
-                            "releaseDate" : "2020-04-06",
-                            "fullNumber" : "201.7223.85"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1.3-no-jbr.tar.gz",
-                        "sha256" : "c6688b995e92af3945dbdef5499a82bca990619b0efca6915ccc0aa1286f651d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6668",
-                            "version" : "2020.1.2",
-                            "releaseDate" : "2020-04-06",
-                            "fullNumber" : "201.6668.164"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1.2-no-jbr.tar.gz",
-                        "sha256" : "b99c31ae38e27280b737afd737db805a9e28a98d566fa4c45b2e48b77a327a82"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6668",
-                            "version" : "2020.1.1",
-                            "releaseDate" : "2020-04-06",
-                            "fullNumber" : "201.6668.158"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1.1-no-jbr.tar.gz",
-                        "sha256" : "5e589d33827f8ac8a904411f3c323c4615708a84123dca55dcf62ba22b276e3f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6668",
-                            "version" : "2020.1",
-                            "releaseDate" : "2020-04-06",
-                            "fullNumber" : "201.6668.99"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2020.1-no-jbr.tar.gz",
-                        "sha256" : "4ede3b056258e3504eb55db572a03d7e7719f89f28a8237dee3e49ed5d10fe26"
-                    },
-                    {
-                        "build" : {
                             "number" : "193.7288",
                             "version" : "2019.3.5",
                             "releaseDate" : "2019-12-03",
@@ -2496,46 +1456,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.3.5-no-jbr.tar.gz",
                         "sha256" : "f6162e7659fefa401ba61d542ab3ab5030738432d4941fc6e1c5a15fae9b0288"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6911",
-                            "version" : "2019.3.4",
-                            "releaseDate" : "2019-12-03",
-                            "fullNumber" : "193.6911.16"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.3.4-no-jbr.tar.gz",
-                        "sha256" : "863be640b615567dc82de39a57714f6e246117148c344de7cbfd9f6c0d3cff07"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6494",
-                            "version" : "2019.3.3",
-                            "releaseDate" : "2019-12-03",
-                            "fullNumber" : "193.6494.42"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.3.3-no-jbr.tar.gz",
-                        "sha256" : "ecbcc4652d0259d39720fbbb0498d373c82ccd72ab90ccfc443fbee130a71edb"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6015",
-                            "version" : "2019.3.2",
-                            "releaseDate" : "2019-12-03",
-                            "fullNumber" : "193.6015.44"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.3.2-no-jbr.tar.gz",
-                        "sha256" : "230fdda760ed29a3589194f7caa62cee4b9f081b5dcf04aefb26f4cce89f08f6"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.5662",
-                            "version" : "2019.3.1",
-                            "releaseDate" : "2019-12-03",
-                            "fullNumber" : "193.5662.58"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2019.3.1-no-jbr.tar.gz",
-                        "sha256" : "3d45fe81d4be4da83c45c4f250cc658737853da121d80707aff5d4170a52d87e"
                     }
                 ]
             },
@@ -4766,6 +3686,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-212.3724.25.tar.gz",
                         "sha256" : "5c189fa6ccbb8f985391495d1368cc3951d34d10d76f20e7cb30ffea4e08b65a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 Release Candidate",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8836.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-223.8836.14.tar.gz",
+                        "sha256" : "59a0ada3110e6bbe66bbf2aadb2c402d443c0fd23564096983c42ad663540861"
                     },
                     {
                         "build" : {
@@ -7510,6 +6440,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-212.3724.25.tar.gz",
                         "sha256" : "daa0ef0db61c35067ca5137d8e5ef5eed3f18c343e609b5af5c4021dcea23f48"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 Release Candidate",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8836.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-223.8836.14.tar.gz",
+                        "sha256" : "a459d82c7c61b0b467f3c0a13682c7cbf8c83ee887c7b333185e7e21c9821ea2"
                     },
                     {
                         "build" : {
