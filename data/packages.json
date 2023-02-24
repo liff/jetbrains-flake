@@ -719,6 +719,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.7665",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7665.29"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-231.7665.29.tar.gz",
+                        "sha256" : "a31221a8acf04ccec8c0ae0b5b586b227227b7a3046f72ab635a51520b9797ee"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.6890",
                             "version" : "2023.1 EAP",
                             "releaseDate" : null,
@@ -3257,6 +3267,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.7665",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7665.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-231.7665.28.tar.gz",
+                        "sha256" : "05189d84f67f368e19c2e0f80f0e5875b9d9b6668cfaa925f6246b983aee674b"
+                    },
                     {
                         "build" : {
                             "number" : "231.7515",
@@ -6011,6 +6031,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.7665",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7665.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-231.7665.28.tar.gz",
+                        "sha256" : "b12aa4c051faad915d07ce8cd939dc5046d4cdf760877ae673906392e5b7553a"
+                    },
                     {
                         "build" : {
                             "number" : "231.7515",
@@ -13496,6 +13526,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.5920.15.tar.gz",
                         "sha256" : "bd195836501a6af3732634f2c9ee556ce33c4bc557f8de2408187a4f0bb286c8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 RC",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8836.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.8836.15.tar.gz",
+                        "sha256" : "5f97bb8345f4d7da0b8d9aa45e5fdf49d7a209b5bd5c10b3871d07be424e2737"
                     },
                     {
                         "build" : {
