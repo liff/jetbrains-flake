@@ -4574,6 +4574,16 @@
                     {
                         "build" : {
                             "number" : "223.8836",
+                            "version" : "2022.3.3 EAP",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8836.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.19.tar.gz",
+                        "sha256" : "b0eea0364463c515e7d88681484aecaedc21b5f24f479baed1ac3e7e85a06f72"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
                             "version" : "2022.3.3 Preview",
                             "releaseDate" : "2022-12-05",
                             "fullNumber" : "223.8836.10"
@@ -9553,6 +9563,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.7665",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7665.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.7665.1.tar.gz",
+                        "sha256" : "30f68077113894d92ea2dac13c31fc2571db2850d189c0edd235f4ddf8e021d8"
+                    },
                     {
                         "build" : {
                             "number" : "231.7515",
