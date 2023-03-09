@@ -2193,6 +2193,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8836.35"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2022.3.3.tar.gz",
+                        "sha256" : "01102627a4ac17649cc83ac830366f84fe3147cdf56f3de04a22b49bfadcff3f"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8617",
                             "version" : "2022.3.2",
                             "releaseDate" : "2022-11-30",
@@ -3013,6 +3023,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8836.35"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2022.3.3.tar.gz",
+                        "sha256" : "e5a825d0c8b09a28fdce45b43c2d2c99bf02245f28c98c4df1fc5a9d92463bd9"
+                    },
                     {
                         "build" : {
                             "number" : "223.8617",
@@ -9355,6 +9375,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.8109.1.tar.gz",
+                        "sha256" : "68dc9751d3ceb52f25c6305a104b3fee17381a8fe39484bfe65f80c3d77376eb"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.7864",
                             "version" : "2023.1 BETA",
                             "releaseDate" : null,
@@ -9948,7 +9978,7 @@
                     {
                         "build" : {
                             "number" : "231.7864",
-                            "version" : "2023.1 EAP",
+                            "version" : "2023.1 Beta",
                             "releaseDate" : null,
                             "fullNumber" : "231.7864.77"
                         },
