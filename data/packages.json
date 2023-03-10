@@ -719,6 +719,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-231.8109.4.tar.gz",
+                        "sha256" : "1c46edebfa51fd67318a2927b9e90a7ab2298055f7c041722f74fc54a4a365ea"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.7864",
                             "version" : "2023.1 EAP",
                             "releaseDate" : null,
@@ -1499,6 +1509,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.8836.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2022.3.3.tar.gz",
+                        "sha256" : "8c85b56b4e226739a0e36549f5f80fed4cbf2b2798eff442499f5779396a6917"
+                    },
                     {
                         "build" : {
                             "number" : "223.8617",
@@ -4421,6 +4441,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.8836.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2022.3.3.tar.gz",
+                        "sha256" : "352bb13d352adb823828d74d50fd818f1216053afa66cd3f4aab94d47855ff3b"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8617",
                             "version" : "2022.3.2",
                             "releaseDate" : "2022-12-01",
@@ -5847,6 +5877,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.8109.4.tar.gz",
+                        "sha256" : "e9ab58e1e69f0c307ee8dcf68b913ef3965b7c0f3ad9358ace0037467e5d6d09"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.7864",
                             "version" : "2023.1 EAP",
                             "releaseDate" : null,
@@ -6503,6 +6543,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3",
+                            "releaseDate" : "2022-12-01",
+                            "fullNumber" : "223.8836.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2022.3.3.tar.gz",
+                        "sha256" : "3691aa9543daac11ef8def43f97767b12746b9a66f677e5feeae39727ba3389a"
+                    },
                     {
                         "build" : {
                             "number" : "223.8617",
@@ -7939,6 +7989,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.8109.4.tar.gz",
+                        "sha256" : "880f6d866529bef0883de986025d1f40c45a93be377ad758c89385128096598f"
+                    },
                     {
                         "build" : {
                             "number" : "231.7864",
@@ -9482,6 +9542,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.8617.25.tar.gz",
                         "sha256" : "c05cf0b065e6ee03ae6e4e01a6eec50efb1dd03494e66a15192992a59d8915da"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.4554",
+                            "version" : "2022.2.5 RC",
+                            "releaseDate" : "2022-07-26",
+                            "fullNumber" : "222.4554.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-222.4554.2.tar.gz",
+                        "sha256" : "e12d21ed5e0bb5f8eae475f50587ffb41bd511f20dc7a80e70050d344a44fcd1"
                     }
                 ]
             }
@@ -9491,6 +9561,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3",
+                            "releaseDate" : "2022-11-28",
+                            "fullNumber" : "223.8836.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2022.3.3.tar.gz",
+                        "sha256" : "57b0536fb87e840a8f71a1c797eb7f76b61f16a93dc064250e02e8b68ff521a8"
+                    },
                     {
                         "build" : {
                             "number" : "223.8617",
@@ -10034,16 +10114,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.5920.7.tar.gz",
                         "sha256" : "5fc5a10d8ad66e35d52b57a025f63d24fb4f7f86581403b9df05ffd92eb7ac2e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 RC",
-                            "releaseDate" : "2022-11-28",
-                            "fullNumber" : "223.8836.27"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8836.27.tar.gz",
-                        "sha256" : "57b0536fb87e840a8f71a1c797eb7f76b61f16a93dc064250e02e8b68ff521a8"
                     },
                     {
                         "build" : {
