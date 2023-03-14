@@ -3943,6 +3943,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8836.42"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2022.3.3.tar.gz",
+                        "sha256" : "d79a66032dfb85b16cef4ff308eb0161e06a831cee1fa93f2b7ca46fb1dc2ea9"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8617",
                             "version" : "2022.3.2",
                             "releaseDate" : "2022-12-05",
@@ -10169,6 +10179,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.51"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8109.51.tar.gz",
+                        "sha256" : "c7a8c3f2bf9ce5896fe4c5b825aa6dc5f26fc2ca86a5054c014cb2f514a93a07"
+                    },
                     {
                         "build" : {
                             "number" : "231.7864",
