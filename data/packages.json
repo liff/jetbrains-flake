@@ -4387,6 +4387,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Beta 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.51"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.51.tar.gz",
+                        "sha256" : "5f79e4a7b58265fe0262bff5d887d4332274ee6ae7ca5786a0bd32062d59e69a"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.7864",
                             "version" : "2023.1 Beta",
                             "releaseDate" : null,
@@ -4518,10 +4528,10 @@
                             "number" : "223.8836",
                             "version" : "2022.3.3",
                             "releaseDate" : "2022-12-01",
-                            "fullNumber" : "223.8836.34"
+                            "fullNumber" : "223.8836.43"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2022.3.3.tar.gz",
-                        "sha256" : "352bb13d352adb823828d74d50fd818f1216053afa66cd3f4aab94d47855ff3b"
+                        "sha256" : "50c37aafd9fbe3a78d97cccf4f7abd80266c548d1c7ea4751b08c52810f16f2d"
                     },
                     {
                         "build" : {
@@ -6642,10 +6652,10 @@
                             "number" : "223.8836",
                             "version" : "2022.3.3",
                             "releaseDate" : "2022-12-01",
-                            "fullNumber" : "223.8836.34"
+                            "fullNumber" : "223.8836.43"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2022.3.3.tar.gz",
-                        "sha256" : "3691aa9543daac11ef8def43f97767b12746b9a66f677e5feeae39727ba3389a"
+                        "sha256" : "fe84e586ce8da916abf481e02959742a20bab6ba3cdf447370ac8b2d5115211c"
                     },
                     {
                         "build" : {
