@@ -1591,6 +1591,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "222.4554",
+                            "version" : "2022.2.6",
+                            "releaseDate" : "2022-07-28",
+                            "fullNumber" : "222.4554.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2022.2.6.tar.gz",
+                        "sha256" : "50deb681722b5ecfa33ea2c48fa6221416d52607088e94bb46b0c59841ff401f"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4459",
                             "version" : "2022.2.5",
                             "releaseDate" : "2022-07-28",
@@ -8975,6 +8985,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "222.4554",
+                            "version" : "2022.2.5",
+                            "releaseDate" : "2022-07-26",
+                            "fullNumber" : "222.4554.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2022.2.5.tar.gz",
+                        "sha256" : "be21913fd3a1ce27f27f6d13382b5709598cffd6043a7eb9a722479402fed703"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4459",
                             "version" : "2022.2.4",
                             "releaseDate" : "2022-07-26",
@@ -9720,6 +9740,16 @@
                     {
                         "build" : {
                             "number" : "231.8109",
+                            "version" : "2023.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.91"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.8109.91.tar.gz",
+                        "sha256" : "1a8a95ab9ad4d7c5841143341f189a47b538b9ffd3da190fc882bd2845eb85b6"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
                             "version" : "2023.1 BETA",
                             "releaseDate" : null,
                             "fullNumber" : "231.8109.1"
@@ -10352,6 +10382,56 @@
                     {
                         "build" : {
                             "number" : "231.8109",
+                            "version" : "2023.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.93"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8109.93.tar.gz",
+                        "sha256" : "31f97431bc97d4c9b52ac6f866b9f1a398645e3996b0c5630d2102fdae81de0c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 RC",
+                            "releaseDate" : "2022-11-28",
+                            "fullNumber" : "223.8836.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8836.19.tar.gz",
+                        "sha256" : "0ef60d33d45c5e9b6d8eb6278a345529a94bca0e20cab15fe0024d8a884910aa"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2 RC",
+                            "releaseDate" : "2022-11-28",
+                            "fullNumber" : "223.8617.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8617.21.tar.gz",
+                        "sha256" : "2689910d1b1decb07a9212bcda4761db33b4e6bdcdb0f2c5fbaf600486ece424"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1 RC",
+                            "releaseDate" : "2022-11-28",
+                            "fullNumber" : "223.8214.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8214.33.tar.gz",
+                        "sha256" : "fe5be348e36bb9edde6748054bec862c800dabab257629242db03cf2b7dbbdb4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.4554",
+                            "version" : "2022.2.5 RC",
+                            "releaseDate" : "2022-07-25",
+                            "fullNumber" : "222.4554.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.4554.10.tar.gz",
+                        "sha256" : "ce33f1a19436fbdee504f908b2c02444beaf2d6da63978e47b2770a491829764"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
                             "version" : "2023.1 Beta",
                             "releaseDate" : null,
                             "fullNumber" : "231.8109.51"
@@ -10418,46 +10498,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.5920.7.tar.gz",
                         "sha256" : "5fc5a10d8ad66e35d52b57a025f63d24fb4f7f86581403b9df05ffd92eb7ac2e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 RC",
-                            "releaseDate" : "2022-11-28",
-                            "fullNumber" : "223.8836.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8836.19.tar.gz",
-                        "sha256" : "0ef60d33d45c5e9b6d8eb6278a345529a94bca0e20cab15fe0024d8a884910aa"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8617",
-                            "version" : "2022.3.2 RC",
-                            "releaseDate" : "2022-11-28",
-                            "fullNumber" : "223.8617.21"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8617.21.tar.gz",
-                        "sha256" : "2689910d1b1decb07a9212bcda4761db33b4e6bdcdb0f2c5fbaf600486ece424"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8214",
-                            "version" : "2022.3.1 RC",
-                            "releaseDate" : "2022-11-28",
-                            "fullNumber" : "223.8214.33"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8214.33.tar.gz",
-                        "sha256" : "fe5be348e36bb9edde6748054bec862c800dabab257629242db03cf2b7dbbdb4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.4554",
-                            "version" : "2022.2.5 RC",
-                            "releaseDate" : "2022-07-25",
-                            "fullNumber" : "222.4554.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.4554.10.tar.gz",
-                        "sha256" : "ce33f1a19436fbdee504f908b2c02444beaf2d6da63978e47b2770a491829764"
                     }
                 ]
             }
