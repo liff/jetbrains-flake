@@ -4083,6 +4083,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "222.4554",
+                            "version" : "2022.2.5",
+                            "releaseDate" : "2022-08-01",
+                            "fullNumber" : "222.4554.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2022.2.5.tar.gz",
+                        "sha256" : "3072d648fef3fca0f5769469d09bd384efe0807978c6e0397cf2644e6ee55bf6"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4459",
                             "version" : "2022.2.4",
                             "releaseDate" : "2022-08-01",
@@ -4488,6 +4498,76 @@
                     {
                         "build" : {
                             "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.108"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.108.tar.gz",
+                        "sha256" : "48d4bf67643b39df45718bc29bf13bf651b6093be763fc4157e14e190248f4b1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 Release Candidate 2",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8836.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.28.tar.gz",
+                        "sha256" : "65b7012effe8660a4dd844eb9edaabfb39ce4b665cfc771c1a366a323cde37ff"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 Release Candidate",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8836.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.19.tar.gz",
+                        "sha256" : "b0eea0364463c515e7d88681484aecaedc21b5f24f479baed1ac3e7e85a06f72"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 Preview",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8836.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.10.tar.gz",
+                        "sha256" : "d94d900588061e409ea02c95da59742c1e737e7f5a45bb41866a84a871fc4d25"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2 RC",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8617.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8617.27.tar.gz",
+                        "sha256" : "4ec9968b980e6e4f02316d349ef7ded510666e9f4cc4cde5d6222114d346a222"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2 Preview",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8617.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8617.12.tar.gz",
+                        "sha256" : "e06a5aa068f3c5d62bc2f6c415bbc882aa51af00514b3d238efd433864611cdc"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1 Release Candidate",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8214.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8214.33.tar.gz",
+                        "sha256" : "1ea995099632560be9ae311b94c3eb82cf3078e85842c818817a63b0253b61b1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
                             "version" : "2023.1 Beta 2",
                             "releaseDate" : null,
                             "fullNumber" : "231.8109.51"
@@ -4554,66 +4634,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
                         "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 Release Candidate 2",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8836.28"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.28.tar.gz",
-                        "sha256" : "65b7012effe8660a4dd844eb9edaabfb39ce4b665cfc771c1a366a323cde37ff"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 Release Candidate",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8836.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.19.tar.gz",
-                        "sha256" : "b0eea0364463c515e7d88681484aecaedc21b5f24f479baed1ac3e7e85a06f72"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 Preview",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8836.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.10.tar.gz",
-                        "sha256" : "d94d900588061e409ea02c95da59742c1e737e7f5a45bb41866a84a871fc4d25"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8617",
-                            "version" : "2022.3.2 RC",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8617.27"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8617.27.tar.gz",
-                        "sha256" : "4ec9968b980e6e4f02316d349ef7ded510666e9f4cc4cde5d6222114d346a222"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8617",
-                            "version" : "2022.3.2 Preview",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8617.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8617.12.tar.gz",
-                        "sha256" : "e06a5aa068f3c5d62bc2f6c415bbc882aa51af00514b3d238efd433864611cdc"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8214",
-                            "version" : "2022.3.1 Release Candidate",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8214.33"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8214.33.tar.gz",
-                        "sha256" : "1ea995099632560be9ae311b94c3eb82cf3078e85842c818817a63b0253b61b1"
                     }
                 ]
             }
