@@ -740,6 +740,16 @@
                     {
                         "build" : {
                             "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.141"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-231.8109.141.tar.gz",
+                        "sha256" : "ef7b5448227fd48561f0e108ff26741c5a6f5932cfeda35bc2cee1cd6b81ba9b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
                             "version" : "2023.1 Beta",
                             "releaseDate" : null,
                             "fullNumber" : "231.8109.80"
@@ -6114,6 +6124,16 @@
                             "number" : "231.8109",
                             "version" : "2023.1 Release Candidate",
                             "releaseDate" : null,
+                            "fullNumber" : "231.8109.140"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.8109.140.tar.gz",
+                        "sha256" : "32979eb15006699d87240dd20e9d4e32ee0ee8307d60cda05f141629404af739"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate",
+                            "releaseDate" : null,
                             "fullNumber" : "231.8109.91"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.8109.91.tar.gz",
@@ -8278,6 +8298,16 @@
                             "number" : "231.8109",
                             "version" : "2023.1 Release Candidate",
                             "releaseDate" : null,
+                            "fullNumber" : "231.8109.140"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.8109.140.tar.gz",
+                        "sha256" : "04e75f695fe86ec642566bb989cefcff002cbe14f98cfccf217f52806eaf6ed2"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate",
+                            "releaseDate" : null,
                             "fullNumber" : "231.8109.91"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.8109.91.tar.gz",
@@ -10409,6 +10439,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.143"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8109.143.tar.gz",
+                        "sha256" : "1354a6dfbd1d986d43fb25f5a701850e8b0dda5b1775836e00e580be552c0737"
+                    },
                     {
                         "build" : {
                             "number" : "231.8109",
