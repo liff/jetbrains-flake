@@ -17,8 +17,10 @@
 , unzip
 , gnused
 , gnugrep
+, libxcrypt
 , libsecret
 , libnotify
+, cups
 , libdbusmenu
 , lldb
 , e2fsprogs
@@ -57,7 +59,7 @@ stdenv.mkDerivation rec {
 
   nativeBuildInputs = [ makeWrapper patchelf unzip gnused autoPatchelfHook wrapGAppsHook copyDesktopItems ];
 
-  buildInputs = [ stdenv.cc.cc.lib libdbusmenu lldb pam ];
+  buildInputs = [ stdenv.cc.cc.lib libxcrypt cups libdbusmenu lldb pam ];
 
   patches = [ ./launcher.patch ];
 
@@ -80,6 +82,7 @@ stdenv.mkDerivation rec {
     rm -f plugins/webp/lib/libwebp/linux/libwebp_jni.so # 32-bit x86
     rm -rf lib/pty4j-native/linux/{arm,mips64el,ppc64le,x86}
     rm -f plugins/tailwindcss/server/node.napi.musl-*.node # TODO: avoid this
+    rm -f plugins/remote-dev-server/selfcontained/lib/libcups.so.2 # TODO: avoid this
 
     cp -a . $out/lib/$pname/
     ln -s $out/lib/$pname/bin/idea.svg $out/share/pixmaps/$pname.svg
