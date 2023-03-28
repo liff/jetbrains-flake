@@ -1861,36 +1861,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "211.7442",
-                            "version" : "2021.1.2",
-                            "releaseDate" : "2021-04-08",
-                            "fullNumber" : "211.7442.27"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.1.2.tar.gz",
-                        "sha256" : "fd920dddbf60f63811adae2edda3a49274a4aab50bc5b13902506462fdc9403c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.7142",
-                            "version" : "2021.1.1",
-                            "releaseDate" : "2021-04-08",
-                            "fullNumber" : "211.7142.13"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.1.1.tar.gz",
-                        "sha256" : "4574eb9120fff4a997b304165908b1fd76554d7df2311bab2283a77e09cede09"
-                    },
-                    {
-                        "build" : {
-                            "number" : "211.6693",
-                            "version" : "2021.1",
-                            "releaseDate" : "2021-04-08",
-                            "fullNumber" : "211.6693.119"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2021.1.tar.gz",
-                        "sha256" : "ff53e15131fc9707e406eb95a67ba83b53f85d8870afde388fd08855e669b1c3"
-                    },
-                    {
-                        "build" : {
                             "number" : "203.8084",
                             "version" : "2020.3.5",
                             "releaseDate" : "2020-12-03",
@@ -1898,56 +1868,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-2020.3.5.tar.gz",
                         "sha256" : "852fd6c52c2c122c5049f9b8546c26df0eb73f38203e06a28ca0ed401acad175"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.4",
-                            "releaseDate" : "2020-12-03",
-                            "fullNumber" : "203.7717.58"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.3.4.tar.gz",
-                        "sha256" : "371ed24f13bf88db7895bd7be46632cb6e22c7216d156ce1ef25630778d21991"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7717",
-                            "version" : "2020.3.3",
-                            "releaseDate" : "2020-12-03",
-                            "fullNumber" : "203.7717.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.3.3.tar.gz",
-                        "sha256" : "276b07c8b8a49a62c002d9565fb33a8e6800e40edfdb809d70870e6074db86f8"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.7148",
-                            "version" : "2020.3.2",
-                            "releaseDate" : "2020-12-03",
-                            "fullNumber" : "203.7148.71"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.3.2.tar.gz",
-                        "sha256" : "5f1bacaadac20259b58215fb3a5f58fe97ba1051279a7f9060693d1e1ea18b03"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.6682",
-                            "version" : "2020.3.1",
-                            "releaseDate" : "2020-12-03",
-                            "fullNumber" : "203.6682.164"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.3.1.tar.gz",
-                        "sha256" : "b336e309edf51a3c6fa9b3424538a4cd9055d6516373fcf0f1d5a9ba840af189"
-                    },
-                    {
-                        "build" : {
-                            "number" : "203.5981",
-                            "version" : "2020.3",
-                            "releaseDate" : "2020-12-03",
-                            "fullNumber" : "203.5981.98"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.3.tar.gz",
-                        "sha256" : "92a4315ce06168e8bd94a375bdfd045e484685eb439eed65f8c287c346ed4142"
                     },
                     {
                         "build" : {
@@ -1961,46 +1881,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "202.7319",
-                            "version" : "2020.2.3",
-                            "releaseDate" : "2020-07-30",
-                            "fullNumber" : "202.7319.61"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.2.3.tar.gz",
-                        "sha256" : "c0ca83c05e156c58483b42eb9a14fd1013434c8936fbba20ffd4b0b722a6bfa2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6948",
-                            "version" : "2020.2.2",
-                            "releaseDate" : "2020-07-30",
-                            "fullNumber" : "202.6948.9"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.2.2.tar.gz",
-                        "sha256" : "b00e0dc5656c77cb786d84ebaf5dcee6eb65516cceeba16ea0023d0d4b5fcbe4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6397",
-                            "version" : "2020.2.1",
-                            "releaseDate" : "2020-07-30",
-                            "fullNumber" : "202.6397.124"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.2.1.tar.gz",
-                        "sha256" : "06cf8a7e6926d0aac2136ae1dde014f70ab71758e8b27b49519e8e47ac174d96"
-                    },
-                    {
-                        "build" : {
-                            "number" : "202.6397",
-                            "version" : "2020.2",
-                            "releaseDate" : "2020-07-30",
-                            "fullNumber" : "202.6397.65"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.2.tar.gz",
-                        "sha256" : "80e8c644859a0c34fd42ae09c59c9e3966a06a9854d7219747a65db58ee53ac3"
-                    },
-                    {
-                        "build" : {
                             "number" : "201.8538",
                             "version" : "2020.1.4",
                             "releaseDate" : "2020-04-09",
@@ -2008,46 +1888,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-2020.1.4.tar.gz",
                         "sha256" : "74e948e9d2f10c52ee7ea59e776bbbfb1f4f8d1e05ced8f34a1e58ac5c60ecf1"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7846",
-                            "version" : "2020.1.3",
-                            "releaseDate" : "2020-04-09",
-                            "fullNumber" : "201.7846.93"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.1.3.tar.gz",
-                        "sha256" : "d647ab883fa71ec04481b954d4ab6c8756b26a6c9647863b08ee0dc11e911c5f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7223",
-                            "version" : "2020.1.2",
-                            "releaseDate" : "2020-04-09",
-                            "fullNumber" : "201.7223.97"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.1.2.tar.gz",
-                        "sha256" : "db3b424ffcd613a91374d8c30fb0d9f3136010acfe94a1cbd39f3b92aa89db6c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.7223",
-                            "version" : "2020.1.1",
-                            "releaseDate" : "2020-04-09",
-                            "fullNumber" : "201.7223.36"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.1.1.tar.gz",
-                        "sha256" : "6e445e82f90c13db75f32570d67b8cf267be0c14dabb97bf27454b485c7123c2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "201.6668",
-                            "version" : "2020.1",
-                            "releaseDate" : "2020-04-09",
-                            "fullNumber" : "201.6668.125"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2020.1.tar.gz",
-                        "sha256" : "c63de783facbf8d96eb6714240218c3c320fdbda1ddaa965f7fe72ecf6e897e2"
                     },
                     {
                         "build" : {
@@ -2061,46 +1901,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "193.6494",
-                            "version" : "2019.3.3",
-                            "releaseDate" : "2019-11-29",
-                            "fullNumber" : "193.6494.61"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2019.3.3.tar.gz",
-                        "sha256" : "8e8e59a70a95045eb9467811d0e44e89480a3a42cbc9a0ccff1d82e5f7a93e24"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.6015",
-                            "version" : "2019.3.2",
-                            "releaseDate" : "2019-11-29",
-                            "fullNumber" : "193.6015.58"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2019.3.2.tar.gz",
-                        "sha256" : "4901e7c6c61dd052f8740210de3d92247a6a58d8b912bd5f13a654d710db5559"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.5662",
-                            "version" : "2019.3.1",
-                            "releaseDate" : "2019-11-29",
-                            "fullNumber" : "193.5662.65"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2019.3.1.tar.gz",
-                        "sha256" : "0d1461b8e80aeb48d6bd9dc7be8e4892c71ba7410b116c36efa90a6ec38945d2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "193.5233",
-                            "version" : "2019.3",
-                            "releaseDate" : "2019-11-29",
-                            "fullNumber" : "193.5233.112"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2019.3.tar.gz",
-                        "sha256" : "a1bb4e9e61bdcc19e1a8d7303909057e5582a7735d1d5ccce833073d7faf33af"
-                    },
-                    {
-                        "build" : {
                             "number" : "192.7142",
                             "version" : "2019.2.5",
                             "releaseDate" : "2019-07-25",
@@ -2108,26 +1908,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-2019.2.5.tar.gz",
                         "sha256" : "74d43379eae4bc79d1bf86ea20e7739f506816efc7cb8b377c4a9cfd9dd9fcb1"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.6817",
-                            "version" : "2019.2.3",
-                            "releaseDate" : "2019-07-25",
-                            "fullNumber" : "192.6817.25"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2019.2.3.tar.gz",
-                        "sha256" : "d65d5fc57798652be47d6a540c41da3cf344c0ebabc357c0807c6999acff2b7d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "192.6603",
-                            "version" : "2019.2.2",
-                            "releaseDate" : "2019-07-25",
-                            "fullNumber" : "192.6603.35"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2019.2.2.tar.gz",
-                        "sha256" : "e21b6d0706bc3dcda8f710ec5c56f6a63061eaf4114a6c183d8c1beb5ebe01f3"
                     },
                     {
                         "build" : {
@@ -2141,26 +1921,6 @@
                     },
                     {
                         "build" : {
-                            "number" : "191.7479",
-                            "version" : "2019.1.3",
-                            "releaseDate" : "2019-03-27",
-                            "fullNumber" : "191.7479.32"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2019.1.3.tar.gz",
-                        "sha256" : "b0e22be860ead904c88595f005d5fe2b0fea310c15a1d8551372b5c336d1895b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "191.7141",
-                            "version" : "2019.1.2",
-                            "releaseDate" : "2019-03-27",
-                            "fullNumber" : "191.7141.62"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2019.1.2.tar.gz",
-                        "sha256" : "63112dde2fbaa99bacadcd35b6d576a07334e3247dec1ffeb1bcdbbfaa9c5598"
-                    },
-                    {
-                        "build" : {
                             "number" : "183.6156",
                             "version" : "2018.3.6",
                             "releaseDate" : "2018-11-21",
@@ -2168,26 +1928,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-2018.3.6.tar.gz",
                         "sha256" : "6711953a984ff68e42b64206c5daabaff12296109572d44f45552e069a3fdafa"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.5912",
-                            "version" : "2018.3.5",
-                            "releaseDate" : "2018-11-21",
-                            "fullNumber" : "183.5912.25"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2018.3.5.tar.gz",
-                        "sha256" : "1919778f0ada4c656f50052da65f62372e6ddd3ca582af5b5d1f41327e45888c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "183.5429",
-                            "version" : "2018.3.4",
-                            "releaseDate" : "2018-11-21",
-                            "fullNumber" : "183.5429.49"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-2018.3.4.tar.gz",
-                        "sha256" : "0e90264929911ed9d5e260e6dc3dc1db9aee3114a6440a39989ed29f9af92164"
                     },
                     {
                         "build" : {
@@ -9837,6 +9577,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.125"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.8109.125.tar.gz",
+                        "sha256" : "b2f589dc31cadbfb1e1051fb26b22c5fa396192e3963d5add1365c4fe409fd98"
+                    },
                     {
                         "build" : {
                             "number" : "231.8109",
