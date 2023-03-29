@@ -827,6 +827,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.8109.163"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2023.1.tar.gz",
+                        "sha256" : "0512cef755d7a465a8a525fc88b443a5f8ace062f5aa0598e51e38d2ad34f341"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8617",
                             "version" : "2022.3.3",
                             "releaseDate" : "2022-12-01",
@@ -2053,6 +2063,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.8109.175"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.1.tar.gz",
+                        "sha256" : "3029c751c36d86fef0021feceb8f3010d37aebd42aef6d6aed9e3b9207c2d2ac"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8836",
                             "version" : "2022.3.3",
                             "releaseDate" : "2022-11-30",
@@ -2945,6 +2965,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.8109.175"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.1.tar.gz",
+                        "sha256" : "e6fe45c9df8e763ee3278444b5fb1003910c436752e83221e0303a62c5e81eaa"
+                    },
                     {
                         "build" : {
                             "number" : "223.8836",
@@ -4295,6 +4325,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.149"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.149.tar.gz",
+                        "sha256" : "018d7804b3726f232ae48de746f0eb4cd628cd38d85afd7da0dfe2e43865ef03"
+                    },
                     {
                         "build" : {
                             "number" : "231.8109",
@@ -9725,6 +9765,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.8109.174"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.1.tar.gz",
+                        "sha256" : "bd074c7bafdcfcce4db001a4356040d0badd7cd2f65418a35b4156b00a07e94b"
+                    },
                     {
                         "build" : {
                             "number" : "223.8836",
