@@ -1,6 +1,6 @@
---- a/bin/idea.sh	2022-07-27 12:09:37.729769040 +0300
-+++ b/bin/idea.sh	2022-07-27 12:13:24.047172670 +0300
-@@ -8,19 +8,12 @@
+--- a/bin/idea.sh	1970-01-20 12:40:00.000000000 +0200
++++ b/bin/idea.sh	2023-03-29 09:58:13.803845123 +0300
+@@ -8,17 +8,7 @@
  message()
  {
    TITLE="Cannot start IntelliJ IDEA"
@@ -18,17 +18,22 @@
 +  @NOTIFY_SEND@ "ERROR: $TITLE" "$1"
  }
  
+ if [ -z "$(command -v uname)" ] || [ -z "$(command -v realpath)" ] || [ -z "$(command -v dirname)" ] || [ -z "$(command -v cat)" ] || \
+@@ -31,6 +21,9 @@
+   exit 1
+ fi
+ 
 +PATH=$PATH:'@PATH@'
 +NATIVE_LIBRARY_PATH='@NATIVE_LIBRARY_PATH@'
 +
- if [ -z "$(command -v uname)" ] || [ -z "$(command -v realpath)" ] || [ -z "$(command -v dirname)" ] || [ -z "$(command -v cat)" ] || \
-    [ -z "$(command -v grep)" ]; then
-   TOOLS_MSG="Required tools are missing:"
-@@ -195,6 +188,7 @@
+ # shellcheck disable=SC2034
+ GREP_OPTIONS=''
+ OS_TYPE=$(uname -s)
+@@ -168,6 +161,7 @@
  # shellcheck disable=SC2086
  exec "$JAVA_BIN" \
    -classpath "$CLASS_PATH" \
 +  -Djna.library.path="$NATIVE_LIBRARY_PATH" \
-   ${VM_OPTIONS} \
    "-XX:ErrorFile=$HOME/java_error_in_idea_%p.log" \
    "-XX:HeapDumpPath=$HOME/java_error_in_idea_.hprof" \
+   ${VM_OPTIONS} \
