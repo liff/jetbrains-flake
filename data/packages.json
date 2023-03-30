@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.8109.174"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.1.tar.gz",
+                        "sha256" : "4b7f431dec981601f4c4e217612f582ffd6c8aa53d03604f518eb1f35357ec6a"
+                    },
+                    {
+                        "build" : {
                             "number" : "223.8836",
                             "version" : "2022.3.3",
                             "releaseDate" : "2022-11-30",
@@ -1973,6 +1983,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.172"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-231.8109.172.tar.gz",
+                        "sha256" : "5c3d388e9885f2a7fdc58ca43b7c772815e4779e9414cf86d972bc3d3875a8c2"
+                    },
                     {
                         "build" : {
                             "number" : "231.8109",
@@ -8823,6 +8843,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.8109.174"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.1.tar.gz",
+                        "sha256" : "f9eabc980d82a9c9b27bc84daa7f1e786f41b17bbbfeca282985c6ed87e768ec"
+                    },
                     {
                         "build" : {
                             "number" : "223.8836",
