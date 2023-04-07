@@ -6,6 +6,16 @@
                     {
                         "build" : {
                             "number" : "231.8109",
+                            "version" : "2023.1.1",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.8109.222"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.1.1.tar.gz",
+                        "sha256" : "19f2f435ff21453f724e16b318a94d19c414fd5863aa08cc73e78c85a20d73c5"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
                             "version" : "2023.1",
                             "releaseDate" : "2023-03-29",
                             "fullNumber" : "231.8109.174"
@@ -9897,6 +9907,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "222.4554",
+                            "version" : "2022.2.5",
+                            "releaseDate" : "2022-07-25",
+                            "fullNumber" : "222.4554.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2022.2.5.tar.gz",
+                        "sha256" : "ce33f1a19436fbdee504f908b2c02444beaf2d6da63978e47b2770a491829764"
+                    },
+                    {
+                        "build" : {
                             "number" : "222.4459",
                             "version" : "2022.2.4",
                             "releaseDate" : "2022-07-25",
@@ -10398,16 +10418,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8214.33.tar.gz",
                         "sha256" : "fe5be348e36bb9edde6748054bec862c800dabab257629242db03cf2b7dbbdb4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.4554",
-                            "version" : "2022.2.5 RC",
-                            "releaseDate" : "2022-07-25",
-                            "fullNumber" : "222.4554.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-222.4554.10.tar.gz",
-                        "sha256" : "ce33f1a19436fbdee504f908b2c02444beaf2d6da63978e47b2770a491829764"
                     },
                     {
                         "build" : {
