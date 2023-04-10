@@ -37,7 +37,7 @@ jobs:
           name: liff
           authToken: '${{ secrets.cachix_auth_token }}'
           signingKey: '${{ secrets.cachix_signing_key }}'
-      - uses: nixbuild/nixbuild-action@v15
+      - uses: nixbuild/nixbuild-action@v17
         with:
           nixbuild_ssh_key: ${{ secrets.nixbuild_ssh_key }}
 
@@ -77,7 +77,7 @@ jobs:
           name: liff
           authToken: '${{ secrets.cachix_auth_token }}'
           signingKey: '${{ secrets.cachix_signing_key }}'
-      - uses: nixbuild/nixbuild-action@v15
+      - uses: nixbuild/nixbuild-action@v17
         with:
           nixbuild_ssh_key: ${{ secrets.nixbuild_ssh_key }}
 
@@ -125,7 +125,7 @@ jobs:
           name: liff
           authToken: '${{ secrets.cachix_auth_token }}'
           signingKey: '${{ secrets.cachix_signing_key }}'
-      - uses: nixbuild/nixbuild-action@v15
+      - uses: nixbuild/nixbuild-action@v17
         with:
           nixbuild_ssh_key: '${{ secrets.nixbuild_ssh_key }}'
       - name: Build package ${{ matrix.pkg }}
