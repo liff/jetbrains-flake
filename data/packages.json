@@ -4407,6 +4407,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.8770",
+                            "version" : "2023.1.1 Preview",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.8770.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8770.19.tar.gz",
+                        "sha256" : "ceff682c95e6725a1b3fdac57b4ffc8a1a764fc40ffeebe683d4c5c35cbe48e5"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.8109",
                             "version" : "2023.1 Release Candidate 2",
                             "releaseDate" : null,
