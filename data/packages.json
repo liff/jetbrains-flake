@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.8770",
+                            "version" : "2023.1.2",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.8770.66"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.1.2.tar.gz",
+                        "sha256" : "e3efc51a4431dc67da6463a8a37aab8ad6a214a8338430ae61cd4add5e7e5b04"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.8109",
                             "version" : "2023.1.1",
                             "releaseDate" : "2023-03-29",
@@ -2113,6 +2123,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.8770",
+                            "version" : "2023.1.1",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.8770.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.1.1.tar.gz",
+                        "sha256" : "62ac9a6a801e5e029c3ca5ea28ee5de2680e3d58ae233cf1cb3d3636c6b205ca"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.8109",
                             "version" : "2023.1",
                             "releaseDate" : "2023-03-28",
@@ -3035,6 +3055,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8770",
+                            "version" : "2023.1.1",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.8770.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.1.1.tar.gz",
+                        "sha256" : "0a9bc55c2eaecbe983cd1db9ab6a353e3b7c3747f6fc6dea95736df104a68239"
+                    },
                     {
                         "build" : {
                             "number" : "231.8109",
@@ -9955,6 +9985,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.8770",
+                            "version" : "2023.1.1",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.8770.64"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.1.1.tar.gz",
+                        "sha256" : "93e11177010037a156939f2ded59ac5d8d0661e47a4471399665affe4a1eb7a9"
+                    },
                     {
                         "build" : {
                             "number" : "231.8109",
