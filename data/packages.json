@@ -779,13 +779,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "232.5150",
+                            "number" : "232.6095",
                             "version" : "2023.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "232.5150.115"
+                            "fullNumber" : "232.6095.18"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-232.5150.115.tar.gz",
-                        "sha256" : "0dd1bd05ae3b14ff268356aa1a2dbaf57f069f6d870928516e40532da507a876"
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-232.6095.18.tar.gz",
+                        "sha256" : "b93b2b47dea39fad0c437d25549dee276a88f9fc475230e03317ff221e7489ab"
                     },
                     {
                         "build" : {
