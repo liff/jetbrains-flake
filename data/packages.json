@@ -2075,6 +2075,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.6734",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.6734.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-232.6734.9.tar.gz",
+                        "sha256" : "1dbf8d1e501e45909ec9e0803f2518e4ae93336abc65199f25cb5388e47fb0be"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.6095",
                             "version" : "2023.2 EAP",
                             "releaseDate" : null,
@@ -2947,6 +2957,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.6734",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.6734.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-232.6734.9.tar.gz",
+                        "sha256" : "43bf9e84b683d160f86f8cbbf311eef7bf25d179439cef6fb6f5f5e92f766ad3"
+                    },
                     {
                         "build" : {
                             "number" : "232.6095",
@@ -3931,6 +3951,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.6734",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.6734.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-232.6734.9.tar.gz",
+                        "sha256" : "1782b65bbeae4c163d76ad60d6a94cd3f8619e25cbd2d98f00aa0ecabff4c79c"
+                    },
                     {
                         "build" : {
                             "number" : "232.6095",
@@ -10117,6 +10147,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.6734",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.6734.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-232.6734.7.tar.gz",
+                        "sha256" : "cf2538ec5d486361b43447eab30617203cc0cc4e7add55d0e8b91e5ecc942a94"
+                    },
                     {
                         "build" : {
                             "number" : "232.6095",
