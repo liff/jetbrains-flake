@@ -4667,13 +4667,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "232.6095",
+                            "number" : "232.6734",
                             "version" : "2023.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "232.6095.6"
+                            "fullNumber" : "232.6734.11"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.6095.6.tar.gz",
-                        "sha256" : "5daa6d50b969eb5b11ab863ab5de882400b9d9c10e082275530afa192e4d2ca3"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.6734.11.tar.gz",
+                        "sha256" : "aff27ba71f26c4623fa8623e41396a826a89d47cfe3708e6afd6d4069c1c75b7"
                     },
                     {
                         "build" : {
@@ -10899,6 +10899,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.6734",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.6734.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.6734.8.tar.gz",
+                        "sha256" : "a8f3825fed3be61fac718606a30a8f63c967563c0f4526afae308695a6a568ee"
+                    },
                     {
                         "build" : {
                             "number" : "232.6095",
