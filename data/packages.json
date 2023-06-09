@@ -5721,6 +5721,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3 Release Candidate",
+                            "releaseDate" : "2023-03-30",
+                            "fullNumber" : "231.9161.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.9161.16.tar.gz",
+                        "sha256" : "cde25a08ef512bffd033110e61dbf013e65a151e8c6912e0761336e93193ae91"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9011",
                             "version" : "2023.1.2 Release Candidate",
                             "releaseDate" : "2023-03-30",
@@ -6622,6 +6632,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.6471.3.tar.gz",
                         "sha256" : "4ec3040381883c3ceef74c5df887c07ad2be0dbfa9954de6235d2141335487bf"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3 Release Candidate",
+                            "releaseDate" : "2023-03-30",
+                            "fullNumber" : "231.9161.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.9161.16.tar.gz",
+                        "sha256" : "954c1dbf26d0bf9cb1e5574488e23115d0cf7922c021d05c6ebc4606eb29e1b1"
                     },
                     {
                         "build" : {
@@ -7636,6 +7656,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.5920.15.tar.gz",
                         "sha256" : "bd195836501a6af3732634f2c9ee556ce33c4bc557f8de2408187a4f0bb286c8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3 Preview",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9161.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9161.6.tar.gz",
+                        "sha256" : "6c42820cabe2e3780d513dea0b9260c569765b24acc21272c9f747adf92773b5"
                     },
                     {
                         "build" : {
