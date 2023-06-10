@@ -779,6 +779,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.7295",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7295.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-232.7295.14.tar.gz",
+                        "sha256" : "f33616098a8f0284deec0b3ba56d7b4873c9c8d0e9c82778b3ef0f79f49ef18d"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.6095",
                             "version" : "2023.2 EAP",
                             "releaseDate" : null,
@@ -2085,6 +2095,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.7295",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7295.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-232.7295.16.tar.gz",
+                        "sha256" : "a37c8738d5006323e69cf1a6f8760b26fb4544ee0af74f0383348de9c6c6041c"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.6734",
                             "version" : "2023.2 EAP",
                             "releaseDate" : null,
@@ -2967,6 +2987,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.7295",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7295.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-232.7295.16.tar.gz",
+                        "sha256" : "d0c2dabfcd6bfb92da8ce638f8339ab2f4b8f043b0dc07d1124f4f68b23d360c"
+                    },
                     {
                         "build" : {
                             "number" : "232.6734",
@@ -3971,6 +4001,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.7295",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7295.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-232.7295.16.tar.gz",
+                        "sha256" : "c51e662be6e776bb69b0548a775e3de68e0c289a13488e0e6de7c1fc9a6e2367"
+                    },
                     {
                         "build" : {
                             "number" : "232.6734",
@@ -8309,6 +8349,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.7295",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7295.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.7295.14.tar.gz",
+                        "sha256" : "060771c800fd768dac072bca87f3bc2d9331894d8e82be5cd1978ffe93318d67"
+                    },
                     {
                         "build" : {
                             "number" : "232.6734",
