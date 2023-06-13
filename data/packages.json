@@ -4817,6 +4817,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3 Preview",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9161.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9161.20.tar.gz",
+                        "sha256" : "43ad83e735421300217a9bbf429a4f8f3e7b57166c01cff098b737532dcf5696"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9011",
                             "version" : "2023.1.2 Release Candidate",
                             "releaseDate" : "2023-04-03",
@@ -7587,6 +7597,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.7295",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7295.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-232.7295.14.tar.gz",
+                        "sha256" : "8f90f629705eeee8d9d5a633a47ed6ddf182b1b34cd0fd4177f44d9d3f484c05"
+                    },
                     {
                         "build" : {
                             "number" : "232.6734",
