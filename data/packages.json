@@ -4787,6 +4787,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.7754",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7754.72"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.7754.72.tar.gz",
+                        "sha256" : "f0c242e92e2f6fd5cfe3f3161eec81eb151f7dba41233af18038d60b037a5279"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.7295",
                             "version" : "2023.2 EAP",
                             "releaseDate" : null,
@@ -4874,6 +4884,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
                         "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3 RC",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9161.30"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9161.30.tar.gz",
+                        "sha256" : "12c66c635d5f5383f2f224002e7c572932cae50aeba07bee1f8edcb7de6b5773"
                     },
                     {
                         "build" : {
@@ -7657,6 +7677,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.7754",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7754.75"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-232.7754.75.tar.gz",
+                        "sha256" : "0da505f24a3ad367c1dc7e9a53da8e5e2f9dc0e59d37a237248f07c97b6b5bf4"
+                    },
                     {
                         "build" : {
                             "number" : "232.7295",
