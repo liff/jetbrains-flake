@@ -2233,6 +2233,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9161.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.1.3.tar.gz",
+                        "sha256" : "a58954ed6732eb799502e14b250ead8b21e00c3f064e196ada34dcd6a3a3f399"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9011",
                             "version" : "2023.1.2",
                             "releaseDate" : "2023-03-28",
@@ -3265,6 +3275,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9161.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.1.3.tar.gz",
+                        "sha256" : "336ec81b78645349e0b476047e2d1993ed3f1c571f8961565a3e47fe5c9c02bf"
+                    },
                     {
                         "build" : {
                             "number" : "231.9011",
