@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.4",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9161.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.1.4.tar.gz",
+                        "sha256" : "03830bd8c32eca51d2cb54aafbb74ce46003eaab9601465876c84107c0a19a23"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9011",
                             "version" : "2023.1.3",
                             "releaseDate" : "2023-03-29",
@@ -1669,6 +1679,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9161.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.1.3.tar.gz",
+                        "sha256" : "f456024e1b5de405ada9bd570483ffca1126edec9c81bfa02b077f81434b5719"
+                    },
                     {
                         "build" : {
                             "number" : "231.9011",
@@ -7947,6 +7967,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9161.29"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.1.3.tar.gz",
+                        "sha256" : "1cef18a6d80e063b520dd8e9a0cf5b27a9cb05bbfa5b680e97c54a7cb435c9c6"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9011",
                             "version" : "2023.1.2",
                             "releaseDate" : "2023-03-28",
@@ -8598,16 +8628,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.5920.7.tar.gz",
                         "sha256" : "5fc5a10d8ad66e35d52b57a025f63d24fb4f7f86581403b9df05ffd92eb7ac2e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9161",
-                            "version" : "2023.1.3 RC",
-                            "releaseDate" : "2023-03-28",
-                            "fullNumber" : "231.9161.29"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.9161.29.tar.gz",
-                        "sha256" : "1cef18a6d80e063b520dd8e9a0cf5b27a9cb05bbfa5b680e97c54a7cb435c9c6"
                     },
                     {
                         "build" : {
