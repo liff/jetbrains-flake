@@ -5065,6 +5065,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3",
+                            "releaseDate" : "2023-03-30",
+                            "fullNumber" : "231.9161.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2023.1.3.tar.gz",
+                        "sha256" : "4cdf85c01854d7f74c9fa9efda67453356f1120e49cc5aed1168f0f32d8ee016"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9011",
                             "version" : "2023.1.2",
                             "releaseDate" : "2023-03-30",
@@ -5977,6 +5987,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3",
+                            "releaseDate" : "2023-03-30",
+                            "fullNumber" : "231.9161.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2023.1.3.tar.gz",
+                        "sha256" : "40682c61bf21c66dd861ee47f12b6895a36d99b9ce676b13cb5dc7e5b4bd3f46"
+                    },
                     {
                         "build" : {
                             "number" : "231.9011",
@@ -6893,6 +6913,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9161.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.1.3.tar.gz",
+                        "sha256" : "0eda257d349b9e24ade016af94a2cbca669b719f0a79d5720dfc9a54c7415901"
+                    },
                     {
                         "build" : {
                             "number" : "231.9011",
