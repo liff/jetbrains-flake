@@ -2,7 +2,6 @@
 , stdenv
 , which
 , bash
-, gnused
 , cmake
 , git
 , openjdk17
@@ -12,7 +11,7 @@
 , fetchurl
 , unzip
 
-, autoPatchelfHook, wrapGAppsHook
+, autoPatchelfHook
 , pkg-config
 
 , udev, pulseaudio, pciutils
