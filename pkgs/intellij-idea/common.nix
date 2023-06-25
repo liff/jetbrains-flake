@@ -3,7 +3,6 @@
 , desktopName
 , description
 , chooseLicense
-, useBuiltJbr ? true
 , }:
 
 { lib
@@ -96,7 +95,7 @@ in
 stdenv.mkDerivation {
   inherit pname version src;
 
-  postUnpack = optionalString useBuiltJbr ''
+  postUnpack = ''
     pushd idea-*
     rm -fr jbr
     grep -Ev '^\s+"javaExecutablePath":' product-info.json > product-info.json.new
@@ -108,18 +107,14 @@ stdenv.mkDerivation {
 
   nativeBuildInputs = [ makeWrapper patchelf unzip gnused file autoPatchelfHook wrapGAppsHook copyDesktopItems ];
 
-  buildInputs =
-    (if useBuiltJbr
-     then []
-     else jetbrains-jcef.buildInputs ++ jetbrainsruntime.buildInputs ++ [ harfbuzz ]
-    ) ++ [
-      stdenv.cc.cc.lib
-      libxcrypt
-      cups
-      libdbusmenu
-      lldb
-      pam
-    ];
+  buildInputs = [
+    stdenv.cc.cc.lib
+    libxcrypt
+    cups
+    libdbusmenu
+    lldb
+    pam
+  ];
 
   patches = [ ./launcher.patch ];
 
@@ -130,7 +125,7 @@ stdenv.mkDerivation {
       --subst-var-by NATIVE_LIBRARY_PATH '${lib.makeLibraryPath [ libsecret libnotify e2fsprogs ]}'
   '';
 
-  preFixup = optionalString useBuiltJbr ''
+  preFixup = ''
     gappsWrapperArgs+=(--set IDEA_JDK ${jetbrainsruntime.passthru.home})
   '';
 
@@ -171,20 +166,6 @@ stdenv.mkDerivation {
     ln -sf ${fsnotifier}/bin/fsnotifier $out/lib/$pname/bin
 
     runHook postInstall
-  '';
-
-  dontAutoPatchelf = !useBuiltJbr;
-
-  postFixup = optionalString (!useBuiltJbr) ''
-    autoPatchelf "$out"
-
-    runtime_rpath="${lib.makeLibraryPath (jetbrains-jcef.buildInputs ++ jetbrainsruntime.buildInputs)}"
-
-    for so in $(find "$out/lib/$pname" -name '*.so'); do
-      so_rpath="$(patchelf --print-rpath "$so")"
-      echo "Adding runtime dependencies to RPATH of library $so"
-      patchelf --set-rpath "\$ORIGIN:$runtime_rpath:$so_rpath" "$so"
-    done
   '';
 
   desktopItems = [ desktopItem ];

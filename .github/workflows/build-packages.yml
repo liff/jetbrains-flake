@@ -102,15 +102,11 @@ jobs:
         pkg:
           - intellij-idea-community
           - intellij-idea-ultimate
-          - intellij-idea-ultimate-jbr
         nixpkgs_branch:
           - nixos-unstable
         system:
           - x86_64-linux
           - aarch64-linux
-        exclude:
-          - pkg: intellij-idea-ultimate-jbr
-            system: aarch64-linux
 
     name: "Build application ${{ matrix.pkg }} for ${{ matrix.nixpkgs_branch }} on ${{ matrix.system }}"
 
