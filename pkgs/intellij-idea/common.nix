@@ -153,12 +153,13 @@ stdenv.mkDerivation {
 
     rm -r plugins/android/resources/native/{mac,mac_arm,win}
 
-    rm -f plugins/tailwindcss/server/fsevents* # macOS
-
     # Remove Windows, macOS and musl alternatives
-    rm -f plugins/tailwindcss/server/node.napi.musl-*.node
-    file -i ./plugins/tailwindcss/server/node.napi.* \
-      | grep -v application/x-sharedlib | cut -f1 -d: | xargs -r rm
+    if test -d plugins/tailwindcss; then
+      rm -f plugins/tailwindcss/server/fsevents* # macOS
+      rm -f plugins/tailwindcss/server/node.napi.musl-*.node
+      file -i ./plugins/tailwindcss/server/node.napi.* \
+        | grep -v application/x-sharedlib | cut -f1 -d: | xargs -r rm
+    fi
 
     ${optionalString hasRemoteDev addRemoteDevServer}
 
