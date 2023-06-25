@@ -12,7 +12,6 @@
           "intellij-idea-community"
           "intellij-idea-community-eap"
           "intellij-idea-ultimate"
-          "intellij-idea-ultimate-jbr"
         ];
         names = libNames ++ appNames;
 
