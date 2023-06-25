@@ -4,4 +4,5 @@ import ../intellij-idea/common.nix {
   desktopName = "IntelliJ IDEA Community Edition";
   description = "Integrated Development Environment (IDE) by Jetbrains, community edition";
   chooseLicense = licenses: licenses.asl20;
+  hasRemoteDev = false;
 }

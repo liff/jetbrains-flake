@@ -4,4 +4,5 @@ import ../intellij-idea/common.nix {
   desktopName = "IntelliJ IDEA Ultimate Edition";
   description = "Integrated Development Environment (IDE) by Jetbrains, ultimate edition";
   chooseLicense = licenses: licenses.unfree;
+  hasRemoteDev = true;
 }

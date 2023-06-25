@@ -3,6 +3,7 @@
 , desktopName
 , description
 , chooseLicense
+, hasRemoteDev
 , }:
 
 { lib
@@ -90,6 +91,11 @@ let
     '';
   };
 
+  addRemoteDevServer = ''
+    rm -r plugins/remote-dev-server
+    ln -s ${remote-dev-server} plugins/remote-dev-server
+  '';
+
 in
 
 stdenv.mkDerivation {
@@ -154,8 +160,7 @@ stdenv.mkDerivation {
     file -i ./plugins/tailwindcss/server/node.napi.* \
       | grep -v application/x-sharedlib | cut -f1 -d: | xargs -r rm
 
-    rm -r plugins/remote-dev-server
-    ln -s ${remote-dev-server} plugins/remote-dev-server
+    ${optionalString hasRemoteDev addRemoteDevServer}
 
     # Install
 
