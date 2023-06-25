@@ -10,7 +10,6 @@
         ];
         appNames = [
           "intellij-idea-community"
-          "intellij-idea-community-eap"
           "intellij-idea-ultimate"
         ];
         names = libNames ++ appNames;
