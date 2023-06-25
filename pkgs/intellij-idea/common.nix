@@ -33,6 +33,8 @@
 , fsnotifier }:
 
 let
+  inherit (lib) optionalString;
+  inherit (stdenv) isAarch64 isx86_64;
 
   jbPackages = import ../../data/packages.nix;
   latest = builtins.head (choose jbPackages."IntelliJ IDEA");
@@ -125,23 +127,28 @@ stdenv.mkDerivation {
 
     # Remove binaries that are incompatible with x86_64-linux so that
     # autopatchelf doesn’t get confused.
+
     rm -r plugins/maven/lib/maven3/lib/jansi-native/{freebsd32,freebsd64,linux32,osx,windows32,windows64}
 
     rm plugins/webp/lib/libwebp/linux/libwebp_jni.so # 32-bit x86
 
-    rm -r plugins/cwm-plugin/quiche-native/{darwin-aarch64,darwin-x86-64,linux-aarch64,win32-x86-64}
+    rm -r plugins/cwm-plugin/quiche-native/{darwin-aarch64,darwin-x86-64,win32-x86-64}
+    ${optionalString isAarch64 "rm -r plugins/cwm-plugin/quiche-native/linux-x86-64"}
+    ${optionalString isx86_64 "rm -r plugins/cwm-plugin/quiche-native/linux-aarch64"}
 
     rm -r plugins/android/resources/native/{mac,mac_arm,win}
 
     rm -f plugins/tailwindcss/server/fsevents* # macOS
 
-    # Windows, macOS and musl alternatives
+    # Remove Windows, macOS and musl alternatives
     rm -f plugins/tailwindcss/server/node.napi.musl-*.node
     file -i ./plugins/tailwindcss/server/node.napi.* \
       | grep -v application/x-sharedlib | cut -f1 -d: | xargs -r rm
 
     rm -r plugins/remote-dev-server
     ln -s ${remote-dev-server} plugins/remote-dev-server
+
+    # Install
 
     cp -a . $out/lib/$pname/
     ln -s $out/lib/$pname/bin/idea.svg $out/share/pixmaps/$pname.svg
@@ -159,6 +166,6 @@ stdenv.mkDerivation {
     inherit description longDescription;
     maintainers = with maintainers; [ liff ];
     license = chooseLicense lib.licenses;
-    platforms = [ "x86_64-linux" ];
+    platforms = [ "x86_64-linux" "aarch64-linux" ];
   };
 }
