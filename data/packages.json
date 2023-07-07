@@ -789,6 +789,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-232.8660.8.tar.gz",
+                        "sha256" : "ea25c8d1c2dcfe5f4fa88d8164df0d6d3dbc261ff0c1ef5e76fd10edfacedd88"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.8453",
                             "version" : "2023.2 EAP",
                             "releaseDate" : null,
@@ -1653,13 +1663,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "232.7295",
+                            "number" : "232.8660",
                             "version" : "2023.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "232.7295.8"
+                            "fullNumber" : "232.8660.5"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-232.7295.8.tar.gz",
-                        "sha256" : "c2a488df7276cf42d1c045c4d60ef785877ca68210c1e05015554b48e493d2d7"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-232.8660.5.tar.gz",
+                        "sha256" : "4f56e42ddfa9743f91ea2457e358572a6f7d0bae441149c947226b4302fcfb5c"
                     },
                     {
                         "build" : {
@@ -3219,6 +3229,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4 Preview",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9225.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-231.9225.6.tar.gz",
+                        "sha256" : "85d5aebcb00cc80a1477006bbdc18b6a80bcedf4ab095fbfb455dec552090859"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9161",
                             "version" : "2023.1.3 Release Candidate",
                             "releaseDate" : "2023-03-28",
@@ -4280,6 +4300,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-231.4840.387.tar.gz",
                         "sha256" : "7b7d238687a7621d05d85f56ba7c754c9858cb4faaa39d6eba5c0abea2981cd4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4 Preview",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9225.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-231.9225.6.tar.gz",
+                        "sha256" : "9af0340154357af3594178e9c45dd8bf279e44e22f0a4c698e910ad4408b4fcb"
                     },
                     {
                         "build" : {
@@ -6021,6 +6051,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4 Release Candidate",
+                            "releaseDate" : "2023-03-30",
+                            "fullNumber" : "231.9225.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.9225.5.tar.gz",
+                        "sha256" : "24f30da699a1824d90fa10c67337c882ff1754162e8f3ed600d0ab2194d3c93c"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9161",
                             "version" : "2023.1.3 Release Candidate",
                             "releaseDate" : "2023-03-30",
@@ -6952,6 +6992,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.6471.3.tar.gz",
                         "sha256" : "4ec3040381883c3ceef74c5df887c07ad2be0dbfa9954de6235d2141335487bf"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4 Release Candidate",
+                            "releaseDate" : "2023-03-30",
+                            "fullNumber" : "231.9225.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.9225.5.tar.gz",
+                        "sha256" : "5f857f0cc4e73e37686eae9ce3a9593d8cfaa7b2ec17b31b2edda738f7e43f60"
                     },
                     {
                         "build" : {
@@ -8029,6 +8079,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4 Preview",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9225.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9225.5.tar.gz",
+                        "sha256" : "54e7a7c671def467742e155d8495974fb4df21b37b63e052c193889edde65269"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9161",
                             "version" : "2023.1.3 RC",
                             "releaseDate" : "2023-03-29",
@@ -8699,6 +8759,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.8660.7.tar.gz",
+                        "sha256" : "1df9a84319d5d6a25092ba2197b02a570a868c0e238b9386e1be8e9533d278fb"
+                    },
                     {
                         "build" : {
                             "number" : "232.8453",
