@@ -1711,6 +1711,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9225.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.1.4.tar.gz",
+                        "sha256" : "ac8bd42b6dee2aedcfd05656b7f74969e6775f41c9d6614d3cc4946fbc8c346f"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9161",
                             "version" : "2023.1.3",
                             "releaseDate" : "2023-04-03",
@@ -2301,6 +2311,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9225.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.1.4.tar.gz",
+                        "sha256" : "b5b15e1bbc7d953715a2b3f5eb25b9bb26baa99bdbee2d11acc91339c725f73a"
+                    },
                     {
                         "build" : {
                             "number" : "231.9161",
@@ -3375,6 +3395,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9225.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.1.4.tar.gz",
+                        "sha256" : "9ea98c03b29903f7bde41f6a3c039621fff5d04015f37f9f21e04966d557ea90"
+                    },
                     {
                         "build" : {
                             "number" : "231.9161",
