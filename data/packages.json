@@ -4523,6 +4523,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9225.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2023.1.4.tar.gz",
+                        "sha256" : "7b44d704641c6015ce49e12e82c8866e9fdd8e8d421590235e536b3b1312b180"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9161",
                             "version" : "2023.1.3",
                             "releaseDate" : "2023-04-03",
@@ -5015,6 +5025,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.60"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8660.60.tar.gz",
+                        "sha256" : "ba9196f4d8764d5736d6db799b02ac46aa83b22d359ae42ae6e19ab0c070062a"
+                    },
                     {
                         "build" : {
                             "number" : "232.8453",
