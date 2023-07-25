@@ -5088,132 +5088,12 @@
                     {
                         "build" : {
                             "number" : "232.8660",
-                            "version" : "2023.2 Beta",
+                            "version" : "2023.2 Release Candidate",
                             "releaseDate" : null,
-                            "fullNumber" : "232.8660.60"
+                            "fullNumber" : "232.8660.153"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8660.60.tar.gz",
-                        "sha256" : "ba9196f4d8764d5736d6db799b02ac46aa83b22d359ae42ae6e19ab0c070062a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8453",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8453.129"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8453.129.tar.gz",
-                        "sha256" : "0eb241141cb43e5102bf5301d8ea830de40b79b6fcb24b395557f23a2cd43fe5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8296",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8296.18"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8296.18.tar.gz",
-                        "sha256" : "2c464e593f9043071de188b31aaf537ce496982357754ff4819f2e9a56b09748"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.7754",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.7754.72"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.7754.72.tar.gz",
-                        "sha256" : "f0c242e92e2f6fd5cfe3f3161eec81eb151f7dba41233af18038d60b037a5279"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.7295",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.7295.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.7295.14.tar.gz",
-                        "sha256" : "16aadb4f43bf584d48e1dc62542e1262321895b00131b2ee4fc35cf3279a58c9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.6734",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.6734.11"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.6734.11.tar.gz",
-                        "sha256" : "aff27ba71f26c4623fa8623e41396a826a89d47cfe3708e6afd6d4069c1c75b7"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 Beta 2",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.51"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.51.tar.gz",
-                        "sha256" : "5f79e4a7b58265fe0262bff5d887d4332274ee6ae7ca5786a0bd32062d59e69a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7864",
-                            "version" : "2023.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7864.85"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7864.85.tar.gz",
-                        "sha256" : "5ead1e65100181bcc525d2421e93be86ce28d95df3be97081d338d972b2d3eec"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7665",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7665.36"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7665.36.tar.gz",
-                        "sha256" : "04778534b8200b03e05ad1b1045ec0de9ccb7da0287cb180806f05b21e89fd06"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7515",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7515.16"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7515.16.tar.gz",
-                        "sha256" : "fcfcdb21e5c731e07be4d387b463a8b54a6d6698d6a32c212a5558e944281526"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.6890",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.6890.13"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.6890.13.tar.gz",
-                        "sha256" : "0a0f8d854a57e5bf81b57760cedfbf5606518925a21bbfe72d4f9749a071252f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.6471",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.6471.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.6471.15.tar.gz",
-                        "sha256" : "789495c84b3bea1ce417cb10b6265c8e2d77c21cc74b1364c8c54af36adbcb64"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.5920",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.5920.17"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
-                        "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8660.153.tar.gz",
+                        "sha256" : "afdc0a154c97c1b97232e33d9622f6a075a87ad0210f277e70ae033a86223f85"
                     },
                     {
                         "build" : {
@@ -5354,6 +5234,136 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8214.33.tar.gz",
                         "sha256" : "1ea995099632560be9ae311b94c3eb82cf3078e85842c818817a63b0253b61b1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.60"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8660.60.tar.gz",
+                        "sha256" : "ba9196f4d8764d5736d6db799b02ac46aa83b22d359ae42ae6e19ab0c070062a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8453",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8453.129"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8453.129.tar.gz",
+                        "sha256" : "0eb241141cb43e5102bf5301d8ea830de40b79b6fcb24b395557f23a2cd43fe5"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8296",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8296.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8296.18.tar.gz",
+                        "sha256" : "2c464e593f9043071de188b31aaf537ce496982357754ff4819f2e9a56b09748"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.7754",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7754.72"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.7754.72.tar.gz",
+                        "sha256" : "f0c242e92e2f6fd5cfe3f3161eec81eb151f7dba41233af18038d60b037a5279"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.7295",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7295.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.7295.14.tar.gz",
+                        "sha256" : "16aadb4f43bf584d48e1dc62542e1262321895b00131b2ee4fc35cf3279a58c9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.6734",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.6734.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.6734.11.tar.gz",
+                        "sha256" : "aff27ba71f26c4623fa8623e41396a826a89d47cfe3708e6afd6d4069c1c75b7"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Beta 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.51"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.51.tar.gz",
+                        "sha256" : "5f79e4a7b58265fe0262bff5d887d4332274ee6ae7ca5786a0bd32062d59e69a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7864",
+                            "version" : "2023.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7864.85"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7864.85.tar.gz",
+                        "sha256" : "5ead1e65100181bcc525d2421e93be86ce28d95df3be97081d338d972b2d3eec"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7665",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7665.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7665.36.tar.gz",
+                        "sha256" : "04778534b8200b03e05ad1b1045ec0de9ccb7da0287cb180806f05b21e89fd06"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7515",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7515.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7515.16.tar.gz",
+                        "sha256" : "fcfcdb21e5c731e07be4d387b463a8b54a6d6698d6a32c212a5558e944281526"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.6890",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.6890.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.6890.13.tar.gz",
+                        "sha256" : "0a0f8d854a57e5bf81b57760cedfbf5606518925a21bbfe72d4f9749a071252f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.6471",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.6471.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.6471.15.tar.gz",
+                        "sha256" : "789495c84b3bea1ce417cb10b6265c8e2d77c21cc74b1364c8c54af36adbcb64"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.5920",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.5920.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
+                        "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
                     }
                 ]
             }
@@ -6152,82 +6162,12 @@
                     {
                         "build" : {
                             "number" : "232.8660",
-                            "version" : "2023.2 EAP",
+                            "version" : "2023.2 Release Candidate",
                             "releaseDate" : null,
-                            "fullNumber" : "232.8660.49"
+                            "fullNumber" : "232.8660.146"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.8660.49.tar.gz",
-                        "sha256" : "5d65a06ff253f80ef904da62a0f5cc304b28f0d5619e658d417c987e0107d306"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8296",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8296.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.8296.19.tar.gz",
-                        "sha256" : "7d0da14bcbae9e7e26ecdff102ecf9d01b6efd918b1e73718d3459cd7c13d815"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.7295",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.7295.8"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.7295.8.tar.gz",
-                        "sha256" : "a371138cd1cbf21d7ad1a762896cc6b42b2e5d5211a95ef9dfe6aab28323cbb6"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.6734",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.6734.4"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.6734.4.tar.gz",
-                        "sha256" : "ddcfb2915b8a7aa4f99e9bf13cdad7814d94e6bba7cbffa1584e18a71e2e1e20"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.4"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.8109.4.tar.gz",
-                        "sha256" : "e9ab58e1e69f0c307ee8dcf68b913ef3965b7c0f3ad9358ace0037467e5d6d09"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7864",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7864.77"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.7864.77.tar.gz",
-                        "sha256" : "7c26048937b5b2a7bc9e0b36f7e45bd3db3a546b058360a469c5958bdf0d314f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7515",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7515.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.7515.12.tar.gz",
-                        "sha256" : "88eb1dc2a0f4dd20c644ee2404a3ed4d7a5b09c745486105276b2081559ac7f6"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.6471",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.6471.3"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.6471.3.tar.gz",
-                        "sha256" : "4b385426d41d3eb7fa91eacf3eec7b8c7f80c06aaaa5d30dd25854996c79de58"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.8660.146.tar.gz",
+                        "sha256" : "ced2113ccd104d6860ceae008f479042b20c3dec03f3f4cd46148440d58ad68c"
                     },
                     {
                         "build" : {
@@ -6308,6 +6248,86 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-222.4554.3.tar.gz",
                         "sha256" : "5f670f59b0e81d8f5fe98d45b6028959a24a64dbdeebc13b98a1842b7b8b06c8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.49"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.8660.49.tar.gz",
+                        "sha256" : "5d65a06ff253f80ef904da62a0f5cc304b28f0d5619e658d417c987e0107d306"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8296",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8296.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.8296.19.tar.gz",
+                        "sha256" : "7d0da14bcbae9e7e26ecdff102ecf9d01b6efd918b1e73718d3459cd7c13d815"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.7295",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7295.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.7295.8.tar.gz",
+                        "sha256" : "a371138cd1cbf21d7ad1a762896cc6b42b2e5d5211a95ef9dfe6aab28323cbb6"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.6734",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.6734.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.6734.4.tar.gz",
+                        "sha256" : "ddcfb2915b8a7aa4f99e9bf13cdad7814d94e6bba7cbffa1584e18a71e2e1e20"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.8109.4.tar.gz",
+                        "sha256" : "e9ab58e1e69f0c307ee8dcf68b913ef3965b7c0f3ad9358ace0037467e5d6d09"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7864",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7864.77"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.7864.77.tar.gz",
+                        "sha256" : "7c26048937b5b2a7bc9e0b36f7e45bd3db3a546b058360a469c5958bdf0d314f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7515",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7515.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.7515.12.tar.gz",
+                        "sha256" : "88eb1dc2a0f4dd20c644ee2404a3ed4d7a5b09c745486105276b2081559ac7f6"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.6471",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.6471.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-231.6471.3.tar.gz",
+                        "sha256" : "4b385426d41d3eb7fa91eacf3eec7b8c7f80c06aaaa5d30dd25854996c79de58"
                     }
                 ],
                 "nojbr" : [
@@ -7116,82 +7136,12 @@
                     {
                         "build" : {
                             "number" : "232.8660",
-                            "version" : "2023.2 EAP",
+                            "version" : "2023.2 Release Candidate",
                             "releaseDate" : null,
-                            "fullNumber" : "232.8660.49"
+                            "fullNumber" : "232.8660.146"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.8660.49.tar.gz",
-                        "sha256" : "cbca00b7a9eb582d5a26a2b1071a4965c45e4e5652cde979e5fe327281952a81"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8296",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8296.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.8296.19.tar.gz",
-                        "sha256" : "5eab424c5a6ab2a73e154a8dbfae1ecedbcf305c0f8937df7f4c9a3b76497389"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.7295",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.7295.8"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.7295.8.tar.gz",
-                        "sha256" : "e1db81b07cc72ae79c8e8369666bca0c5530dc5faa456d9e4ef78f47349791b8"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.6734",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.6734.4"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.6734.4.tar.gz",
-                        "sha256" : "215a6268daa31ccfea68caf1fcf86923ce33a82d8d7abdc2434e020efbf79f11"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.4"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.8109.4.tar.gz",
-                        "sha256" : "880f6d866529bef0883de986025d1f40c45a93be377ad758c89385128096598f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7864",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7864.77"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.7864.77.tar.gz",
-                        "sha256" : "66c712ab757bbe68a0b44697f0f9ff6fbc184a3b2bcfccbe727bdca22c46a184"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7515",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7515.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.7515.12.tar.gz",
-                        "sha256" : "7b96bec49e8bdd66092039d32d507cf13a793b7c8798fc8d143ef5c5496386fa"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.6471",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.6471.3"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.6471.3.tar.gz",
-                        "sha256" : "4ec3040381883c3ceef74c5df887c07ad2be0dbfa9954de6235d2141335487bf"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.8660.146.tar.gz",
+                        "sha256" : "016da5fa51c9e653ffd043092ddfea094447ada05c646d1e9d826a07f25db203"
                     },
                     {
                         "build" : {
@@ -7272,6 +7222,86 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-222.4554.3.tar.gz",
                         "sha256" : "9f4ac4c39ac4eb053762d95414cc0f89d0e0a3f2e597cb970382356e7f175b07"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.49"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.8660.49.tar.gz",
+                        "sha256" : "cbca00b7a9eb582d5a26a2b1071a4965c45e4e5652cde979e5fe327281952a81"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8296",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8296.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.8296.19.tar.gz",
+                        "sha256" : "5eab424c5a6ab2a73e154a8dbfae1ecedbcf305c0f8937df7f4c9a3b76497389"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.7295",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7295.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.7295.8.tar.gz",
+                        "sha256" : "e1db81b07cc72ae79c8e8369666bca0c5530dc5faa456d9e4ef78f47349791b8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.6734",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.6734.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.6734.4.tar.gz",
+                        "sha256" : "215a6268daa31ccfea68caf1fcf86923ce33a82d8d7abdc2434e020efbf79f11"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.8109.4.tar.gz",
+                        "sha256" : "880f6d866529bef0883de986025d1f40c45a93be377ad758c89385128096598f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7864",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7864.77"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.7864.77.tar.gz",
+                        "sha256" : "66c712ab757bbe68a0b44697f0f9ff6fbc184a3b2bcfccbe727bdca22c46a184"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7515",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7515.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.7515.12.tar.gz",
+                        "sha256" : "7b96bec49e8bdd66092039d32d507cf13a793b7c8798fc8d143ef5c5496386fa"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.6471",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.6471.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.6471.3.tar.gz",
+                        "sha256" : "4ec3040381883c3ceef74c5df887c07ad2be0dbfa9954de6235d2141335487bf"
                     }
                 ],
                 "nojbr" : [
@@ -8140,6 +8170,16 @@
                     {
                         "build" : {
                             "number" : "232.8660",
+                            "version" : "2023.2 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.143"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-232.8660.143.tar.gz",
+                        "sha256" : "5dae889fbad482b6303ee4d4360dd89035a50c6a93bc918d4b70548e6f4fa52e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
                             "version" : "2023.2 BETA",
                             "releaseDate" : null,
                             "fullNumber" : "232.8660.52"
@@ -8425,6 +8465,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.8660.143"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.2.tar.gz",
+                        "sha256" : "cc97c8ba44560dea41de1c03fd6023a287c3dca6476c297f02a473af124c073f"
+                    },
                     {
                         "build" : {
                             "number" : "231.9225",
