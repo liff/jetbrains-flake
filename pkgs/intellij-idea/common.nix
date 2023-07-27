@@ -143,7 +143,7 @@ stdenv.mkDerivation {
     # Remove binaries that are incompatible with x86_64-linux so that
     # autopatchelf doesn’t get confused.
 
-    rm -r plugins/maven/lib/maven3/lib/jansi-native/{freebsd32,freebsd64,linux32,osx,windows32,windows64}
+    rm -r plugins/maven/lib/maven3/lib/jansi-native/Windows
 
     rm plugins/webp/lib/libwebp/linux/libwebp_jni.so # 32-bit x86
 
