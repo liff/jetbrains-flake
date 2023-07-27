@@ -1,5 +1,5 @@
 #!/usr/bin/env nix-shell
-#!nix-shell --show-trace -i python3 -p "python3.withPackages(p: with p; [ requests python-dotenv nix-prefetch-github ])"
+#!nix-shell --show-trace -i python3 -p nix-prefetch-git "python3.withPackages(p: with p; [ requests python-dotenv nix-prefetch-github ])"
 import json
 import re
 import tarfile
@@ -75,7 +75,7 @@ else:
     prefetched = prefetcher.prefetch_github(
         repository, new_version_info["tag"], PrefetchOptions()
     )
-    new_version_info["hash"] = f"sha256-{prefetched.sha256}"
+    new_version_info["hash"] = prefetched.hash_sum
 
     with open(version_file, "w") as out:
         json.dump(new_version_info, out, indent=4)

@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.8660.186"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.2.tar.gz",
+                        "sha256" : "45671bb8cf7b18bd6da2b519b950f28d315ad49d230494a08785e78219e43819"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9225",
                             "version" : "2023.1.5",
                             "releaseDate" : "2023-03-29",
@@ -2373,6 +2383,26 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.8660.185"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.2.tar.gz",
+                        "sha256" : "d398599557cc732fd1f58f38104d7cda35e326e4cd394245a8358e02fb8878b3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9392",
+                            "version" : "2023.1.5",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9392.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.1.5.tar.gz",
+                        "sha256" : "1a1e0221d65c1ddf73c2666a5d82b33eb5449f99ef91c5b8f5040c361897a690"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9225",
                             "version" : "2023.1.4",
                             "releaseDate" : "2023-03-28",
@@ -3475,6 +3505,26 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.8660.185"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.2.tar.gz",
+                        "sha256" : "b1a5c267ca86850764b0541bee0c27af7d2082e55516e95a0c8d30539571735c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9392",
+                            "version" : "2023.1.5",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9392.1"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.1.5.tar.gz",
+                        "sha256" : "6698e75b8a6628c421c5226b5005781932badb4591ef0a09444eefd7824b9d64"
+                    },
                     {
                         "build" : {
                             "number" : "231.9225",
@@ -5375,6 +5425,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.8660.197"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2023.2.tar.gz",
+                        "sha256" : "95f1666c471a9d752c53ec0b776840552e023f6405a3b000ce6f1014125bfc83"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9225",
                             "version" : "2023.1.4",
                             "releaseDate" : "2023-03-30",
@@ -6347,6 +6407,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.8660.197"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2023.2.tar.gz",
+                        "sha256" : "64472ee39d244fbc2cc8aeade204d02a767c7ce66b2edaa26a8499eeef44f3d7"
+                    },
                     {
                         "build" : {
                             "number" : "231.9225",
@@ -7323,6 +7393,26 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.8660.186"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.2.tar.gz",
+                        "sha256" : "9da529bbc2c65503f1e01c85b745f676140c2263b9541fb1c5bae0d3b9329787"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9392",
+                            "version" : "2023.1.5",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9392.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.1.5.tar.gz",
+                        "sha256" : "32ec11992be5675a059df5528e04df7d1f8d96f1eebb9dd2d0141ae7f7be6d37"
+                    },
                     {
                         "build" : {
                             "number" : "231.9225",
