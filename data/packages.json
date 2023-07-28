@@ -1761,6 +1761,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2",
+                            "releaseDate" : "2023-07-27",
+                            "fullNumber" : "232.8660.185"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.2.tar.gz",
+                        "sha256" : "17f1bbd9a46061fdd013d49a99859c1ca3ece1a3cc51cdcf2b46eae0432f2481"
+                    },
+                    {
+                        "build" : {
                             "number" : "231.9225",
                             "version" : "2023.1.4",
                             "releaseDate" : "2023-04-03",
