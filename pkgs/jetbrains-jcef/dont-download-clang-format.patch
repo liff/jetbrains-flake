@@ -1,8 +1,20 @@
+From 713481126626f8add03a2c65a733e78964d67e85 Mon Sep 17 00:00:00 2001
+From: Olli Helenius <liff@iki.fi>
+Date: Wed, 9 Aug 2023 21:34:16 +0300
+Subject: [PATCH] =?UTF-8?q?Don=E2=80=99t=20download=20clang-format?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ CMakeLists.txt | 37 -------------------------------------
+ 1 file changed, 37 deletions(-)
+
 diff --git a/CMakeLists.txt b/CMakeLists.txt
-index faaa08e..52feeee 100644
+index d087720..c0432d4 100644
 --- a/CMakeLists.txt
 +++ b/CMakeLists.txt
-@@ -250,34 +250,6 @@ endif()
+@@ -282,43 +282,6 @@ endif()
  # make_readme.py script.
  file(COPY "${CEF_ROOT}/README.txt" DESTINATION "${CMAKE_BINARY_DIR}")
  
@@ -10,12 +22,19 @@ index faaa08e..52feeee 100644
 -if(OS_WINDOWS)
 -  set(GS_PLATFORM "win32")
 -  set(GS_HASHPATH "win/clang-format.exe.sha1")
+-  set(GS_OUTPATH "win/clang-format.exe")
 -elseif(OS_MACOSX)
 -  set(GS_PLATFORM "darwin")
--  set(GS_HASHPATH "mac/clang-format.sha1")
+-  if("${CMAKE_HOST_SYSTEM_PROCESSOR}" STREQUAL "arm64")
+-    set(GS_HASHPATH "mac/clang-format.arm64.sha1")
+-  else()
+-    set(GS_HASHPATH "mac/clang-format.x64.sha1")
+-  endif()
+-  set(GS_OUTPATH "mac/clang-format")
 -elseif(OS_LINUX)
 -  set(GS_PLATFORM "linux*")
 -  set(GS_HASHPATH "linux64/clang-format.sha1")
+-  set(GS_OUTPATH "linux64/clang-format")
 -endif()
 -
 -message(STATUS "Downloading clang-format from Google Storage...")
@@ -27,6 +46,7 @@ index faaa08e..52feeee 100644
 -          "--no_auth"
 -          "--bucket" "chromium-clang-format"
 -          "-s" "tools/buildtools/${GS_HASHPATH}"
+-          "-o" "tools/buildtools/${GS_OUTPATH}"
 -  WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
 -  RESULT_VARIABLE EXECUTE_RV
 -  )
@@ -34,6 +54,10 @@ index faaa08e..52feeee 100644
 -  message(FATAL_ERROR "Execution failed with unexpected result: ${EXECUTE_RV}")
 -endif()
 -
- 
+-
  #
  # Include target subdirectories.
+ #
+-- 
+2.41.0
+

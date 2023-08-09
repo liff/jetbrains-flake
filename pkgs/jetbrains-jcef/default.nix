@@ -29,7 +29,7 @@
 
 let
 
-  version = "104.4.26+g4180781+chromium-104.0.5112.102";
+  version = "111.2.1+g870da30+chromium-111.0.5563.64";
 
   cefArchs = {
     "x86_64-linux" = "linux64";
@@ -43,8 +43,8 @@ let
   cefSrcUrl = "https://cef-builds.spotifycdn.com/${builtins.replaceStrings ["+"] ["%2B"] cefFilename}.tar.bz2";
 
   cefSrcHashes = {
-    "linux64" = "sha256-G7FGPtwr48zAYQaB8/rEIOKxEIZmGFF1PMy1Toq6oQk=";
-    "linuxarm64" = "sha256-/f/fqHxQouxr/sNpKF2Bojm3Pv4hdt2aQsKN4zS/CYw=";
+    "linux64" = "sha256-TOZTFqR4ULz8L433N1q+0IEA1/18ZdEXMEBakLQlfWM=";
+    "linuxarm64" = "sha256-3nBqKYMOVf6Lyvu/5UMH2LsI0YmXFnrKvhk/zDcdaUo=";
   };
 
   cefSrcHash = cefSrcHashes."${cefArch}";
@@ -69,13 +69,13 @@ let
 
   extraRpath = lib.makeLibraryPath [ udev pulseaudio pciutils ];
 
-  commitNumber = 541;
+  commitNumber = 673; # git rev-list --count 232
 
   jcefSrc = fetchFromGitHub {
     owner = "JetBrains";
     repo = "jcef";
-    rev = "3aa075e8a0d0b81e841b51dcf3d5b83e43c54127";
-    hash = "sha256-I8zrQds5M7OzOxe2GN4wNJX9C0x97ZiSWQpn/HAAEV4=";
+    rev = "d9dbcc0613c72d35a0bb92ef2d84fd4f833ac9e4"; # branch 232 on 2023-08-09
+    hash = "sha256-MH3Xyemw4QVUbkvY70HxHzIhQsrLGBStJ5VHwePONVg=";
     name = "jcef";
   };
 
