@@ -3199,6 +3199,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 Preview",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9559.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-232.9559.10.tar.gz",
+                        "sha256" : "a20539ef9503775291e5aabf726bc30363a1734931a052b377153a990469a529"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.8660",
                             "version" : "2023.2 Release Candidate",
                             "releaseDate" : null,
@@ -4321,6 +4331,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 Preview",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9559.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-232.9559.10.tar.gz",
+                        "sha256" : "4c64da6b974f12628cff11e60e08a63e95d21c3886b9f72f5abf589b44139c4d"
+                    },
                     {
                         "build" : {
                             "number" : "232.8660",
@@ -9149,6 +9169,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 EAP",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.9559.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.9559.6.tar.gz",
+                        "sha256" : "46e83c6dce467431d028630e1e159b41fd6cdace276f1f2fc71a1c0f3f60b975"
+                    },
                     {
                         "build" : {
                             "number" : "232.8660",
