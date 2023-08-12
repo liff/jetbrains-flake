@@ -6261,6 +6261,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 Release Candidate",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9559.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.9559.11.tar.gz",
+                        "sha256" : "a7a9f0eb329b23955f45f5937bd5e6bca9dcb8dded50b45c4df09704ac56b030"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.8660",
                             "version" : "2023.2 Release Candidate",
                             "releaseDate" : null,
@@ -7243,6 +7253,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 Release Candidate",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9559.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.9559.11.tar.gz",
+                        "sha256" : "36c19543712d4f4b08c39bf8b2d3b7a19624fe7d05548f487642bb9c43585797"
+                    },
                     {
                         "build" : {
                             "number" : "232.8660",
@@ -8299,6 +8319,136 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 Preview",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9559.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-232.9559.5.tar.gz",
+                        "sha256" : "fef4fb83560fd9346b2491e9c4e37e7f846ebb67fc3ee8467bc37b1135485663"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4 Preview",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9225.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9225.5.tar.gz",
+                        "sha256" : "54e7a7c671def467742e155d8495974fb4df21b37b63e052c193889edde65269"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3 RC",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9161.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9161.25.tar.gz",
+                        "sha256" : "5faa4400e242c428e2342cfa029e3c233a9608ce0860670136e645caa29eb2a4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3 Preview",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9161.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9161.6.tar.gz",
+                        "sha256" : "6c42820cabe2e3780d513dea0b9260c569765b24acc21272c9f747adf92773b5"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9011",
+                            "version" : "2023.1.2 RC",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9011.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9011.13.tar.gz",
+                        "sha256" : "84455f85577896177bc561415fc9a770b84973a0cc3354905d21504bff4de7d3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9011",
+                            "version" : "2023.1.2 Preview",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9011.3"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9011.3.tar.gz",
+                        "sha256" : "3b76327d69a6d8f4dcb0d2df0ba3ebb5fdca869f5b0893364a9c86f503dd05fd"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8770",
+                            "version" : "2023.1.1 RC",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.8770.32"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.8770.32.tar.gz",
+                        "sha256" : "637a9906743989d0cf6a2e7d24dcebd4be578b37725b73efa18fbc9bf2a9de40"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8770",
+                            "version" : "2023.1.1 Preview",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.8770.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.8770.5.tar.gz",
+                        "sha256" : "ef0d6595a1b276693763642f1e40986e7cac5cce5bf54475c9b1d6991965c5e9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 RC",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8836.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.8836.25.tar.gz",
+                        "sha256" : "1000c5ab1a5270b44796936f31591fff737bddae4c3b3633bac053e16ff16552"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 RC",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8836.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.8836.15.tar.gz",
+                        "sha256" : "5f97bb8345f4d7da0b8d9aa45e5fdf49d7a209b5bd5c10b3871d07be424e2737"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 Preview",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8836.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.8836.5.tar.gz",
+                        "sha256" : "7d9c55aae83685b15e7f33954adef70dc3b2c3a5bd688594e43147b7f5430703"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2 RC",
+                            "releaseDate" : "2022-11-30",
+                            "fullNumber" : "223.8617.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.8617.25.tar.gz",
+                        "sha256" : "c05cf0b065e6ee03ae6e4e01a6eec50efb1dd03494e66a15192992a59d8915da"
+                    },
+                    {
+                        "build" : {
+                            "number" : "222.4554",
+                            "version" : "2022.2.5 RC",
+                            "releaseDate" : "2022-07-26",
+                            "fullNumber" : "222.4554.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-222.4554.2.tar.gz",
+                        "sha256" : "e12d21ed5e0bb5f8eae475f50587ffb41bd511f20dc7a80e70050d344a44fcd1"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.8660",
                             "version" : "2023.2 RC",
                             "releaseDate" : null,
@@ -8466,126 +8616,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.5920.15.tar.gz",
                         "sha256" : "bd195836501a6af3732634f2c9ee556ce33c4bc557f8de2408187a4f0bb286c8"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9225",
-                            "version" : "2023.1.4 Preview",
-                            "releaseDate" : "2023-03-29",
-                            "fullNumber" : "231.9225.5"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9225.5.tar.gz",
-                        "sha256" : "54e7a7c671def467742e155d8495974fb4df21b37b63e052c193889edde65269"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9161",
-                            "version" : "2023.1.3 RC",
-                            "releaseDate" : "2023-03-29",
-                            "fullNumber" : "231.9161.25"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9161.25.tar.gz",
-                        "sha256" : "5faa4400e242c428e2342cfa029e3c233a9608ce0860670136e645caa29eb2a4"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9161",
-                            "version" : "2023.1.3 Preview",
-                            "releaseDate" : "2023-03-29",
-                            "fullNumber" : "231.9161.6"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9161.6.tar.gz",
-                        "sha256" : "6c42820cabe2e3780d513dea0b9260c569765b24acc21272c9f747adf92773b5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9011",
-                            "version" : "2023.1.2 RC",
-                            "releaseDate" : "2023-03-29",
-                            "fullNumber" : "231.9011.13"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9011.13.tar.gz",
-                        "sha256" : "84455f85577896177bc561415fc9a770b84973a0cc3354905d21504bff4de7d3"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9011",
-                            "version" : "2023.1.2 Preview",
-                            "releaseDate" : "2023-03-29",
-                            "fullNumber" : "231.9011.3"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.9011.3.tar.gz",
-                        "sha256" : "3b76327d69a6d8f4dcb0d2df0ba3ebb5fdca869f5b0893364a9c86f503dd05fd"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8770",
-                            "version" : "2023.1.1 RC",
-                            "releaseDate" : "2023-03-29",
-                            "fullNumber" : "231.8770.32"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.8770.32.tar.gz",
-                        "sha256" : "637a9906743989d0cf6a2e7d24dcebd4be578b37725b73efa18fbc9bf2a9de40"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8770",
-                            "version" : "2023.1.1 Preview",
-                            "releaseDate" : "2023-03-29",
-                            "fullNumber" : "231.8770.5"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.8770.5.tar.gz",
-                        "sha256" : "ef0d6595a1b276693763642f1e40986e7cac5cce5bf54475c9b1d6991965c5e9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 RC",
-                            "releaseDate" : "2022-11-30",
-                            "fullNumber" : "223.8836.25"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.8836.25.tar.gz",
-                        "sha256" : "1000c5ab1a5270b44796936f31591fff737bddae4c3b3633bac053e16ff16552"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 RC",
-                            "releaseDate" : "2022-11-30",
-                            "fullNumber" : "223.8836.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.8836.15.tar.gz",
-                        "sha256" : "5f97bb8345f4d7da0b8d9aa45e5fdf49d7a209b5bd5c10b3871d07be424e2737"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 Preview",
-                            "releaseDate" : "2022-11-30",
-                            "fullNumber" : "223.8836.5"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.8836.5.tar.gz",
-                        "sha256" : "7d9c55aae83685b15e7f33954adef70dc3b2c3a5bd688594e43147b7f5430703"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8617",
-                            "version" : "2022.3.2 RC",
-                            "releaseDate" : "2022-11-30",
-                            "fullNumber" : "223.8617.25"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-223.8617.25.tar.gz",
-                        "sha256" : "c05cf0b065e6ee03ae6e4e01a6eec50efb1dd03494e66a15192992a59d8915da"
-                    },
-                    {
-                        "build" : {
-                            "number" : "222.4554",
-                            "version" : "2022.2.5 RC",
-                            "releaseDate" : "2022-07-26",
-                            "fullNumber" : "222.4554.2"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-222.4554.2.tar.gz",
-                        "sha256" : "e12d21ed5e0bb5f8eae475f50587ffb41bd511f20dc7a80e70050d344a44fcd1"
                     }
                 ]
             }
@@ -9172,7 +9202,7 @@
                     {
                         "build" : {
                             "number" : "232.9559",
-                            "version" : "2023.2.1 EAP",
+                            "version" : "2023.2.1 Preview",
                             "releaseDate" : "2023-07-24",
                             "fullNumber" : "232.9559.6"
                         },
