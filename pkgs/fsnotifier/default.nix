@@ -1,4 +1,5 @@
-{ stdenv
+{ lib
+, stdenv
 , fetchFromGitHub
 , bash }:
 
@@ -31,4 +32,13 @@ in stdenv.mkDerivation {
     mkdir -p $out/bin
     cp native/fsNotifier/linux/fsnotifier $out/bin
   '';
+
+  meta = with lib; {
+    description = "IntelliJ Platform companion program for watching and reporting file and directory structure modifications.";
+    homepage = "https://github.com/JetBrains/intellij-community";
+    license = licenses.asl20;
+    maintainers = with maintainers; [ liff ];
+    platforms = [ "x86_64-linux" "aarch64-linux" "aarch64-darwin" ];
+    mainProgram = "fsnotifier";
+  };
 }

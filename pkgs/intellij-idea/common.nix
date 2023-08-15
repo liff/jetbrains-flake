@@ -182,5 +182,6 @@ stdenv.mkDerivation {
     maintainers = with maintainers; [ liff ];
     license = chooseLicense lib.licenses;
     platforms = [ "x86_64-linux" "aarch64-linux" ];
+    mainProgram = pname;
   };
 }

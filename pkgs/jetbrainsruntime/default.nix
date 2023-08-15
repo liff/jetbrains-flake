@@ -136,6 +136,7 @@ openjdk17.overrideAttrs (oldAttrs: {
     license = licenses.gpl2;
     maintainers = with maintainers; [ liff ];
     platforms = jetbrains-jcef.meta.platforms;
+    mainProgram = "java";
   };
 
   passthru = oldAttrs.passthru // {
