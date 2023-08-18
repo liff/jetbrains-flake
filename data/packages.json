@@ -967,6 +967,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1",
+                            "releaseDate" : "2023-07-20",
+                            "fullNumber" : "232.9559.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2023.2.1.tar.gz",
+                        "sha256" : "0b20f0dc61d8fd9b42962d4931c64742dd17e3f008dfec2c8863a56b1bc4be9b"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.8660",
                             "version" : "2023.2",
                             "releaseDate" : "2023-07-20",
@@ -3200,6 +3210,16 @@
                     {
                         "build" : {
                             "number" : "232.9559",
+                            "version" : "2023.2.1 Release Candidate",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9559.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-232.9559.34.tar.gz",
+                        "sha256" : "63199522a0fedddc7aa00fd79491f171410569309784c337a86d9533583b969c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.9559",
                             "version" : "2023.2.1 Preview",
                             "releaseDate" : "2023-07-26",
                             "fullNumber" : "232.9559.10"
@@ -3396,26 +3416,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-232.7295.16.tar.gz",
                         "sha256" : "d0c2dabfcd6bfb92da8ce638f8339ab2f4b8f043b0dc07d1124f4f68b23d360c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.6734",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.6734.9"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-232.6734.9.tar.gz",
-                        "sha256" : "43bf9e84b683d160f86f8cbbf311eef7bf25d179439cef6fb6f5f5e92f766ad3"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.6095",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.6095.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-232.6095.10.tar.gz",
-                        "sha256" : "02f0134bfb500570f94c0c1422dae5228b83356b5c77e9649a22c7694e071b6e"
                     },
                     {
                         "build" : {
@@ -4334,6 +4334,16 @@
                     {
                         "build" : {
                             "number" : "232.9559",
+                            "version" : "2023.2.1 Release Candidate",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9559.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-232.9559.34.tar.gz",
+                        "sha256" : "50fb50a7a8e681193550003aaf571a62562af0240b7cfb91ff805016146cb1cb"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.9559",
                             "version" : "2023.2.1 Preview",
                             "releaseDate" : "2023-07-26",
                             "fullNumber" : "232.9559.10"
@@ -4530,26 +4540,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-232.7295.16.tar.gz",
                         "sha256" : "c51e662be6e776bb69b0548a775e3de68e0c289a13488e0e6de7c1fc9a6e2367"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.6734",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.6734.9"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-232.6734.9.tar.gz",
-                        "sha256" : "1782b65bbeae4c163d76ad60d6a94cd3f8619e25cbd2d98f00aa0ecabff4c79c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.6095",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.6095.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-232.6095.10.tar.gz",
-                        "sha256" : "98909fe4fe0d3aa2d2b0331150620de410570484122ad95655544486713b21b9"
                     },
                     {
                         "build" : {
@@ -9209,6 +9199,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 Release Candidate",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.9559.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.9559.31.tar.gz",
+                        "sha256" : "00111ce0601a49d635ff2035d6d9a35baad8f8b4c34a512510903321655d5424"
+                    },
                     {
                         "build" : {
                             "number" : "232.9559",
