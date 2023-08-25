@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9559.58"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.2.1.tar.gz",
+                        "sha256" : "3dad580f2d4b40815c64da602e37d874bef03bdf50bd70ce63efb4005006cf19"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.8660",
                             "version" : "2023.2",
                             "releaseDate" : "2023-07-26",
@@ -5495,6 +5505,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9559.58"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2023.2.1.tar.gz",
+                        "sha256" : "8f7c0aca8f2a832164426393e55d543b3b56867f2497d8844547fb03e217f160"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.8660",
                             "version" : "2023.2",
                             "releaseDate" : "2023-07-26",
@@ -6487,6 +6507,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9559.58"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2023.2.1.tar.gz",
+                        "sha256" : "5956c6cb5a5bad1d9749e487b3bb69fcbf0170f52324e4ff009283b723838778"
+                    },
                     {
                         "build" : {
                             "number" : "232.8660",
@@ -8665,6 +8695,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.9559.58"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.2.1.tar.gz",
+                        "sha256" : "0487d1e80b3d538c968ab6437d950a504166b0c266346d52969bfb828820a642"
+                    },
                     {
                         "build" : {
                             "number" : "232.8660",
