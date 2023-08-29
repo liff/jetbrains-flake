@@ -1781,6 +1781,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1",
+                            "releaseDate" : "2023-07-27",
+                            "fullNumber" : "232.9559.64"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.2.1.tar.gz",
+                        "sha256" : "7d5c83cb43286d57b045d1d837185633be13673a5e0e443773778e0d4936647a"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.8660",
                             "version" : "2023.2",
                             "releaseDate" : "2023-07-27",
@@ -4681,6 +4691,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1",
+                            "releaseDate" : "2023-08-03",
+                            "fullNumber" : "232.9559.64"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2023.2.1.tar.gz",
+                        "sha256" : "bcb506fa27078f78da44a38f4fbab0a2000cea26385f51800c931d0cbd1b47c4"
+                    },
                     {
                         "build" : {
                             "number" : "232.8660",
