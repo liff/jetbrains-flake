@@ -5237,6 +5237,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9921",
+                            "version" : "2023.2.2 RC",
+                            "releaseDate" : "2023-08-03",
+                            "fullNumber" : "232.9921.29"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.9921.29.tar.gz",
+                        "sha256" : "1a8e47bc49d07241ac7faf7adaebb91e3ff1b8a8e0882f014659bb2e35e8af00"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.9559",
                             "version" : "2023.2.1 RC",
                             "releaseDate" : "2023-08-03",
@@ -6351,6 +6361,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9921",
+                            "version" : "2023.2.2 Release Candidate",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9921.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-232.9921.36.tar.gz",
+                        "sha256" : "558eadd59974e5d2049e0d52668da47dfcb045c3be95344625772ea985f9e214"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.9559",
                             "version" : "2023.2.1 Release Candidate",
                             "releaseDate" : "2023-07-26",
@@ -7353,6 +7373,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.9921",
+                            "version" : "2023.2.2 Release Candidate",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9921.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-232.9921.36.tar.gz",
+                        "sha256" : "a932df31cb1cc6bef94764ee204c717ccb2470a8fd67709f36e6b725c91411f2"
+                    },
                     {
                         "build" : {
                             "number" : "232.9559",
