@@ -8837,6 +8837,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9921",
+                            "version" : "2023.2.2",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.9921.42"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.2.2.tar.gz",
+                        "sha256" : "10c1203620258bf4b0c952d809f50ea954f80d1ed60098917a4c64fb2718b931"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.9559",
                             "version" : "2023.2.1",
                             "releaseDate" : "2023-07-24",
