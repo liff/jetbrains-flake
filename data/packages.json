@@ -2275,33 +2275,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "232.8660",
-                            "version" : "2023.2 Release Candidate",
+                            "number" : "233.6745",
+                            "version" : "2023.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "232.8660.149"
+                            "fullNumber" : "233.6745.304"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-232.8660.149.tar.gz",
-                        "sha256" : "3c93e36d6ed2daf256865543279a91458fd65ff46db65d125f96ec6f842e057e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 Release Candidate 2",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.172"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-231.8109.172.tar.gz",
-                        "sha256" : "5c3d388e9885f2a7fdc58ca43b7c772815e4779e9414cf86d972bc3d3875a8c2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.147"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-231.8109.147.tar.gz",
-                        "sha256" : "74ecce6abde168203eb90e39607a63db2864532ee82b3130ad58314e3d441d0f"
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-233.6745.304.tar.gz",
+                        "sha256" : "b2f84da3a5ac333a22d5af64cb0a2685a0e3dcbc02be52b724dbe4b5b53bd295"
                     },
                     {
                         "build" : {
@@ -2442,6 +2422,36 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-231.5920.13.tar.gz",
                         "sha256" : "419ec217d358da75b77d48c0142b9a85e07388ac696c66675cab5fcac6d1f6d3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.149"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-232.8660.149.tar.gz",
+                        "sha256" : "3c93e36d6ed2daf256865543279a91458fd65ff46db65d125f96ec6f842e057e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.172"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-231.8109.172.tar.gz",
+                        "sha256" : "5c3d388e9885f2a7fdc58ca43b7c772815e4779e9414cf86d972bc3d3875a8c2"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.147"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-231.8109.147.tar.gz",
+                        "sha256" : "74ecce6abde168203eb90e39607a63db2864532ee82b3130ad58314e3d441d0f"
                     }
                 ]
             }
