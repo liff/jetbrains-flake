@@ -5327,6 +5327,146 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.8264",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.8264.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.8264.9.tar.gz",
+                        "sha256" : "79cda16cd1f72e92da60a103f2ddfa158e03e2d8bf7b59cb92f0865e96f3aa37"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.60"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8660.60.tar.gz",
+                        "sha256" : "ba9196f4d8764d5736d6db799b02ac46aa83b22d359ae42ae6e19ab0c070062a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8453",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8453.129"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8453.129.tar.gz",
+                        "sha256" : "0eb241141cb43e5102bf5301d8ea830de40b79b6fcb24b395557f23a2cd43fe5"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8296",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8296.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8296.18.tar.gz",
+                        "sha256" : "2c464e593f9043071de188b31aaf537ce496982357754ff4819f2e9a56b09748"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.7754",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7754.72"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.7754.72.tar.gz",
+                        "sha256" : "f0c242e92e2f6fd5cfe3f3161eec81eb151f7dba41233af18038d60b037a5279"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.7295",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.7295.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.7295.14.tar.gz",
+                        "sha256" : "16aadb4f43bf584d48e1dc62542e1262321895b00131b2ee4fc35cf3279a58c9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.6734",
+                            "version" : "2023.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.6734.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.6734.11.tar.gz",
+                        "sha256" : "aff27ba71f26c4623fa8623e41396a826a89d47cfe3708e6afd6d4069c1c75b7"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Beta 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.51"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.51.tar.gz",
+                        "sha256" : "5f79e4a7b58265fe0262bff5d887d4332274ee6ae7ca5786a0bd32062d59e69a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7864",
+                            "version" : "2023.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7864.85"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7864.85.tar.gz",
+                        "sha256" : "5ead1e65100181bcc525d2421e93be86ce28d95df3be97081d338d972b2d3eec"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7665",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7665.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7665.36.tar.gz",
+                        "sha256" : "04778534b8200b03e05ad1b1045ec0de9ccb7da0287cb180806f05b21e89fd06"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7515",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7515.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7515.16.tar.gz",
+                        "sha256" : "fcfcdb21e5c731e07be4d387b463a8b54a6d6698d6a32c212a5558e944281526"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.6890",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.6890.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.6890.13.tar.gz",
+                        "sha256" : "0a0f8d854a57e5bf81b57760cedfbf5606518925a21bbfe72d4f9749a071252f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.6471",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.6471.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.6471.15.tar.gz",
+                        "sha256" : "789495c84b3bea1ce417cb10b6265c8e2d77c21cc74b1364c8c54af36adbcb64"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.5920",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.5920.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
+                        "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.9921",
                             "version" : "2023.2.2 RC",
                             "releaseDate" : "2023-08-03",
@@ -5504,136 +5644,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8214.33.tar.gz",
                         "sha256" : "1ea995099632560be9ae311b94c3eb82cf3078e85842c818817a63b0253b61b1"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8660",
-                            "version" : "2023.2 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8660.60"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8660.60.tar.gz",
-                        "sha256" : "ba9196f4d8764d5736d6db799b02ac46aa83b22d359ae42ae6e19ab0c070062a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8453",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8453.129"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8453.129.tar.gz",
-                        "sha256" : "0eb241141cb43e5102bf5301d8ea830de40b79b6fcb24b395557f23a2cd43fe5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8296",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8296.18"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8296.18.tar.gz",
-                        "sha256" : "2c464e593f9043071de188b31aaf537ce496982357754ff4819f2e9a56b09748"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.7754",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.7754.72"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.7754.72.tar.gz",
-                        "sha256" : "f0c242e92e2f6fd5cfe3f3161eec81eb151f7dba41233af18038d60b037a5279"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.7295",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.7295.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.7295.14.tar.gz",
-                        "sha256" : "16aadb4f43bf584d48e1dc62542e1262321895b00131b2ee4fc35cf3279a58c9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.6734",
-                            "version" : "2023.2 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.6734.11"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.6734.11.tar.gz",
-                        "sha256" : "aff27ba71f26c4623fa8623e41396a826a89d47cfe3708e6afd6d4069c1c75b7"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 Beta 2",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.51"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.51.tar.gz",
-                        "sha256" : "5f79e4a7b58265fe0262bff5d887d4332274ee6ae7ca5786a0bd32062d59e69a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7864",
-                            "version" : "2023.1 Beta",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7864.85"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7864.85.tar.gz",
-                        "sha256" : "5ead1e65100181bcc525d2421e93be86ce28d95df3be97081d338d972b2d3eec"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7665",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7665.36"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7665.36.tar.gz",
-                        "sha256" : "04778534b8200b03e05ad1b1045ec0de9ccb7da0287cb180806f05b21e89fd06"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7515",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7515.16"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.7515.16.tar.gz",
-                        "sha256" : "fcfcdb21e5c731e07be4d387b463a8b54a6d6698d6a32c212a5558e944281526"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.6890",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.6890.13"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.6890.13.tar.gz",
-                        "sha256" : "0a0f8d854a57e5bf81b57760cedfbf5606518925a21bbfe72d4f9749a071252f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.6471",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.6471.15"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.6471.15.tar.gz",
-                        "sha256" : "789495c84b3bea1ce417cb10b6265c8e2d77c21cc74b1364c8c54af36adbcb64"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.5920",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.5920.17"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
-                        "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
                     }
                 ]
             }
