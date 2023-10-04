@@ -5655,6 +5655,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.9921",
+                            "version" : "2023.2.2",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9921.89"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2023.2.2.tar.gz",
+                        "sha256" : "f7263b17e2456efcb5efab1eac53aafb6a0be1a7f9fbf25a419c9d7b447f6ded"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.9559",
                             "version" : "2023.2.1",
                             "releaseDate" : "2023-07-26",
@@ -6677,6 +6687,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.9921",
+                            "version" : "2023.2.2",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.9921.89"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2023.2.2.tar.gz",
+                        "sha256" : "2bb4f73d041b818a7b631feb3fee77036de764543c669efe9cf6766510a68e3f"
+                    },
                     {
                         "build" : {
                             "number" : "232.9559",
