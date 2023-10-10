@@ -5367,13 +5367,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "233.8264",
+                            "number" : "233.9102",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "233.8264.9"
+                            "fullNumber" : "233.9102.195"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.8264.9.tar.gz",
-                        "sha256" : "79cda16cd1f72e92da60a103f2ddfa158e03e2d8bf7b59cb92f0865e96f3aa37"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.9102.195.tar.gz",
+                        "sha256" : "56d51315810f89b4850b7772eff322e808b6c4769be2eb03dae021f9bc278584"
                     },
                     {
                         "build" : {
@@ -7783,6 +7783,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.10072",
+                            "version" : "2023.2.3",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10072.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.2.3.tar.gz",
+                        "sha256" : "068b8c486cd61755787538ea036608a9aa590a3b49cd9003dd5edce28d322c02"
+                    },
                     {
                         "build" : {
                             "number" : "232.9921",
