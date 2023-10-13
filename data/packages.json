@@ -1831,6 +1831,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.10072",
+                            "version" : "2023.2.3",
+                            "releaseDate" : "2023-07-27",
+                            "fullNumber" : "232.10072.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.2.3.tar.gz",
+                        "sha256" : "b34fd9a42d82bcc61052f72ed75f6c1e1d7e37163de38933ee0f124ef6e6bb60"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.9921",
                             "version" : "2023.2.2",
                             "releaseDate" : "2023-07-27",
@@ -9075,6 +9085,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.10072",
+                            "version" : "2023.2.3",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.10072.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.2.3.tar.gz",
+                        "sha256" : "b57f4a71361a224aeb0e80f2f311f632ab1757356a2de3627ade3e9dd4ee0899"
+                    },
                     {
                         "build" : {
                             "number" : "232.9921",
