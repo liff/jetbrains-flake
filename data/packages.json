@@ -3339,6 +3339,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.9802",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.9802.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-233.9802.14.tar.gz",
+                        "sha256" : "07863e26512a7f4d0c699bf9f5c9002d9749cfac7d8bcc829c1d98b76fc02bb1"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.9102",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -4521,6 +4531,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.9802",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.9802.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-233.9802.14.tar.gz",
+                        "sha256" : "a91eec5a0dc3b01285a635db8af9df7a2057923d3af2c43a2206f1b20ebc65bd"
+                    },
                     {
                         "build" : {
                             "number" : "233.9102",
@@ -8739,6 +8759,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.9802",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.9802.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-233.9802.6.tar.gz",
+                        "sha256" : "2381b86478cd8149ff9ad513bf154100d5b11c9a8920a8a7ee39b6e7bfe6a939"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.9102",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -9689,6 +9719,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.9802",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.9802.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.9802.11.tar.gz",
+                        "sha256" : "2bd22f523e11f56b4c16536347c5a5c6c415ed6cc7f768a6bebbe81f8751e216"
+                    },
                     {
                         "build" : {
                             "number" : "233.9102",
