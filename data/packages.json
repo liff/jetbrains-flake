@@ -2315,6 +2315,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.9802",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.9802.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-233.9802.16.tar.gz",
+                        "sha256" : "d928d46177ad44fbf4556ae6c58785c1873c1b32255c553972bccd22a5712e6e"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.9102",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -4893,6 +4903,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.10072",
+                            "version" : "2023.2.3",
+                            "releaseDate" : "2023-08-03",
+                            "fullNumber" : "232.10072.32"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2023.2.3.tar.gz",
+                        "sha256" : "dd8d771508b277ab2a713b8f546c2ec6dbb261ba8c23072e46ec6ce2ea9ab2a0"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.9921",
                             "version" : "2023.2.2",
                             "releaseDate" : "2023-08-03",
@@ -5425,6 +5445,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.9802",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.9802.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.9802.11.tar.gz",
+                        "sha256" : "fac03b1a2cc34cabbe96840eccbefb3ac80ca29a33e119778e16c2a5943582a6"
+                    },
                     {
                         "build" : {
                             "number" : "233.9102",
