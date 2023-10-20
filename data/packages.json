@@ -829,6 +829,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.10527",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.10527.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-233.10527.7.tar.gz",
+                        "sha256" : "4d18c18f4f8de9a080342239e0cbbcb0a8f9c785def46260616f30c76d68679a"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.9802",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -1773,13 +1783,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "233.9102",
+                            "number" : "233.10527",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "233.9102.70"
+                            "fullNumber" : "233.10527.14"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-233.9102.70.tar.gz",
-                        "sha256" : "8e8ebe38c825a4e11a18a07ea5867a4e96468fadba121a9e8a34422ccfdb99f8"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-233.10527.14.tar.gz",
+                        "sha256" : "f2615f67bcc26101858c859739dffbde908cee375e46ac2ce0c416c87572f017"
                     },
                     {
                         "build" : {
