@@ -1851,6 +1851,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.10203",
+                            "version" : "2023.2.4",
+                            "releaseDate" : "2023-07-27",
+                            "fullNumber" : "232.10203.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.2.4.tar.gz",
+                        "sha256" : "364b12fa2e68c3156874511010065da46082d9dd1c1767a05960e29129dc8ba0"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.10072",
                             "version" : "2023.2.3",
                             "releaseDate" : "2023-07-27",
@@ -3389,6 +3399,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.11361",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11361.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-233.11361.10.tar.gz",
+                        "sha256" : "d4efe9d6f515a47ae0201bcae35c58fb3571df3af345f2168c4755975135c96e"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.10527",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -4601,6 +4621,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11361",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11361.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-233.11361.10.tar.gz",
+                        "sha256" : "619eb99317cbcc7840631861a6d7402dfc502a809874e090924896875fdd61de"
+                    },
                     {
                         "build" : {
                             "number" : "233.10527",
@@ -7993,6 +8023,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.10203",
+                            "version" : "2023.2.4",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10203.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.2.4.tar.gz",
+                        "sha256" : "c03bb85558b57e10e018525ecf7afcbb1079aea8f406d187d6646c85de6d20be"
+                    },
                     {
                         "build" : {
                             "number" : "232.10072",
