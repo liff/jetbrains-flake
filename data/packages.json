@@ -829,6 +829,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.11361",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11361.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-233.11361.11.tar.gz",
+                        "sha256" : "a1c238c1875ee69565d29f8148a9e5951c58430981656169298ffc10b2e79a95"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.10527",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -2343,6 +2353,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11361",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11361.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-233.11361.11.tar.gz",
+                        "sha256" : "0d6316a5351e0d770d868b2637ab7df1a61bb4632be199c1b4de6d7bfd6f6f09"
+                    },
                     {
                         "build" : {
                             "number" : "233.10527",
@@ -6721,6 +6741,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.11361",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11361.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-233.11361.11.tar.gz",
+                        "sha256" : "1e780c7c010a3d28d100eda000f3c5ad7ca540c9579d11a791a064320f30d147"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.9802",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -7783,6 +7813,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11361",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11361.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-233.11361.11.tar.gz",
+                        "sha256" : "1a859e2e377ecd9fa276865142d31809690a869305dd9c7d9685108ab5bf67ae"
+                    },
                     {
                         "build" : {
                             "number" : "233.9802",
