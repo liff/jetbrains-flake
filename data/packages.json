@@ -829,6 +829,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.11555",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11555.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-233.11555.2.tar.gz",
+                        "sha256" : "f8598a934bf90b2e4e8303508cf2632a73be097f51ac8ed2fafebdda57c64107"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11361",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -3419,6 +3429,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.11555",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11555.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-233.11555.11.tar.gz",
+                        "sha256" : "8dfc804951f38a6c4cd176899d26411151080a43fb19fa8c11175d9d1b4e5255"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11361",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -4641,6 +4661,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11555",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11555.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-233.11555.11.tar.gz",
+                        "sha256" : "c587cf0b3170157e2cd759e363cf28664d390f6038b1a526a74019032c0a1632"
+                    },
                     {
                         "build" : {
                             "number" : "233.11361",
@@ -6751,6 +6781,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.11555",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11555.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-233.11555.5.tar.gz",
+                        "sha256" : "81cca35ff0ec71b4f48426829013f962486e956d3546d4f3cb53320939a7bb82"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11361",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -7823,6 +7863,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11555",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11555.5"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-233.11555.5.tar.gz",
+                        "sha256" : "3135d2df46d65b8bb7075d0a11d3fc8201000267b59e893f9b51d3ace9187f8d"
+                    },
                     {
                         "build" : {
                             "number" : "233.11361",
