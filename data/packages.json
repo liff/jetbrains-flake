@@ -2593,6 +2593,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.10227",
+                            "version" : "2023.2.5",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10227.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.2.5.tar.gz",
+                        "sha256" : "1fcffaa924f60d2d74a2494ee3a69e904ae0e91b491ad373639fab61f2568624"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.10203",
                             "version" : "2023.2.4",
                             "releaseDate" : "2023-07-26",
@@ -3439,6 +3449,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-233.11799.6.tar.gz",
+                        "sha256" : "ad2400368270ac1755c4f67f2f8a8b99bbbeab3d4a81af7d4a95f4a2b801a0c6"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11555",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -3825,6 +3845,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.10227",
+                            "version" : "2023.2.5",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10227.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.2.5.tar.gz",
+                        "sha256" : "4fc5817f8bfd86bdb3af924d3ca32e349517710ac5f986ae20f765f79285e00b"
+                    },
                     {
                         "build" : {
                             "number" : "232.10203",
@@ -4671,6 +4701,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-233.11799.6.tar.gz",
+                        "sha256" : "4c85f2416c73b52c33490aa76556beeade081eefed6e6cac08d48603c116e352"
+                    },
                     {
                         "build" : {
                             "number" : "233.11555",
@@ -8165,6 +8205,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "232.10227",
+                            "version" : "2023.2.5",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10227.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.2.5.tar.gz",
+                        "sha256" : "121c18c56935d6b442d0dd8e0d609cacde2f0efd8e1079612ce6e87d515d9203"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.10203",
                             "version" : "2023.2.4",
                             "releaseDate" : "2023-07-26",
@@ -9067,6 +9117,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-233.11799.7.tar.gz",
+                        "sha256" : "0aba413270db7849a70b00bbc384aa3956572a602d030e848eef26eaf15ed7dd"
+                    },
                     {
                         "build" : {
                             "number" : "233.11555",
