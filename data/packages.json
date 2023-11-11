@@ -1813,13 +1813,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "233.11555",
+                            "number" : "233.11799",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "233.11555.17"
+                            "fullNumber" : "233.11799.10"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-233.11555.17.tar.gz",
-                        "sha256" : "f0463d9ac2c48d00fdac4113aa2561a95e6ca57cdcfebc6465944532f40aa5bf"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-233.11799.10.tar.gz",
+                        "sha256" : "45e7af91c4b56cad2fe76fff6368f7549f6a7a279afe64a0fb2ee78f976893e9"
                     },
                     {
                         "build" : {
@@ -10119,6 +10119,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.11799.11.tar.gz",
+                        "sha256" : "5444c75e4eef84046cea913df0596d49e1c00b10c5635cb06b370f0da0f3b138"
+                    },
                     {
                         "build" : {
                             "number" : "233.11555",
