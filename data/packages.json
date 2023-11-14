@@ -5657,6 +5657,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.11799.21.tar.gz",
+                        "sha256" : "506da131739dab5fe1b8714ede9ee752ad7129c152b0d3398ca3871ff3b75ddd"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11555",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -9515,6 +9525,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "232.10227",
+                            "version" : "2023.2.5",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.10227.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.2.5.tar.gz",
+                        "sha256" : "1ca1dbaac68b053752bf43479e522ae1c22be2ec28deb8903fc05ca915416f15"
+                    },
                     {
                         "build" : {
                             "number" : "232.10203",
