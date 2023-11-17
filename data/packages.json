@@ -2376,6 +2376,16 @@
                     {
                         "build" : {
                             "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-233.11799.38.tar.gz",
+                        "sha256" : "9b1dfa050f1c3d15eed871671d00e76b6348e154aea918f093e0de0d15aaa851"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
                             "fullNumber" : "233.11799.10"
@@ -10229,6 +10239,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.11799.31.tar.gz",
+                        "sha256" : "3be5d98835a9af4cd028edc0e92d35faab08634077721a569ff2451ec18fb889"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
