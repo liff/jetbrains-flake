@@ -829,6 +829,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.37"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-233.11799.37.tar.gz",
+                        "sha256" : "a2d78f77a9f95a2ed7aefda1cd537e2239c3c2ad9fd71561a91b4b55f025d294"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11555",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
@@ -6924,6 +6934,16 @@
                             "number" : "233.11799",
                             "version" : "2023.3 EAP",
                             "releaseDate" : null,
+                            "fullNumber" : "233.11799.32"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-233.11799.32.tar.gz",
+                        "sha256" : "8b334f1adeeacac070783603db962ae7347e84a15373b3038b78d0fb10d90a1c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
                             "fullNumber" : "233.11799.20"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-233.11799.20.tar.gz",
@@ -8033,6 +8053,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.32"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-233.11799.32.tar.gz",
+                        "sha256" : "5585aa82b8c925046cb895cb8970b9c0150d7aee507c5eb675f215f1a27d78f9"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
