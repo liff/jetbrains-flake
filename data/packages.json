@@ -5720,6 +5720,16 @@
                             "number" : "233.11799",
                             "version" : "2023.3 Beta",
                             "releaseDate" : null,
+                            "fullNumber" : "233.11799.55"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.11799.55.tar.gz",
+                        "sha256" : "a71e2daafc6286c0a5bf1415c033e0a87a97d7752514abded0d983856aec903c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
                             "fullNumber" : "233.11799.21"
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.11799.21.tar.gz",
