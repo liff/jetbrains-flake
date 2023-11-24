@@ -2388,6 +2388,16 @@
                             "number" : "233.11799",
                             "version" : "2023.3 Beta",
                             "releaseDate" : null,
+                            "fullNumber" : "233.11799.68"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-233.11799.68.tar.gz",
+                        "sha256" : "6fcbf76271bc4efba5cf2dc0be72294a8a4fb05e2fefd21065d88dd95b1cd06f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
                             "fullNumber" : "233.11799.38"
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-233.11799.38.tar.gz",
@@ -3487,6 +3497,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.67"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-233.11799.67.tar.gz",
+                        "sha256" : "374153baecd8a633fef3fe75fb5fe47e57f3d136e9873f7bd7ce1166f942559e"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
@@ -4751,6 +4771,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.67"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-233.11799.67.tar.gz",
+                        "sha256" : "6b5c232738a094cce4991b6ef0055ae02b3a2151ade3e9316f22fe4bf7e1fd5b"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
@@ -9272,6 +9302,16 @@
                             "number" : "233.11799",
                             "version" : "2023.3 BETA",
                             "releaseDate" : null,
+                            "fullNumber" : "233.11799.62"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-233.11799.62.tar.gz",
+                        "sha256" : "31db54b5c385ad8b1e4a21a518d9a61e02ed5d92420ec0dfad6a568efbe5a423"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 BETA",
+                            "releaseDate" : null,
                             "fullNumber" : "233.11799.28"
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-233.11799.28.tar.gz",
@@ -10289,6 +10329,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.95"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.11799.95.tar.gz",
+                        "sha256" : "dfe495759c4fe04461e4c05405d2d786efda47268716d494e58856381cdcf300"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
