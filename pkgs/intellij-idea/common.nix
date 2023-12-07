@@ -151,16 +151,6 @@ stdenv.mkDerivation {
     ${optionalString isAarch64 "rm -r plugins/cwm-plugin/quiche-native/linux-x86-64"}
     ${optionalString isx86_64 "rm -r plugins/cwm-plugin/quiche-native/linux-aarch64"}
 
-    rm -r plugins/android/resources/native/{mac,mac_arm,win}
-
-    # Remove Windows, macOS and musl alternatives
-    if test -d plugins/tailwindcss; then
-      rm -f plugins/tailwindcss/server/fsevents* # macOS
-      rm -f plugins/tailwindcss/server/node.napi.musl-*.node
-      file -i ./plugins/tailwindcss/server/node.napi.* \
-        | grep -v application/x-sharedlib | cut -f1 -d: | xargs -r rm
-    fi
-
     ${optionalString hasRemoteDev addRemoteDevServer}
 
     # Install
