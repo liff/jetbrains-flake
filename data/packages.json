@@ -6,6 +6,16 @@
                     {
                         "build" : {
                             "number" : "233.11799",
+                            "version" : "2023.3.1",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.11799.287"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.3.1.tar.gz",
+                        "sha256" : "3cde2fc25c759d4e114c5a768547e1d3083710e0fbe2591084a4ad4934490fc9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
                             "version" : "2023.3",
                             "releaseDate" : "2023-12-06",
                             "fullNumber" : "233.11799.238"
@@ -1068,6 +1078,16 @@
                     {
                         "build" : {
                             "number" : "233.11799",
+                            "version" : "2023.3.1",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.11799.296"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2023.3.1.tar.gz",
+                        "sha256" : "4177882deb0380fba9b426c2580baea7dc4297bddefdd7bfb094433ff4cbb7b8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
                             "version" : "2023.3",
                             "releaseDate" : "2023-12-06",
                             "fullNumber" : "233.11799.235"
@@ -1902,6 +1922,16 @@
                     {
                         "build" : {
                             "number" : "233.11799",
+                            "version" : "2023.3.1",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.11799.286"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.3.1.tar.gz",
+                        "sha256" : "2fafd8f76979b174c598e58b6e39d2d796eef8e69d28da28abcb7a5c260992d6"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
                             "version" : "2023.3",
                             "releaseDate" : "2023-12-06",
                             "fullNumber" : "233.11799.228"
@@ -2681,6 +2711,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3.1",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.11799.300"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.3.1.tar.gz",
+                        "sha256" : "0a80d971e430786492acfd04e4ba73eda2e4ee60f752e3f9494a4476c6cad761"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
@@ -3975,6 +4015,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3.1",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.11799.300"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.3.1.tar.gz",
+                        "sha256" : "7afd70b71e1fcb8280393d59ec58ab72f2ccf369f5d6e0035e6b265600531e4a"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
@@ -5274,6 +5324,16 @@
                     {
                         "build" : {
                             "number" : "233.11799",
+                            "version" : "2023.3.1",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.11799.297"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2023.3.1.tar.gz",
+                        "sha256" : "c8b034014e17c58def72aa351e44a441ca516403f795acef5325e964d5179983"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
                             "version" : "2023.3",
                             "releaseDate" : "2023-12-06",
                             "fullNumber" : "233.11799.232"
@@ -6233,6 +6293,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3.1",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.11799.298"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2023.3.1.tar.gz",
+                        "sha256" : "f3a09cd2aebd2ffbc42f927467a613e55430d3ff76d57c263d31ccee3c1de110"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
@@ -7380,6 +7450,16 @@
                     {
                         "build" : {
                             "number" : "233.11799",
+                            "version" : "2023.3.1",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.11799.298"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2023.3.1.tar.gz",
+                        "sha256" : "95a03ad8abf2400e9691bb10b13d47407abfcbc25192cf3773e1a2dab42c0499"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
                             "version" : "2023.3",
                             "releaseDate" : "2023-12-06",
                             "fullNumber" : "233.11799.259"
@@ -8523,6 +8603,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3.1",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.11799.290"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.3.1.tar.gz",
+                        "sha256" : "35cd23c7a0f73add6ba05f246707e2f2550185033172f5d42a6b02e750253115"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
@@ -9865,6 +9955,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3.1",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.11799.293"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.3.1.tar.gz",
+                        "sha256" : "26a3acc9864c2c7715d377059d3b52b1085b90b708b254ec2d52b80f625eb442"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
