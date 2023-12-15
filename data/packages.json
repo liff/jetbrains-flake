@@ -3589,6 +3589,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-233.13135.65.tar.gz",
+                        "sha256" : "f840fbdc3fabbb5f1dbc7fb2e7bb977989309fd196648a2e89cdb6c70ce61956"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11799",
                             "version" : "2023.3 Release Candidate",
                             "releaseDate" : null,
@@ -4893,6 +4903,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.65"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-233.13135.65.tar.gz",
+                        "sha256" : "8824d9d746794410aa49f200248e3ec617b249e6638ddb5f18374afe7c8090b6"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11799",
                             "version" : "2023.3 Release Candidate",
                             "releaseDate" : null,
@@ -5895,6 +5915,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.67"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.13135.67.tar.gz",
+                        "sha256" : "0ae5ac225c4a082bd8545e4bafd995e5002d9bec549c95ae0db4691b6761343c"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
