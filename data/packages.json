@@ -1077,6 +1077,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.68"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2023.3.2.tar.gz",
+                        "sha256" : "6d7658b3ad07b6fc8891fd77f0e765dde781a697062de352b294b6530c0f7eed"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11799",
                             "version" : "2023.3.1",
                             "releaseDate" : "2023-12-06",
@@ -7191,6 +7201,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-233.13135.26.tar.gz",
+                        "sha256" : "10a94817309988d17d70f386c7b7ebcb5c366cdfa5bf82b2d54a8c18046d01f6"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11799",
                             "version" : "2023.3 Release Candidate",
                             "releaseDate" : null,
@@ -8343,6 +8363,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-233.13135.26.tar.gz",
+                        "sha256" : "3869ff5516c28cf5471d773019eaf1e18b85afc5abf2a2937357185939566e7d"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
@@ -9569,6 +9599,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2 RC",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-233.13135.14.tar.gz",
+                        "sha256" : "5e4fe84e69e4cb5ebd627fb517152eb35deb610c402198d2e7b06a5e99f229c1"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11799",
                             "version" : "2023.3 RC",
                             "releaseDate" : null,
@@ -10629,6 +10669,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2 RC",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.66"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.13135.66.tar.gz",
+                        "sha256" : "95cda5ffb20422231abd94da23f98dba88065e55cddb96ece6282e7af97ebae1"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
