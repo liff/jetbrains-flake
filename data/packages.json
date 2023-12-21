@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.93"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.3.2.tar.gz",
+                        "sha256" : "f342d0f62454cea04b89db67dc1a720e6d2b767bbd93bafa270d9c92367086c2"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11799",
                             "version" : "2023.3.1",
                             "releaseDate" : "2023-12-06",
@@ -1931,6 +1941,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.104"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.3.2.tar.gz",
+                        "sha256" : "d11c9ff18323f121eeb643bd093cd4cc9b3ca5f64e1e1dbe4b9b8139217032d1"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.11799",
                             "version" : "2023.3.1",
                             "releaseDate" : "2023-12-06",
@@ -2721,6 +2741,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.103"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.3.2.tar.gz",
+                        "sha256" : "c763926c0bd1d14a1a9f07846a3cfd0330d5eacce31263c453710ac7a0f4c20f"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
@@ -4035,6 +4065,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.103"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.3.2.tar.gz",
+                        "sha256" : "d252110141046388e728532c5e7a312a6d40d6b75dabb493e88c0e2b8a914574"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
@@ -8663,6 +8703,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.91"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.3.2.tar.gz",
+                        "sha256" : "b38417014e13ee5868c3a69f3a39f7f9a5a09c14ab31f01b6f2b34436efb0828"
+                    },
                     {
                         "build" : {
                             "number" : "233.11799",
