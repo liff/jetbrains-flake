@@ -3629,6 +3629,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-233.14015.23.tar.gz",
+                        "sha256" : "077c455f45858606a30fdce79074c44d2854068f13a3fb088476a11bcfb06595"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.13135",
                             "version" : "2023.3.2 Release Candidate",
                             "releaseDate" : "2023-12-06",
@@ -4951,6 +4961,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-233.14015.23.tar.gz",
+                        "sha256" : "d9aa1f238a991aa991419303150b0155f06499dfd14ffc1b00b6c2b686e3e6af"
+                    },
                     {
                         "build" : {
                             "number" : "233.13135",
