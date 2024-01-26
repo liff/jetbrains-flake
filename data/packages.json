@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.92"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.3.3.tar.gz",
+                        "sha256" : "e0add1e84352e368ad4c8de0ff8ea003dc56f3ee92c503e93bfddf4a56e97f31"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.13135",
                             "version" : "2023.3.2",
                             "releaseDate" : "2023-12-06",
@@ -2773,6 +2783,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.106"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.3.3.tar.gz",
+                        "sha256" : "d9bb8259d69f57d3dd674d1a1cce9ce372d5bea7bdab9685aa466b66f04e535f"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.13135",
                             "version" : "2023.3.2",
                             "releaseDate" : "2023-12-06",
@@ -4115,6 +4135,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.106"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.3.3.tar.gz",
+                        "sha256" : "dc123ded3c7ede89e7cd3d4d5e46fada96b8763f648cd0cdbc5b7d6e26203fd2"
+                    },
                     {
                         "build" : {
                             "number" : "233.13135",
