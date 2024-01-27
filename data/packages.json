@@ -1971,6 +1971,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.113"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.3.3.tar.gz",
+                        "sha256" : "18a692790f0d4e2d40cedebb954aed074f72bb67ba4bdb63b7a4cb4df2c216c7"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.13135",
                             "version" : "2023.3.2",
                             "releaseDate" : "2023-12-06",
@@ -5493,6 +5503,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.96"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2023.3.3.tar.gz",
+                        "sha256" : "83fae32882fdb58495f740d9e7a7d223186f2f80325892cc3cd7edad39bd200f"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.13135",
                             "version" : "2023.3.2",
                             "releaseDate" : "2023-12-06",
@@ -6503,6 +6523,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.13763",
+                            "version" : "2023.3.3",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13763.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2023.3.3.tar.gz",
+                        "sha256" : "29c4955410b2ea26f0cd0f44e02c8fe2b1b7dad075f0739652051faa6f84797b"
+                    },
                     {
                         "build" : {
                             "number" : "233.13135",
@@ -7707,6 +7737,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.13763",
+                            "version" : "2023.3.3",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13763.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2023.3.3.tar.gz",
+                        "sha256" : "f71513f428f5df3b97b09c415967ff2db3a4e7172f293e621b3f04cd1d695443"
+                    },
                     {
                         "build" : {
                             "number" : "233.13135",
@@ -10305,6 +10345,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.89"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.3.3.tar.gz",
+                        "sha256" : "c56ece93853aff41bc4b1fa7c40be086c8d0cb8346891ecd47a70c3978c66cd3"
+                    },
                     {
                         "build" : {
                             "number" : "233.13135",
