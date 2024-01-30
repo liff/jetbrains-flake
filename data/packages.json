@@ -2515,13 +2515,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "241.8102",
+                            "number" : "241.9959",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "241.8102.131"
+                            "fullNumber" : "241.9959.38"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-241.8102.131.tar.gz",
-                        "sha256" : "96c2ce62f586e6b14fb1c272efde122781f3393a6304718d5fcfdc897ee7f453"
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-241.9959.38.tar.gz",
+                        "sha256" : "3f50b89d6b5d32132a6acc44e3fde0e918d6aad5533c6e5262b7dcad7d351922"
                     },
                     {
                         "build" : {
@@ -3689,13 +3689,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "241.8102",
+                            "number" : "241.9959",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "241.8102.112"
+                            "fullNumber" : "241.9959.31"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-241.8102.112.tar.gz",
-                        "sha256" : "5d4891e1ec5a4ae058921fb56f8332d216e1b6f867d5a1de3d5f08080eeb3deb"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-241.9959.31.tar.gz",
+                        "sha256" : "45c4484302540def28a0ecec642e3b2924dd69be079fc45313e3f354a2bc3c29"
                     },
                     {
                         "build" : {
@@ -5043,13 +5043,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "241.8102",
+                            "number" : "241.9959",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "241.8102.112"
+                            "fullNumber" : "241.9959.31"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-241.8102.112.tar.gz",
-                        "sha256" : "cebf8fe9c9708b661a88c6abdf7bf7c39da3abdea9da17419b2f197fe9170fcd"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-241.9959.31.tar.gz",
+                        "sha256" : "c3a94f29826a7f5020bacc85806570cb2946ccd5075dc1d60cfc7ca85ad62d57"
                     },
                     {
                         "build" : {
@@ -7411,13 +7411,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "241.8102",
+                            "number" : "241.9959",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "241.8102.133"
+                            "fullNumber" : "241.9959.30"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-241.8102.133.tar.gz",
-                        "sha256" : "274c4ccbdb49d9c29c31dbf6b306e0d65bc96565513ce6ccaece3641ce7c6c87"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-241.9959.30.tar.gz",
+                        "sha256" : "5c384589edd8427ea8bb94666dd3b86f7a3f97d742a071b5b5257861dd36304d"
                     },
                     {
                         "build" : {
@@ -8625,13 +8625,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "241.8102",
+                            "number" : "241.9959",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "241.8102.133"
+                            "fullNumber" : "241.9959.30"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-241.8102.133.tar.gz",
-                        "sha256" : "142abc8ab79dede56292cb013e1ee364ad9940506a320b9517bc84f04cef003d"
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-241.9959.30.tar.gz",
+                        "sha256" : "53051d456a883b6cbee18e9f0947fe882f37ab670200c164b67d361efcb63e53"
                     },
                     {
                         "build" : {
@@ -11011,13 +11011,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "241.8102",
+                            "number" : "241.9959",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "241.8102.134"
+                            "fullNumber" : "241.9959.35"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.8102.134.tar.gz",
-                        "sha256" : "bbf9bc577d69e80c622653141c09ac71e374c2c263fd381d894c514838c136b1"
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.9959.35.tar.gz",
+                        "sha256" : "60ee2aa662ed14f6f3d19ad2efab6ac7f95f7c887d582a4f66f8a3659a225791"
                     },
                     {
                         "build" : {
