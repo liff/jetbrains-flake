@@ -8955,6 +8955,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.117"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.3.3.tar.gz",
+                        "sha256" : "a0d8533b0aad083689d61899b74e1c4405ba247b6d981c6378199106b14db74f"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.13135",
                             "version" : "2023.3.2",
                             "releaseDate" : "2023-12-06",
