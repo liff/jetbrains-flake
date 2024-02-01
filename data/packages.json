@@ -1108,6 +1108,16 @@
                     {
                         "build" : {
                             "number" : "233.14015",
+                            "version" : "2023.3.4",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.137"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2023.3.4.tar.gz",
+                        "sha256" : "7b653e07c6d2008fbc85955041490b77551e277ef20f8518f6e6a8cbd326339c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14015",
                             "version" : "2023.3.3",
                             "releaseDate" : "2023-12-06",
                             "fullNumber" : "233.14015.29"
