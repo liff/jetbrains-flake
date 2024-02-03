@@ -2525,6 +2525,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.10840",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.10840.30"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-241.10840.30.tar.gz",
+                        "sha256" : "fad72d5f6f239d0ad0d3feffdba228a875dffb77aa38ab190d6639e55e173f33"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.9959",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -3697,6 +3707,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.10840",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.10840.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-241.10840.26.tar.gz",
+                        "sha256" : "d35e10cd86dae61967e5db6d884acfbf0eb21d128710d5f81e9d7622d1914f36"
+                    },
                     {
                         "build" : {
                             "number" : "241.9959",
@@ -5051,6 +5071,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.10840",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.10840.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-241.10840.26.tar.gz",
+                        "sha256" : "98a332db869d58599b406e96af42fbf25fe562d4fb40f2e5fe1466a78d0dd949"
+                    },
                     {
                         "build" : {
                             "number" : "241.9959",
@@ -11029,6 +11059,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.10840",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.10840.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.10840.2.tar.gz",
+                        "sha256" : "7c9206773faaf3945b0215361f8ec34476a6b62f670db4505802624598ed2ceb"
+                    },
                     {
                         "build" : {
                             "number" : "241.9959",
