@@ -869,13 +869,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "241.8102",
+                            "number" : "241.11761",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "241.8102.118"
+                            "fullNumber" : "241.11761.23"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-241.8102.118.tar.gz",
-                        "sha256" : "1f96ad529c01b0fcbc771a21b0ea41ee49d7fbcb0b2a49fdff3cdcf279781d0b"
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-241.11761.23.tar.gz",
+                        "sha256" : "a9286a007ced072bd2da74bd39a5d459ce0ebbb28bee9796dc4dfb64fd27be77"
                     },
                     {
                         "build" : {
@@ -1933,23 +1933,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "232.8660",
-                            "version" : "2023.2 RC",
+                            "number" : "241.11761",
+                            "version" : "2024.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "232.8660.88"
+                            "fullNumber" : "241.11761.8"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-232.8660.88.tar.gz",
-                        "sha256" : "2113dbdcd15120c4c7763b9a779188f9fec6a0a8e720c31e0e86561f257bf27e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.126"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.8109.126.tar.gz",
-                        "sha256" : "b5e3bf9ec2ce1a2a385df11003488d4c87dc3322bdcc31c30d7b620e98e2478e"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-241.11761.8.tar.gz",
+                        "sha256" : "4fa376d210729d25fb71aa65771845dca269b46563408285a1436b09c3972973"
                     },
                     {
                         "build" : {
@@ -1970,6 +1960,26 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.7864.19.tar.gz",
                         "sha256" : "15b4b1b3e427cb545681998bdb9458c0a5988f3df8ed1352805ffbca6e474909"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.88"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-232.8660.88.tar.gz",
+                        "sha256" : "2113dbdcd15120c4c7763b9a779188f9fec6a0a8e720c31e0e86561f257bf27e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.126"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.8109.126.tar.gz",
+                        "sha256" : "b5e3bf9ec2ce1a2a385df11003488d4c87dc3322bdcc31c30d7b620e98e2478e"
                     }
                 ]
             }
@@ -2523,6 +2533,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.11761",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.11761.29"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-241.11761.29.tar.gz",
+                        "sha256" : "f81cf21e62bdb0d3c6905fbda881f2530bde74cb02a8cab04f08fa95ec073555"
+                    },
                     {
                         "build" : {
                             "number" : "241.10840",
@@ -3709,6 +3729,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.11761",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.11761.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-241.11761.10.tar.gz",
+                        "sha256" : "d0d3ed66cafd49dde765a31ac59dcd3308ba4bbd3c6b0ef4e4f6ea597abe8bf1"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.10840",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -3956,6 +3986,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-231.4840.387.tar.gz",
                         "sha256" : "3e375f4460c6adbea0abef4e74104a95a59a0ea44f34b771bacccce7ceb6bc15"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-233.14475.9.tar.gz",
+                        "sha256" : "c26e861b7e08a5240464b019113b34068506eff603cbff9fd2824d271fa7d4f6"
                     },
                     {
                         "build" : {
@@ -5073,6 +5113,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.11761",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.11761.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-241.11761.10.tar.gz",
+                        "sha256" : "29df44b681d8d335090acc1b635cdb6f6a1bacc62eebac6261cc0e4a1a9c7322"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.10840",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -5320,6 +5370,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-231.4840.387.tar.gz",
                         "sha256" : "7b7d238687a7621d05d85f56ba7c754c9858cb4faaa39d6eba5c0abea2981cd4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-233.14475.9.tar.gz",
+                        "sha256" : "da590fdb8a1dd622c94ce7ea88b8fa943e5caf362d90f1c6a5d0f5ef2abc87ce"
                     },
                     {
                         "build" : {
@@ -6344,6 +6404,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
                         "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.14475.7.tar.gz",
+                        "sha256" : "d2d02ad8274b43f6c4b35d5970e88d2ed08005778b10e383f0df5146fcc83171"
                     },
                     {
                         "build" : {
@@ -7449,6 +7519,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.11761",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.11761.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-241.11761.13.tar.gz",
+                        "sha256" : "3cca25c1aa4beb1561afa2364a22902826c473e60d2a875f932cfaad1e8e7dc7"
+                    },
                     {
                         "build" : {
                             "number" : "241.10840",
@@ -8673,6 +8753,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.11761",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.11761.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-241.11761.13.tar.gz",
+                        "sha256" : "6b9b06ea7480809d9e76a54f2b77729d923a42f656440d93e5db1ec260ebae6d"
+                    },
                     {
                         "build" : {
                             "number" : "241.10840",
@@ -11081,6 +11171,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.11761",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.11761.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.11761.28.tar.gz",
+                        "sha256" : "84593cc947fad847fc8497db71a5ece5eff1f8012dbb92205f8b70f61a26c6ec"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.10840",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -11328,6 +11428,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.5920.7.tar.gz",
                         "sha256" : "5fc5a10d8ad66e35d52b57a025f63d24fb4f7f86581403b9df05ffd92eb7ac2e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4 RC",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.14475.2.tar.gz",
+                        "sha256" : "6a47b60b788e0029ae6ef449a86459de49ad91f3a163f00068b0b53f57608925"
                     },
                     {
                         "build" : {
