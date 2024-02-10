@@ -6197,6 +6197,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.11761",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.11761.30"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.11761.30.tar.gz",
+                        "sha256" : "fd7ab5f84da137e1409760627e453047991b848861e64b0e0d7ac1e91e18085a"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.10840",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -10059,6 +10069,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.11761",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.11761.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-241.11761.9.tar.gz",
+                        "sha256" : "e94510361b1cbd767bb31c57a63ee1a565f52008aa3a837fcd01d2b0e66fec68"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.10840",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -10316,6 +10336,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.5920.15.tar.gz",
                         "sha256" : "bd195836501a6af3732634f2c9ee556ce33c4bc557f8de2408187a4f0bb286c8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4 RC",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-233.14475.6.tar.gz",
+                        "sha256" : "102086e22621407ebc72190ad7311edda395ea7a608e2eea988b7c74553bdde6"
                     },
                     {
                         "build" : {
