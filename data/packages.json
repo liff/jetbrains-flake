@@ -2833,6 +2833,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.3.4.tar.gz",
+                        "sha256" : "f70826121c0c1dcf9c9fc4cc4560cf6c787e451a315fd3655b52ac2e4113985e"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.14015",
                             "version" : "2023.3.3",
                             "releaseDate" : "2023-12-06",
@@ -4215,6 +4225,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.3.4.tar.gz",
+                        "sha256" : "11c1e785dedcf0b03170120438d513d12a5aab412217db1725827113b7804e9b"
+                    },
                     {
                         "build" : {
                             "number" : "233.14015",
@@ -7711,6 +7731,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-233.14475.22.tar.gz",
+                        "sha256" : "6d50dd634b9dc645dc7f0cc38ffc5c6dc00366348e321c72a317d723b867124e"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.13763",
                             "version" : "2023.3.3 Release Candidate",
                             "releaseDate" : "2023-12-06",
@@ -8942,6 +8972,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.6471.3.tar.gz",
                         "sha256" : "4ec3040381883c3ceef74c5df887c07ad2be0dbfa9954de6235d2141335487bf"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-233.14475.22.tar.gz",
+                        "sha256" : "1bb28128bd9daf39fe4bf64468da81bc10c5b3e224b9885c521c151f0cc38afc"
                     },
                     {
                         "build" : {
