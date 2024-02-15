@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.3.4.tar.gz",
+                        "sha256" : "eae2e1646387ee36a2f24c10d924647fd3d00bb31dd42e9c17438ae7aecf79a8"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.14015",
                             "version" : "2023.3.3",
                             "releaseDate" : "2023-12-06",
@@ -1989,6 +1999,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.3.4.tar.gz",
+                        "sha256" : "17c0f1142c65b0c27371691fe7f36bce66eca9779ec97266feaae0af3a0da10f"
+                    },
                     {
                         "build" : {
                             "number" : "233.14015",
@@ -5623,6 +5643,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.35"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2023.3.4.tar.gz",
+                        "sha256" : "826871f7dfa2f81b410d9a40c5c456e6cb67b663361703f6a26db656e147479d"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.14015",
                             "version" : "2023.3.3",
                             "releaseDate" : "2023-12-06",
@@ -9153,6 +9183,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.3.4.tar.gz",
+                        "sha256" : "453c17b19d55e766ac492abc8d941ed949e5c78365c846e7d7605675a49acfde"
+                    },
                     {
                         "build" : {
                             "number" : "233.14015",
