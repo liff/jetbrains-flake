@@ -55,6 +55,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "232.10300",
+                            "version" : "2023.2.3",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10300.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.2.3.tar.gz",
+                        "sha256" : "132a65a2bbd6737a9f28e6dff6235151776d7046d3eea70d3bc43542e29683cd"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.9921",
                             "version" : "2023.2.2",
                             "releaseDate" : "2023-07-26",
@@ -82,6 +92,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.2.tar.gz",
                         "sha256" : "45671bb8cf7b18bd6da2b519b950f28d315ad49d230494a08785e78219e43819"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9414",
+                            "version" : "2023.1.6",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9414.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.1.6.tar.gz",
+                        "sha256" : "ec70341461872ef72aba9ea0304268aa43689375297f307b30c70e22ab06718c"
                     },
                     {
                         "build" : {
@@ -877,6 +897,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.12662",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.12662.59"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-241.12662.59.tar.gz",
+                        "sha256" : "91bc7d7c5716e612f79ec86d83e36403095bca77dfeafc87e1a3a4b2185f195f"
+                    },
                     {
                         "build" : {
                             "number" : "241.11761",
@@ -2051,6 +2081,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "232.10300",
+                            "version" : "2023.2.6",
+                            "releaseDate" : "2023-07-27",
+                            "fullNumber" : "232.10300.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.2.6.tar.gz",
+                        "sha256" : "7d38cf2288c49367a654a84c9844c1f161d5dcc97201f38046b6007e2d71e34c"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.10227",
                             "version" : "2023.2.5",
                             "releaseDate" : "2023-07-27",
@@ -2108,6 +2148,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-2023.2.tar.gz",
                         "sha256" : "17f1bbd9a46061fdd013d49a99859c1ca3ece1a3cc51cdcf2b46eae0432f2481"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9414",
+                            "version" : "2023.1.5",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9414.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.1.5.tar.gz",
+                        "sha256" : "54d8918d796c5169fc1ddd0ff3e827fd18da483140183893784833ded058ee7d"
                     },
                     {
                         "build" : {
@@ -2555,6 +2605,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.12662",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.12662.60"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-241.12662.60.tar.gz",
+                        "sha256" : "d7da717f28dc7b6e952852833e47226471ed2da293cb9d81e80845f08a5fc0d0"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.11761",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -2903,6 +2963,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "232.10300",
+                            "version" : "2023.2.6",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10300.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.2.6.tar.gz",
+                        "sha256" : "acdff004c7a9bfafd813fff0afe087b41f6409c174a12fe98d7c8789150cd9b7"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.10227",
                             "version" : "2023.2.5",
                             "releaseDate" : "2023-07-26",
@@ -2960,6 +3030,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.2.tar.gz",
                         "sha256" : "d398599557cc732fd1f58f38104d7cda35e326e4cd394245a8358e02fb8878b3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9414",
+                            "version" : "2023.1.6",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9414.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.1.6.tar.gz",
+                        "sha256" : "edb514ef5c6faffdbcf8f964cc2e25597cedb1bbc9f31d689404419cfa92af51"
                     },
                     {
                         "build" : {
@@ -3759,6 +3839,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.12662",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.12662.62"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-241.12662.62.tar.gz",
+                        "sha256" : "6d0bfa6b371b31a7017042c3e51cf714658f445b2dda93a049d2a0a1b2a2dd1e"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.11761",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -4297,6 +4387,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "232.10300",
+                            "version" : "2023.2.6",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10300.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.2.6.tar.gz",
+                        "sha256" : "39ca7a06806ecfdf32c3830774bbad4de3c075e08c484b3c5c66b442615c74ae"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.10227",
                             "version" : "2023.2.5",
                             "releaseDate" : "2023-07-26",
@@ -4354,6 +4454,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.2.tar.gz",
                         "sha256" : "b1a5c267ca86850764b0541bee0c27af7d2082e55516e95a0c8d30539571735c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9414",
+                            "version" : "2023.1.6",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9414.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.1.6.tar.gz",
+                        "sha256" : "538fbc61c8cb5e0f4ca0f9cecd5cff1eab47d5d5d3813069d471801b3bab5cfe"
                     },
                     {
                         "build" : {
@@ -5151,6 +5261,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.12662",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.12662.62"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-241.12662.62.tar.gz",
+                        "sha256" : "d2feb91379d375dc981d69737056c3add75af3024ebecd15371e8864cffb08c2"
+                    },
                     {
                         "build" : {
                             "number" : "241.11761",
@@ -10717,6 +10837,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.3.4.tar.gz",
+                        "sha256" : "236204a90d47e0dd25002078d3f032e51e03ce6bf214a78bebd28640bdd31908"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.14015",
                             "version" : "2023.3.3",
                             "releaseDate" : "2023-12-06",
@@ -10754,6 +10884,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.3.tar.gz",
                         "sha256" : "f9f1356cf2a49516013a4a3ead18e0bf018973e0de8e6c8da5f6e29adb2c754b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.10300",
+                            "version" : "2023.2.6",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.10300.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.2.6.tar.gz",
+                        "sha256" : "edbd10847f8f5c1a9d5a1a0cda9e2085c4f049b7c207c010e3a8b004d818923a"
                     },
                     {
                         "build" : {
