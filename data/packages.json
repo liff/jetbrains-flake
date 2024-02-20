@@ -9445,6 +9445,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "232.10300",
+                            "version" : "2023.2.6",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10300.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.2.6.tar.gz",
+                        "sha256" : "ac721715899d6aecfabbb330912004c125a2256a3cd8947ef33e522f1ff101cf"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.10227",
                             "version" : "2023.2.5",
                             "releaseDate" : "2023-07-26",
@@ -9502,6 +9512,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.2.tar.gz",
                         "sha256" : "9da529bbc2c65503f1e01c85b745f676140c2263b9541fb1c5bae0d3b9329787"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9414",
+                            "version" : "2023.1.6",
+                            "releaseDate" : "2023-03-29",
+                            "fullNumber" : "231.9414.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.1.6.tar.gz",
+                        "sha256" : "adbda8e360181bb779ee93ef7715bbcceb817e2f56fd0266f68921802ba5021f"
                     },
                     {
                         "build" : {
@@ -11529,6 +11549,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.12662",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.12662.63"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.12662.63.tar.gz",
+                        "sha256" : "94a933ff0887998b223e99ab0f73f78cbd1671d1f7bb7c8a92208d3925f12d3d"
+                    },
                     {
                         "build" : {
                             "number" : "241.11761",
