@@ -2605,6 +2605,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.13688",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.13688.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-241.13688.19.tar.gz",
+                        "sha256" : "3c88ed05fd5463c728e62f0873e7047deeda894187481d5169e7f71cad95e9eb"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.12662",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -3837,6 +3847,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.13688",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.13688.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-241.13688.18.tar.gz",
+                        "sha256" : "4c2da99ee989f4f2895ceb76644aa47050d6055eecf8c59baceda6c295aa112f"
+                    },
                     {
                         "build" : {
                             "number" : "241.12662",
@@ -5263,6 +5283,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.13688",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.13688.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-241.13688.18.tar.gz",
+                        "sha256" : "a754e2182145c4aae9c2cc98d1eb4edc3cbb5cdb92066a39d437b0f0859aeec8"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.12662",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -6385,6 +6415,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.13688",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.13688.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.13688.22.tar.gz",
+                        "sha256" : "8c89fd29bd706888395f5d3f5a6261ca617e802f44aabf56267037c665a631d2"
+                    },
                     {
                         "build" : {
                             "number" : "241.12662",
@@ -11589,6 +11629,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.13688",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.13688.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.13688.21.tar.gz",
+                        "sha256" : "31102f66a59e66079eb755abd2455526b960ba98b2a960090c453e9f6e48808b"
+                    },
                     {
                         "build" : {
                             "number" : "241.12662",
