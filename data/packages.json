@@ -7851,6 +7851,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.14024",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14024.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-241.14024.28.tar.gz",
+                        "sha256" : "823fe26e4179e7a05cfd4550fb0edaf9d50aa5aa4750ad27014c17bd485889fe"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.13688",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -9153,6 +9163,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.14024",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14024.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-241.14024.28.tar.gz",
+                        "sha256" : "696ea4e9ec187d8aca9d208a4f4c6e6641112a8ab4152d41500f77d2217d850c"
+                    },
                     {
                         "build" : {
                             "number" : "241.13688",
@@ -11719,6 +11739,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.14024",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14024.30"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.14024.30.tar.gz",
+                        "sha256" : "f3a730288cf2d0ab73a0681907a491acd08602da4075f7582cd317fab77d6a14"
+                    },
                     {
                         "build" : {
                             "number" : "241.13688",
