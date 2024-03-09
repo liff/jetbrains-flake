@@ -899,6 +899,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14494.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-241.14494.27.tar.gz",
+                        "sha256" : "a9da62f093b5d50ee0ed09405e6a3f0c49db62d0c9db6f31300152550b7f134d"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.13688",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -2613,6 +2623,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14494.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-241.14494.33.tar.gz",
+                        "sha256" : "e67234e7d31058f874455d6206feb8ad3ced9cb708dcd4dd04121ced10193c19"
+                    },
                     {
                         "build" : {
                             "number" : "241.14024",
@@ -6477,6 +6497,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14494.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.14494.28.tar.gz",
+                        "sha256" : "760294b2f85d9ae9cd60e19a9ea8195629cfd4c773aa491c76ae223646893de2"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.14024",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -7871,6 +7901,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14494.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-241.14494.19.tar.gz",
+                        "sha256" : "0c9d9c02688a2ce48a6c03a49b652f124be289dd8631b0d2006c6688c8007657"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.14024",
                             "version" : "2024.1 EAP",
                             "releaseDate" : null,
@@ -9183,6 +9223,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14494.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-241.14494.19.tar.gz",
+                        "sha256" : "2d7aa45b2b93324845599056b114c4fbd90ddd22dfb0a02fd933d539e581e85d"
+                    },
                     {
                         "build" : {
                             "number" : "241.14024",
@@ -11759,6 +11809,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14494.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.14494.25.tar.gz",
+                        "sha256" : "98241a151bb90874583e7a1e8f09145d055b587bef218c52edb5143ec4533713"
+                    },
                     {
                         "build" : {
                             "number" : "241.14024",
