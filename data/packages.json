@@ -11177,6 +11177,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "233.14808",
+                            "version" : "2023.3.5",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14808.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.3.5.tar.gz",
+                        "sha256" : "9a5a257a71f66daea9f57b638f96ec3a635d89ae4087f66f9fe65c20345344fb"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.14475",
                             "version" : "2023.3.4",
                             "releaseDate" : "2023-12-06",
