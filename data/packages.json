@@ -1197,6 +1197,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1",
+                            "releaseDate" : "2024-04-03",
+                            "fullNumber" : "241.14494.251"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.1.tar.gz",
+                        "sha256" : "cc77892adcbf28b1a2205908466cca9c80217162cdac020d25d258a84cbb88d3"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.14015",
                             "version" : "2023.3.4",
                             "releaseDate" : "2023-12-06",
@@ -2021,16 +2031,6 @@
             },
             "eap" : {
                 "default" : [
-                    {
-                        "build" : {
-                            "number" : "241.14494",
-                            "version" : "2024.1 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "241.14494.150"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-241.14494.150.tar.gz",
-                        "sha256" : "85b9884128a23deb041f589030b13bdd9820eae2baf562a5ad3d9e51456eae5a"
-                    },
                     {
                         "build" : {
                             "number" : "232.8660",
