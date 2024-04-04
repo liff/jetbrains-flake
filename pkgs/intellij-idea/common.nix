@@ -147,9 +147,7 @@ stdenv.mkDerivation {
 
     rm plugins/webp/lib/libwebp/linux/libwebp_jni.so # 32-bit x86
 
-    rm -r plugins/cwm-plugin/quiche-native/{darwin-aarch64,darwin-x86-64,win32-x86-64}
     ${optionalString isAarch64 "rm -r plugins/cwm-plugin/quiche-native/linux-x86-64"}
-    ${optionalString isx86_64 "rm -r plugins/cwm-plugin/quiche-native/linux-aarch64"}
 
     ${optionalString hasRemoteDev addRemoteDevServer}
 
