@@ -1198,8 +1198,18 @@
                     {
                         "build" : {
                             "number" : "241.14494",
+                            "version" : "2024.1.1",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.14494.283"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.1.1.tar.gz",
+                        "sha256" : "05c1f910126b8499d26ab52d333307d3b6df6a3fa06b5e0b1a79ff15caf40e0a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.14494",
                             "version" : "2024.1",
-                            "releaseDate" : "2024-04-03",
+                            "releaseDate" : "2024-04-04",
                             "fullNumber" : "241.14494.251"
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.1.tar.gz",
