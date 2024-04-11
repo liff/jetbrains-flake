@@ -12231,6 +12231,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1 Preview",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.15989.9.tar.gz",
+                        "sha256" : "512c465e32616e71a6a59ec8f2fc5523a44f4bb0a8ba37b176265d86205f7a87"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.14494",
                             "version" : "2024.1 Release Candidate",
                             "releaseDate" : null,
