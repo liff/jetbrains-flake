@@ -1207,6 +1207,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.2",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.49"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.1.2.tar.gz",
+                        "sha256" : "449ca450179bda3a342f92ff0fe44e52b51c11adcda4d2836a215282ffc0fc95"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.14494",
                             "version" : "2024.1.1",
                             "releaseDate" : "2024-04-04",
