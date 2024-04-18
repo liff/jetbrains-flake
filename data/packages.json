@@ -8211,6 +8211,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.57"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-241.15989.57.tar.gz",
+                        "sha256" : "78f22651b390acd754810b7f4ef7a10cc7856522c1b4ece0d29fb70af3b6174f"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.14494",
                             "version" : "2024.1 Release Candidate",
                             "releaseDate" : null,
@@ -9573,6 +9583,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.57"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-241.15989.57.tar.gz",
+                        "sha256" : "d1e4772538d2b6fcfa679f0d3ec1a62bb844424e1111e5d02c046e903bbbdb84"
+                    },
                     {
                         "build" : {
                             "number" : "241.14494",
@@ -11555,6 +11575,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.47"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2024.1.1.tar.gz",
+                        "sha256" : "fbcca2925eaa51b78f2ae1bf4252e7a5c5803e2427d354d8deb48ab626d21683"
+                    },
                     {
                         "build" : {
                             "number" : "241.14494",
