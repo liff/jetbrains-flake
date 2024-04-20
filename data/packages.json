@@ -4030,6 +4030,16 @@
                     {
                         "build" : {
                             "number" : "241.15989",
+                            "version" : "2024.1.1 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.69"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-241.15989.69.tar.gz",
+                        "sha256" : "f36cdfe1ceb5596f6901f111376e220ded630387ca44dce8ad0deeb9915f31da"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.15989",
                             "version" : "2024.1.1 Preview",
                             "releaseDate" : "2024-04-04",
                             "fullNumber" : "241.15989.21"
@@ -5544,6 +5554,16 @@
                     {
                         "build" : {
                             "number" : "241.15989",
+                            "version" : "2024.1.1 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.69"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-241.15989.69.tar.gz",
+                        "sha256" : "6b21265932a64ed9f9f07234fbd2f946cfeceb8b827e9a7f6286ba5ce555ebbe"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.15989",
                             "version" : "2024.1.1 Preview",
                             "releaseDate" : "2024-04-04",
                             "fullNumber" : "241.15989.21"
@@ -6755,6 +6775,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.66"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.15989.66.tar.gz",
+                        "sha256" : "91ffc36909ed59d4648c971e316214b12be5b5f6b7474fec5f8fab256d290dac"
+                    },
                     {
                         "build" : {
                             "number" : "241.15989",
