@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1",
+                            "releaseDate" : "2024-04-09",
+                            "fullNumber" : "241.15989.121"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.1.1.tar.gz",
+                        "sha256" : "299ff2eb9c91282df074c58c0ecf73ecf59c7d077bc309f085229eaa32fbd46d"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.14494",
                             "version" : "2024.1",
                             "releaseDate" : "2024-04-09",
@@ -8254,6 +8264,16 @@
                             "number" : "241.15989",
                             "version" : "2024.1.1 Release Candidate",
                             "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.111"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-241.15989.111.tar.gz",
+                        "sha256" : "d59c82b52af38a07f9fdabc97498e5871a2919b630db8525d157057aac772a11"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1 Release Candidate",
+                            "releaseDate" : "2024-04-04",
                             "fullNumber" : "241.15989.57"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-241.15989.57.tar.gz",
@@ -9628,6 +9648,16 @@
                             "number" : "241.15989",
                             "version" : "2024.1.1 Release Candidate",
                             "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.111"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-241.15989.111.tar.gz",
+                        "sha256" : "3c9fc2a979210d7d9f0f2f51d0fc44d9c7da5972fa4384991b5bd9697bab6936"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1 Release Candidate",
+                            "releaseDate" : "2024-04-04",
                             "fullNumber" : "241.15989.57"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-241.15989.57.tar.gz",
@@ -10063,6 +10093,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.113"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.1.1.tar.gz",
+                        "sha256" : "32e324e976c63e6f5897b392469240382baf5ab94c700b7f75c4a575a1f5d1dc"
+                    },
                     {
                         "build" : {
                             "number" : "241.14494",
