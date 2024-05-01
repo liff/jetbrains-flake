@@ -2121,6 +2121,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.157"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.1.1.tar.gz",
+                        "sha256" : "d952641bb05a38c771ae64b381f7d3735e20695df89180cc7f5ba9b31c0e437d"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.14494",
                             "version" : "2024.1",
                             "releaseDate" : "2024-04-04",
@@ -3081,6 +3091,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.150"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.1.1.tar.gz",
+                        "sha256" : "d78b5ad0cf8325ca0659aae36b9979a581dab6cf8c7cd127cfb7f86440f282c9"
+                    },
                     {
                         "build" : {
                             "number" : "241.14494",
@@ -4605,6 +4625,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.150"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.1.1.tar.gz",
+                        "sha256" : "4d4221630c4d1dcb9f198370f82d9364014a4a624684ad8b3958be9f01eb656a"
+                    },
                     {
                         "build" : {
                             "number" : "241.14494",
@@ -7325,6 +7355,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.155"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.1.1.tar.gz",
+                        "sha256" : "b7e12b8d16164137f4cb0677fcac18af78aa117d33c511cce3fcf3972b4e3b17"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.14494",
                             "version" : "2024.1",
                             "releaseDate" : "2024-04-04",
@@ -8707,6 +8747,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.155"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.1.1.tar.gz",
+                        "sha256" : "715f30966c5597adc6ef544051a796de8a6cc5a5182938b8e14a1e6ad5e5edfd"
+                    },
                     {
                         "build" : {
                             "number" : "241.14494",
