@@ -11189,6 +11189,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.17011",
+                            "version" : "2024.1.2 Preview",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.17011.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-241.17011.8.tar.gz",
+                        "sha256" : "f25b4538a4eb91a91aaed3fc3287f10bd94bbdd8080c290ea8226e2d8158e24c"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.15989",
                             "version" : "2024.1.1 RC",
                             "releaseDate" : "2024-04-04",
@@ -12479,6 +12489,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.17011",
+                            "version" : "2024.1.3 EAP",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.17011.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.17011.14.tar.gz",
+                        "sha256" : "87e03d93e44bb4d6cfad55f695b1be4d6cbd90413eb2212bead2b8900e14294d"
+                    },
                     {
                         "build" : {
                             "number" : "241.15989",
