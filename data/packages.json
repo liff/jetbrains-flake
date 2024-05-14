@@ -6847,6 +6847,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.17011",
+                            "version" : "2024.1.2 Preview",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.17011.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.17011.22.tar.gz",
+                        "sha256" : "74199b996e5b19bf0b476943186cbc861069e24f2fc583be327bbdbba9a0178d"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.15989",
                             "version" : "2024.1.1 Release Candidate",
                             "releaseDate" : "2024-04-04",
