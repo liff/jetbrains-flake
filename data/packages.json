@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.17011",
+                            "version" : "2024.1.2",
+                            "releaseDate" : "2024-04-09",
+                            "fullNumber" : "241.17011.124"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.1.2.tar.gz",
+                        "sha256" : "2353c1ea5e0fc82b37f4ac33e11cf16e22750e5a1dfa96ab5bc0e0467d1c0abf"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.15989",
                             "version" : "2024.1.1",
                             "releaseDate" : "2024-04-09",
@@ -6293,6 +6303,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.17011",
+                            "version" : "2024.1.2",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.17011.119"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.1.2.tar.gz",
+                        "sha256" : "d7500a11166dd59744e27a939bd92702e26b5388341d15a5235d7eb721835b83"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.15989",
                             "version" : "2024.1.1",
                             "releaseDate" : "2024-04-04",
@@ -7513,6 +7533,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.17011",
+                            "version" : "2024.1.2",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.17011.127"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.1.2.tar.gz",
+                        "sha256" : "d6aadca9c2c0b158b62340d815e8236b93f733ab03052b25b809fe8277115e72"
+                    },
                     {
                         "build" : {
                             "number" : "241.15989",
@@ -8937,6 +8967,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.17011",
+                            "version" : "2024.1.2",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.17011.127"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.1.2.tar.gz",
+                        "sha256" : "567065b35b6e34ced0696079e86aaa8a25ae7b36920e66e6a10bdd718ff613e3"
+                    },
                     {
                         "build" : {
                             "number" : "241.15989",
@@ -12731,13 +12771,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "242.10180",
+                            "number" : "242.12881",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "242.10180.31"
+                            "fullNumber" : "242.12881.51"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.10180.31.tar.gz",
-                        "sha256" : "1baecb50865db6b9fad2a9733c496a23d6e7b2a9a27e64f865a15cd55cb6dbb2"
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.12881.51.tar.gz",
+                        "sha256" : "5581239b9fe567efc4349982e9339de784af69108e73629959c4db6a2b56779a"
                     },
                     {
                         "build" : {
