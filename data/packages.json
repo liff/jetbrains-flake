@@ -4129,13 +4129,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "242.10180",
+                            "number" : "242.12881",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "242.10180.25"
+                            "fullNumber" : "242.12881.66"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.10180.25.tar.gz",
-                        "sha256" : "debcdd0640222182aa61dccf0913eabb3d73a540765047c3330370ac3e4dcc9c"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.12881.66.tar.gz",
+                        "sha256" : "6c9147dced1c7209cd22ca7ca973cf1e16599e0bc22ac849944a8489db39b3ed"
                     },
                     {
                         "build" : {
@@ -5703,13 +5703,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "242.10180",
+                            "number" : "242.12881",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "242.10180.25"
+                            "fullNumber" : "242.12881.66"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-242.10180.25.tar.gz",
-                        "sha256" : "a4b3a62786bc9730de3c3fb534097ef191976b73c141cddd5f10f9983bcc1123"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-242.12881.66.tar.gz",
+                        "sha256" : "b10d1bf000a9ac3e0bac829969f033afa29515611bb26a71822a2e6eee3565b8"
                     },
                     {
                         "build" : {
@@ -6977,13 +6977,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "242.10180",
+                            "number" : "242.12881",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "242.10180.24"
+                            "fullNumber" : "242.12881.68"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.10180.24.tar.gz",
-                        "sha256" : "aad067ac5c5ea0c6299266c2b08d20f8c09333c966ea2aead853ac67a1103f21"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.12881.68.tar.gz",
+                        "sha256" : "5ae927c947278f5960a647e5e37965b74792683a8140b1a08b40636c9a95f8bb"
                     },
                     {
                         "build" : {
