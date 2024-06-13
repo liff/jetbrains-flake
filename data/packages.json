@@ -4619,6 +4619,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.4 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-241.18034.12.tar.gz",
+                        "sha256" : "8841e40a10696b84c6bc4be3cbe2e205b407018be07b6696c5b4e0822d6cc41f"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.17011",
                             "version" : "2024.1.2 Release Candidate",
                             "releaseDate" : "2024-04-04",
@@ -6253,6 +6263,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.4 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-241.18034.12.tar.gz",
+                        "sha256" : "0b3c29b33f203095db581187ef0a06ed544f2a77c530e4c25306f68a505f4a19"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.17011",
                             "version" : "2024.1.2 Release Candidate",
                             "releaseDate" : "2024-04-04",
@@ -7544,6 +7564,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
                         "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.4 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.18034.17.tar.gz",
+                        "sha256" : "52d6dd76c82a3d849ff66dc7c21a497dabf302ac876703e411f5413e5f845684"
                     },
                     {
                         "build" : {
