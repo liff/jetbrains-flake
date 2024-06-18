@@ -969,6 +969,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.16677",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.16677.29"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-242.16677.29.tar.gz",
+                        "sha256" : "df310401698508bf7242a7aee281c62994468f6064b78b1ca2a81d8f2eff9950"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.14146",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
@@ -2873,6 +2883,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.16677",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.16677.32"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-242.16677.32.tar.gz",
+                        "sha256" : "29423f5833c8137dbe33ce3357afbf036c04c9f3ab5f22aa712e55af6f37839c"
+                    },
                     {
                         "build" : {
                             "number" : "242.15523",
@@ -13359,6 +13379,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.16677",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.16677.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.16677.27.tar.gz",
+                        "sha256" : "01c02ca031ff1538dd0f10c9d5d26b8d53247e4bda272f9445cabca05773debb"
+                    },
                     {
                         "build" : {
                             "number" : "242.15523",
