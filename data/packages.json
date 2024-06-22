@@ -2905,6 +2905,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.18071",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.18071.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-242.18071.26.tar.gz",
+                        "sha256" : "299a1415da5cc64664c47b50ac584f7f94f11b06ae864866f1e715f6cbf32674"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.16677",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
@@ -3301,6 +3311,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.4",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.62"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.1.4.tar.gz",
+                        "sha256" : "cda20bbbc052c2b8e87ea8607235ee0f7b5775728e8648c0a603889a3efa685f"
+                    },
                     {
                         "build" : {
                             "number" : "241.17890",
@@ -4319,6 +4339,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.18071",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.18071.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.18071.24.tar.gz",
+                        "sha256" : "de50f5de4bbdf583c87bace447a355827a22cd1d5b8e25239f6338e92d100962"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.16677",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
@@ -4955,6 +4985,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.4",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.62"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.1.4.tar.gz",
+                        "sha256" : "7d5e4cdb5a7cb1c376ca66957481350571561edadc3f45e6fce422e14af0fc16"
+                    },
                     {
                         "build" : {
                             "number" : "241.17890",
@@ -5971,6 +6011,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.18071",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.18071.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-242.18071.24.tar.gz",
+                        "sha256" : "05e825d45501f26a06fd426d36d68b29404d0b6a97159d7069e65efda02b031a"
+                    },
                     {
                         "build" : {
                             "number" : "242.16677",
@@ -10955,6 +11005,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.4",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.63"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.1.4.tar.gz",
+                        "sha256" : "84b96e1f6cdbb5497fcce1a036044e5c51002006ac8926be72d37ec48b1ceb52"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.17890",
                             "version" : "2024.1.3",
                             "releaseDate" : "2024-04-04",
@@ -12029,6 +12089,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.18071",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.18071.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-242.18071.25.tar.gz",
+                        "sha256" : "d90777edc752fd24a48654d4761a03152f0e99f6c2b1e7992292e8ed33f0fff8"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.16677",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
@@ -12645,6 +12715,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.5",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.50"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2024.1.5.tar.gz",
+                        "sha256" : "339ac8fc3ecc20afdef05b1782cb861d52eb09336d6a20cc4aa487c1bd108522"
+                    },
                     {
                         "build" : {
                             "number" : "241.17890",
@@ -13439,6 +13519,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.18071",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.18071.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.18071.16.tar.gz",
+                        "sha256" : "9e6eb74fb20eb95798e734b9657951ae78529d727db45985e833f21924f98fc2"
+                    },
                     {
                         "build" : {
                             "number" : "242.16677",
