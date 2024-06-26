@@ -2173,13 +2173,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "242.15523",
+                            "number" : "242.18071",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "242.15523.28"
+                            "fullNumber" : "242.18071.23"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-242.15523.28.tar.gz",
-                        "sha256" : "a955958e49ac976eb7b8e4999e7a3c7edef90187cdc781486dcb28696e277ac2"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-242.18071.23.tar.gz",
+                        "sha256" : "b3d38753747040b5c0e5459f4f8c47d39cf830dd4e06f38218d4b0b89997e8d7"
                     },
                     {
                         "build" : {
@@ -7995,6 +7995,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.4",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.82"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.1.4.tar.gz",
+                        "sha256" : "3a12ada098a839ba3c32820071ecc04cb71e8e1066d0753397399c2e52941de9"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.17890",
                             "version" : "2024.1.3",
                             "releaseDate" : "2024-04-04",
@@ -9507,6 +9517,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.4",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.82"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.1.4.tar.gz",
+                        "sha256" : "043c33371cb5fb31fdeab6deccc809189efdc6d404f771c541d4dd779adcd2fa"
+                    },
                     {
                         "build" : {
                             "number" : "241.17890",
