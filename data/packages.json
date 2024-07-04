@@ -2915,6 +2915,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.19890",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.19890.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-242.19890.15.tar.gz",
+                        "sha256" : "eec4ad346a7b2dff123bd81881885fa1d1ed0d8502014c58354f2740c6fdf176"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.19533",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
@@ -4357,6 +4367,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.19890",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.19890.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.19890.14.tar.gz",
+                        "sha256" : "ec5da05c850817d035bcc71a2cec32211f10320c55a32fc69c474857e458f1ca"
+                    },
                     {
                         "build" : {
                             "number" : "242.19533",
@@ -6041,6 +6061,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.19890",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.19890.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-242.19890.14.tar.gz",
+                        "sha256" : "057580c305b2e9a9159427eebb2932f398f4dde931d25a3c1a7ed84a7c811641"
+                    },
                     {
                         "build" : {
                             "number" : "242.19533",
