@@ -4379,6 +4379,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.20224.38.tar.gz",
+                        "sha256" : "2583bae8498712158bf3dd69ce10cdc0c1a175656df9afe1493f60d5eb1ac67d"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.19890",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
@@ -6071,6 +6081,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-242.20224.38.tar.gz",
+                        "sha256" : "b5a7f9538c7975bde21717c69f2681df3cfd16ea9843351f4c7305370ef907b3"
+                    },
                     {
                         "build" : {
                             "number" : "242.19890",
@@ -13699,6 +13719,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.20224.33.tar.gz",
+                        "sha256" : "417b9d361f1ddffe82823d429c1c0dfd3f4fb2bfd0483852bd300affa1be2604"
+                    },
                     {
                         "build" : {
                             "number" : "242.19890",
