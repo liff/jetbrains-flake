@@ -7497,6 +7497,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.20224.44.tar.gz",
+                        "sha256" : "0f36375053c7c0e40cc94d34ba43c00f6e13755049da97d122c1de4cd5447d6d"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.19890",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
