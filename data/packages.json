@@ -979,6 +979,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.66"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-242.20224.66.tar.gz",
+                        "sha256" : "b64d21307919a7be7b4e038b3056c9d87fd200e171c6e0b5c108329d47b32d86"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.19890",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
@@ -2193,13 +2203,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "242.18071",
+                            "number" : "242.20224",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "242.18071.23"
+                            "fullNumber" : "242.20224.99"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-242.18071.23.tar.gz",
-                        "sha256" : "b3d38753747040b5c0e5459f4f8c47d39cf830dd4e06f38218d4b0b89997e8d7"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-242.20224.99.tar.gz",
+                        "sha256" : "fe5941d620521e23853630a31efb5f88a05a22c20ad31d4da041861a795df8e2"
                     },
                     {
                         "build" : {
@@ -4392,6 +4402,16 @@
                             "number" : "242.20224",
                             "version" : "2024.2 Beta",
                             "releaseDate" : null,
+                            "fullNumber" : "242.20224.91"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.20224.91.tar.gz",
+                        "sha256" : "4e5b627a3b1f47a177ee9afca363bc8d3f9bc74b653262abb711540aae03b141"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Beta",
+                            "releaseDate" : null,
                             "fullNumber" : "242.20224.38"
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.20224.38.tar.gz",
@@ -6091,6 +6111,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.91"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-242.20224.91.tar.gz",
+                        "sha256" : "d25320ca9241d3616933469f24b8a4dbd53c28435d4b9eeb17b7734ccc438f5e"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
@@ -9144,6 +9174,16 @@
                             "number" : "242.20224",
                             "version" : "2024.2 EAP",
                             "releaseDate" : null,
+                            "fullNumber" : "242.20224.89"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-242.20224.89.tar.gz",
+                        "sha256" : "f26e67b710bfb50148799ef07418fdeafce1f40ce9f1e8cff73089e5ab4cebb9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
                             "fullNumber" : "242.20224.25"
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-242.20224.25.tar.gz",
@@ -10683,6 +10723,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.89"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-242.20224.89.tar.gz",
+                        "sha256" : "5ffd033f7c7ecd9b33f56752af193b3579f2f7f6a0260d189ceb535a0ee18e73"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
@@ -13769,6 +13819,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.96"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.20224.96.tar.gz",
+                        "sha256" : "517d6a43f7540fcdb68938117e84f87059358e56554245936f596d1d24850c95"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
