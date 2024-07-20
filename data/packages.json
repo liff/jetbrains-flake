@@ -2938,6 +2938,16 @@
                             "number" : "242.20224",
                             "version" : "2024.2 Beta",
                             "releaseDate" : null,
+                            "fullNumber" : "242.20224.106"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-242.20224.106.tar.gz",
+                        "sha256" : "576a81d92b08af309d5b0fae304784b9ea753fa61bd477ffb0b6f338b5e77b5f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Beta",
+                            "releaseDate" : null,
                             "fullNumber" : "242.20224.39"
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-242.20224.39.tar.gz",
@@ -12357,6 +12367,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.102"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-242.20224.102.tar.gz",
+                        "sha256" : "1c8b13c8dc949da513ced971ec693ecd4d2d433ab7bc520c3e756ce19e091d2e"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
