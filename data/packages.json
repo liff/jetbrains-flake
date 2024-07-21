@@ -7540,6 +7540,16 @@
                             "number" : "242.20224",
                             "version" : "2024.2 Beta",
                             "releaseDate" : null,
+                            "fullNumber" : "242.20224.112"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.20224.112.tar.gz",
+                        "sha256" : "e0a4772af4c77a45a2d0f2bb9872a732b6ae8545f214a5f014f9d399356102ad"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Beta",
+                            "releaseDate" : null,
                             "fullNumber" : "242.20224.44"
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.20224.44.tar.gz",
