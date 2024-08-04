@@ -2214,32 +2214,12 @@
                     {
                         "build" : {
                             "number" : "242.20224",
-                            "version" : "2024.2 EAP",
+                            "version" : "2024.2 RC",
                             "releaseDate" : null,
-                            "fullNumber" : "242.20224.99"
+                            "fullNumber" : "242.20224.237"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-242.20224.99.tar.gz",
-                        "sha256" : "fe5941d620521e23853630a31efb5f88a05a22c20ad31d4da041861a795df8e2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.78"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.8109.78.tar.gz",
-                        "sha256" : "df788f13c4825c51cc45118e8fd225dc6e1835e7d2f7f121153e244623c38e09"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.7864",
-                            "version" : "2023.1 EAP",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.7864.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.7864.19.tar.gz",
-                        "sha256" : "15b4b1b3e427cb545681998bdb9458c0a5988f3df8ed1352805ffbca6e474909"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-242.20224.237.tar.gz",
+                        "sha256" : "c1f8d478e93da38135b62c292684c63b925f08601c1df8384ab1a00ef8d4387c"
                     },
                     {
                         "build" : {
@@ -2260,6 +2240,26 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.8109.126.tar.gz",
                         "sha256" : "b5e3bf9ec2ce1a2a385df11003488d4c87dc3322bdcc31c30d7b620e98e2478e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.78"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.8109.78.tar.gz",
+                        "sha256" : "df788f13c4825c51cc45118e8fd225dc6e1835e7d2f7f121153e244623c38e09"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.7864",
+                            "version" : "2023.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.7864.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.7864.19.tar.gz",
+                        "sha256" : "15b4b1b3e427cb545681998bdb9458c0a5988f3df8ed1352805ffbca6e474909"
                     }
                 ]
             }
@@ -13929,6 +13929,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.227"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.20224.227.tar.gz",
+                        "sha256" : "f356ce0f581761e2adbf62972f07bb2f9f9b0b744d79a72e15c17bb79b45c5ee"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
