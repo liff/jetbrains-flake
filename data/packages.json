@@ -2271,6 +2271,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.20224.306"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.2.tar.gz",
+                        "sha256" : "c8b84db4b9a571501b410f35d03325484f10bde53a6e4ca1c194b8b512658cfa"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.18968",
                             "version" : "2024.1.5",
                             "releaseDate" : "2024-04-04",
@@ -3411,6 +3421,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.20224.300"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.2.tar.gz",
+                        "sha256" : "f059c9fd965a9dbf520381ee4119408f96c336eaa3b69a8c31abd1d716dbbfb4"
+                    },
                     {
                         "build" : {
                             "number" : "241.18968",
@@ -5145,6 +5165,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.20224.300"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.2.tar.gz",
+                        "sha256" : "70678d02fbba642b09c242a6453de4d79f411d1f6f029e357dfcd0da9ead871a"
+                    },
                     {
                         "build" : {
                             "number" : "241.18968",
