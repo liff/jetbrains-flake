@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.19072",
+                            "version" : "2024.1.5",
+                            "releaseDate" : "2024-04-09",
+                            "fullNumber" : "241.19072.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.1.5.tar.gz",
+                        "sha256" : "9843300b426cb88c5a658fea0a33fee4344fa541c52c805149666d1d385bcb58"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.18034",
                             "version" : "2024.1.4",
                             "releaseDate" : "2024-04-09",
@@ -1337,6 +1347,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.19072",
+                            "version" : "2024.1.5",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19072.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.1.5.tar.gz",
+                        "sha256" : "b7735ff82224b136be3284686e0d4308bf5f02c2aebb34004c990b5a38c66e50"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.17890",
                             "version" : "2024.1.4",
                             "releaseDate" : "2024-04-04",
@@ -2278,6 +2298,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-2024.2.tar.gz",
                         "sha256" : "c8b84db4b9a571501b410f35d03325484f10bde53a6e4ca1c194b8b512658cfa"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.19072",
+                            "version" : "2024.1.6",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19072.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.1.6.tar.gz",
+                        "sha256" : "21fffa94d11480d7c42e564a4f951d7a560c5d48f67802cfac8c5c1accbb5283"
                     },
                     {
                         "build" : {
@@ -3430,6 +3460,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.2.tar.gz",
                         "sha256" : "f059c9fd965a9dbf520381ee4119408f96c336eaa3b69a8c31abd1d716dbbfb4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.19072",
+                            "version" : "2024.1.6",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19072.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.1.6.tar.gz",
+                        "sha256" : "ce1e780437fee6445adc5fe0aa843dd21b12221a28a9b6b7cad1347381ef9605"
                     },
                     {
                         "build" : {
@@ -5174,6 +5214,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.2.tar.gz",
                         "sha256" : "70678d02fbba642b09c242a6453de4d79f411d1f6f029e357dfcd0da9ead871a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.19072",
+                            "version" : "2024.1.6",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19072.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.1.6.tar.gz",
+                        "sha256" : "5d38d3ec22e297542c161a2f930042a8d1a2c54e4ddcec92416a8a209aeee710"
                     },
                     {
                         "build" : {
@@ -8305,6 +8355,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "241.19072",
+                            "version" : "2024.1.6",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19072.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.1.6.tar.gz",
+                        "sha256" : "9e4f17baa766234d1c47859c2828a20eaf1c098d87aa23eb97dacb4f319193a9"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.18968",
                             "version" : "2024.1.5",
                             "releaseDate" : "2024-04-04",
@@ -9877,6 +9937,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.19072",
+                            "version" : "2024.1.6",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19072.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.1.6.tar.gz",
+                        "sha256" : "539961408de4217a68b84d666d5c10ddb8d7bcf919e3a569f2489438a3237f1a"
+                    },
                     {
                         "build" : {
                             "number" : "241.18968",
@@ -11453,6 +11523,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "241.19072",
+                            "version" : "2024.1.6",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19072.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.1.6.tar.gz",
+                        "sha256" : "0ac330c95b79ed8c8dc0e03e7bffcdc6691be8c792b66161489492dbd0a529a0"
+                    },
                     {
                         "build" : {
                             "number" : "241.18968",
