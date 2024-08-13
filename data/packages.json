@@ -1347,6 +1347,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.20224.353"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.2.tar.gz",
+                        "sha256" : "7d55714f8e3afe3b3f6c7d34fd94ca6436917dcce771ac97e951f6c5eeb6a3f5"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.19072",
                             "version" : "2024.1.5",
                             "releaseDate" : "2024-04-04",
@@ -2231,16 +2241,6 @@
             },
             "eap" : {
                 "default" : [
-                    {
-                        "build" : {
-                            "number" : "242.20224",
-                            "version" : "2024.2 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "242.20224.237"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-242.20224.237.tar.gz",
-                        "sha256" : "c1f8d478e93da38135b62c292684c63b925f08601c1df8384ab1a00ef8d4387c"
-                    },
                     {
                         "build" : {
                             "number" : "232.8660",
@@ -6963,6 +6963,26 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.20224.361"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.2.tar.gz",
+                        "sha256" : "2c59d6d41aa0600705d8caedf5aed45f179e47ac85761f9dcd7dcad61e63d839"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.19072",
+                            "version" : "2024.1.6",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19072.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.1.6.tar.gz",
+                        "sha256" : "9aef0793d1a949fa8beec24cae30cff735eb7e1a84676b8b4df2d1ee03658f16"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.18968",
                             "version" : "2024.1.5",
                             "releaseDate" : "2024-04-04",
@@ -8353,6 +8373,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.20224.347"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.2.tar.gz",
+                        "sha256" : "433614ddf391fa208f65684ff511ade2d79a87de995699b6a3c6837c27b03b27"
+                    },
                     {
                         "build" : {
                             "number" : "241.19072",
@@ -9939,6 +9969,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.20224.347"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.2.tar.gz",
+                        "sha256" : "aa4c2d856627b182ec3bf695f88c0173bcf2721dcf4df0c3eb2237360f71083c"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.19072",
                             "version" : "2024.1.6",
                             "releaseDate" : "2024-04-04",
@@ -11523,6 +11563,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.20224.338"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.2.tar.gz",
+                        "sha256" : "0871a2e0d1249c4e80b1b8cadf35c82d23ea97e8e817be6dffac02d848e33a34"
+                    },
                     {
                         "build" : {
                             "number" : "241.19072",
@@ -13305,6 +13355,26 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.20224.342"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2024.2.tar.gz",
+                        "sha256" : "7d03fecf51d270129fefc846eed627c7121b51153284edae99c84ce506151a02"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.19072",
+                            "version" : "2024.1.6",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19072.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2024.1.6.tar.gz",
+                        "sha256" : "dfd3d3812df0da9bf5eaa37a2c6ce1adce1054c0cd51e79782162336a69ba8fc"
+                    },
                     {
                         "build" : {
                             "number" : "241.18034",
