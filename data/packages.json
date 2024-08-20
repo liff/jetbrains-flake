@@ -4540,6 +4540,16 @@
                     {
                         "build" : {
                             "number" : "242.21829",
+                            "version" : "2024.2.1 Release Candidate",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.21829.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.21829.40.tar.gz",
+                        "sha256" : "2fc721a5bde9d4a49b950370290ceda1510015bce7595313e1ef7160af1dfecc"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.21829",
                             "version" : "2024.2.1 Preview",
                             "releaseDate" : "2024-08-07",
                             "fullNumber" : "242.21829.15"
@@ -6311,6 +6321,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1 Release Candidate",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.21829.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-242.21829.40.tar.gz",
+                        "sha256" : "57f41e388fe740f4f9cfcb91aedb3a4d69199196c4f98527938efdbd7c6f2d54"
+                    },
                     {
                         "build" : {
                             "number" : "242.21829",
