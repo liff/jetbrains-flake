@@ -7084,6 +7084,16 @@
                     {
                         "build" : {
                             "number" : "242.20224",
+                            "version" : "2024.2.0.1",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.20224.427"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.2.0.1.tar.gz",
+                        "sha256" : "182392496510eed42c7b1f4616e6c9e5b546348ea8c235cc74da131bcbd56d29"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.20224",
                             "version" : "2024.2",
                             "releaseDate" : "2024-08-12",
                             "fullNumber" : "242.20224.361"
@@ -8513,6 +8523,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2.0.1",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.20224.428"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.2.0.1.tar.gz",
+                        "sha256" : "7d2bfb2449e85ca66ffaf40901a2c4b1498d43c16229bdad08c51a5b0571dc02"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
@@ -10117,6 +10137,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2.0.1",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.20224.428"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.2.0.1.tar.gz",
+                        "sha256" : "d9befc260f48b9809f84cefd05761848ee8be643b49c595e13fd1443c967eb25"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
