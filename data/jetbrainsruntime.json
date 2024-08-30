@@ -2,11 +2,11 @@
     "jdkVersion": "21.0.3",
     "jdkBuildNumber": "13",
     "buildNumber": "509",
-    "subBuildNumber": "4",
+    "subBuildNumber": "11",
     "bundleType": "jcef",
-    "jbrGitRev": "9fc3a38dd280",
+    "jbrGitRev": "fc3fc5fbf6c8",
     "jcefGitRev": "4a605f44671a",
-    "intellijFullNumber": "242.20224.419",
-    "tag": "jb21.0.3-b509.4",
-    "hash": "sha256-YVz2LiRxszdE9+XNujKpHm+84/4dfYldn4T7oHy/6Pg="
+    "intellijFullNumber": "242.21829.142",
+    "tag": "jb21.0.3-b509.11",
+    "hash": "sha256-zTstmrH4KteR40BVDRfxOrl8aUQ26acE+ywscBd8sw8="
 }

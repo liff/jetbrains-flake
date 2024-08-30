@@ -3493,6 +3493,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.21829.142"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.2.1.tar.gz",
+                        "sha256" : "aa817431cfad5b814d356211e4826358c647a8a550938829aef9fb9eec61366d"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.20224",
                             "version" : "2024.2.0.2",
                             "releaseDate" : "2024-08-07",
@@ -5285,6 +5295,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.21829.142"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.2.1.tar.gz",
+                        "sha256" : "781cc03526d5811061c6ffd211942698b3d18ed2f055a04f384956686a7aa0a6"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
@@ -8525,6 +8545,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.21829.153"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.2.1.tar.gz",
+                        "sha256" : "01802b2e4892a81c197cc1be08e036ea2c1dd84307a71337531b6cb2213e248a"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.20224",
                             "version" : "2024.2.0.1",
                             "releaseDate" : "2024-08-12",
@@ -10137,6 +10167,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.21829.153"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.2.1.tar.gz",
+                        "sha256" : "232ddc3c15b138264534820a40049ea4b0108647ba2972294616bc2a3f22234b"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
@@ -13575,6 +13615,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.21829.149"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2024.2.1.tar.gz",
+                        "sha256" : "a598c2686a6c8e4d6b19e1a0a54c78c2c77a772c35ef041244fece64940d8b93"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
