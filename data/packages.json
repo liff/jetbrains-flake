@@ -1367,6 +1367,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.2",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.21829.162"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.2.2.tar.gz",
+                        "sha256" : "989599d5f2c900219d3cac75557655927f0b2f95224c9cf3b1ec9ba3167bfc07"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.20224",
                             "version" : "2024.2.1",
                             "releaseDate" : "2024-08-12",
@@ -2319,6 +2329,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.21829.165"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.2.1.tar.gz",
+                        "sha256" : "46bebbbef4e34e8e38fe971473153527a1de6bfc5162176aec528e71b1c2a115"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
@@ -7103,6 +7123,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.21829.154"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.2.1.tar.gz",
+                        "sha256" : "a9df519875815cd05b65324b4f0343584bd88f72df88d82a8dd87fc501b2c001"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.20224",
                             "version" : "2024.2.0.1",
                             "releaseDate" : "2024-08-12",
@@ -11793,6 +11823,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.21829.150"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.2.1.tar.gz",
+                        "sha256" : "246640c171b9e89c135360ae52b6720f1d18e591f9c16023b14b6597131833be"
+                    },
                     {
                         "build" : {
                             "number" : "242.20224",
