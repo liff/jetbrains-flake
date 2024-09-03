@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1",
+                            "releaseDate" : "2024-08-14",
+                            "fullNumber" : "242.21829.173"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.2.1.tar.gz",
+                        "sha256" : "90c6ad146b55909ff4e09cf7290c51db2d3f94985e972133c81ad30c4654c74e"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.20224",
                             "version" : "2024.2.0.1",
                             "releaseDate" : "2024-08-14",
