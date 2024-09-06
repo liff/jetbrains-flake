@@ -3633,6 +3633,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "233.15619",
+                            "version" : "2023.3.8",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.15619.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.3.8.tar.gz",
+                        "sha256" : "3cb9e300ce3d0d03024be56ac4b254fdace6f015aa7107549a6c4fa61b4469ab"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.15325",
                             "version" : "2023.3.7",
                             "releaseDate" : "2023-12-06",
@@ -5437,6 +5447,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "233.15619",
+                            "version" : "2023.3.8",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.15619.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.3.8.tar.gz",
+                        "sha256" : "0f611af8539a0a1744e2d0083930aef128ece20a4086631240bfa6228677614e"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.15325",
                             "version" : "2023.3.7",
                             "releaseDate" : "2023-12-06",
@@ -7230,6 +7250,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.1.tar.gz",
                         "sha256" : "11c6862954f87b89d081cc0382e54b105d8b0c933dae78fd952cd2a3604889b2"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.15619",
+                            "version" : "2023.3.8",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.15619.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2023.3.8.tar.gz",
+                        "sha256" : "da610f1b6d86a154abaeea3561bd412b2e6913f8ff61943aa253078fd8d43db6"
                     },
                     {
                         "build" : {
@@ -11932,6 +11962,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.1.tar.gz",
                         "sha256" : "4fd9dcf83a1d1f6b7513c18383938bd65b2479fdb39c0421e2237a1e340c3912"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.15619",
+                            "version" : "2023.3.8",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.15619.11"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.3.8.tar.gz",
+                        "sha256" : "9bd0e5ef99217822e649527fa334daa956c46cb67cc88f14749264d1eeacdeff"
                     },
                     {
                         "build" : {
