@@ -8715,6 +8715,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "233.15619",
+                            "version" : "2023.3.7",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.15619.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2023.3.7.tar.gz",
+                        "sha256" : "0d6ef7d74b5895d94add35c4a24c7d23216b7f52688c380fa89f042e57818c00"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.15325",
                             "version" : "2023.3.6",
                             "releaseDate" : "2023-12-06",
@@ -10336,6 +10346,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.1.tar.gz",
                         "sha256" : "96048ea55ef45f1af0ebe12ad0e38e2763c9e5d654b9e174b33aaa12665d836b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.15619",
+                            "version" : "2023.3.7",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.15619.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2023.3.7.tar.gz",
+                        "sha256" : "16dabaac3ded70d6af58c40e09e84f0072c86648e60dbbd8bfeea63e10dc7bc0"
                     },
                     {
                         "build" : {
@@ -13807,6 +13827,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "233.15619",
+                            "version" : "2023.3.8",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.15619.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.3.8.tar.gz",
+                        "sha256" : "2a91ea6c50e5b2c4ef0899635465bb7159893112fc7f3fd5a42b26b0495eb394"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.15325",
                             "version" : "2023.3.7",
                             "releaseDate" : "2023-12-06",
@@ -13884,6 +13914,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.3.tar.gz",
                         "sha256" : "f9f1356cf2a49516013a4a3ead18e0bf018973e0de8e6c8da5f6e29adb2c754b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.10335",
+                            "version" : "2023.2.8",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.10335.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2023.2.8.tar.gz",
+                        "sha256" : "58e3cb0612727b8588f3239f6c403681502e7d5247a6e81f7634945845208873"
                     },
                     {
                         "build" : {
