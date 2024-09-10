@@ -95,6 +95,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "233.15619",
+                            "version" : "2023.3.6",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.15619.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.3.6.tar.gz",
+                        "sha256" : "25b9920b8dd0a9c3e0d80a22db777dbe2f372c1ca380027a28c67520f16bde24"
+                    },
+                    {
+                        "build" : {
                             "number" : "233.15325",
                             "version" : "2023.3.5",
                             "releaseDate" : "2023-12-06",
@@ -152,6 +162,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.3.tar.gz",
                         "sha256" : "0bfee58106140aeac826ee92faf7528ec30319c59a1c566d36f367a3251f2e70"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.10335",
+                            "version" : "2023.2.5",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10335.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2023.2.5.tar.gz",
+                        "sha256" : "3ddaf4a80ecaa37e520184b8f13c70c0a37b98e3afc6847c4385150736d7fa10"
                     },
                     {
                         "build" : {
@@ -2342,6 +2362,16 @@
                     {
                         "build" : {
                             "number" : "242.21829",
+                            "version" : "2024.2.1.1",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.21829.220"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.2.1.1.tar.gz",
+                        "sha256" : "9305eb0c8985cf02a43c45002d7676323a84f5a4a544a0458468a49347e6ed57"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.21829",
                             "version" : "2024.2.1",
                             "releaseDate" : "2024-08-07",
                             "fullNumber" : "242.21829.165"
@@ -2438,6 +2468,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-2024.1.tar.gz",
                         "sha256" : "783539f254e4d62f4fae153a9e737f1d69db1e44676c4d1513775571a68950e4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.15619",
+                            "version" : "2023.3.8",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.15619.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.3.8.tar.gz",
+                        "sha256" : "03bd1333bf66403c9f48eb33259a36cb5bb0663edf06e42c23afdc24713c06c1"
                     },
                     {
                         "build" : {
@@ -3720,6 +3760,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.3.tar.gz",
                         "sha256" : "bbd3d84dc2df0b4c85850c6de1ef703892828b7cbb3fd2bdc251d32430c91f3b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.10335",
+                            "version" : "2023.2.8",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10335.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2023.2.8.tar.gz",
+                        "sha256" : "60fa2e45d6299bb69e462591cf353c202c2264e40331df44513b700cfaf7da6c"
                     },
                     {
                         "build" : {
@@ -5537,6 +5587,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "232.10335",
+                            "version" : "2023.2.8",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10335.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2023.2.8.tar.gz",
+                        "sha256" : "4ff3aaf7158c2c23a46f1c35f2c284a8370129ebe9616cbe55ec3f68decc919e"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.10319",
                             "version" : "2023.2.7",
                             "releaseDate" : "2023-07-26",
@@ -7340,6 +7400,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2023.3.tar.gz",
                         "sha256" : "71ea19a11c1b62e83b4719160b2808f0de412910e3faf20690bfe53778785e2b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.10335",
+                            "version" : "2023.2.7",
+                            "releaseDate" : "2023-08-03",
+                            "fullNumber" : "232.10335.8"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2023.2.7.tar.gz",
+                        "sha256" : "ff4be57d1a2180600ae7b5ff17522ab17d9d7281507c6f97d12fd6ef65bd7ea1"
                     },
                     {
                         "build" : {
@@ -12072,6 +12142,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.3.tar.gz",
                         "sha256" : "d4b061430c743cd5956b0ee3959b1f30d28c4ae18a38bb3ed691cb9d8ac80f72"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.10335",
+                            "version" : "2023.2.8",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10335.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2023.2.8.tar.gz",
+                        "sha256" : "8a5bb9bc645b9cc2efdc3d6a56d0d5bdd547692049b4132fa674f0f1ca4f6384"
                     },
                     {
                         "build" : {
