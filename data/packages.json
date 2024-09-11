@@ -2561,6 +2561,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "232.10335",
+                            "version" : "2023.2.8",
+                            "releaseDate" : "2023-07-27",
+                            "fullNumber" : "232.10335.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2023.2.8.tar.gz",
+                        "sha256" : "d77c21cd0e2bc418f165036e4e4a390c898a2641b70b8ba992b134a13b603820"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.10319",
                             "version" : "2023.2.7",
                             "releaseDate" : "2023-07-27",
