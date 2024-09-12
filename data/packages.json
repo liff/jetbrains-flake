@@ -8875,6 +8875,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "232.10335",
+                            "version" : "2023.2.8",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10335.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2023.2.8.tar.gz",
+                        "sha256" : "481794d1dc4fa2ad1d57689edced17d3cc55ef3c0551078eb4b82130ddaa76bc"
+                    },
+                    {
+                        "build" : {
                             "number" : "232.10319",
                             "version" : "2023.2.7",
                             "releaseDate" : "2023-07-26",
@@ -10506,6 +10516,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2023.3.tar.gz",
                         "sha256" : "8d182dac3aa65b465c5a57c87ffb258dbcad7c3c6dc4b8df9a734a3b6b4a2371"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.10335",
+                            "version" : "2023.2.8",
+                            "releaseDate" : "2023-07-26",
+                            "fullNumber" : "232.10335.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2023.2.8.tar.gz",
+                        "sha256" : "b062efcafac49e041478c046493a905631c99490bf28487a79d999630c17fa0b"
                     },
                     {
                         "build" : {
