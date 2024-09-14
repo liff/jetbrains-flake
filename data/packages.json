@@ -5099,6 +5099,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "242.22855",
+                            "version" : "2024.2.2 Release Candidate",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.22855.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.22855.36.tar.gz",
+                        "sha256" : "fd524020045bfb6d986d6689cb4009043539e6f7c345fe0c026e80e7fd1e0003"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.21829",
                             "version" : "2024.2.1 Release Candidate",
                             "releaseDate" : "2024-08-07",
@@ -6930,6 +6940,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-231.4840.387.tar.gz",
                         "sha256" : "7b7d238687a7621d05d85f56ba7c754c9858cb4faaa39d6eba5c0abea2981cd4"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.22855",
+                            "version" : "2024.2.2 Release Candidate",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.22855.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-242.22855.36.tar.gz",
+                        "sha256" : "aae1827657d0a07e8fab808714a49498f6feac257815f864e7576d90676ff943"
                     },
                     {
                         "build" : {
@@ -9811,6 +9831,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.22855",
+                            "version" : "2024.2.2 Release Candidate",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.22855.32"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-242.22855.32.tar.gz",
+                        "sha256" : "68aedca9def0fe91b48532de4acf2dcfb497576629e67f06e8de0a718c030d7d"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.21829",
                             "version" : "2024.2.1 Release Candidate",
                             "releaseDate" : "2024-08-12",
@@ -11453,6 +11483,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.22855",
+                            "version" : "2024.2.2 Release Candidate",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.22855.32"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-242.22855.32.tar.gz",
+                        "sha256" : "00690c76188c6ab11637e0abf490552ad64d7f6c51792e250d8f23d75db9c591"
+                    },
                     {
                         "build" : {
                             "number" : "242.21829",
@@ -15148,6 +15188,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.5920.7.tar.gz",
                         "sha256" : "5fc5a10d8ad66e35d52b57a025f63d24fb4f7f86581403b9df05ffd92eb7ac2e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.22855",
+                            "version" : "2024.2.2 RC",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.22855.30"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.22855.30.tar.gz",
+                        "sha256" : "bc0100b9e52ced6c454951bd8f02e12f4fb7b8e060f252b81c1c5dfeaea28986"
                     },
                     {
                         "build" : {
