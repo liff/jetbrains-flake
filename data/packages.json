@@ -2382,6 +2382,16 @@
                     {
                         "build" : {
                             "number" : "242.22855",
+                            "version" : "2024.2.2.1",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.22855.106"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.2.2.1.tar.gz",
+                        "sha256" : "90c9900d996c7e57f89324a794847c986d053e8df1c1c3e3815f3cdf1b58170e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.22855",
                             "version" : "2024.2.2",
                             "releaseDate" : "2024-08-07",
                             "fullNumber" : "242.22855.85"
@@ -8117,13 +8127,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "243.12818",
+                            "number" : "243.15521",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "243.12818.54"
+                            "fullNumber" : "243.15521.35"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-243.12818.54.tar.gz",
-                        "sha256" : "f675b5dbd66c7870e048232644d61a90e019d4167a99fd1ed4e7823e3630c2b7"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-243.15521.35.tar.gz",
+                        "sha256" : "2c78cb7708a6c46be8fc78dc4380b8db86f50c2c33647f7ab8363faee913562a"
                     },
                     {
                         "build" : {
@@ -14921,13 +14931,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "243.12818",
+                            "number" : "243.15521",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "243.12818.48"
+                            "fullNumber" : "243.15521.34"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-243.12818.48.tar.gz",
-                        "sha256" : "0d213587c4d77743c3973d79e75e0c82f0f8fdab4087725f755fc5d268d26bfa"
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-243.15521.34.tar.gz",
+                        "sha256" : "a4bbf6f2ad53c5086003ea8d5e9ed9a9c2700e93dec4dbe38affc8e8c813c6b3"
                     },
                     {
                         "build" : {
