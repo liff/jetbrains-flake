@@ -2333,23 +2333,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "232.8660",
-                            "version" : "2023.2 RC",
+                            "number" : "243.16718",
+                            "version" : "2024.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "232.8660.88"
+                            "fullNumber" : "243.16718.27"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-232.8660.88.tar.gz",
-                        "sha256" : "2113dbdcd15120c4c7763b9a779188f9fec6a0a8e720c31e0e86561f257bf27e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.126"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.8109.126.tar.gz",
-                        "sha256" : "b5e3bf9ec2ce1a2a385df11003488d4c87dc3322bdcc31c30d7b620e98e2478e"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-243.16718.27.tar.gz",
+                        "sha256" : "9aea6948af0185fb57b225f779f3848f9b1719304be58f44d3e34cb5a3ace972"
                     },
                     {
                         "build" : {
@@ -2370,6 +2360,26 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.7864.19.tar.gz",
                         "sha256" : "15b4b1b3e427cb545681998bdb9458c0a5988f3df8ed1352805ffbca6e474909"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.88"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-232.8660.88.tar.gz",
+                        "sha256" : "2113dbdcd15120c4c7763b9a779188f9fec6a0a8e720c31e0e86561f257bf27e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.126"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-231.8109.126.tar.gz",
+                        "sha256" : "b5e3bf9ec2ce1a2a385df11003488d4c87dc3322bdcc31c30d7b620e98e2478e"
                     }
                 ]
             }
@@ -13477,6 +13487,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.16718",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.16718.49"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-243.16718.49.tar.gz",
+                        "sha256" : "9a00254e6540f46bf5d9320949311bdbf12cbd411be57aa7f3cb81daf43edabb"
+                    },
                     {
                         "build" : {
                             "number" : "243.15521",
