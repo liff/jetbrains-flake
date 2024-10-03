@@ -3175,6 +3175,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.18137",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.18137.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-243.18137.20.tar.gz",
+                        "sha256" : "f1debdfff56766951a6be2ddaa1bde1597669581a17a2e50ecf6887036db8885"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.16718",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
@@ -4777,6 +4787,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.18137",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.18137.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-243.18137.10.tar.gz",
+                        "sha256" : "199425212123318a808257ce8f0d39f10565f4fc7c59b8182bacc7bc9f97bd74"
+                    },
                     {
                         "build" : {
                             "number" : "243.16718",
@@ -6651,6 +6671,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.18137",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.18137.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-243.18137.10.tar.gz",
+                        "sha256" : "56747cea3075792d12aee09fc6b5bf799b6b4908501646e5167009dee348d249"
+                    },
                     {
                         "build" : {
                             "number" : "243.16718",
