@@ -8247,6 +8247,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.18137",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.18137.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-243.18137.7.tar.gz",
+                        "sha256" : "03472cdb756cde182eb068a725009b91c16bc6250c35fc400a1e907a1fd40d18"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.16718",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
@@ -10051,6 +10061,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.18137",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.18137.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-243.18137.19.tar.gz",
+                        "sha256" : "6f365679b9db5e59061e422271ae3d08491728f70107e595e6e976bf1a77907d"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.16718",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
@@ -11743,6 +11763,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.18137",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.18137.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-243.18137.19.tar.gz",
+                        "sha256" : "dd22b0eff10c3ac4c1353937c95e54c1830bdd6f3b7687c3cf329e650dd253eb"
+                    },
                     {
                         "build" : {
                             "number" : "243.16718",
@@ -13519,6 +13549,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.18137",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.18137.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-243.18137.23.tar.gz",
+                        "sha256" : "f35d938229a5a8ff40c3af08ccf267913d326a2d60caba0544ea7db188109deb"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.16718",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
@@ -15129,6 +15169,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.18137",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.18137.24"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-243.18137.24.tar.gz",
+                        "sha256" : "df6adabfec0d4a8b22a259b14a53fb8e418c8d430c03bc2a840d9b032dcf57f8"
+                    },
                     {
                         "build" : {
                             "number" : "243.16718",
