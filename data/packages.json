@@ -1049,6 +1049,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.18137",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.18137.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-243.18137.40.tar.gz",
+                        "sha256" : "90aa831a955ca50c64d4fbc711191d12970ed97510bd718f42f5092b2967fc68"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.16718",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
