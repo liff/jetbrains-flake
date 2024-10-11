@@ -1049,6 +1049,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.19420",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.19420.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-243.19420.28.tar.gz",
+                        "sha256" : "48648be88a76b807b0a824f051e2d578292d72b901ea52d3e95a1f6288f4b5ea"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.18137",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
@@ -3185,6 +3195,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.19420",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.19420.29"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-243.19420.29.tar.gz",
+                        "sha256" : "090efd745e3bf169a4c196072d6892fee7d7a2936bb6ada83a9903b2516194cc"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.18137",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
@@ -5239,6 +5259,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4 Preview",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.23726.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.23726.16.tar.gz",
+                        "sha256" : "f3ff8b9c285cabcc589ed7af6e9dad6e544cb481349e313a679efb90619b58c9"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.22855",
                             "version" : "2024.2.2 Release Candidate",
                             "releaseDate" : "2024-08-07",
@@ -7133,6 +7163,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4 Preview",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.23726.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-242.23726.16.tar.gz",
+                        "sha256" : "77576ddfa2f608fb6602cd25ab2b079f82550deffbb520463e58d811b09a181c"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.22855",
                             "version" : "2024.2.2 Release Candidate",
                             "releaseDate" : "2024-08-07",
@@ -8277,6 +8317,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.19420",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.19420.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-243.19420.27.tar.gz",
+                        "sha256" : "f60efb4e901c16108e7569debdda2e70b48fbdbf71d59d1ce61184e6d0c86306"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.18137",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
@@ -8664,6 +8714,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
                         "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4 Preview",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.23726.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.23726.19.tar.gz",
+                        "sha256" : "57a67bfba33533f71614cda9d72029fbd44727e8564b6dd8a2684041d66fb5e0"
                     },
                     {
                         "build" : {
@@ -10411,6 +10471,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4 Release Candidate",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.23726.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-242.23726.20.tar.gz",
+                        "sha256" : "244906849fad254a1b20a92b5c903c99622a2959312d63b54d338686fc68d824"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.22855",
                             "version" : "2024.2.2 Release Candidate",
                             "releaseDate" : "2024-08-12",
@@ -12112,6 +12182,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-231.6471.3.tar.gz",
                         "sha256" : "4ec3040381883c3ceef74c5df887c07ad2be0dbfa9954de6235d2141335487bf"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4 Release Candidate",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.23726.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-242.23726.20.tar.gz",
+                        "sha256" : "551e5739223771fe1b5b428c2c859cc60409a3cea9d2d61a73003816389b3e36"
                     },
                     {
                         "build" : {
@@ -15199,6 +15279,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.19420",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.19420.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-243.19420.26.tar.gz",
+                        "sha256" : "71e57c636ac1906bb5325d2c6556022939c2d74732623c876c79dd1bbc4a809b"
+                    },
                     {
                         "build" : {
                             "number" : "243.18137",
