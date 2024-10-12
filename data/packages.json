@@ -10151,6 +10151,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.19420",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.19420.35"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-243.19420.35.tar.gz",
+                        "sha256" : "76066f2e4e572c3f98a77260e90aaf408b946beb08c8fffc07245b4436940b0a"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.18137",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
@@ -11863,6 +11873,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.19420",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.19420.35"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-243.19420.35.tar.gz",
+                        "sha256" : "ce9906770d408871f2c3b03434f277ebf34a33a17776e55c98f4145c1b3e2f36"
+                    },
                     {
                         "build" : {
                             "number" : "243.18137",
@@ -14096,6 +14116,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-231.5920.15.tar.gz",
                         "sha256" : "bd195836501a6af3732634f2c9ee556ce33c4bc557f8de2408187a4f0bb286c8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4 Preview",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.23726.18"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-242.23726.18.tar.gz",
+                        "sha256" : "8398cb07001cb9bde4f736e773b096025558c193df1c52bc697856cebfdca735"
                     },
                     {
                         "build" : {
