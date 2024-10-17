@@ -5260,6 +5260,16 @@
                     {
                         "build" : {
                             "number" : "242.23726",
+                            "version" : "2024.2.4 RC",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.23726.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-242.23726.38.tar.gz",
+                        "sha256" : "60d7cf18fae2713031f17cff679b554e82f5edd193d4eebbedb35247c9ccbb4b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.23726",
                             "version" : "2024.2.4 Preview",
                             "releaseDate" : "2024-08-07",
                             "fullNumber" : "242.23726.16"
@@ -7164,6 +7174,16 @@
                     {
                         "build" : {
                             "number" : "242.23726",
+                            "version" : "2024.2.4 RC",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.23726.38"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-242.23726.38.tar.gz",
+                        "sha256" : "61e42fa8f45910b9dd5c529702a5f472dc7786a8611485ee08c977d99540c40b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.23726",
                             "version" : "2024.2.4 Preview",
                             "releaseDate" : "2024-08-07",
                             "fullNumber" : "242.23726.16"
@@ -8714,6 +8734,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
                         "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4 Release Candidate",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.23726.55"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.23726.55.tar.gz",
+                        "sha256" : "23fbb47a9a6f6c16cfcb03bbc62ddf3ed766ed8972613ee1eb155b6386ebf985"
                     },
                     {
                         "build" : {
