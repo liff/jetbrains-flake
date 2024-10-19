@@ -45,6 +45,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "241.19416",
+                            "version" : "2024.1.6",
+                            "releaseDate" : "2024-04-09",
+                            "fullNumber" : "241.19416.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.1.6.tar.gz",
+                        "sha256" : "77485f3267de73a24289f9feef8166daf5419bb5d132d4f5d4c6234d7fbdd4cb"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.19072",
                             "version" : "2024.1.5",
                             "releaseDate" : "2024-04-09",
@@ -9165,6 +9175,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "241.19416",
+                            "version" : "2024.1.7",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19416.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.1.7.tar.gz",
+                        "sha256" : "52c7d266bab243b945547973eb98fb048c2f8e8037a71d8ddb405dc4fc85a807"
+                    },
+                    {
+                        "build" : {
                             "number" : "241.19072",
                             "version" : "2024.1.6",
                             "releaseDate" : "2024-04-04",
@@ -10896,6 +10916,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.2.tar.gz",
                         "sha256" : "aa4c2d856627b182ec3bf695f88c0173bcf2721dcf4df0c3eb2237360f71083c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.19416",
+                            "version" : "2024.1.7",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.19416.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.1.7.tar.gz",
+                        "sha256" : "d72188c041c3211018dbee776430fb6e86a82221311995d07e06596c9a900a0c"
                     },
                     {
                         "build" : {
