@@ -3713,6 +3713,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.23726.103"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.2.4.tar.gz",
+                        "sha256" : "8411fda793a20356a4982e4f18f6691839d8a471e2081ab6d8cc78b3f8b02532"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.23339",
                             "version" : "2024.2.3",
                             "releaseDate" : "2024-08-07",
@@ -5645,6 +5655,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.23726.103"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.2.4.tar.gz",
+                        "sha256" : "0142d03ecd3b65bfa6c0d9944e3ac52438046d51277878362279e6358b1aebfa"
+                    },
                     {
                         "build" : {
                             "number" : "242.23339",
@@ -9165,6 +9185,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.23726.102"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.2.4.tar.gz",
+                        "sha256" : "18670fd35742aa6a1fef8a2d10248f2a33cb1349e4f4d4603918b212544c86cf"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.23339",
                             "version" : "2024.2.3",
                             "releaseDate" : "2024-08-12",
@@ -10917,6 +10947,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.23726.102"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.2.4.tar.gz",
+                        "sha256" : "08fc092c4c7919a43caa64ec04684060ca9f6f0df27a1be68fe088020b705b28"
+                    },
                     {
                         "build" : {
                             "number" : "242.23339",
