@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.3",
+                            "releaseDate" : "2024-08-14",
+                            "fullNumber" : "242.23726.125"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.2.3.tar.gz",
+                        "sha256" : "0afb6e32fe1ceb77ddd07ca7fa7d01a0a5e73a0df42ec58183f9c1a06b84446e"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.22855",
                             "version" : "2024.2.2",
                             "releaseDate" : "2024-08-14",
@@ -15669,6 +15679,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.21155",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.21155.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-243.21155.21.tar.gz",
+                        "sha256" : "0019c3e75765df6a471447b4ee7b9d48ff5ea7b1ea1f69a0507c2cbeb142ccc6"
+                    },
                     {
                         "build" : {
                             "number" : "243.20847",
