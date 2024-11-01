@@ -2383,13 +2383,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "243.20847",
+                            "number" : "243.21565",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "243.20847.10"
+                            "fullNumber" : "243.21565.48"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-243.20847.10.tar.gz",
-                        "sha256" : "c228ca73e49bb129f015871ccf6d71e739a8465c73937cbab5fe152439b34d57"
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-243.21565.48.tar.gz",
+                        "sha256" : "10273973d509889346445652a19ceda987aefeeec830a7988c505f7a9af3fb0e"
                     },
                     {
                         "build" : {
@@ -3223,6 +3223,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.21565.42"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-243.21565.42.tar.gz",
+                        "sha256" : "d77572f4ba53b84a43e6886865dbb2feef0ccd067ecfb596404d888f468bb86b"
+                    },
                     {
                         "build" : {
                             "number" : "243.21155",
@@ -10391,6 +10401,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.21565.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-243.21565.33.tar.gz",
+                        "sha256" : "c01202a6bf9148d76b38e3429fb4cd89f9c351174f68c9fa3c66c7ed95095618"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.21155",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
@@ -12163,6 +12183,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.21565.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-243.21565.33.tar.gz",
+                        "sha256" : "a0959e3e138b06a920eb258d6df647ba50c667620400de25cd1e4ed8ddb6db7f"
+                    },
                     {
                         "build" : {
                             "number" : "243.21155",
@@ -14019,6 +14049,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.21565.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-243.21565.26.tar.gz",
+                        "sha256" : "c97f322d2d71a1bea0b9418dfc7550510510e96380bd44eb2a3adfc1a25656da"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.21155",
                             "version" : "2024.3 EAP",
                             "releaseDate" : null,
@@ -15709,6 +15749,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.21565.35"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-243.21565.35.tar.gz",
+                        "sha256" : "40d8ea133be6878610f27971c8978264d913764cc8cd14e82f2ad5c103a5ebad"
+                    },
                     {
                         "build" : {
                             "number" : "243.21155",
