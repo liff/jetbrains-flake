@@ -1070,6 +1070,66 @@
                     {
                         "build" : {
                             "number" : "243.21565",
+                            "version" : "2024.3 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.21565.198"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-243.21565.198.tar.gz",
+                        "sha256" : "eaed98fdc5c65d92cc33867f704fe54375868a9b6ecfaf32085b276e58e8f227"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.214"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-242.20224.214.tar.gz",
+                        "sha256" : "2074725768d0559028bf9b36abfe25d800eab7345bf75a640c2100aa833d111f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14494.229"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-241.14494.229.tar.gz",
+                        "sha256" : "68813ac03471a72c0ea4660d1a0e0aa8ee72d2269307779d5fd9dfc177f026f5"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.171"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-233.11799.171.tar.gz",
+                        "sha256" : "8d70fe7fe0389f383dcdf704f21818e7f04cd42637eb2f4b9ba9f2524dbe7438"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.139"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-232.8660.139.tar.gz",
+                        "sha256" : "8eabad2102d85151d0f7bc27dcc37535db0f4ac8c6b1b9b2c70fd71acac0e1df"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.141"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-231.8109.141.tar.gz",
+                        "sha256" : "ef7b5448227fd48561f0e108ff26741c5a6f5932cfeda35bc2cee1cd6b81ba9b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.21565",
                             "version" : "2024.3 Beta",
                             "releaseDate" : null,
                             "fullNumber" : "243.21565.87"
@@ -1416,56 +1476,6 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/cpp/CLion-231.5920.6.tar.gz",
                         "sha256" : "a95bf54dc0db6921889b88c290ffd5aabd15d76ccd996d21b90a0f64ba896591"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.20224",
-                            "version" : "2024.2 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "242.20224.214"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-242.20224.214.tar.gz",
-                        "sha256" : "2074725768d0559028bf9b36abfe25d800eab7345bf75a640c2100aa833d111f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.14494",
-                            "version" : "2024.1 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "241.14494.229"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-241.14494.229.tar.gz",
-                        "sha256" : "68813ac03471a72c0ea4660d1a0e0aa8ee72d2269307779d5fd9dfc177f026f5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "233.11799",
-                            "version" : "2023.3 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "233.11799.171"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-233.11799.171.tar.gz",
-                        "sha256" : "8d70fe7fe0389f383dcdf704f21818e7f04cd42637eb2f4b9ba9f2524dbe7438"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8660",
-                            "version" : "2023.2 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8660.139"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-232.8660.139.tar.gz",
-                        "sha256" : "8eabad2102d85151d0f7bc27dcc37535db0f4ac8c6b1b9b2c70fd71acac0e1df"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.141"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-231.8109.141.tar.gz",
-                        "sha256" : "ef7b5448227fd48561f0e108ff26741c5a6f5932cfeda35bc2cee1cd6b81ba9b"
                     }
                 ]
             }
@@ -3763,6 +3773,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3",
+                            "releaseDate" : "2024-11-12",
+                            "fullNumber" : "243.21565.193"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.3.tar.gz",
+                        "sha256" : "c0627c42510bdd25b82127db62997fe6b7b98cc7e30987a83fa0b419692a15c1"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.23726",
                             "version" : "2024.2.4",
                             "releaseDate" : "2024-08-07",
@@ -5735,6 +5755,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3",
+                            "releaseDate" : "2024-11-12",
+                            "fullNumber" : "243.21565.193"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.3.tar.gz",
+                        "sha256" : "16d4f411b62ddc7747fe11e8fff004bf8d144df4052b8111306fd4cbba8f748c"
+                    },
                     {
                         "build" : {
                             "number" : "242.23726",
@@ -9335,6 +9365,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.21565.199"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.3.tar.gz",
+                        "sha256" : "142d7033f0548fd4f3e26bb2f8507f5d16048d9dfbe2f3a3de5246042e269ff7"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.23726",
                             "version" : "2024.2.4",
                             "releaseDate" : "2024-08-12",
@@ -11127,6 +11167,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.21565.199"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.3.tar.gz",
+                        "sha256" : "266975b832a4b2ec6cf23adc2c244650c1fb546f1ffa36dc2405866f1c32cb3e"
+                    },
                     {
                         "build" : {
                             "number" : "242.23726",
@@ -12923,6 +12973,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.21565.197"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.3.tar.gz",
+                        "sha256" : "391ed7fa3f46d672f9d2a9706f21c33f974472cb81ebb172931c6b16c8aa9836"
+                    },
                     {
                         "build" : {
                             "number" : "242.23726",
