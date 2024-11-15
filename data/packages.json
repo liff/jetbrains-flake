@@ -1487,6 +1487,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.21565.204"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.3.tar.gz",
+                        "sha256" : "22bce5430534136dc5e63f9e38007f85d2e06b8e96ca42f2403d205dcc171caf"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.21829",
                             "version" : "2024.2.2",
                             "releaseDate" : "2024-08-12",
@@ -2403,16 +2413,6 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "243.21565",
-                            "version" : "2024.3 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "243.21565.122"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-243.21565.122.tar.gz",
-                        "sha256" : "ccde2e806fb8df7976e8e4f7d04f8591db1e7cb010798a028fc0f71d3d0b28bc"
-                    },
-                    {
-                        "build" : {
                             "number" : "232.8660",
                             "version" : "2023.2 RC",
                             "releaseDate" : null,
@@ -2459,6 +2459,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.21565.208"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.3.tar.gz",
+                        "sha256" : "6d52c50fb665f1d42f1eba8fcfafca0ac4ce101a235ea435558a542ae290a6af"
+                    },
                     {
                         "build" : {
                             "number" : "242.23339",
@@ -7741,6 +7751,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.21565.202"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.3.tar.gz",
+                        "sha256" : "60e39a14dad77ffa7b2e36f701dc4d5c5bb281231d06d7c292807483a6879071"
+                    },
                     {
                         "build" : {
                             "number" : "242.23726",
