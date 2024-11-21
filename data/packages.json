@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3",
+                            "releaseDate" : "2024-11-20",
+                            "fullNumber" : "243.21565.238"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.3.tar.gz",
+                        "sha256" : "e66ee52c365552fe40d035f5b205ab8c28a9a02ed4af5f787b78a0048bcf7f81"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.23726",
                             "version" : "2024.2.3",
                             "releaseDate" : "2024-08-14",
@@ -4939,6 +4949,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1 Preview",
+                            "releaseDate" : "2024-11-12",
+                            "fullNumber" : "243.22562.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-243.22562.13.tar.gz",
+                        "sha256" : "7bb3a03c88082af5ecaeba87a1a4a8fe2504d01c29b2b4c770aa516823e5dc94"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.21565",
                             "version" : "2024.3 RC",
                             "releaseDate" : null,
@@ -6921,6 +6941,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1 Preview",
+                            "releaseDate" : "2024-11-12",
+                            "fullNumber" : "243.22562.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-243.22562.13.tar.gz",
+                        "sha256" : "a2db8d541a1942587610f4fb25a0acff1eafceb4d3bad6618468a80efe87f704"
+                    },
                     {
                         "build" : {
                             "number" : "243.21565",
