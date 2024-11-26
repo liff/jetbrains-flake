@@ -10551,6 +10551,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1 Release Candidate",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-243.22562.23.tar.gz",
+                        "sha256" : "4bed08f7686bd1a0e75a801f4d242d21e2a48f01e1328a65bec5e685124e0dbf"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.21565",
                             "version" : "2024.3 Release Candidate",
                             "releaseDate" : null,
@@ -12353,6 +12363,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1 Release Candidate",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.23"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-243.22562.23.tar.gz",
+                        "sha256" : "9329f1955ba02db268b147d8143724697da0b7f5f0cea5be51326505b93e1ee1"
+                    },
                     {
                         "build" : {
                             "number" : "243.21565",
