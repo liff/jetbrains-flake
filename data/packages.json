@@ -15,6 +15,16 @@
                     },
                     {
                         "build" : {
+                            "number" : "242.24807",
+                            "version" : "2024.2.4",
+                            "releaseDate" : "2024-08-14",
+                            "fullNumber" : "242.24807.15"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.2.4.tar.gz",
+                        "sha256" : "f31879818fe2e11dc58609a9ea86d57e41aa51eb1c190a8625e361fc7e783bcd"
+                    },
+                    {
+                        "build" : {
                             "number" : "242.23726",
                             "version" : "2024.2.3",
                             "releaseDate" : "2024-08-14",
@@ -3795,11 +3805,21 @@
                         "build" : {
                             "number" : "243.21565",
                             "version" : "2024.3",
-                            "releaseDate" : "2024-11-12",
+                            "releaseDate" : "2024-11-13",
                             "fullNumber" : "243.21565.193"
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.3.tar.gz",
                         "sha256" : "c0627c42510bdd25b82127db62997fe6b7b98cc7e30987a83fa0b419692a15c1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.24807",
+                            "version" : "2024.2.5",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.24807.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.2.5.tar.gz",
+                        "sha256" : "83082ca82fd7c9adda0c2c860d5100601f2b77804ad1fbb877522fd566e2b382"
                     },
                     {
                         "build" : {
@@ -4950,8 +4970,18 @@
                     {
                         "build" : {
                             "number" : "243.22562",
+                            "version" : "2024.3.1 Release Candidate",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.59"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-243.22562.59.tar.gz",
+                        "sha256" : "6f6007f59fea7af6173fe5ed74614defcedf98cefee9a6d40891c0b0b680f5a3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.22562",
                             "version" : "2024.3.1 Preview",
-                            "releaseDate" : "2024-11-12",
+                            "releaseDate" : "2024-11-13",
                             "fullNumber" : "243.22562.13"
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-243.22562.13.tar.gz",
@@ -5789,11 +5819,21 @@
                         "build" : {
                             "number" : "243.21565",
                             "version" : "2024.3",
-                            "releaseDate" : "2024-11-12",
+                            "releaseDate" : "2024-11-13",
                             "fullNumber" : "243.21565.193"
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.3.tar.gz",
                         "sha256" : "16d4f411b62ddc7747fe11e8fff004bf8d144df4052b8111306fd4cbba8f748c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.24807",
+                            "version" : "2024.2.5",
+                            "releaseDate" : "2024-08-07",
+                            "fullNumber" : "242.24807.4"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.2.5.tar.gz",
+                        "sha256" : "f900a1277dadf13233851d4d0cedc9d81d7ea776d02fb14b8c4dfc39c7d729f8"
                     },
                     {
                         "build" : {
@@ -6944,8 +6984,18 @@
                     {
                         "build" : {
                             "number" : "243.22562",
+                            "version" : "2024.3.1 Release Candidate",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.59"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-243.22562.59.tar.gz",
+                        "sha256" : "c7bf8b51ba4a36d5fc997ed752c6bfd62454b107da6d9d030eea2dcc984b439d"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.22562",
                             "version" : "2024.3.1 Preview",
-                            "releaseDate" : "2024-11-12",
+                            "releaseDate" : "2024-11-13",
                             "fullNumber" : "243.22562.13"
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-243.22562.13.tar.gz",
@@ -7790,6 +7840,16 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.3.tar.gz",
                         "sha256" : "60e39a14dad77ffa7b2e36f701dc4d5c5bb281231d06d7c292807483a6879071"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.24807",
+                            "version" : "2024.2.5",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.24807.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.2.5.tar.gz",
+                        "sha256" : "cc3af0f6b59ef5e3720050f6bf35d372895dc07b7cfd1435c5289b3fb37da6c6"
                     },
                     {
                         "build" : {
