@@ -1508,6 +1508,16 @@
                     {
                         "build" : {
                             "number" : "243.22562",
+                            "version" : "2024.3.2",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.22562.115"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.3.2.tar.gz",
+                        "sha256" : "8375752c0b24a363b982862af91d65b573aebabc36b55b16fbeff2c208176f61"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.22562",
                             "version" : "2024.3.1",
                             "releaseDate" : "2024-11-14",
                             "fullNumber" : "243.22562.53"
@@ -15225,6 +15235,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1",
+                            "releaseDate" : "2024-11-12",
+                            "fullNumber" : "243.22562.112"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2024.3.1.tar.gz",
+                        "sha256" : "f9122a02312bee9d06c77774cad37b32ac0dcbc460af4ac8b8059a1780d16018"
+                    },
                     {
                         "build" : {
                             "number" : "243.21565",
