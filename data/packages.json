@@ -2511,6 +2511,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.22562.186"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.3.1.tar.gz",
+                        "sha256" : "028cb0c004c1f0d6e46ce897784ea37291900a85ea49df47678c86aaea1ea681"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.21565",
                             "version" : "2024.3",
                             "releaseDate" : "2024-11-14",
@@ -9565,6 +9575,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.180"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.3.1.tar.gz",
+                        "sha256" : "7bd9ea5c4eae1d1fc71cd538b1443c809c77c05fb8c793f3ebb5b1abd898a70f"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.21565",
                             "version" : "2024.3",
                             "releaseDate" : "2024-11-13",
@@ -11397,6 +11417,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.180"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.3.1.tar.gz",
+                        "sha256" : "b262750532c2655482bee77dbb2dea7e4d0604ab7413cc622f32fdc24458a58c"
+                    },
                     {
                         "build" : {
                             "number" : "243.21565",
