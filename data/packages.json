@@ -6,6 +6,16 @@
                     {
                         "build" : {
                             "number" : "243.22562",
+                            "version" : "2024.3.1.1",
+                            "releaseDate" : "2024-11-20",
+                            "fullNumber" : "243.22562.225"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.3.1.1.tar.gz",
+                        "sha256" : "054eff2dcdb7779b97d940b5425ae7c56bfafd657367e3a749275ef6a0a40368"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.22562",
                             "version" : "2024.3.1",
                             "releaseDate" : "2024-11-20",
                             "fullNumber" : "243.22562.155"
@@ -1515,6 +1525,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.23654",
+                            "version" : "2024.3.3",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.23654.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.3.3.tar.gz",
+                        "sha256" : "84158baba8040ea4a6fac4663b9205c410ff7f04d803c2af1e9b4746a6270445"
+                    },
                     {
                         "build" : {
                             "number" : "243.22562",
@@ -3854,6 +3874,16 @@
                     {
                         "build" : {
                             "number" : "243.22562",
+                            "version" : "2024.3.1.1",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.218"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.3.1.1.tar.gz",
+                        "sha256" : "d80684aa73fe9dee14ea405058d54a34340266cf675bfbaf4c760da6eb2d3fe9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.22562",
                             "version" : "2024.3.1",
                             "releaseDate" : "2024-11-13",
                             "fullNumber" : "243.22562.145"
@@ -5875,6 +5905,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1.1",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.218"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.3.1.1.tar.gz",
+                        "sha256" : "b183b126de2cd457475eea184874b5da2fa33ba5ae2ff874bdc8c1d534156428"
+                    },
                     {
                         "build" : {
                             "number" : "243.22562",
@@ -7904,6 +7944,16 @@
                     {
                         "build" : {
                             "number" : "243.22562",
+                            "version" : "2024.3.1.1",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.22562.233"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.3.1.1.tar.gz",
+                        "sha256" : "8bb909b6322f296d4e44265223cffca2649e4344d1233b670f751c5b2d7ae698"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.22562",
                             "version" : "2024.3.1",
                             "releaseDate" : "2024-11-14",
                             "fullNumber" : "243.22562.164"
@@ -9573,6 +9623,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1.1",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.220"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-2024.3.1.1.tar.gz",
+                        "sha256" : "5698131d93d00a261c720a31ec54ef1c850581c274be6938dd923e8c0383da25"
+                    },
                     {
                         "build" : {
                             "number" : "243.22562",
@@ -11417,6 +11477,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1.1",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.220"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-2024.3.1.1.tar.gz",
+                        "sha256" : "36b9332262815099d0b86d2689fcf91b379730cb838623d82c0845969bb6470f"
+                    },
                     {
                         "build" : {
                             "number" : "243.22562",
@@ -15315,6 +15385,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1.1",
+                            "releaseDate" : "2024-11-12",
+                            "fullNumber" : "243.22562.222"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2024.3.1.1.tar.gz",
+                        "sha256" : "275999ca069658257d6f06875f283abf9c0b102bdf812cf7eefe86a1dda90c1b"
+                    },
                     {
                         "build" : {
                             "number" : "243.22562",
