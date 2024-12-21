@@ -13336,6 +13336,16 @@
                     {
                         "build" : {
                             "number" : "243.22562",
+                            "version" : "2024.3.1.1",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.22562.213"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1.tar.gz",
+                        "sha256" : "fe849fd90725f12c6dabb20973f1d5eb6fc9baddd692961197527326639d7def"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.22562",
                             "version" : "2024.3.1",
                             "releaseDate" : "2024-11-13",
                             "fullNumber" : "243.22562.151"
