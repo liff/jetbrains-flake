@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.23654",
+                            "version" : "2024.3.2",
+                            "releaseDate" : "2024-11-20",
+                            "fullNumber" : "243.23654.114"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.3.2.tar.gz",
+                        "sha256" : "f21d72269bc0f3ce618f925ded44b5da440bcf1ec4ef3d83335acd90d020b6fa"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.22562",
                             "version" : "2024.3.1.1",
                             "releaseDate" : "2024-11-20",
@@ -3355,73 +3365,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "243.21565",
-                            "version" : "2024.3 RC",
+                            "number" : "251.14649",
+                            "version" : "2025.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "243.21565.135"
+                            "fullNumber" : "251.14649.63"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-243.21565.135.tar.gz",
-                        "sha256" : "83f42d151b67bc0217a5a3778d0e373a56e8f100b3065d49157e8d65ad0ec3ef"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.20224",
-                            "version" : "2024.2 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "242.20224.204"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-242.20224.204.tar.gz",
-                        "sha256" : "6e93a667fd2ee2918a70dd74bca7434db64cd244be6fec951bcefe8e0ebb7345"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.14494",
-                            "version" : "2024.1 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "241.14494.155"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-241.14494.155.tar.gz",
-                        "sha256" : "d45a23a741335a47413a15205b5f23fdf1cac1d3cf547969b244cfe71d18d48b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "233.11799",
-                            "version" : "2023.3 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "233.11799.194"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-233.11799.194.tar.gz",
-                        "sha256" : "2c3e806d8d967567cfe67be7ed0efeee931d27926364f9c5b0abc72f383962e5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8660",
-                            "version" : "2023.2 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8660.149"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-232.8660.149.tar.gz",
-                        "sha256" : "3c93e36d6ed2daf256865543279a91458fd65ff46db65d125f96ec6f842e057e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 Release Candidate 2",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.172"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-231.8109.172.tar.gz",
-                        "sha256" : "5c3d388e9885f2a7fdc58ca43b7c772815e4779e9414cf86d972bc3d3875a8c2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.147"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/go/goland-231.8109.147.tar.gz",
-                        "sha256" : "74ecce6abde168203eb90e39607a63db2864532ee82b3130ad58314e3d441d0f"
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-251.14649.63.tar.gz",
+                        "sha256" : "1f32128d67c52be89467e0adf648c5ec559e040a72c2db8cbba02ea4ac0860b2"
                     },
                     {
                         "build" : {
@@ -3872,6 +3822,76 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-231.5920.13.tar.gz",
                         "sha256" : "419ec217d358da75b77d48c0142b9a85e07388ac696c66675cab5fcac6d1f6d3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.21565.135"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-243.21565.135.tar.gz",
+                        "sha256" : "83f42d151b67bc0217a5a3778d0e373a56e8f100b3065d49157e8d65ad0ec3ef"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.204"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-242.20224.204.tar.gz",
+                        "sha256" : "6e93a667fd2ee2918a70dd74bca7434db64cd244be6fec951bcefe8e0ebb7345"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14494.155"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-241.14494.155.tar.gz",
+                        "sha256" : "d45a23a741335a47413a15205b5f23fdf1cac1d3cf547969b244cfe71d18d48b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.194"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-233.11799.194.tar.gz",
+                        "sha256" : "2c3e806d8d967567cfe67be7ed0efeee931d27926364f9c5b0abc72f383962e5"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.149"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-232.8660.149.tar.gz",
+                        "sha256" : "3c93e36d6ed2daf256865543279a91458fd65ff46db65d125f96ec6f842e057e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.172"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-231.8109.172.tar.gz",
+                        "sha256" : "5c3d388e9885f2a7fdc58ca43b7c772815e4779e9414cf86d972bc3d3875a8c2"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.147"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-231.8109.147.tar.gz",
+                        "sha256" : "74ecce6abde168203eb90e39607a63db2864532ee82b3130ad58314e3d441d0f"
                     }
                 ]
             }
@@ -3881,6 +3901,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.23654",
+                            "version" : "2024.3.2",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.23654.117"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.3.2.tar.gz",
+                        "sha256" : "05f30fff53c1b73f9c261e812c236134e203bf7d847424a27d9409fd6b0b6fcb"
+                    },
                     {
                         "build" : {
                             "number" : "243.22562",
@@ -5925,6 +5955,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.23654",
+                            "version" : "2024.3.2",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.23654.117"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.3.2.tar.gz",
+                        "sha256" : "ad9d587b704806d9a21dfebe5c51415df94699bba958d7133763cfd56934ced8"
+                    },
                     {
                         "build" : {
                             "number" : "243.22562",
@@ -7973,6 +8013,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.23654",
+                            "version" : "2024.3.2",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.23654.115"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.3.2.tar.gz",
+                        "sha256" : "922f11f877b66d1815d5440b4891421269d2d235112e2fa6270b61096db36c2f"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.22562",
                             "version" : "2024.3.1.1",
                             "releaseDate" : "2024-11-14",
@@ -8847,373 +8897,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "243.22562",
-                            "version" : "2024.3.1 Release Candidate",
-                            "releaseDate" : "2024-11-14",
-                            "fullNumber" : "243.22562.74"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-243.22562.74.tar.gz",
-                        "sha256" : "05dd017986e692f4e26b476ae6df65088c081c9542b1295b6fdc87cef5698558"
-                    },
-                    {
-                        "build" : {
-                            "number" : "243.22562",
-                            "version" : "2024.3.1 Preview",
-                            "releaseDate" : "2024-11-14",
-                            "fullNumber" : "243.22562.9"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-243.22562.9.tar.gz",
-                        "sha256" : "e3f3a6363d116b7bf5e7747e833f36aaf0c39b7290b4b7dced599633f3b14b1c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "243.21565",
-                            "version" : "2024.3 RC",
+                            "number" : "251.14649",
+                            "version" : "2025.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "243.21565.133"
+                            "fullNumber" : "251.14649.45"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-243.21565.133.tar.gz",
-                        "sha256" : "13346ea5ec0aa7fea4011b6d5dd7d48c72e94c9ebf7362760412c699444bde3c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.23726",
-                            "version" : "2024.2.4 Release Candidate",
-                            "releaseDate" : "2024-08-12",
-                            "fullNumber" : "242.23726.55"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.23726.55.tar.gz",
-                        "sha256" : "23fbb47a9a6f6c16cfcb03bbc62ddf3ed766ed8972613ee1eb155b6386ebf985"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.23726",
-                            "version" : "2024.2.4 Preview",
-                            "releaseDate" : "2024-08-12",
-                            "fullNumber" : "242.23726.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.23726.19.tar.gz",
-                        "sha256" : "57a67bfba33533f71614cda9d72029fbd44727e8564b6dd8a2684041d66fb5e0"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.22855",
-                            "version" : "2024.2.2 Release Candidate",
-                            "releaseDate" : "2024-08-12",
-                            "fullNumber" : "242.22855.33"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.22855.33.tar.gz",
-                        "sha256" : "c69c1f8750593cd38cd6e7f965badec396f2553a08ed117aa0f94e0588334618"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.21829",
-                            "version" : "2024.2.1 Release Candidate",
-                            "releaseDate" : "2024-08-12",
-                            "fullNumber" : "242.21829.34"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.21829.34.tar.gz",
-                        "sha256" : "cce2c117ad5cd643904943d56a198d3fa03b7faa1808e6af44ccccf2be50b593"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.21829",
-                            "version" : "2024.2.1 Preview",
-                            "releaseDate" : "2024-08-12",
-                            "fullNumber" : "242.21829.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.21829.14.tar.gz",
-                        "sha256" : "240f9efe65e3e8f6a061c8c7e9b46f67a81f8db8becb2fef0cdae7961e5d1cfd"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.20224",
-                            "version" : "2024.2 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "242.20224.175"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.20224.175.tar.gz",
-                        "sha256" : "5db2a490fcef0e5787898bd808d1243c6e658aad4921fc287819f7fd6678aa26"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.18034",
-                            "version" : "2024.1.4 Release Candidate",
-                            "releaseDate" : "2024-04-04",
-                            "fullNumber" : "241.18034.17"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.18034.17.tar.gz",
-                        "sha256" : "52d6dd76c82a3d849ff66dc7c21a497dabf302ac876703e411f5413e5f845684"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.17011",
-                            "version" : "2024.1.2 Release Candidate",
-                            "releaseDate" : "2024-04-04",
-                            "fullNumber" : "241.17011.49"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.17011.49.tar.gz",
-                        "sha256" : "b82026fa44bfdaf13bcf4ae82fab5817c2e4116c737467e65bebdadaa1f4f958"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.17011",
-                            "version" : "2024.1.2 Preview",
-                            "releaseDate" : "2024-04-04",
-                            "fullNumber" : "241.17011.22"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.17011.22.tar.gz",
-                        "sha256" : "74199b996e5b19bf0b476943186cbc861069e24f2fc583be327bbdbba9a0178d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.15989",
-                            "version" : "2024.1.1 Release Candidate",
-                            "releaseDate" : "2024-04-04",
-                            "fullNumber" : "241.15989.66"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.15989.66.tar.gz",
-                        "sha256" : "91ffc36909ed59d4648c971e316214b12be5b5f6b7474fec5f8fab256d290dac"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.15989",
-                            "version" : "2024.1.1 Preview",
-                            "releaseDate" : "2024-04-04",
-                            "fullNumber" : "241.15989.22"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.15989.22.tar.gz",
-                        "sha256" : "d3e1aadf017d9708067311ea32919753af88c0989398b0835a221dccf65a9268"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.14494",
-                            "version" : "2024.1 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "241.14494.159"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.14494.159.tar.gz",
-                        "sha256" : "139622df9626c7b17d456bf9b3c9b79287ec5ef4036ef1288fb6a3d4721d9971"
-                    },
-                    {
-                        "build" : {
-                            "number" : "233.14475",
-                            "version" : "2023.3.4 Release Candidate",
-                            "releaseDate" : "2023-12-06",
-                            "fullNumber" : "233.14475.7"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.14475.7.tar.gz",
-                        "sha256" : "d2d02ad8274b43f6c4b35d5970e88d2ed08005778b10e383f0df5146fcc83171"
-                    },
-                    {
-                        "build" : {
-                            "number" : "233.14015",
-                            "version" : "2023.3.3 Release Candidate",
-                            "releaseDate" : "2023-12-06",
-                            "fullNumber" : "233.14015.25"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.14015.25.tar.gz",
-                        "sha256" : "5e6d425d7a385d10ff9d2ebbd733cf2033311f2fce5245d6a979e57bd24bcda9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "233.13135",
-                            "version" : "2023.3.2 Release Candidate",
-                            "releaseDate" : "2023-12-06",
-                            "fullNumber" : "233.13135.67"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.13135.67.tar.gz",
-                        "sha256" : "0ae5ac225c4a082bd8545e4bafd995e5002d9bec549c95ae0db4691b6761343c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "233.11799",
-                            "version" : "2023.3 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "233.11799.172"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.11799.172.tar.gz",
-                        "sha256" : "5de9731ae28887cd77e6895742da4fb2ce946e66a7adcc55d370d40e8a351c51"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.9921",
-                            "version" : "2023.2.2 RC",
-                            "releaseDate" : "2023-08-03",
-                            "fullNumber" : "232.9921.29"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.9921.29.tar.gz",
-                        "sha256" : "1a8e47bc49d07241ac7faf7adaebb91e3ff1b8a8e0882f014659bb2e35e8af00"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.9559",
-                            "version" : "2023.2.1 RC",
-                            "releaseDate" : "2023-08-03",
-                            "fullNumber" : "232.9559.43"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.9559.43.tar.gz",
-                        "sha256" : "3a4a1d8cfbfecc312e74bf1624d926259fe0092e2cbfbfa00f937c1bcabe094c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.9559",
-                            "version" : "2023.2.1 Preview",
-                            "releaseDate" : "2023-08-03",
-                            "fullNumber" : "232.9559.14"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.9559.14.tar.gz",
-                        "sha256" : "51e222622005c4252245db7905c8a8fc8de1d1945673af4d52293aaf8e841987"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8660",
-                            "version" : "2023.2 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8660.153"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8660.153.tar.gz",
-                        "sha256" : "afdc0a154c97c1b97232e33d9622f6a075a87ad0210f277e70ae033a86223f85"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9225",
-                            "version" : "2023.1.4 Preview",
-                            "releaseDate" : "2023-04-03",
-                            "fullNumber" : "231.9225.7"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9225.7.tar.gz",
-                        "sha256" : "f6d8265e020b11324fffdc1c56e29850e2a6cf603e102657b8781d02d8b4f6fc"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9161",
-                            "version" : "2023.1.3 RC",
-                            "releaseDate" : "2023-04-03",
-                            "fullNumber" : "231.9161.30"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9161.30.tar.gz",
-                        "sha256" : "12c66c635d5f5383f2f224002e7c572932cae50aeba07bee1f8edcb7de6b5773"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9161",
-                            "version" : "2023.1.3 Preview",
-                            "releaseDate" : "2023-04-03",
-                            "fullNumber" : "231.9161.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9161.20.tar.gz",
-                        "sha256" : "43ad83e735421300217a9bbf429a4f8f3e7b57166c01cff098b737532dcf5696"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9011",
-                            "version" : "2023.1.2 Release Candidate",
-                            "releaseDate" : "2023-04-03",
-                            "fullNumber" : "231.9011.20"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9011.20.tar.gz",
-                        "sha256" : "6fbc14a916fb61f9733562a8e91f6db5a6acbcd1cc270648441bf0da96e8267d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9011",
-                            "version" : "2023.1.2 Preview",
-                            "releaseDate" : "2023-04-03",
-                            "fullNumber" : "231.9011.9"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9011.9.tar.gz",
-                        "sha256" : "2e7f7090ff30691665d79aca7a221b9f1ad992e38517d2ad277c42b99fcae0fc"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8770",
-                            "version" : "2023.1.1 Preview",
-                            "releaseDate" : "2023-04-03",
-                            "fullNumber" : "231.8770.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8770.19.tar.gz",
-                        "sha256" : "ceff682c95e6725a1b3fdac57b4ffc8a1a764fc40ffeebe683d4c5c35cbe48e5"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 Release Candidate 2",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.149"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.149.tar.gz",
-                        "sha256" : "018d7804b3726f232ae48de746f0eb4cd628cd38d85afd7da0dfe2e43865ef03"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.108"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.108.tar.gz",
-                        "sha256" : "48d4bf67643b39df45718bc29bf13bf651b6093be763fc4157e14e190248f4b1"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 Release Candidate 2",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8836.28"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.28.tar.gz",
-                        "sha256" : "65b7012effe8660a4dd844eb9edaabfb39ce4b665cfc771c1a366a323cde37ff"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 Release Candidate",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8836.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.19.tar.gz",
-                        "sha256" : "b0eea0364463c515e7d88681484aecaedc21b5f24f479baed1ac3e7e85a06f72"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 Preview",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8836.10"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.10.tar.gz",
-                        "sha256" : "d94d900588061e409ea02c95da59742c1e737e7f5a45bb41866a84a871fc4d25"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8617",
-                            "version" : "2022.3.2 RC",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8617.27"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8617.27.tar.gz",
-                        "sha256" : "4ec9968b980e6e4f02316d349ef7ded510666e9f4cc4cde5d6222114d346a222"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8617",
-                            "version" : "2022.3.2 Preview",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8617.12"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8617.12.tar.gz",
-                        "sha256" : "e06a5aa068f3c5d62bc2f6c415bbc882aa51af00514b3d238efd433864611cdc"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8214",
-                            "version" : "2022.3.1 Release Candidate",
-                            "releaseDate" : "2022-12-05",
-                            "fullNumber" : "223.8214.33"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8214.33.tar.gz",
-                        "sha256" : "1ea995099632560be9ae311b94c3eb82cf3078e85842c818817a63b0253b61b1"
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-251.14649.45.tar.gz",
+                        "sha256" : "b7591118926361b8c5f0bd55b54fa39781c4f29382fabbda6c2724aa0505e39f"
                     },
                     {
                         "build" : {
@@ -9644,6 +9334,376 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.5920.17.tar.gz",
                         "sha256" : "a31928c6aa98cd32c55d773f3aa62baca11f8062985e24ff2db2b60353071a8f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1 Release Candidate",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.22562.74"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-243.22562.74.tar.gz",
+                        "sha256" : "05dd017986e692f4e26b476ae6df65088c081c9542b1295b6fdc87cef5698558"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.22562",
+                            "version" : "2024.3.1 Preview",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.22562.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-243.22562.9.tar.gz",
+                        "sha256" : "e3f3a6363d116b7bf5e7747e833f36aaf0c39b7290b4b7dced599633f3b14b1c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.21565.133"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-243.21565.133.tar.gz",
+                        "sha256" : "13346ea5ec0aa7fea4011b6d5dd7d48c72e94c9ebf7362760412c699444bde3c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4 Release Candidate",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.23726.55"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.23726.55.tar.gz",
+                        "sha256" : "23fbb47a9a6f6c16cfcb03bbc62ddf3ed766ed8972613ee1eb155b6386ebf985"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.23726",
+                            "version" : "2024.2.4 Preview",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.23726.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.23726.19.tar.gz",
+                        "sha256" : "57a67bfba33533f71614cda9d72029fbd44727e8564b6dd8a2684041d66fb5e0"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.22855",
+                            "version" : "2024.2.2 Release Candidate",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.22855.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.22855.33.tar.gz",
+                        "sha256" : "c69c1f8750593cd38cd6e7f965badec396f2553a08ed117aa0f94e0588334618"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1 Release Candidate",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.21829.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.21829.34.tar.gz",
+                        "sha256" : "cce2c117ad5cd643904943d56a198d3fa03b7faa1808e6af44ccccf2be50b593"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1 Preview",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.21829.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.21829.14.tar.gz",
+                        "sha256" : "240f9efe65e3e8f6a061c8c7e9b46f67a81f8db8becb2fef0cdae7961e5d1cfd"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.175"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-242.20224.175.tar.gz",
+                        "sha256" : "5db2a490fcef0e5787898bd808d1243c6e658aad4921fc287819f7fd6678aa26"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.4 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.17"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.18034.17.tar.gz",
+                        "sha256" : "52d6dd76c82a3d849ff66dc7c21a497dabf302ac876703e411f5413e5f845684"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.17011",
+                            "version" : "2024.1.2 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.17011.49"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.17011.49.tar.gz",
+                        "sha256" : "b82026fa44bfdaf13bcf4ae82fab5817c2e4116c737467e65bebdadaa1f4f958"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.17011",
+                            "version" : "2024.1.2 Preview",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.17011.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.17011.22.tar.gz",
+                        "sha256" : "74199b996e5b19bf0b476943186cbc861069e24f2fc583be327bbdbba9a0178d"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1 Release Candidate",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.66"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.15989.66.tar.gz",
+                        "sha256" : "91ffc36909ed59d4648c971e316214b12be5b5f6b7474fec5f8fab256d290dac"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1 Preview",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.22"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.15989.22.tar.gz",
+                        "sha256" : "d3e1aadf017d9708067311ea32919753af88c0989398b0835a221dccf65a9268"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14494.159"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-241.14494.159.tar.gz",
+                        "sha256" : "139622df9626c7b17d456bf9b3c9b79287ec5ef4036ef1288fb6a3d4721d9971"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.14475.7.tar.gz",
+                        "sha256" : "d2d02ad8274b43f6c4b35d5970e88d2ed08005778b10e383f0df5146fcc83171"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.14015.25.tar.gz",
+                        "sha256" : "5e6d425d7a385d10ff9d2ebbd733cf2033311f2fce5245d6a979e57bd24bcda9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2 Release Candidate",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.67"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.13135.67.tar.gz",
+                        "sha256" : "0ae5ac225c4a082bd8545e4bafd995e5002d9bec549c95ae0db4691b6761343c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.172"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-233.11799.172.tar.gz",
+                        "sha256" : "5de9731ae28887cd77e6895742da4fb2ce946e66a7adcc55d370d40e8a351c51"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.9921",
+                            "version" : "2023.2.2 RC",
+                            "releaseDate" : "2023-08-03",
+                            "fullNumber" : "232.9921.29"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.9921.29.tar.gz",
+                        "sha256" : "1a8e47bc49d07241ac7faf7adaebb91e3ff1b8a8e0882f014659bb2e35e8af00"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 RC",
+                            "releaseDate" : "2023-08-03",
+                            "fullNumber" : "232.9559.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.9559.43.tar.gz",
+                        "sha256" : "3a4a1d8cfbfecc312e74bf1624d926259fe0092e2cbfbfa00f937c1bcabe094c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 Preview",
+                            "releaseDate" : "2023-08-03",
+                            "fullNumber" : "232.9559.14"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.9559.14.tar.gz",
+                        "sha256" : "51e222622005c4252245db7905c8a8fc8de1d1945673af4d52293aaf8e841987"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.153"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-232.8660.153.tar.gz",
+                        "sha256" : "afdc0a154c97c1b97232e33d9622f6a075a87ad0210f277e70ae033a86223f85"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9225",
+                            "version" : "2023.1.4 Preview",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9225.7"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9225.7.tar.gz",
+                        "sha256" : "f6d8265e020b11324fffdc1c56e29850e2a6cf603e102657b8781d02d8b4f6fc"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3 RC",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9161.30"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9161.30.tar.gz",
+                        "sha256" : "12c66c635d5f5383f2f224002e7c572932cae50aeba07bee1f8edcb7de6b5773"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9161",
+                            "version" : "2023.1.3 Preview",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9161.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9161.20.tar.gz",
+                        "sha256" : "43ad83e735421300217a9bbf429a4f8f3e7b57166c01cff098b737532dcf5696"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9011",
+                            "version" : "2023.1.2 Release Candidate",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9011.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9011.20.tar.gz",
+                        "sha256" : "6fbc14a916fb61f9733562a8e91f6db5a6acbcd1cc270648441bf0da96e8267d"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9011",
+                            "version" : "2023.1.2 Preview",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.9011.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.9011.9.tar.gz",
+                        "sha256" : "2e7f7090ff30691665d79aca7a221b9f1ad992e38517d2ad277c42b99fcae0fc"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8770",
+                            "version" : "2023.1.1 Preview",
+                            "releaseDate" : "2023-04-03",
+                            "fullNumber" : "231.8770.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8770.19.tar.gz",
+                        "sha256" : "ceff682c95e6725a1b3fdac57b4ffc8a1a764fc40ffeebe683d4c5c35cbe48e5"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate 2",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.149"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.149.tar.gz",
+                        "sha256" : "018d7804b3726f232ae48de746f0eb4cd628cd38d85afd7da0dfe2e43865ef03"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.108"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-231.8109.108.tar.gz",
+                        "sha256" : "48d4bf67643b39df45718bc29bf13bf651b6093be763fc4157e14e190248f4b1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 Release Candidate 2",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8836.28"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.28.tar.gz",
+                        "sha256" : "65b7012effe8660a4dd844eb9edaabfb39ce4b665cfc771c1a366a323cde37ff"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 Release Candidate",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8836.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.19.tar.gz",
+                        "sha256" : "b0eea0364463c515e7d88681484aecaedc21b5f24f479baed1ac3e7e85a06f72"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 Preview",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8836.10"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8836.10.tar.gz",
+                        "sha256" : "d94d900588061e409ea02c95da59742c1e737e7f5a45bb41866a84a871fc4d25"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2 RC",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8617.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8617.27.tar.gz",
+                        "sha256" : "4ec9968b980e6e4f02316d349ef7ded510666e9f4cc4cde5d6222114d346a222"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2 Preview",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8617.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8617.12.tar.gz",
+                        "sha256" : "e06a5aa068f3c5d62bc2f6c415bbc882aa51af00514b3d238efd433864611cdc"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1 Release Candidate",
+                            "releaseDate" : "2022-12-05",
+                            "fullNumber" : "223.8214.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-223.8214.33.tar.gz",
+                        "sha256" : "1ea995099632560be9ae311b94c3eb82cf3078e85842c818817a63b0253b61b1"
                     }
                 ]
             }
@@ -16391,263 +16451,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "243.23654",
-                            "version" : "2024.3.2 Preview",
-                            "releaseDate" : "2024-11-12",
-                            "fullNumber" : "243.23654.44"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-243.23654.44.tar.gz",
-                        "sha256" : "d35a92a13993300d37c70ec09748b2916a5d49e0ff5a505314ea18117c89f12a"
-                    },
-                    {
-                        "build" : {
-                            "number" : "243.21565",
-                            "version" : "2024.3 RC",
+                            "number" : "251.14649",
+                            "version" : "2025.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "243.21565.120"
+                            "fullNumber" : "251.14649.56"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-243.21565.120.tar.gz",
-                        "sha256" : "86b2de5d8f200c491003f675a9604211a38be98610ec45943488c5ed4deebaea"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.22855",
-                            "version" : "2024.2.2 RC",
-                            "releaseDate" : "2024-08-12",
-                            "fullNumber" : "242.22855.30"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.22855.30.tar.gz",
-                        "sha256" : "bc0100b9e52ced6c454951bd8f02e12f4fb7b8e060f252b81c1c5dfeaea28986"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.21829",
-                            "version" : "2024.2.1 RC",
-                            "releaseDate" : "2024-08-12",
-                            "fullNumber" : "242.21829.43"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.21829.43.tar.gz",
-                        "sha256" : "0546746cf7e93d49086dffe75c09a0b7abbf270e99b791970d15498020b6a20c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.20224",
-                            "version" : "2024.2 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "242.20224.227"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.20224.227.tar.gz",
-                        "sha256" : "f356ce0f581761e2adbf62972f07bb2f9f9b0b744d79a72e15c17bb79b45c5ee"
-                    },
-                    {
-                        "build" : {
-                            "number" : "242.20224",
-                            "version" : "2024.2 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "242.20224.203"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.20224.203.tar.gz",
-                        "sha256" : "41770493ae3f7a43126941ec878eddd5cbead7670949e3aaaadcc95939f5e1f2"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.18034",
-                            "version" : "2024.1.5 RC",
-                            "releaseDate" : "2024-04-04",
-                            "fullNumber" : "241.18034.16"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.18034.16.tar.gz",
-                        "sha256" : "134224c906498f8828051d8370212c416a7d196ada18167c0a4793a3cabaf242"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.17011",
-                            "version" : "2024.1.3 RC",
-                            "releaseDate" : "2024-04-04",
-                            "fullNumber" : "241.17011.54"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.17011.54.tar.gz",
-                        "sha256" : "1e6bc6bc2737a146d32d349b72abd87b18fa371111ef1fac738a4db773aed27f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.15989",
-                            "version" : "2024.1.1 Preview",
-                            "releaseDate" : "2024-04-04",
-                            "fullNumber" : "241.15989.9"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.15989.9.tar.gz",
-                        "sha256" : "512c465e32616e71a6a59ec8f2fc5523a44f4bb0a8ba37b176265d86205f7a87"
-                    },
-                    {
-                        "build" : {
-                            "number" : "241.14494",
-                            "version" : "2024.1 Release Candidate",
-                            "releaseDate" : null,
-                            "fullNumber" : "241.14494.180"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.14494.180.tar.gz",
-                        "sha256" : "4b3fc00bbe1998eeab596fb31af6c6dda6913029eddcb263c8e9d8dc14aba33b"
-                    },
-                    {
-                        "build" : {
-                            "number" : "233.14475",
-                            "version" : "2023.3.4 RC",
-                            "releaseDate" : "2023-12-06",
-                            "fullNumber" : "233.14475.2"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.14475.2.tar.gz",
-                        "sha256" : "6a47b60b788e0029ae6ef449a86459de49ad91f3a163f00068b0b53f57608925"
-                    },
-                    {
-                        "build" : {
-                            "number" : "233.14015",
-                            "version" : "2023.3.3 RC",
-                            "releaseDate" : "2023-12-06",
-                            "fullNumber" : "233.14015.54"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.14015.54.tar.gz",
-                        "sha256" : "855b0b6eb51d4ec6179ecec72403d839f9b6a4d49b054f7afba15652232dfa6e"
-                    },
-                    {
-                        "build" : {
-                            "number" : "233.13135",
-                            "version" : "2023.3.2 RC",
-                            "releaseDate" : "2023-12-06",
-                            "fullNumber" : "233.13135.66"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.13135.66.tar.gz",
-                        "sha256" : "95cda5ffb20422231abd94da23f98dba88065e55cddb96ece6282e7af97ebae1"
-                    },
-                    {
-                        "build" : {
-                            "number" : "233.11799",
-                            "version" : "2023.3 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "233.11799.192"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.11799.192.tar.gz",
-                        "sha256" : "2e6180d1f68a36711041c8bc3605c12eb9b59bc14f94fa185b8d6181e2b09f4d"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.9921",
-                            "version" : "2023.2.2 Release Candidate",
-                            "releaseDate" : "2023-07-24",
-                            "fullNumber" : "232.9921.26"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.9921.26.tar.gz",
-                        "sha256" : "c9f75e3c3eaaa7461dec19e8fe5f3026676d707974d8074c2491e22fcf06da6f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.9559",
-                            "version" : "2023.2.1 Release Candidate",
-                            "releaseDate" : "2023-07-24",
-                            "fullNumber" : "232.9559.31"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.9559.31.tar.gz",
-                        "sha256" : "00111ce0601a49d635ff2035d6d9a35baad8f8b4c34a512510903321655d5424"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.9559",
-                            "version" : "2023.2.1 Preview",
-                            "releaseDate" : "2023-07-24",
-                            "fullNumber" : "232.9559.6"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.9559.6.tar.gz",
-                        "sha256" : "46e83c6dce467431d028630e1e159b41fd6cdace276f1f2fc71a1c0f3f60b975"
-                    },
-                    {
-                        "build" : {
-                            "number" : "232.8660",
-                            "version" : "2023.2 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "232.8660.129"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.8660.129.tar.gz",
-                        "sha256" : "fe45ce97336efe3fa5290c0d2aad386ab9a676c79f2328ac19b27542a5d90f5f"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.9011",
-                            "version" : "2023.1.2 Release Candidate",
-                            "releaseDate" : "2023-03-28",
-                            "fullNumber" : "231.9011.13"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.9011.13.tar.gz",
-                        "sha256" : "41382abb6a7133128fc3e6dce641094efd38132a28c4a52f8b8a6a2e2f11c2ea"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8770",
-                            "version" : "2023.1.1 RC",
-                            "releaseDate" : "2023-03-28",
-                            "fullNumber" : "231.8770.45"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8770.45.tar.gz",
-                        "sha256" : "625b9de95e6cc32bb3a589270d79c7784d72fe5e10cf722955b892b575612b26"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8770",
-                            "version" : "2023.1.1 Preview",
-                            "releaseDate" : "2023-03-28",
-                            "fullNumber" : "231.8770.31"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8770.31.tar.gz",
-                        "sha256" : "ba2e98c6032fd4594deaae9830f62a621f8a7cdd521a7d5e51377357c8bf37f9"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.143"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8109.143.tar.gz",
-                        "sha256" : "1354a6dfbd1d986d43fb25f5a701850e8b0dda5b1775836e00e580be552c0737"
-                    },
-                    {
-                        "build" : {
-                            "number" : "231.8109",
-                            "version" : "2023.1 RC",
-                            "releaseDate" : null,
-                            "fullNumber" : "231.8109.93"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8109.93.tar.gz",
-                        "sha256" : "31f97431bc97d4c9b52ac6f866b9f1a398645e3996b0c5630d2102fdae81de0c"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8836",
-                            "version" : "2022.3.3 RC",
-                            "releaseDate" : "2022-11-28",
-                            "fullNumber" : "223.8836.19"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8836.19.tar.gz",
-                        "sha256" : "0ef60d33d45c5e9b6d8eb6278a345529a94bca0e20cab15fe0024d8a884910aa"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8617",
-                            "version" : "2022.3.2 RC",
-                            "releaseDate" : "2022-11-28",
-                            "fullNumber" : "223.8617.21"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8617.21.tar.gz",
-                        "sha256" : "2689910d1b1decb07a9212bcda4761db33b4e6bdcdb0f2c5fbaf600486ece424"
-                    },
-                    {
-                        "build" : {
-                            "number" : "223.8214",
-                            "version" : "2022.3.1 RC",
-                            "releaseDate" : "2022-11-28",
-                            "fullNumber" : "223.8214.33"
-                        },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8214.33.tar.gz",
-                        "sha256" : "fe5be348e36bb9edde6748054bec862c800dabab257629242db03cf2b7dbbdb4"
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-251.14649.56.tar.gz",
+                        "sha256" : "f46a2bb2ee26678df29b83f8b0ef8ad6b327e6c206faa791858f5eb5ace6b8dd"
                     },
                     {
                         "build" : {
@@ -17118,6 +16928,266 @@
                         },
                         "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.5920.7.tar.gz",
                         "sha256" : "5fc5a10d8ad66e35d52b57a025f63d24fb4f7f86581403b9df05ffd92eb7ac2e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.23654",
+                            "version" : "2024.3.2 Preview",
+                            "releaseDate" : "2024-11-12",
+                            "fullNumber" : "243.23654.44"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-243.23654.44.tar.gz",
+                        "sha256" : "d35a92a13993300d37c70ec09748b2916a5d49e0ff5a505314ea18117c89f12a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.21565",
+                            "version" : "2024.3 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "243.21565.120"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-243.21565.120.tar.gz",
+                        "sha256" : "86b2de5d8f200c491003f675a9604211a38be98610ec45943488c5ed4deebaea"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.22855",
+                            "version" : "2024.2.2 RC",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.22855.30"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.22855.30.tar.gz",
+                        "sha256" : "bc0100b9e52ced6c454951bd8f02e12f4fb7b8e060f252b81c1c5dfeaea28986"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.21829",
+                            "version" : "2024.2.1 RC",
+                            "releaseDate" : "2024-08-12",
+                            "fullNumber" : "242.21829.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.21829.43.tar.gz",
+                        "sha256" : "0546746cf7e93d49086dffe75c09a0b7abbf270e99b791970d15498020b6a20c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.227"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.20224.227.tar.gz",
+                        "sha256" : "f356ce0f581761e2adbf62972f07bb2f9f9b0b744d79a72e15c17bb79b45c5ee"
+                    },
+                    {
+                        "build" : {
+                            "number" : "242.20224",
+                            "version" : "2024.2 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "242.20224.203"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-242.20224.203.tar.gz",
+                        "sha256" : "41770493ae3f7a43126941ec878eddd5cbead7670949e3aaaadcc95939f5e1f2"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.18034",
+                            "version" : "2024.1.5 RC",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.18034.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.18034.16.tar.gz",
+                        "sha256" : "134224c906498f8828051d8370212c416a7d196ada18167c0a4793a3cabaf242"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.17011",
+                            "version" : "2024.1.3 RC",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.17011.54"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.17011.54.tar.gz",
+                        "sha256" : "1e6bc6bc2737a146d32d349b72abd87b18fa371111ef1fac738a4db773aed27f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.15989",
+                            "version" : "2024.1.1 Preview",
+                            "releaseDate" : "2024-04-04",
+                            "fullNumber" : "241.15989.9"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.15989.9.tar.gz",
+                        "sha256" : "512c465e32616e71a6a59ec8f2fc5523a44f4bb0a8ba37b176265d86205f7a87"
+                    },
+                    {
+                        "build" : {
+                            "number" : "241.14494",
+                            "version" : "2024.1 Release Candidate",
+                            "releaseDate" : null,
+                            "fullNumber" : "241.14494.180"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-241.14494.180.tar.gz",
+                        "sha256" : "4b3fc00bbe1998eeab596fb31af6c6dda6913029eddcb263c8e9d8dc14aba33b"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14475",
+                            "version" : "2023.3.4 RC",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14475.2"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.14475.2.tar.gz",
+                        "sha256" : "6a47b60b788e0029ae6ef449a86459de49ad91f3a163f00068b0b53f57608925"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.14015",
+                            "version" : "2023.3.3 RC",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.14015.54"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.14015.54.tar.gz",
+                        "sha256" : "855b0b6eb51d4ec6179ecec72403d839f9b6a4d49b054f7afba15652232dfa6e"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.13135",
+                            "version" : "2023.3.2 RC",
+                            "releaseDate" : "2023-12-06",
+                            "fullNumber" : "233.13135.66"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.13135.66.tar.gz",
+                        "sha256" : "95cda5ffb20422231abd94da23f98dba88065e55cddb96ece6282e7af97ebae1"
+                    },
+                    {
+                        "build" : {
+                            "number" : "233.11799",
+                            "version" : "2023.3 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "233.11799.192"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-233.11799.192.tar.gz",
+                        "sha256" : "2e6180d1f68a36711041c8bc3605c12eb9b59bc14f94fa185b8d6181e2b09f4d"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.9921",
+                            "version" : "2023.2.2 Release Candidate",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.9921.26"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.9921.26.tar.gz",
+                        "sha256" : "c9f75e3c3eaaa7461dec19e8fe5f3026676d707974d8074c2491e22fcf06da6f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 Release Candidate",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.9559.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.9559.31.tar.gz",
+                        "sha256" : "00111ce0601a49d635ff2035d6d9a35baad8f8b4c34a512510903321655d5424"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.9559",
+                            "version" : "2023.2.1 Preview",
+                            "releaseDate" : "2023-07-24",
+                            "fullNumber" : "232.9559.6"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.9559.6.tar.gz",
+                        "sha256" : "46e83c6dce467431d028630e1e159b41fd6cdace276f1f2fc71a1c0f3f60b975"
+                    },
+                    {
+                        "build" : {
+                            "number" : "232.8660",
+                            "version" : "2023.2 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "232.8660.129"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-232.8660.129.tar.gz",
+                        "sha256" : "fe45ce97336efe3fa5290c0d2aad386ab9a676c79f2328ac19b27542a5d90f5f"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.9011",
+                            "version" : "2023.1.2 Release Candidate",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.9011.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.9011.13.tar.gz",
+                        "sha256" : "41382abb6a7133128fc3e6dce641094efd38132a28c4a52f8b8a6a2e2f11c2ea"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8770",
+                            "version" : "2023.1.1 RC",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.8770.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8770.45.tar.gz",
+                        "sha256" : "625b9de95e6cc32bb3a589270d79c7784d72fe5e10cf722955b892b575612b26"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8770",
+                            "version" : "2023.1.1 Preview",
+                            "releaseDate" : "2023-03-28",
+                            "fullNumber" : "231.8770.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8770.31.tar.gz",
+                        "sha256" : "ba2e98c6032fd4594deaae9830f62a621f8a7cdd521a7d5e51377357c8bf37f9"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.143"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8109.143.tar.gz",
+                        "sha256" : "1354a6dfbd1d986d43fb25f5a701850e8b0dda5b1775836e00e580be552c0737"
+                    },
+                    {
+                        "build" : {
+                            "number" : "231.8109",
+                            "version" : "2023.1 RC",
+                            "releaseDate" : null,
+                            "fullNumber" : "231.8109.93"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-231.8109.93.tar.gz",
+                        "sha256" : "31f97431bc97d4c9b52ac6f866b9f1a398645e3996b0c5630d2102fdae81de0c"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8836",
+                            "version" : "2022.3.3 RC",
+                            "releaseDate" : "2022-11-28",
+                            "fullNumber" : "223.8836.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8836.19.tar.gz",
+                        "sha256" : "0ef60d33d45c5e9b6d8eb6278a345529a94bca0e20cab15fe0024d8a884910aa"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8617",
+                            "version" : "2022.3.2 RC",
+                            "releaseDate" : "2022-11-28",
+                            "fullNumber" : "223.8617.21"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8617.21.tar.gz",
+                        "sha256" : "2689910d1b1decb07a9212bcda4761db33b4e6bdcdb0f2c5fbaf600486ece424"
+                    },
+                    {
+                        "build" : {
+                            "number" : "223.8214",
+                            "version" : "2022.3.1 RC",
+                            "releaseDate" : "2022-11-28",
+                            "fullNumber" : "223.8214.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-223.8214.33.tar.gz",
+                        "sha256" : "fe5be348e36bb9edde6748054bec862c800dabab257629242db03cf2b7dbbdb4"
                     }
                 ]
             }
