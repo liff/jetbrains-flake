@@ -5109,13 +5109,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "251.14649",
+                            "number" : "251.17181",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "251.14649.49"
+                            "fullNumber" : "251.17181.16"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-251.14649.49.tar.gz",
-                        "sha256" : "6f0d808edc8e1e693ff632beec78a10d853e13d885bcf21e143977cf5ac08220"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-251.17181.16.tar.gz",
+                        "sha256" : "d4e1132f6ae99ab5474326b637c2414e05a7102ed91728e861b31c35eac89d29"
                     },
                     {
                         "build" : {
@@ -7163,13 +7163,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "251.14649",
+                            "number" : "251.17181",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "251.14649.49"
+                            "fullNumber" : "251.17181.16"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-251.14649.49.tar.gz",
-                        "sha256" : "a41d558d50987d12a21f3db157a749c6c025f9c5061bc3795ff3cd15cc907067"
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-251.17181.16.tar.gz",
+                        "sha256" : "abe3ebb765c44cf164712db08005638e50cb21fff073f76a9e54190dea9752ef"
                     },
                     {
                         "build" : {
