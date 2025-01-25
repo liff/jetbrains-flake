@@ -2552,6 +2552,16 @@
                     {
                         "build" : {
                             "number" : "243.23654",
+                            "version" : "2024.3.2.1",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.23654.166"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.3.2.1.tar.gz",
+                        "sha256" : "8bd2420312acd4936ca3d2a4f9ceb0f0fcf96da538f6042d219c6839d25c6a6a"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.23654",
                             "version" : "2024.3.2",
                             "releaseDate" : "2024-11-14",
                             "fullNumber" : "243.23654.119"
@@ -8044,6 +8054,16 @@
                     {
                         "build" : {
                             "number" : "243.23654",
+                            "version" : "2024.3.2.1",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.23654.168"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.3.2.1.tar.gz",
+                        "sha256" : "d6f7e7c60659fb4215da32ac7daeae5202a86bbb2e971963081ee4a56e579685"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.23654",
                             "version" : "2024.3.2",
                             "releaseDate" : "2024-11-14",
                             "fullNumber" : "243.23654.115"
@@ -13496,6 +13516,16 @@
                     {
                         "build" : {
                             "number" : "243.23654",
+                            "version" : "2024.3.2.1",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.23654.167"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.3.2.1.tar.gz",
+                        "sha256" : "94c68e534f420648316867470271d9a3111f3c2afa7fcde6a4e3986058b2cdd2"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.23654",
                             "version" : "2024.3.2",
                             "releaseDate" : "2024-11-13",
                             "fullNumber" : "243.23654.112"
@@ -16541,13 +16571,13 @@
                 "default" : [
                     {
                         "build" : {
-                            "number" : "251.14649",
+                            "number" : "251.17181",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
-                            "fullNumber" : "251.14649.56"
+                            "fullNumber" : "251.17181.21"
                         },
-                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-251.14649.56.tar.gz",
-                        "sha256" : "f46a2bb2ee26678df29b83f8b0ef8ad6b327e6c206faa791858f5eb5ace6b8dd"
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-251.17181.21.tar.gz",
+                        "sha256" : "67103bd09bc1bfffe81af55cb0dc26a55249b20db9af259469c1c66b3dc9334f"
                     },
                     {
                         "build" : {
