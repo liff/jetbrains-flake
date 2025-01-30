@@ -1548,6 +1548,16 @@
                     {
                         "build" : {
                             "number" : "243.23654",
+                            "version" : "2024.3.4",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.23654.183"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/datagrip/datagrip-2024.3.4.tar.gz",
+                        "sha256" : "34f20d0aba3b0ecbad39cf2c8fdf326ff8d4abb6202d9cff60a2622cf8b241a2"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.23654",
                             "version" : "2024.3.3",
                             "releaseDate" : "2024-11-14",
                             "fullNumber" : "243.23654.19"
@@ -3924,6 +3934,16 @@
                     {
                         "build" : {
                             "number" : "243.23654",
+                            "version" : "2024.3.2.2",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.23654.189"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.3.2.2.tar.gz",
+                        "sha256" : "7094daa174aa74c163ecbc3958405c99b209333ca23e5accd02ed8100c015e38"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.23654",
                             "version" : "2024.3.2.1",
                             "releaseDate" : "2024-11-13",
                             "fullNumber" : "243.23654.153"
@@ -5985,6 +6005,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.23654",
+                            "version" : "2024.3.2.2",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.23654.189"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.3.2.2.tar.gz",
+                        "sha256" : "d73fd631943c300d55729bd33e06e193751478a83477153807cfa941e4bf12e5"
+                    },
                     {
                         "build" : {
                             "number" : "243.23654",
