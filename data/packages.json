@@ -5149,6 +5149,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.18673",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.18673.35"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-251.18673.35.tar.gz",
+                        "sha256" : "c091c18deaa9ded4abde6c1dcf8c0aeabc5a8f6fd28b44e11a7f80a62484b8aa"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.17181",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -7221,6 +7231,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.18673",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.18673.35"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-251.18673.35.tar.gz",
+                        "sha256" : "20b1903a118c6dedec7ded93b44c5414e1d98f0df529af84e61febf137ec4999"
+                    },
                     {
                         "build" : {
                             "number" : "251.17181",
@@ -10961,6 +10981,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.18673",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.18673.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-251.18673.39.tar.gz",
+                        "sha256" : "800e3bcbee2ff94f5b44f3c4075375a18b106bfbca5c45a0a41382570d1a92b1"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.17181",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -12843,6 +12873,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.18673",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.18673.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-251.18673.39.tar.gz",
+                        "sha256" : "ac4c25bf32cb121f4da00e6c6b40a71c36d204d4ace4da10b3ed737bda853fef"
+                    },
                     {
                         "build" : {
                             "number" : "251.17181",
@@ -14819,6 +14859,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.18673",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.18673.29"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-251.18673.29.tar.gz",
+                        "sha256" : "7cfb1ad4a831d62c8f12f2fc4395beb4092fed720677e7b1b12afa1032dae29f"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.17181",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -16619,6 +16669,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.18673",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.18673.31"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-251.18673.31.tar.gz",
+                        "sha256" : "70e1efef1b31b2d00dc2de7ca078558d57dea21009a1d926875c4996f2c4e351"
+                    },
                     {
                         "build" : {
                             "number" : "251.17181",
