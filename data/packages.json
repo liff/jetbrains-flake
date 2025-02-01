@@ -3395,6 +3395,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.18673",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.18673.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-251.18673.36.tar.gz",
+                        "sha256" : "7e9146c019cb18cca38e7e9e926021ef276b8fe396e1f46754671bf125b865e9"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.17181",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -8995,6 +9005,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.18673",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.18673.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-251.18673.45.tar.gz",
+                        "sha256" : "7f0c12c658a221bdd7ae0c607f0fdcea937905125493ce1ff4f8e988c79613fd"
+                    },
                     {
                         "build" : {
                             "number" : "251.17181",
