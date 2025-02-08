@@ -3395,6 +3395,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.20015",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.20015.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-251.20015.39.tar.gz",
+                        "sha256" : "c1a10e538e57a2fa7a3dd76fd4758bba2977f598c766e3eceec00bbd0cf49c3a"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.18673",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -9025,6 +9035,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.20015",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.20015.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-251.20015.34.tar.gz",
+                        "sha256" : "f36fcb47cec43711d7c8f618570738f209537b6ea6e90d155936978a1d43fc67"
+                    },
                     {
                         "build" : {
                             "number" : "251.18673",
@@ -16709,6 +16729,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.20015",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.20015.42"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-251.20015.42.tar.gz",
+                        "sha256" : "1c508f9ea487a3cdd02035f252a7975dc347ead562511f4bef63fce632413826"
+                    },
                     {
                         "build" : {
                             "number" : "251.18673",
