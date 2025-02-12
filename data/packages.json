@@ -11061,6 +11061,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.20015",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.20015.54"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-251.20015.54.tar.gz",
+                        "sha256" : "cdcd98031ff14bd0e152ed91c405b395b24e7c8a8506fd1bb8c17e6ea7ade163"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.18673",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -12953,6 +12963,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.20015",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.20015.54"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-251.20015.54.tar.gz",
+                        "sha256" : "287c92f56bd52bdcf81ca25c28ae5b275681d93a8504e528ede10e5a9fcf2b90"
+                    },
                     {
                         "build" : {
                             "number" : "251.18673",
