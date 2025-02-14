@@ -5,6 +5,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.24978",
+                            "version" : "2024.3.3",
+                            "releaseDate" : "2024-11-20",
+                            "fullNumber" : "243.24978.55"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-2024.3.3.tar.gz",
+                        "sha256" : "a221d8c602452775df6ff09adad39f2b057a367f7616b7c739df33204b103a4a"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.23654",
                             "version" : "2024.3.2",
                             "releaseDate" : "2024-11-20",
@@ -2579,6 +2589,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.24978",
+                            "version" : "2024.3.3",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.24978.59"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.3.3.tar.gz",
+                        "sha256" : "fb0908ce2b4e43222758cc5c9b7498677f924271ca5d9a790e794e8ade28177d"
+                    },
                     {
                         "build" : {
                             "number" : "243.23654",
@@ -8181,6 +8201,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.24978",
+                            "version" : "2024.3.3",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.24978.50"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.3.3.tar.gz",
+                        "sha256" : "274001fc0e628ed9b5496f24da11d3e97f07b0fe3f45303235c37d124121a14a"
+                    },
                     {
                         "build" : {
                             "number" : "243.23654",
