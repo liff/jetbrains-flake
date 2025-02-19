@@ -3435,6 +3435,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.21418",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.21418.70"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-251.21418.70.tar.gz",
+                        "sha256" : "f45c7bbb3d1582533aac9271ed02bf55bbc97fec1557b3049220fe210615d269"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.20015",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -5217,6 +5227,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.21418",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.21418.62"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-251.21418.62.tar.gz",
+                        "sha256" : "03e685d3875c21d2db20ae861ac350502ec9dd28a7a21cf70c0bfffe01445b59"
+                    },
                     {
                         "build" : {
                             "number" : "251.20015",
@@ -7321,6 +7341,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.21418",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.21418.62"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-251.21418.62.tar.gz",
+                        "sha256" : "28ecd3a690b16bcf9a5b908edac0fb846de69bce689952254297075b2f748270"
+                    },
                     {
                         "build" : {
                             "number" : "251.20015",
@@ -13775,6 +13805,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.24978",
+                            "version" : "2024.3.3",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.24978.74"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.3.3.tar.gz",
+                        "sha256" : "7bf32950320259287b9b5f469cb3fe2c3971ac9308956a8203a28f7f0ea3e9fb"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.23654",
                             "version" : "2024.3.2.1",
                             "releaseDate" : "2024-11-13",
@@ -15027,6 +15067,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.21418",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.21418.43"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-251.21418.43.tar.gz",
+                        "sha256" : "2b968daab034e1f97cdad66a7bf8ed1ee4fc3260172e1667f71cb7bf08eb5863"
+                    },
                     {
                         "build" : {
                             "number" : "251.20015",
@@ -16859,6 +16909,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.21418",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.21418.42"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-251.21418.42.tar.gz",
+                        "sha256" : "426b6c4b01d70f1b0f1715bf4e8e9e02ac358b4a05e20d16bb75fb17caaab19a"
+                    },
                     {
                         "build" : {
                             "number" : "251.20015",
