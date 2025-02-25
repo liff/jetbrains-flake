@@ -1129,6 +1129,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.22821",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.22821.84"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/cpp/CLion-251.22821.84.tar.gz",
+                        "sha256" : "00f9f0775866f27456b7429b2194c9db16b2ad319ea5f07abe9d3dd94cbb17db"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.20015",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -3445,6 +3455,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.22821",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.22821.73"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-251.22821.73.tar.gz",
+                        "sha256" : "7c6ee28754548b63cf82ce708d10088a131c8e668c349869820c21f10999b7ce"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.21418",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -5237,6 +5257,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.22821",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.22821.72"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-251.22821.72.tar.gz",
+                        "sha256" : "11b44b0a1f7ce8535a3253438e89654e0b61702cb0e71c424ed52dc252053e61"
+                    },
                     {
                         "build" : {
                             "number" : "251.21418",
@@ -7353,6 +7383,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.22821",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.22821.72"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-251.22821.72.tar.gz",
+                        "sha256" : "a8c6866b61c915abd920ce111b33b76a3699cba502402e67dc32909be7d00dd3"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.21418",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -9145,6 +9185,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.22821",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.22821.56"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-251.22821.56.tar.gz",
+                        "sha256" : "2cdf8d4964261b4056ba970903e3604af5e2b4aefa2a9bae641112c8db0e294d"
+                    },
                     {
                         "build" : {
                             "number" : "251.20015",
@@ -11161,6 +11211,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.22821",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.22821.82"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-251.22821.82.tar.gz",
+                        "sha256" : "e039a3b02ebaea391c0b28dc6a9d25f8e299a0d05eef7b4519f552982ba244ee"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.20015",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -13073,6 +13133,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.22821",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.22821.82"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-251.22821.82.tar.gz",
+                        "sha256" : "14673d22c7db38440fc9afb3e9e14cb5f2f782d299553017c15316d6cc9c722c"
+                    },
                     {
                         "build" : {
                             "number" : "251.20015",
@@ -16919,6 +16989,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.22821",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.22821.57"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-251.22821.57.tar.gz",
+                        "sha256" : "4c9524007297ed5a356ad47ae8d9538dcf7e426bae80f70c331e89416a7bcc57"
+                    },
                     {
                         "build" : {
                             "number" : "251.21418",
