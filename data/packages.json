@@ -2621,6 +2621,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.25659",
+                            "version" : "2024.3.4",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.25659.52"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.3.4.tar.gz",
+                        "sha256" : "f474f1f19fb04f7de73596c51b49f2675b3fc11df6a7aaba325c3ad98477d1df"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.24978",
                             "version" : "2024.3.3",
                             "releaseDate" : "2024-11-14",
@@ -3465,6 +3475,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.23536",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23536.46"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-251.23536.46.tar.gz",
+                        "sha256" : "7fe3ece0c9fc07c59f6b7e68878b615206a23f0ba43fbf414d4b2e7ad90ed4bc"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.22821",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -4041,6 +4061,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.25659",
+                            "version" : "2024.3.4",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.25659.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.3.4.tar.gz",
+                        "sha256" : "3765f4619f7ab8c28a6d523f741a4492d31d7d7d9ac8f5e7d8212dd2a71fdf9c"
+                    },
                     {
                         "build" : {
                             "number" : "243.24978",
@@ -6175,6 +6205,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.25659",
+                            "version" : "2024.3.4",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.25659.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.3.4.tar.gz",
+                        "sha256" : "c6cf5f591854d29e4005549188b04a8174ce07a922b4d54150182f813bbaadf5"
+                    },
                     {
                         "build" : {
                             "number" : "243.24978",
@@ -8313,6 +8353,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.25659",
+                            "version" : "2024.3.4",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.25659.45"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.3.4.tar.gz",
+                        "sha256" : "9344d68dda2c0062d9f6f03e27e959346f2f2bba2bce9f1c108653090d2dfb85"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.24978",
                             "version" : "2024.3.3",
                             "releaseDate" : "2024-11-14",
@@ -9215,6 +9265,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.23536",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23536.39"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-251.23536.39.tar.gz",
+                        "sha256" : "27d8a294499399ab49db554993a582734908b6fe30d3344a2b1898fac86c2bad"
+                    },
                     {
                         "build" : {
                             "number" : "251.22821",
@@ -11251,6 +11311,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.23536",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23536.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-professional-251.23536.40.tar.gz",
+                        "sha256" : "39f2be84bf4e1a9586d9453723936fa3a4ee8f0f3932e9539976ecbe7af7cf74"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.22821",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -13185,6 +13255,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.23536",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23536.40"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/python/pycharm-community-251.23536.40.tar.gz",
+                        "sha256" : "bff5ec4347c8360af3d6a6f5f61feeb3139ea070c4bf4929b507b1ba27f11e51"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.22821",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -13933,6 +14013,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.25659",
+                            "version" : "2024.3.4",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.25659.41"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.3.4.tar.gz",
+                        "sha256" : "9454aaf0877516b2047bc21517b5459860bdb4cbc797d66612760a336c011ee3"
+                    },
                     {
                         "build" : {
                             "number" : "243.24978",
@@ -15197,6 +15287,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.23536",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23536.37"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-251.23536.37.tar.gz",
+                        "sha256" : "380169348eb8e58db587a96c25b715f4c6b7777315dc8903d9cbb5b437cbaa7c"
+                    },
                     {
                         "build" : {
                             "number" : "251.22821",
@@ -17059,6 +17159,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.23536",
+                            "version" : "2025.1 EAP",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23536.36"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-251.23536.36.tar.gz",
+                        "sha256" : "a9f47bafc0200a6f5f048cf98f2075be978ee2d7c06f3c70dc36a453aa156ea9"
+                    },
                     {
                         "build" : {
                             "number" : "251.22821",
