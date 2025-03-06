@@ -4074,6 +4074,16 @@
                     {
                         "build" : {
                             "number" : "243.25659",
+                            "version" : "2024.3.4.1",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.25659.59"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.3.4.1.tar.gz",
+                        "sha256" : "e9b5b868e425aa1255d75f85028e7ba6275bb8aab88781e960c2c7c34f2173e8"
+                    },
+                    {
+                        "build" : {
+                            "number" : "243.25659",
                             "version" : "2024.3.4",
                             "releaseDate" : "2024-11-13",
                             "fullNumber" : "243.25659.39"
@@ -5309,6 +5319,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23774.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-251.23774.16.tar.gz",
+                        "sha256" : "8ad3410cb3865976bead7e4a1f82e25b96cf32d71b1a570965e3d1d293933196"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.23536",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -6215,6 +6235,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.25659",
+                            "version" : "2024.3.4.1",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.25659.59"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.3.4.1.tar.gz",
+                        "sha256" : "3eefea10391fdeaaf19ba6d00ee8c7f174a4feb5261394c4d3454d1cf0f5826b"
+                    },
                     {
                         "build" : {
                             "number" : "243.25659",
@@ -7451,6 +7481,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23774.16"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-251.23774.16.tar.gz",
+                        "sha256" : "007e780b9505ab646923799acfbba10ee269d91d2a06ef92cbdcb2558a35e744"
+                    },
                     {
                         "build" : {
                             "number" : "251.23536",
