@@ -9317,6 +9317,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23774.33"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-251.23774.33.tar.gz",
+                        "sha256" : "8f776ba227af0ff2f285d15e0c48d912efe8da730e265ce6e2d2cecf62498051"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.23536",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -15339,6 +15349,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23774.25"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-251.23774.25.tar.gz",
+                        "sha256" : "2fad787bed6a839d74b685b80f1ab36376fbf14185fdce9a5d408cc8855da021"
+                    },
+                    {
+                        "build" : {
                             "number" : "251.23536",
                             "version" : "2025.1 EAP",
                             "releaseDate" : null,
@@ -17209,6 +17229,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23774.34"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-251.23774.34.tar.gz",
+                        "sha256" : "8b00faa84ae6723259b9ebe3643151a2ce3eea4e9251be1ed43315e820ad67f5"
+                    },
                     {
                         "build" : {
                             "number" : "251.23536",
