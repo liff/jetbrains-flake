@@ -2631,6 +2631,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.26053",
+                            "version" : "2024.3.5",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.26053.20"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-2024.3.5.tar.gz",
+                        "sha256" : "d59f537fb8d9c741a704605ec00c4b4230211301cd0609c73c66d5edb4eb9340"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.25659",
                             "version" : "2024.3.4",
                             "releaseDate" : "2024-11-14",
@@ -8411,6 +8421,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.26053",
+                            "version" : "2024.3.5",
+                            "releaseDate" : "2024-11-14",
+                            "fullNumber" : "243.26053.13"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-2024.3.5.tar.gz",
+                        "sha256" : "e12efb584eb9b632703d1bee9986d95ac09aceaf76ca40e9188d82b713ff0fc1"
+                    },
                     {
                         "build" : {
                             "number" : "243.25659",
@@ -16275,6 +16295,16 @@
         "licensed" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.26053",
+                            "version" : "2024.3.5",
+                            "releaseDate" : "2024-11-12",
+                            "fullNumber" : "243.26053.12"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-2024.3.5.tar.gz",
+                        "sha256" : "da587d7ca3ebb08f067143e4a6b35f1aa133aa10af7fc365496838006fcd1aed"
+                    },
                     {
                         "build" : {
                             "number" : "243.25659",
