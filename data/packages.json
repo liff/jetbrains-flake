@@ -3498,6 +3498,16 @@
                             "number" : "251.23774",
                             "version" : "2025.1 Beta",
                             "releaseDate" : null,
+                            "fullNumber" : "251.23774.117"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/go/goland-251.23774.117.tar.gz",
+                        "sha256" : "728edabb4130030e0ba9ac61f2dfaf6b13202db0b9121226c79efecc8643aec3"
+                    },
+                    {
+                        "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 Beta",
+                            "releaseDate" : null,
                             "fullNumber" : "251.23774.41"
                         },
                         "downloadUri" : "https://download.jetbrains.com/go/goland-251.23774.41.tar.gz",
@@ -5337,6 +5347,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23774.109"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-251.23774.109.tar.gz",
+                        "sha256" : "18ef16ecf1ed43245f56fe0758f2778aa32235922836a66f939a631399b0f050"
+                    },
                     {
                         "build" : {
                             "number" : "251.23774",
@@ -7506,6 +7526,16 @@
                             "number" : "251.23774",
                             "version" : "2025.1 Beta",
                             "releaseDate" : null,
+                            "fullNumber" : "251.23774.109"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-251.23774.109.tar.gz",
+                        "sha256" : "fb21f4b840e0fed632f87ae54d14bc7542afedc3debd8409149655403db1dbcb"
+                    },
+                    {
+                        "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 Beta",
+                            "releaseDate" : null,
                             "fullNumber" : "251.23774.16"
                         },
                         "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-251.23774.16.tar.gz",
@@ -9345,6 +9375,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23774.115"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webide/PhpStorm-251.23774.115.tar.gz",
+                        "sha256" : "186d67f46b4b8880107dff2c49f98149793d73736dbe5f29f6b7104e98797253"
+                    },
                     {
                         "build" : {
                             "number" : "251.23774",
@@ -14125,6 +14165,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.26053",
+                            "version" : "2024.3.5",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.26053.19"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-2024.3.5.tar.gz",
+                        "sha256" : "e5fb7daa24307927cfd329340956b4cae1e0f3bb011841834519c4342428d38b"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.25659",
                             "version" : "2024.3.4",
                             "releaseDate" : "2024-11-13",
@@ -15397,6 +15447,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 BETA",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23774.110"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/ruby/RubyMine-251.23774.110.tar.gz",
+                        "sha256" : "fcd72d015ab1814e7373035146ad2cc396fe66a6a8ea06142d6bcef3da0bafe5"
+                    },
                     {
                         "build" : {
                             "number" : "251.23774",
@@ -17289,6 +17349,16 @@
             },
             "eap" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "251.23774",
+                            "version" : "2025.1 Beta",
+                            "releaseDate" : null,
+                            "fullNumber" : "251.23774.114"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/webstorm/WebStorm-251.23774.114.tar.gz",
+                        "sha256" : "f8f978c5aab207b4e2a62e483578d68553d6ee73ab46a31ae624c2f408b83550"
+                    },
                     {
                         "build" : {
                             "number" : "251.23774",
