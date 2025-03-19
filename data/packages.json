@@ -4113,6 +4113,16 @@
                 "default" : [
                     {
                         "build" : {
+                            "number" : "243.26053",
+                            "version" : "2024.3.5",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.26053.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIU-2024.3.5.tar.gz",
+                        "sha256" : "f8e8e864f4fedddf1d366a7db23fc4132192c3a6029c614a382186ff564a78a1"
+                    },
+                    {
+                        "build" : {
                             "number" : "243.25659",
                             "version" : "2024.3.4.1",
                             "releaseDate" : "2024-11-13",
@@ -6285,6 +6295,16 @@
         "community" : {
             "release" : {
                 "default" : [
+                    {
+                        "build" : {
+                            "number" : "243.26053",
+                            "version" : "2024.3.5",
+                            "releaseDate" : "2024-11-13",
+                            "fullNumber" : "243.26053.27"
+                        },
+                        "downloadUri" : "https://download.jetbrains.com/idea/ideaIC-2024.3.5.tar.gz",
+                        "sha256" : "8a287528d830e6cdec2ded13c974c39a35b7555243c22d8b83113c96c26630aa"
+                    },
                     {
                         "build" : {
                             "number" : "243.25659",
